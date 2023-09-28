@@ -44,7 +44,6 @@ for num in range(1, 2):
         print(str(n)+"------------")
         print(board.unicode())
     print(board.result())
-    info = engine1.analyse(board, chess.engine.Limit(time=1.0))
     
     print("finita la partita tra stockfish e berserk")
 
