@@ -6,7 +6,7 @@ import os
 for num in range(1, 2):
     folder = "pgn/"
     #n = 1
-    path = os.path.join(folder, f"{num})_Stockfish_vs_Berserk.pgn")
+    path = os.path.join(folder, f"Stockfish_vs_Berserk.pgn")
 
     engine1 = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\Downloads\stockfish\stockfish-windows-x86-64-modern.exe")
     engine2 = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\Downloads\Berserk-11.1_Windows_x64\Berserk-11.1_Windows_x86-64-avx2.exe")
@@ -54,16 +54,10 @@ for num in range(1, 2):
     #game.headers["TimeControl"] = "*"
     #game.headers["PlayCount"] = "*"
 
-    with open(path, "w") as pgn:
+    with open(path, "a") as pgn:
         pgn.write(str(game))
 
     print(game)
 
     engine1.quit()
     engine2.quit()
-
-    if board.result() == "1-0":
-        vittorie_engine1 += 1
-    elif board.result() == "0-1":
-        vittorie_engine2 += 1
-    else: pareggi += 1
