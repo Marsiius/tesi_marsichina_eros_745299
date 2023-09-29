@@ -6,10 +6,10 @@ import os
 for num in range(1, 2):
     folder = "pgn/"
     #n = 1
-    path = os.path.join(folder, f"Stockfish_vs_Berserk.pgn")
+    path = os.path.join(folder, f"all.pgn")
 
-    engine1 = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\Downloads\stockfish\stockfish-windows-x86-64-modern.exe")
-    engine2 = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\Downloads\Berserk-11.1_Windows_x64\Berserk-11.1_Windows_x86-64-avx2.exe")
+    engine1 = chess.engine.SimpleEngine.popen_uci(r"C:\Users\canal\Documents\Engines\Koivisto_9.0-windows-avx2-pgo-pext.exe")
+    engine2 = chess.engine.SimpleEngine.popen_uci(r"C:\Users\canal\Documents\Engines\Berserk-11.1_Windows_x86-64-avx2.exe")
 
     game = chess.pgn.Game()
     game.headers["Event"] = "*"
@@ -17,7 +17,7 @@ for num in range(1, 2):
     #game.headers["Date"] = "*"
     #game.headers["Time"] = "*"
     #game.headers["Round"] = "*"
-    game.headers["White"] = "Stockfish 16"
+    game.headers["White"] = "Koivisto 9.0"
     game.headers["Black"] = "Berserk 11"
 
     n = 1
@@ -31,7 +31,7 @@ for num in range(1, 2):
     node = game.add_variation(chess.Move.from_uci(str(result.move)))
     board.push(result.move)
     print(str(n)+"------------")
-    print(board.unicode())
+    print(board.unicode().encode("utf-8"))
     while not board.is_game_over():
         n = n+1
         if board.turn == chess.WHITE:
@@ -42,7 +42,7 @@ for num in range(1, 2):
         #ho aggiunto la riga 35
         node = node.add_variation(chess.Move.from_uci(str(result.move)))
         print(str(n)+"------------")
-        print(board.unicode())
+        print(board.unicode().encode("utf-8"))
     print(board.result())
     
     print("finita la partita tra stockfish e berserk")
