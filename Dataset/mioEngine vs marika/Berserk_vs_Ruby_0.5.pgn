@@ -1,0 +1,3663 @@
+[Event ""]
+[GID "1"]
+[PlyCount "112"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.Bf4 Ngf6
+9.h5 Bh7 10.Bd3 Bxd3 11.Qxd3 e6 12.O-O-O Be7
+13.Ne4 Nxe4 14.Qxe4 Nf6 15.Qd3 Qd5 16.c4 Qe4
+17.Qxe4 Nxe4 18.Be3 b5 19.cxb5 cxb5 20.d5 O-O
+21.Kb1 a6 22.dxe6 fxe6 23.Rc1 Rfc8 24.a3 Bc5
+25.Rhe1 Bxe3 26.Rxc8+ Rxc8 27.Rxe3 Nxf2 28.Rxe6 Nd3
+29.Rd6 Rc1+ 30.Ka2 Nc5 31.Rc6 Nd3 32.Rxc1 Nxc1+
+33.Kb1 Ne2 34.Kc2 Kf7 35.Kb3 a5 36.g4 g6
+37.Ne5+ Kf6 38.hxg6 Ng3 39.a4 bxa4+ 40.Kxa4 h5
+41.gxh5 Nxh5 42.Nd3 Kxg6 43.Kxa5 Kf5 44.Kb5 Nf6
+45.Kc6 Ke4 46.Nb4 Kd4 47.Nc2+ Kc4 48.b4 Ng4
+49.Kb6 Ne3 50.Kc6 Nxc2 51.b5 Nb4+ 52.Kb6 Nd5+
+53.Ka6 Nb4+ 54.Kb6 Nd5+ 55.Kb7 Kc5 56.Ka7 Kxb5
+ 1/2-1/2
+
+[Event ""]
+[GID "2"]
+[PlyCount "101"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.Bf4 Ngf6
+9.Bd3 Nd5 10.Bc1 Bxd3 11.Qxd3 e6 12.Bd2 Qc7
+13.Nh5 g6 14.c4 Ne7 15.Ng3 Bg7 16.O-O O-O
+17.h5 g5 18.Bc3 Rad8 19.Rfe1 Nf6 20.Rad1 c5
+21.Qe2 cxd4 22.Nxd4 Nc6 23.Nxc6 bxc6 24.Be5 Qa5
+25.Bd6 Rfe8 26.a3 Qa4 27.Bc7 Rxd1 28.Rxd1 c5
+29.Rd2 Qb3 30.Bd8 Qa2 31.Bc7 Re7 32.Bd6 Rd7
+33.Bxc5 Rxd2 34.Qxd2 Qxc4 35.Bxa7 Nd5 36.Ne2 Qe4
+37.Bd4 Nf4 38.Nxf4 Bxd4 39.Nd3 e5 40.a4 Qh4
+41.Qa5 Kg7 42.Qd5 Qxh5 43.Nxe5 Qd1+ 44.Kh2 Qh5+
+45.Kg1 Qd1+ 46.Kh2 Qh5+ 47.Kg1 Qd1+ 48.Kh2 Qh5+
+49.Kg1 Qd1+ 50.Kh2 Qh5+ 51.Kg1 1/2-1/2
+
+[Event ""]
+[GID "3"]
+[PlyCount "71"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Be2 g6 8.d6 exd6
+9.O-O Bg7 10.a4 O-O 11.d4 Nb8 12.Nc3 d5
+13.Ne5 Nc6 14.Be3 Re8 15.Nxc6 bxc6 16.a5 Bf8
+17.Qc1 Rb8 18.Na4 Qxa5 19.Qxc6 Qd8 20.Qc1 a5
+21.Nc5 Bf5 22.h3 Rb4 23.Na6 Rb3 24.Nc5 Rb4
+25.Re1 Qb6 26.b3 h5 27.Ra2 Bd6 28.Bf3 Be4
+29.Be2 Bf5 30.Bf3 Be4 31.Bd1 Bf5 32.Bf3 Be4
+33.Bd1 Bf5 34.Bf3 Be4 35.Bd1 Bf5 36.Bf3 1/2-1/2
+
+[Event ""]
+[GID "5"]
+[PlyCount "149"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.Bf4 Ngf6
+9.h5 Bh7 10.Bd3 Bxd3 11.Qxd3 e6 12.O-O-O Be7
+13.Kb1 O-O 14.Ne4 Nxe4 15.Qxe4 Nf6 16.Qe2 Qd5
+17.Ne5 Qe4 18.Qxe4 Nxe4 19.Be3 Rac8 20.c3 b5
+21.Kc2 Rfd8 22.g4 a5 23.b3 Rc7 24.c4 a4
+25.c5 Rd5 26.b4 Bd8 27.Rhg1 Bh4 28.f3 Nf6
+29.Rh1 Bg3 30.f4 Ne4 31.Rdf1 f6 32.Ng6 f5
+33.Kd3 Ra7 34.Rhg1 Kf7 35.gxf5 exf5 36.Rf3 Bh2
+37.Rg2 Ke6 38.Rxh2 Rd8 39.Re2 Re8 40.d5+ Kxd5
+41.Bd4 Rd7 42.Ne5 Rdd8 43.Kc2 Ke6 44.Nxc6 Rd5
+45.Be5 Kd7 46.Na7 Re7 47.Nxb5 Kc8 48.Nc3 Rdd7
+49.Nxa4 Re6 50.Nb6+ Rxb6 51.cxb6 Kb7 52.Rd3 Re7
+53.a4 Kxb6 54.Kb3 Ka7 55.Rc2 Nf6 56.Bxf6 gxf6
+57.Rc5 Kb8 58.Rxf5 Kc7 59.Rxf6 Rh7 60.Kc4 Kb8
+61.Kb5 Rg7 62.Rdd6 Kc8 63.Rxh6 Rf7 64.Rc6+ Kd8
+65.Rhd6+ Ke7 66.Rc7+ Kxd6 67.Rxf7 Ke6 68.Rg7 Kf5
+69.h6 Kf6 70.Rg5 Ke7 71.h7 Kf7 72.h8=Q Ke7
+73.Rg6 Kd7 74.Qh7+ Kc8 75.Rg8# 1-0
+
+[Event ""]
+[GID "4"]
+[PlyCount "151"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nf6
+5.c3 Bg4 6.Qb3 Qc7 7.h3 Bd7 8.Nf3 e6
+9.O-O Bd6 10.Re1 Bc6 11.Qc2 Nbd7 12.Qe2 Nf8
+13.Nbd2 Ng6 14.g3 O-O 15.Ne5 a6 16.a4 Bxe5
+17.dxe5 Nd7 18.Nf3 Nc5 19.Bc2 Ne4 20.Nd4 Qxe5
+21.Bxe4 dxe4 22.Nxc6 bxc6 23.Qxe4 Qd5 24.b4 Rfd8
+25.Kf1 h5 26.Qxd5 cxd5 27.Be3 Rdb8 28.h4 f6
+29.Bc5 Kf7 30.c4 dxc4 31.Rac1 Rb7 32.Rxc4 Ne5
+33.Rc3 Rd8 34.Ke2 Nc6 35.Rb1 e5 36.Rc4 Ke6
+37.Rb2 Ne7 38.Bxe7 Kxe7 39.Ke3 Rd1 40.Rc6 Rd4
+41.Rxa6 Rdxb4 42.Rxb4 Rxb4 43.Ra7+ Ke6 44.Rxg7 Kf5
+45.Rh7 Kg4 46.a5 Ra4 47.Rh6 Ra3+ 48.Ke4 Ra4+
+49.Ke3 f5 50.Rg6+ Kh3 51.Rg5 Ra3+ 52.Ke2 Ra2+
+53.Kd3 e4+ 54.Ke3 Rxa5 55.Kf4 Kg2 56.Rxf5 Rxf5+
+57.Kxf5 Kxf2 58.Kxe4 Kxg3 59.Ke3 Kg4 60.Kf2 Kf4
+61.Kg2 Kg4 62.Kh1 Kg3 63.Kg1 Kf4 64.Kh1 Kg3
+65.Kg1 Kf4 66.Kg2 Kg4 67.Kg1 Kf4 68.Kg2 Kg4
+69.Kh2 Kxh4 70.Kh1 Kh3 71.Kg1 Kh4 72.Kg2 Kg5
+73.Kg3 Kg6 74.Kh4 Kf7 75.Kg3 h4+ 76.Kxh4 1/2-1/2
+
+[Event ""]
+[GID "7"]
+[PlyCount "56"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nf3 Nd7 7.Bd3 Ngf6 8.O-O e6
+9.c4 Bd6 10.Bxg6 hxg6 11.Re1 O-O 12.Bg5 Re8
+13.Ne4 Be7 14.Qe2 Qc7 15.Bh4 c5 16.Bg3 Qb6
+17.Nxc5 Nxc5 18.dxc5 Bxc5 19.Rad1 e5 20.Nxe5 Bb4
+21.Rf1 Bd6 22.Rfe1 Bb4 23.Rf1 Bd6 24.Rfe1 Bb4
+25.Rf1 Bd6 26.Rfe1 Bb4 27.Rf1 Bd6 28.Rfe1 Bb4
+ 1/2-1/2
+
+[Event ""]
+[GID "8"]
+[PlyCount "195"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Be2 g6 8.O-O Bg7
+9.d6 exd6 10.d4 O-O 11.a4 Nb8 12.Nc3 Re8
+13.Be3 d5 14.Ne5 Nc6 15.Nxc6 bxc6 16.a5 Bf8
+17.Re1 Bf5 18.h3 Qc7 19.Bg5 Ne4 20.Nxe4 Bxe4
+21.Bf1 Re6 22.Qd2 Qb7 23.Re2 Rae8 24.Bh6 Be7
+25.Re3 g5 26.Bxg5 Bxg5 27.Rg3 h6 28.h4 f6
+29.hxg5 hxg5 30.Raa3 Qc8 31.f4 Qc7 32.Bxa6 c5
+33.fxg5 f5 34.Bb5 Rf8 35.Be2 Qa7 36.dxc5 Qxc5+
+37.Kf1 f4 38.Rh3 Qa7 39.b4 Rfe8 40.Bg4 Re5
+41.a6 Bb1 42.Rhc3 Be4 43.Ra5 Kg7 44.Rac5 Qxa6+
+45.Kg1 f3 46.b5 Qg6 47.Bxf3 Kg8 48.Re3 Bxf3
+49.Rxf3 Qd6 50.Qd4 Rxg5 51.Rc1 Qe6 52.b6 Rb8
+53.Rb3 Rg7 54.Rd1 Rg5 55.Rc1 Rf8 56.Qd2 Rg7
+57.Re1 Qc6 58.Rc1 Qd6 59.Rcc3 Qe6 60.Qd4 Rf6
+61.b7 Qe1+ 62.Kh2 Rxg2+ 63.Kxg2 Qe2+ 64.Kh1 Rf1+
+65.Qg1+ Rxg1+ 66.Kxg1 Qe1+ 67.Kg2 Qe2+ 68.Kg3 Qe1+
+69.Kf3 Qh1+ 70.Ke3 Qh6+ 71.Kd4 Qg7+ 72.Kc5 Qc7+
+73.Kxd5 Qd7+ 74.Kc4 Qc6+ 75.Kd3 Qd5+ 76.Kc2 Qf5+
+77.Kd2 Qf4+ 78.Kd3 Qd6+ 79.Ke2 Qe5+ 80.Kd1 Qd4+
+81.Rd3 Qg1+ 82.Kc2 Qf2+ 83.Rd2 Qf5+ 84.Rbd3 Qc5+
+85.Rc3 Qf5+ 86.Kb2 Qb5+ 87.Rb3 Qe5+ 88.Kb1 Qe1+
+89.Kc2 Qe4+ 90.Kc1 Qc6+ 91.Rc2 Qh6+ 92.Kb1 Kf7
+93.Rc7+ Kg6 94.Rb6+ Kf5 95.Rxh6 Kg5 96.b8=Q Kg4
+97.Rf7 Kg5 98.Qf4# 1-0
+
+[Event ""]
+[GID "9"]
+[PlyCount "236"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Be7 12.O-O-O Ngf6
+13.Kb1 O-O 14.Ne4 Nxe4 15.Qxe4 Nf6 16.Qe2 Qd5
+17.Ne5 Qe4 18.Qxe4 Nxe4 19.Be3 Rfd8 20.c3 Rac8
+21.Kc2 b5 22.g4 a5 23.b3 Bd6 24.Nd3 a4
+25.Rhg1 Kh7 26.b4 Nf6 27.Rde1 Rh8 28.Bd2 Rcg8
+29.a3 g5 30.hxg6+ Rxg6 31.f3 Nd5 32.Rh1 Kg7
+33.Ne5 Bxe5 34.Rxe5 Nb6 35.Bc1 Nc4 36.Reh5 f6
+37.Rc5 Rc8 38.Kd3 Nb6 39.Be3 Nc4 40.Bc1 Kf7
+41.Ke2 Kg7 42.Rch5 Kf7 43.Rc5 Nb6 44.Kf2 Nc4
+45.Rh4 Kg7 46.Rch5 Rh8 47.Rc5 Rc8 48.Rch5 Rh8
+49.Rh1 Nd6 50.R1h2 Nc4 51.R2h4 Nd6 52.Rc5 Rc8
+53.Rch5 Rh8 54.Rc5 Rc8 55.Rh2 Nc4 56.Rh3 Kf7
+57.Rh1 Kg7 58.Rch5 Rh8 59.R1h2 Nd6 60.Ke2 Nc4
+61.Rc5 Rc8 62.Rch5 Kf7 63.Rc5 Kg7 64.Rch5 Kf7
+65.Kf2 Re8 66.Rc5 Rc8 67.Rch5 Re8 68.Rc5 Rc8
+69.Rh1 Kg7 70.Ke2 Nb6 71.Rch5 Rh8 72.Rc5 Rc8
+73.Rch5 Rh8 74.Kf2 Nc4 75.R1h2 Nd6 76.Rc5 Rc8
+77.Rh3 Nc4 78.Rh1 Nb6 79.Rch5 Rh8 80.Ke2 Nc4
+81.R1h2 Nb6 82.Kf2 Nd5 83.Rh1 Nb6 84.Ke2 Nd5
+85.Kd3 Nb6 86.Bd2 Nc4 87.Bc1 Kf7 88.Bxh6 Rgg8
+89.Bc1 Rxh5 90.Rxh5 Kg7 91.Rc5 Rc8 92.Kc2 Kf7
+93.Kd3 Rh8 94.Rxc6 Rh1 95.Rc7+ Ke8 96.Bf4 Nxa3
+97.Rb7 Rd1+ 98.Ke2 Rg1 99.Be3 Rb1 100.f4 Rb2+
+101.Kd3 Rh2 102.Rb8+ Kf7 103.Rb7+ Ke8 104.Rb8+ Ke7
+105.g5 Rh3 106.g6 Rg3 107.d5 exd5 108.f5 Nc4
+109.g7 Kf7 110.g8=Q+ Rxg8 111.Rb7+ Ke8 112.Rb8+ Kf7
+113.Rb7+ Ke8 114.Rb8+ Kf7 115.Rb7+ Ke8 116.Rb8+ Kf7
+117.Rb7+ Ke8 118.Rb8+ Kf7 1/2-1/2
+
+[Event ""]
+[GID "6"]
+[PlyCount "157"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B17"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nd7
+5.Bd3 Ngf6 6.Nxf6+ Nxf6 7.c3 Qd5 8.Nf3 Bg4
+9.Be2 e6 10.Qb3 Qxb3 11.axb3 Nd5 12.Nd2 Bxe2
+13.Kxe2 a6 14.Nc4 h5 15.b4 Rd8 16.Ne5 f6
+17.Nd3 Bd6 18.h4 Kf7 19.Rd1 Rhe8 20.Kf3 Ne7
+21.Ra5 Nf5 22.g3 Bc7 23.Ra1 Re7 24.Be3 Rd5
+25.Rab1 Bb6 26.Nf4 Rb5 27.Nd3 Bc7 28.Re1 Rd5
+29.Rbd1 g6 30.Nc5 Bb6 31.Nd3 Red7 32.Nf4 Rb5
+33.Bc1 Re7 34.Re4 Bc7 35.Nd3 Rd5 36.Bf4 Bb6
+37.Ke2 a5 38.bxa5 Rxa5 39.Re1 c5 40.dxc5 Bxc5
+41.Nxc5 Rxc5 42.Rb4 e5 43.Be3 Rc6 44.Rd1 Ke6
+45.c4 Nxe3 46.Kxe3 Kf5 47.f3 Rec7 48.b3 Ra6
+49.Rd8 Ra2 50.Rd2 Ra1 51.Rd6 g5 52.hxg5 Kxg5
+53.Rbb6 Rf7 54.Rd8 Re1+ 55.Kf2 Rc1 56.Rg8+ Kf5
+57.Rh8 Rc2+ 58.Ke3 Rc3+ 59.Ke2 Kg5 60.Rg8+ Kf5
+61.Rh8 Kg5 62.Rg8+ Kf5 63.Rb8 Rd7 64.Rf8 Rc2+
+65.Ke1 Rc1+ 66.Kf2 Rc2+ 67.Ke1 Rc1+ 68.Ke2 Rc2+
+69.Ke3 Rc3+ 70.Kf2 Rc2+ 71.Ke3 Rc3+ 72.Ke2 Rc2+
+73.Ke1 Rc1+ 74.Kf2 Rc2+ 75.Ke3 Rc3+ 76.Kf2 Rc2+
+77.Ke3 Rc3+ 78.Ke2 Rc2+ 79.Ke3 1/2-1/2
+
+[Event ""]
+[GID "10"]
+[PlyCount "361"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "D12"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.e3 Bf5
+5.Bd3 Bxd3 6.Qxd3 e6 7.O-O Be7 8.Nc3 O-O
+9.Rd1 Nbd7 10.e4 dxe4 11.Nxe4 Qc7 12.Nxf6+ Nxf6
+13.Qe2 c5 14.b3 cxd4 15.Bb2 Bc5 16.Bxd4 Rad8
+17.Be5 Qc6 18.Bxf6 gxf6 19.Rd2 Rxd2 20.Qxd2 Qc7
+21.Rd1 Be7 22.Qe2 Rd8 23.Rxd8+ Qxd8 24.g3 f5
+25.Kg2 Qb6 26.Qe5 a6 27.Qb8+ Kg7 28.Qc8 Bf6
+29.Qd7 Kf8 30.Qc8+ Kg7 31.Qd7 Kf8 32.Kf1 h6
+33.Kg2 Bc3 34.Kf1 Kg7 35.Kg2 Kf8 36.Ng1 Bd4
+37.b4 Bc3 38.b5 Ba5 39.Qc8+ Ke7 40.bxa6 Qxa6
+41.Qc5+ Ke8 42.Nf3 Bc3 43.a4 Qxa4 44.Qc8+ Ke7
+45.Qxb7+ Qd7 46.Qb6 Qd6 47.Qa7+ Ke8 48.Qe3 Bg7
+49.Qb3 Qc6 50.Qb4 Bf6 51.Qb8+ Ke7 52.Qb4+ Ke8
+53.Qb8+ Ke7 54.Qb3 Kf8 55.Qb5 Qxb5 56.cxb5 Ke7
+57.b6 Kd6 58.Nd2 Bd4 59.b7 Kc7 60.Nc4 Kxb7
+61.Nd6+ Kc6 62.Nxf7 Bg7 63.f4 Kc7 64.Kf2 Kc6
+65.Ke3 Kd7 66.Kf3 Ke7 67.Ne5 Kd6 68.Nc4+ Kc5
+69.Nd2 h5 70.Ke3 Kd6 71.Nf3 Kc5 72.Ke2 Kd5
+73.Ke3 Bf6 74.Kf2 Ke4 75.Ke2 Bb2 76.Nd2+ Kd4
+77.Nf3+ Ke4 78.Nd2+ Kd5 79.Kd3 Kc6 80.Kc4 Bf6
+81.Nf3 Be7 82.Kd3 Kd5 83.Kd2 Ba3 84.Ke3 Bb2
+85.Kd3 Kc6 86.Kc4 Kc7 87.Kc5 Bg7 88.Ne1 Bf6
+89.Nf3 Kd7 90.Ne5+ Kc7 91.Nf3 Kd7 92.Kc4 Kd6
+93.Kd3 Kd5 94.Ke3 Kc4 95.Ke2 Bd8 96.Ne5+ Kd5
+97.Nf3 Bf6 98.Ke3 Kc4 99.Kd2 Bd8 100.Ke2 Bf6
+101.Ke3 Be7 102.Ne5+ Kc5 103.Ke2 Kd5 104.Nf3 Ke4
+105.Ng5+ Kd5 106.Nf3 Ke4 107.Kf2 Bc5+ 108.Kg2 Be7
+109.Ne5 Bd8 110.Ng6 Kd5 111.Kf3 Bf6 112.Nf8 Kd6
+113.Ng6 Kd5 114.Nf8 Kd6 115.Ng6 Kd5 116.h3 Bg7
+117.Nh4 Bd4 118.Ke2 Bf6 119.Nf3 Ke4 120.Ng5+ Kd5
+121.Nf3 Ke4 122.Nd2+ Kd5 123.Kf3 Be7 124.Nf1 Bf8
+125.Ne3+ Kd4 126.g4 hxg4+ 127.hxg4 fxg4+ 128.Nxg4 Bc5
+129.Nf6 e5 130.Ne4 exf4 131.Nf6 Be7 132.Ng4 Bg5
+133.Nf2 Be7 134.Nh3 Ke5 135.Ng1 Bf8 136.Ne2 Bc5
+137.Nc1 Bf8 138.Nd3+ Kf5 139.Nf2 Bc5 140.Ne4 Be3
+141.Nd6+ Ke6 142.Nc4 Kd5 143.Na3 Bc1 144.Nc2 Bd2
+145.Na3 Ba5 146.Nc2 Bd8 147.Nb4+ Kc4 148.Na2 Bg5
+149.Nc1 Bh6 150.Ne2 Kd3 151.Ng1 Bf8 152.Nh3 Bd6
+153.Ng5 Bb4 154.Nf7 Bd2 155.Ne5+ Kc2 156.Kg2 Bc1
+157.Kf3 Kd1 158.Nf7 Kc2 159.Ng5 Kd1 160.Kf2 Kc2
+161.Ne6 Be3+ 162.Kf3 Bc1 163.Ke2 Be3 164.Kf3 Bc1
+165.Ng5 Kd1 166.Nf7 Kd2 167.Nh8 Kd3 168.Ng6 Bd2
+169.Nh4 Kc4 170.Ng6 Kd3 171.Nf8 Kc2 172.Kg2 Kd1
+173.Kf3 Kc2 174.Nh7 Kd3 175.Nf6 Kc2 176.Nd5 Kd1
+177.Ne7 Kc2 178.Nd5 Kd1 179.Kf2 Be3+ 180.Nxe3+ fxe3+
+181.Kxe3 1/2-1/2
+
+[Event ""]
+[GID "12"]
+[PlyCount "209"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "C48"]
+
+1.e4 e5 2.Nf3 Nc6 3.Nc3 Nf6 4.Bb5 Bd6
+5.O-O O-O 6.d3 h6 7.Ba4 Re8 8.h3 a6
+9.a3 Ne7 10.Nxe5 Bxe5 11.d4 Bxd4 12.Qxd4 b5
+13.Bb3 d6 14.f3 Be6 15.Bf4 Rb8 16.Rad1 a5
+17.Qd3 Ng6 18.Bh2 Bc4 19.Bxc4 bxc4 20.Qxc4 Rxb2
+21.Rb1 Qb8 22.Rxb2 Qxb2 23.Qxc7 Re6 24.Qxa5 Qxc2
+25.Nd1 d5 26.Ne3 Qb2 27.Nxd5 Nxd5 28.Qxd5 Qxa3
+29.Qd2 Qa7+ 30.Kh1 Ra6 31.Bg3 Ra2 32.Qd8+ Kh7
+33.Rd1 Qa6 34.Qd5 Kg8 35.h4 Qe2 36.Rg1 Rd2
+37.Qa8+ Nf8 38.Qb8 Qd3 39.Bf4 Qd8 40.Qxd8 Rxd8
+41.Ra1 Ne6 42.Bg3 Rd2 43.Ra8+ Rd8 44.Ra5 Nd4
+45.Bf2 Ne6 46.Kh2 Rd2 47.Bg3 f6 48.h5 Nd4
+49.Kh3 Ne6 50.Bb8 Kh7 51.Rd5 Rb2 52.Bd6 Rc2
+53.Kg3 Re2 54.Bb4 Ng5 55.Rd7 Rb2 56.Bd2 Rb1
+57.Re7 Rb2 58.Rd7 Rb1 59.Kg4 Rg1 60.g3 Rd1
+61.Rd4 Kg8 62.Rd7 Kh7 63.Rd4 Kg8 64.Bc3 Rxd4
+65.Bxd4 Ne6 66.Bb6 Nf8 67.f4 Kf7 68.Kf3 Nd7
+69.Bd4 Nb8 70.Ke2 Nc6 71.Kd3 Nd8 72.Kc4 Ke6
+73.Bb6 Nf7 74.Kd4 Nd6 75.f5+ Kf7 76.Kd5 Nb5
+77.Ba5 Na3 78.Bd2 Ke8 79.Bxh6 gxh6 80.Ke6 Nc4
+81.Kxf6 Kf8 82.Kg6 Kg8 83.Kxh6 Nd6 84.g4 Nxe4
+85.Kg6 Nf2 86.g5 Nh3 87.h6 Nf4+ 88.Kf6 Kh7
+89.Ke7 Nh3 90.g6+ Kxh6 91.f6 Kxg6 92.f7 Nf4
+93.f8=Q Kg5 94.Qf6+ Kg4 95.Kd6 Kg3 96.Ke5 Nh3
+97.Qf5 Nf2 98.Qf4+ Kg2 99.Kd4 Nd1 100.Qg4+ Kh2
+101.Qxd1 Kg3 102.Ke3 Kg2 103.Qg4+ Kh2 104.Kf3 Kh1
+105.Qg2# 1-0
+
+[Event ""]
+[GID "13"]
+[PlyCount "152"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nc3 a6 7.Be2 b5 8.d4 b4
+9.Na4 Nxd5 10.Bf3 N7f6 11.Ne2 e6 12.O-O Bd6
+13.Bg5 O-O 14.Nf4 h6 15.Nxd5 exd5 16.Bh4 Bf5
+17.Qb3 Rc8 18.Rac1 Bxh2+ 19.Kxh2 Ng4+ 20.Bxg4 Qxh4+
+21.Bh3 Rxc1 22.Rxc1 Qf4+ 23.Qg3 Qxc1 24.Bxf5 Qd1
+25.Nc5 Qxd4 26.Nxa6 Re8 27.Nc7 Re5 28.Bg4 h5
+29.Nb5 Qxb2 30.Bf3 Rf5 31.Nc7 h4 32.Qg4 Qe5+
+33.Kh3 Rg5 34.Qxh4 Rg6 35.Qd8+ Kh7 36.g4 Rd6
+37.Qe8 Rh6+ 38.Kg2 Qxc7 39.Bxd5 Qh2+ 40.Kf1 Qh3+
+41.Ke1 Qc3+ 42.Ke2 Rf6 43.Qe3 Qc2+ 44.Ke1 g6
+45.Qh3+ Kg7 46.Qe3 Qc8 47.f3 Qc3+ 48.Ke2 Rd6
+49.Bb3 Qb2+ 50.Ke1 Rc6 51.Kd1 Qg2 52.Qd4+ Kh7
+53.Bc4 Qxf3+ 54.Kc2 Qg3 55.Qd3 Qxg4 56.Kb3 Rxc4
+57.Qxc4 Qxc4+ 58.Kxc4 g5 59.Kd3 g4 60.Kd4 f5
+61.Ke5 Kg6 62.Kf4 Kf6 63.Kg3 Kg5 64.Kh2 f4
+65.Kg2 g3 66.Kf3 Kf5 67.Kg2 Kg4 68.Kf1 f3
+69.a3 bxa3 70.Ke1 f2+ 71.Ke2 a2 72.Kd3 f1=Q+
+73.Kd4 a1=Q+ 74.Kc5 Qc3+ 75.Kb6 Qb1+ 76.Ka7 Qca1#
+ 0-1
+
+[Event ""]
+[GID "11"]
+[PlyCount "425"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+5.Qe2 Nxe4 6.Qxe4 Nd7 7.Bc4 Nf6 8.Ne5 e6
+9.Qe2 b5 10.Bb3 Qc7 11.d4 Bd6 12.O-O a5
+13.c3 O-O 14.Bf4 b4 15.c4 c5 16.dxc5 Qxc5
+17.Rfd1 Bc7 18.Nd3 Qc6 19.Ne5 Qe4 20.Qxe4 Nxe4
+21.Bc2 Bb7 22.Rd4 Nc5 23.Rad1 Rfd8 24.Rxd8+ Rxd8
+25.Rxd8+ Bxd8 26.Be3 Be7 27.b3 f6 28.Nd3 Be4
+29.Ne1 Bxc2 30.Nxc2 e5 31.f4 Kf7 32.Kf1 exf4
+33.Bxf4 Ke6 34.Ke2 Kd7 35.Be3 f5 36.h3 g6
+37.Ne1 Kc6 38.Nd3 Ne6 39.Nf4 Nc5 40.Nd5 Bd8
+41.Bh6 Kd7 42.Ke3 Kd6 43.Bf4+ Kc6 44.Ke2 Ne6
+45.Be5 Bg5 46.Kd1 Bh6 47.Ke2 Bg5 48.Kf3 Bh6
+49.Ne7+ Kc5 50.Nd5 Kc6 51.h4 Bf8 52.Nf4 Nc5
+53.h5 gxh5 54.Bd4 Ne4 55.Ne6 Bh6 56.Bh8 Ng5+
+57.Nxg5 Bxg5 58.Be5 Kb7 59.Bf4 h6 60.Bd6 Kc6
+61.Bf8 Kb7 62.a4 Kc6 63.Bg7 Bc1 64.Bd4 Bg5
+65.Bf2 Kb7 66.Ke2 Kc6 67.Kf3 Kb7 68.Bd4 Kc7
+69.Be3 Kc6 70.Ba7 Kb7 71.Bf2 Kc7 72.Bd4 Kc6
+73.Bg7 Kc7 74.Ke2 Kc6 75.Bf8 Bc1 76.Kf3 Bg5
+77.Ke2 Bc1 78.Kd3 Bg5 79.Kd4 Bf6+ 80.Ke3 Bg5+
+81.Kd3 Bc1 82.Kd4 Bb2+ 83.Ke3 Bc1+ 84.Kd4 Bb2+
+85.Kd3 Bc1 86.Bg7 Bg5 87.Be5 Bc1 88.Bb8 Bg5
+89.Be5 Bc1 90.Bd4 Bg5 91.Bf2 Bf6 92.Be3 Bg5
+93.Bf2 Bf6 94.Bg3 Bg5 95.Kd4 Bf6+ 96.Be5 Bg5
+97.Bg3 Bf6+ 98.Ke3 Be7 99.Be5 Bg5+ 100.Kd4 Bc1
+101.Bb8 Bb2+ 102.Ke3 Bc1+ 103.Kd4 Bb2+ 104.Ke3 Bc1+
+105.Ke2 Bg5 106.Bg3 Kd7 107.Be1 Kc7 108.Bg3+ Kd7
+109.Kf3 Kc6 110.Bh2 Kd7 111.Be5 Kc6 112.Bd4 Kc7
+113.g3 Kc6 114.Be5 Kd7 115.Bd4 Kc6 116.Be5 Kd7
+117.Bf4 Kc6 118.Bb8 Kd7 119.Ba7 Kc6 120.Bd4 Bc1
+121.Be3 Bxe3 122.Kxe3 Kd7 123.Kf4 Ke6 124.Ke3 Kd6
+125.Kd4 Ke6 126.Ke3 Kd6 127.Kf2 Ke6 128.Kg2 Kf6
+129.Kf2 Ke6 130.Kg2 Kf6 131.Kh3 Kg5 132.Kg2 Kf6
+133.Kh2 Kg6 134.Kh3 Kg5 135.Kg2 Kf6 136.Kh2 Kg6
+137.Kg1 Kf7 138.Kf1 Kg6 139.Kf2 Kf6 140.Ke3 Ke5
+141.Kf3 Kf6 142.Ke3 Ke5 143.Kf3 Kf6 144.Kg2 Kg6
+145.Kf1 Kf6 146.Kg2 Kg6 147.Kf1 Kf6 148.Ke2 Ke6
+149.Kf2 Kf6 150.Kg1 Ke5 151.Kh2 Kf6 152.Kh1 Ke5
+153.Kh2 Kf6 154.Kg1 Ke5 155.Kf2 Ke4 156.Kg2 h4
+157.gxh4 h5 158.Kf2 Kf4 159.Ke2 Ke4 160.Kf2 Kf4
+161.Ke2 Ke4 162.Kf1 Ke5 163.Kg1 Ke4 164.Kf1 Ke5
+165.Kg1 Ke4 166.Kg2 Ke5 167.Kf3 f4 168.Kf2 Kf6
+169.Kf3 Ke5 170.c5 Kd5 171.Kxf4 Kxc5 172.Ke4 Kc6
+173.Ke5 Kc5 174.Ke4 Kc6 175.Ke5 Kc5 176.Ke4 Kc6
+177.Ke3 Kd5 178.Kd3 Ke5 179.Ke3 Kd5 180.Kd3 Ke5
+181.Ke3 Kd5 182.Kd3 Ke5 183.Ke3 Kd5 184.Kd3 Ke5
+185.Kc4 Ke4 186.Kb5 Kd3 187.Kxa5 Kc3 188.Kb6 Kxb3
+189.a5 Kc3 190.a6 b3 191.a7 b2 192.a8=Q b1=Q+
+193.Kc7 Qg6 194.Qc6+ Qxc6+ 195.Kxc6 Kd4 196.Kb5 Ke4
+197.Kc4 Ke3 198.Kc3 Kf3 199.Kd3 Kf4 200.Ke2 Kg3
+201.Ke3 Kxh4 202.Kf2 Kg4 203.Kg2 Kh4 204.Kh2 Kg4
+205.Kg2 Kh4 206.Kh2 Kg4 207.Kg2 Kh4 208.Kf2 Kg5
+209.Kg3 Kf5 210.Kh4 Ke6 211.Kg3 h4+ 212.Kh3 Kd6
+213.Kxh4 1/2-1/2
+
+[Event ""]
+[GID "14"]
+[PlyCount "119"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "E10"]
+
+1.Nf3 Nf6 2.c4 e6 3.d4 d5 4.cxd5 exd5
+5.Bg5 h6 6.Bh4 g5 7.Bg3 Ne4 8.Nc3 Nc6
+9.a3 h5 10.Nb5 Nxg3 11.hxg3 a6 12.Nc3 Bd6
+13.Nxd5 g4 14.Nd2 Be5 15.dxe5 Qxd5 16.Qb3 Qxb3
+17.Nxb3 Nxe5 18.f4 Be6 19.Nc5 Nd7 20.Nxd7 Kxd7
+21.e4 Ke7 22.Rc1 c6 23.Bd3 f5 24.exf5 Bf7
+25.Be4 Rad8 26.Rd1 Rxd1+ 27.Kxd1 Kf6 28.Kd2 Re8
+29.Re1 Rd8+ 30.Ke3 Bb3 31.Rh1 Re8 32.Kd3 Bf7
+33.Kd4 c5+ 34.Kd3 b5 35.Rd1 Rd8+ 36.Ke2 Bc4+
+37.Bd3 Re8+ 38.Kf2 Bxd3 39.Rxd3 c4 40.Rd5 Rc8
+41.Ke3 c3 42.bxc3 Rxc3+ 43.Ke4 Ke7 44.Re5+ Kf7
+45.Rd5 Rxg3 46.Rd7+ Kf6 47.Rd6+ Kf7 48.Rd7+ Kf6
+49.Rd6+ Kf7 50.f6 Rc3 51.Rxa6 Rc4+ 52.Ke5 Rc5+
+53.Kd4 Rc4+ 54.Ke5 Rc5+ 55.Kd4 Rc4+ 56.Ke5 Rc5+
+57.Kd4 Rc4+ 58.Ke5 Rc5+ 59.Kd4 Rc4+ 60.Ke5 1/2-1/2
+
+[Event ""]
+[GID "15"]
+[PlyCount "129"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nb3 Bb6 6.Nc3 Nf6 7.Qe2 O-O 8.Be3 d5
+9.O-O-O d4 10.f3 Be6 11.Bg1 a6 12.Kb1 Re8
+13.Qe1 Bxb3 14.axb3 Qe7 15.Ne2 Rad8 16.Ng3 g6
+17.Ne2 d3 18.cxd3 Bxg1 19.Rxg1 b5 20.Qc3 Nb4
+21.Rd2 c5 22.g3 Qe6 23.Bg2 a5 24.d4 Nfd5
+25.exd5 Nxd5 26.Qxc5 Nb4 27.Qxb5 Rb8 28.Qxa5 Nd5
+29.Nc1 Ra8 30.Qc5 Ne3 31.Qb5 Reb8 32.Qe5 Qa6
+33.Qxe3 Rc8 34.Qc3 Rxc3 35.bxc3 Qa5 36.Kb2 Qa3+
+37.Kc2 Qd6 38.Bf1 Qf6 39.Bc4 Ra1 40.Rd3 Qe7
+41.Rgd1 Qa3 42.b4 Qa7 43.d5 Qc7 44.Rd4 Qd6
+45.Ba2 Kh8 46.Kb2 Rxa2+ 47.Nxa2 h6 48.Kb3 h5
+49.c4 g5 50.Nc3 Qd8 51.d6 h4 52.d7 g4
+53.fxg4 hxg3 54.hxg3 Kg7 55.c5 Kh6 56.c6 f5
+57.gxf5 Kg5 58.c7 Qxc7 59.d8=Q+ Qxd8 60.Rxd8 Kxf5
+61.Rf8+ Kg5 62.Rd7 Kh5 63.Rg8 Kh6 64.b5 Kh5
+65.Rh7# 1-0
+
+[Event ""]
+[GID "16"]
+[PlyCount "138"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "D02"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.cxd5 exd5
+5.Bg5 h6 6.Bh4 g5 7.Bg3 Ne4 8.e3 h5
+9.Qc2 Nc6 10.Bb5 h4 11.Bxc6+ bxc6 12.Be5 Rh6
+13.h3 Bf5 14.Qc1 Rb8 15.O-O f6 16.Bh2 Qd7
+17.Nbd2 g4 18.hxg4 Bxg4 19.Bf4 h3 20.g3 h2+
+21.Kh1 Rh8 22.Nh4 Be2 23.Nxe4 dxe4 24.Re1 Bd3
+25.Ng6 Rh7 26.Nxf8 Kxf8 27.b3 Rb5 28.Qd2 Qh3
+29.Rac1 c5 30.dxc5 c6 31.Qd1 Rh5 32.a3 Kg7
+33.b4 a5 34.Qa4 Rh8 35.Qb3 Rh5 36.Bd6 Rh7
+37.Ra1 Rh5 38.Qa4 Rh8 39.Qd1 axb4 40.a4 Rb7
+41.Ra2 Bc4 42.Rd2 b3 43.Rb2 Be6 44.f3 Rb4
+45.a5 Ra4 46.Be7 Bd5 47.Rf2 Ra2 48.Rxa2 bxa2
+49.f4 Qxg3 50.Rf1 Rh6 51.Qe1 Qh3 52.f5 Kf7
+53.Bd8 Rh8 54.Qf2 Rg8 55.Bxf6 Rg1+ 56.Rxg1 hxg1=N+
+57.Kxg1 Kxf6 58.Qb2+ Kxf5 59.Qc1 a1=Q 60.Qxa1 Qxe3+
+61.Kf1 Qf3+ 62.Ke1 Qh1+ 63.Kd2 Qxa1 64.a6 Qb2+
+65.Ke1 Qc1+ 66.Kf2 e3+ 67.Kg3 Qg1+ 68.Kh3 Qg4+
+69.Kh2 Qg2# 0-1
+
+[Event ""]
+[GID "17"]
+[PlyCount "182"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "D02"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.cxd5 exd5
+5.Bg5 h6 6.Bh4 g5 7.Bg3 Ne4 8.e3 h5
+9.Qc2 Nc6 10.Bb5 h4 11.Bxc6+ bxc6 12.Be5 Rh6
+13.h3 Bf5 14.Qc1 Rb8 15.O-O g4 16.hxg4 Bxg4
+17.Nbd2 Rg6 18.Kh2 Rb6 19.a4 a5 20.Nxe4 dxe4
+21.Nd2 Be2 22.Rg1 f6 23.Bf4 Qd5 24.Bxc7 Rb7
+25.Bf4 Bd3 26.f3 f5 27.b3 Bd6 28.Bxd6 Qxd6+
+29.f4 Rbg7 30.d5 Qxd5 31.Qc3 Rg3 32.Nc4 h3
+33.Ra2 Bxc4 34.bxc4 Qd6 35.Rd2 Qxf4 36.Rd8+ Ke7
+37.Qxg7+ Rxg7+ 38.exf4 Kxd8 39.Kxh3 Rh7+ 40.Kg3 Ke7
+41.Rd1 Rh8 42.Kf2 Rh4 43.g3 Rh2+ 44.Ke3 Rh3
+45.Kd4 Ke6 46.g4 e3 47.gxf5+ Kxf5 48.Kd3 Kxf4
+49.Rf1+ Ke5 50.Rf8 e2+ 51.Kxe2 Kd4 52.Ra8 Rh2+
+53.Kd1 Kd3 54.Kc1 Kc3 55.Kb1 Kb3 56.Rb8+ Kxc4
+57.Rb6 Rh6 58.Kb2 Kc5 59.Rb8 Rd6 60.Kb3 Rd3+
+61.Ka2 Rd4 62.Kb3 Rb4+ 63.Rxb4 axb4 64.a5 Kb5
+65.a6 Kxa6 66.Kxb4 Kb6 67.Kc4 c5 68.Kc3 Kb5
+69.Kb3 Kb6 70.Kb2 Kb7 71.Ka3 Kc7 72.Kb2 Kc6
+73.Kb3 Kb7 74.Kc4 Kb6 75.Kd3 Kb5 76.Kc3 Kc6
+77.Kb3 Kb5 78.Kc3 c4 79.Kc2 Kc6 80.Kb2 Kd5
+81.Kc3 Kc5 82.Kc2 Kd4 83.Kd2 Kc5 84.Kc3 Kd5
+85.Kc2 Kd4 86.Kd2 Kc5 87.Kc2 Kd4 88.Kd2 Kc5
+89.Kc2 Kd4 90.Kd2 Kc5 91.Kc2 Kd4 1/2-1/2
+
+[Event ""]
+[GID "21"]
+[PlyCount "54"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "D12"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.e3 Bf5
+5.Bd3 Bg6 6.O-O e6 7.Bxg6 hxg6 8.Nbd2 Nbd7
+9.h3 Be7 10.b3 Ne4 11.Bb2 Ndf6 12.Ne5 Bd6
+13.a4 Nxd2 14.Qxd2 Ne4 15.Qd3 Qh4 16.Rae1 Bxe5
+17.dxe5 O-O-O 18.Bc1 Rh5 19.cxd5 exd5 20.Qd4 Rg5
+21.Re2 Qxh3 22.f4 Rh8 23.Qxe4 Qh2+ 24.Kf2 Qg3+
+25.Kg1 Rgh5 26.Qf5+ gxf5 27.e6 Rh1# 0-1
+
+[Event ""]
+[GID "19"]
+[PlyCount "198"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 dxc4
+5.Bg2 Bb4+ 6.Bd2 c5 7.Bxb4 cxb4 8.Ne5 O-O
+9.a3 Nd5 10.Nxc4 b5 11.Ne5 bxa3 12.Nxa3 Qb6
+13.O-O Nd7 14.Qd3 Rb8 15.Bxd5 exd5 16.Rfc1 Nxe5
+17.dxe5 f6 18.Qxd5+ Be6 19.Qc6 fxe5 20.Rc5 Qxc6
+21.Rxc6 Bf7 22.Kf1 Rfd8 23.b4 Bg6 24.Rac1 Rd4
+25.Rc8+ Rxc8 26.Rxc8+ Kf7 27.Nxb5 Rxb4 28.Rc5 Ke6
+29.Nxa7 Be8 30.f3 Kd6 31.Rc3 Bd7 32.Nc8+ Ke6
+33.Na7 Kd6 34.Nc8+ Ke6 35.h4 h5 36.Rc5 Rb8
+37.Na7 Kd6 38.Rc3 Rb7 39.Nc8+ Ke6 40.Kf2 Rb2
+41.Na7 Kd5 42.Rc7 Kd6 43.Rc3 Rb4 44.Nc8+ Ke6
+45.Na7 Kd5 46.Rc1 Rb3 47.Rd1+ Ke6 48.Rc1 Kd5
+49.Rc7 Kd6 50.Rc2 Rb7 51.Nc8+ Ke6 52.Rc5 Rb8
+53.Na7 Kd6 54.Rc2 Rb7 55.Nc8+ Ke6 56.Rc5 Rb3
+57.Na7 Kd6 58.Rc4 Kd5 59.Rc1 Rb7 60.Nc8 Ke6
+61.Rc4 Rb3 62.Na7 Kd5 63.Rc1 Rb8 64.Rd1+ Ke6
+65.Rc1 Kd5 66.Rc7 Kd6 67.Rc3 Rb2 68.Rd3+ Ke6
+69.Ra3 Kd5 70.Rd3+ Ke6 71.Rc3 Kd6 72.Rc1 Rb8
+73.Rd1+ Ke6 74.Rd2 Rb7 75.Ra2 Kd5 76.Ke3 Rb3+
+77.Kf2 Rb7 78.Ra6 Rc7 79.Ra5+ Rc5 80.Ra3 Kd6
+81.Ra6+ Kc7 82.Rg6 Ra5 83.Rxg7 Rxa7 84.Rg5 Kd6
+85.Rxh5 Ra2 86.Rh6+ Kc5 87.h5 Bb5 88.g4 Bxe2
+89.Rh8 e4 90.h6 Bxf3+ 91.Kg3 Rg2+ 92.Kh3 Rxg4
+93.Rc8+ Kb6 94.h7 Rg5 95.h8=Q Rh5+ 96.Qxh5 Bxh5
+97.Rc4 Bf3 98.Kg3 Kb5 99.Rxe4 Bxe4 1/2-1/2
+
+[Event ""]
+[GID "18"]
+[PlyCount "196"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "D02"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.cxd5 exd5
+5.Bg5 h6 6.Bh4 g5 7.Bg3 Ne4 8.e3 h5
+9.Qc2 Nc6 10.Bb5 h4 11.Be5 Rh6 12.h3 a6
+13.Be2 Bf5 14.Qa4 Qd7 15.Bh2 Bb4+ 16.Nfd2 Bxh3
+17.gxh3 Qxh3 18.Nc3 Bxc3 19.bxc3 Qg2 20.Rf1 Qxh2
+21.Nxe4 dxe4 22.Rb1 Rb8 23.Qc2 Ne7 24.Qxe4 f5
+25.Qh1 Qxh1 26.Rxh1 h3 27.f3 Kd7 28.Kf2 Nd5
+29.Bf1 g4 30.c4 Nf6 31.Bd3 Rh5 32.Kg3 Rg8
+33.Kf4 Ke6 34.d5+ Kd6 35.Bxf5 gxf3 36.Rxh3 Rxh3
+37.Bxh3 f2 38.Kf3 b6 39.Rf1 Rf8 40.e4 Nxd5+
+41.Bf5 Ne7 42.Kf4 Ng6+ 43.Ke3 Ne5 44.Rxf2 Kc5
+45.Rf1 Rg8 46.Be6 Re8 47.Bf7 Rf8 48.Rf5 Rxf7
+49.Rxe5+ Kxc4 50.Re6 Rd7 51.Rc6+ Kb5 52.Rc1 c5
+53.e5 Kc6 54.Rf1 c4 55.Ke4 Rd2 56.Ke3 Rxa2
+57.Rf6+ Kc7 58.Rf7+ Kd8 59.Kd4 b5 60.Ra7 Ra1
+61.Rb7 Rd1+ 62.Kc3 Rd5 63.Kb4 Rxe5 64.Rb6 Re1
+65.Rxa6 Rb1+ 66.Kc3 Kd7 67.Rh6 Rb3+ 68.Kd4 c3
+69.Rh7+ Kc6 70.Rh6+ Kc7 71.Kd3 b4 72.Kc2 Rb2+
+73.Kc1 b3 74.Rh4 Kb6 75.Rc4 Rc2+ 76.Kb1 Kb5
+77.Rc8 Kb4 78.Rb8+ Kc4 79.Rc8+ Kd3 80.Rd8+ Ke2
+81.Rb8 Rd2 82.Rxb3 Kd3 83.Ra3 Rd1+ 84.Ka2 Rg1
+85.Kb3 c2 86.Kb4+ Kd4 87.Ra8 c1=Q 88.Rd8+ Ke5
+89.Re8+ Kd6 90.Rd8+ Kc7 91.Rd4 Qb2+ 92.Kc5 Qf2
+93.Kd5 Qf5+ 94.Kc4 Qc2+ 95.Kb5 Rb1+ 96.Rb4 Qc6+
+97.Ka5 Ra1+ 98.Ra4 Rxa4# 0-1
+
+[Event ""]
+[GID "24"]
+[PlyCount "143"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nb3 Bb6 6.Nc3 Nf6 7.Qe2 O-O 8.Be3 Re8
+9.f3 d5 10.O-O-O d4 11.Kb1 a6 12.Qe1 Be6
+13.Ne2 Bxb3 14.axb3 dxe3 15.Rxd8 Raxd8 16.Nc1 Rd2
+17.c3 a5 18.Be2 h6 19.Qg3 Ne5 20.Qh3 c6
+21.Re1 Ned7 22.Qg3 Nh5 23.Qh4 Nhf6 24.Rd1 Ne5
+25.Qe1 Red8 26.Qf1 Bc7 27.g3 h5 28.Rxd2 exd2
+29.Nd3 Nxd3 30.Bxd3 Nd7 31.Be2 h4 32.Qg1 Bb6
+33.Qh1 Bf2 34.f4 hxg3 35.hxg3 Bxg3 36.Qf3 Bh4
+37.Kc2 Be7 38.Qe3 Nc5 39.f5 b5 40.e5 Nd7
+41.Kd1 Kf8 42.Qh3 Kg8 43.f6 Bf8 44.Qd3 b4
+45.Qxd2 Kh7 46.Bg4 a4 47.bxa4 gxf6 48.Bxd7 Be7
+49.exf6 Bxf6 50.cxb4 Kg8 51.Kc2 Bg7 52.Kb3 c5
+53.bxc5 Ra8 54.Kc4 Ra6 55.b4 Bh6 56.Qd5 Bf4
+57.Bc6 Kf8 58.Kb5 Rxa4 59.Kxa4 Bc1 60.Kb5 Kg7
+61.Ka6 Bh6 62.b5 f6 63.Qd7+ Kg6 64.Be4+ Kg5
+65.Qd2+ Kh5 66.Qh2+ Kg4 67.Qxh6 Kg3 68.Qxf6 Kg4
+69.Qe5 Kh4 70.Qf4+ Kh5 71.Qg3 Kh6 72.Qg6# 1-0
+
+[Event ""]
+[GID "23"]
+[PlyCount "228"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "D13"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 c6 4.cxd5 cxd5
+5.Nc3 e6 6.Bf4 Nc6 7.e3 Bd6 8.Bxd6 Qxd6
+9.Bd3 Bd7 10.O-O O-O 11.Qd2 Rfc8 12.h3 Nb4
+13.Bb1 Nc6 14.Rc1 Be8 15.Bd3 a6 16.Qd1 h6
+17.Nd2 Na5 18.Rc2 Rc7 19.Rac1 Rac8 20.Ne2 Nd7
+21.Nf3 Rxc2 22.Bxc2 Kf8 23.Bd3 Rxc1 24.Qxc1 Qc6
+25.Qe1 Qa4 26.Qb1 Qb4 27.a3 Qa4 28.Nf4 Kg8
+29.Bh7+ Kf8 30.Bd3 Kg8 31.Bh7+ Kh8 32.Bc2 Qc6
+33.b3 Kg8 34.Qb2 Qc7 35.Nd3 Nc6 36.Qc3 a5
+37.Nd2 Qd8 38.Nf4 Nf6 39.Nf3 Na7 40.Bd3 Nb5
+41.Bxb5 Bxb5 42.Qc5 Ba6 43.Qc2 Ne8 44.Ne5 Qc7
+45.Qb2 Nd6 46.f3 Bb5 47.a4 Be8 48.Ned3 Nf5
+49.Qd2 Kf8 50.Kf2 b6 51.Ne5 Qc8 52.Qb2 Ne7
+53.Ned3 f6 54.b4 axb4 55.Qxb4 g5 56.Ne2 Qc7
+57.Qc3 Qa7 58.Nb2 Kg7 59.Qa3 Qc7 60.Qc3 Qd8
+61.Qb3 Nf5 62.Nd1 h5 63.Ndc3 Qd6 64.e4 dxe4
+65.Nxe4 Qc6 66.Qa2 Ne7 67.a5 bxa5 68.Qxa5 Nd5
+69.N4c3 Nxc3 70.Qxc3 h4 71.Qa3 Qc4 72.Qe7+ Bf7
+73.Qd6 Qc2 74.Qa3 Qf5 75.Qb4 Qd5 76.Nc3 Qd7
+77.Qc5 Qb7 78.Nb5 Qb8 79.Nd6 Qb1 80.Qc7 Qb2+
+81.Ke3 Qb3+ 82.Kf2 Qb2+ 83.Ke3 Qb3+ 84.Ke2 Qa2+
+85.Kd3 Qb3+ 86.Ke2 Qa2+ 87.Kd3 Qb1+ 88.Kd2 Qa2+
+89.Kd1 Qb3+ 90.Kd2 Qb2+ 91.Kd3 Qb3+ 92.Kd2 Qa2+
+93.Kc1 Qa1+ 94.Kc2 Qa2+ 95.Kc3 Qa1+ 96.Kd3 Qd1+
+97.Ke3 Qb3+ 98.Kf2 Qb2+ 99.Kg1 Qxd4+ 100.Kh1 Qa1+
+101.Kh2 Qe5+ 102.Kh1 Qa1+ 103.Kh2 Qe5+ 104.f4 Qxf4+
+105.Kg1 Qe3+ 106.Kf1 Qf4+ 107.Kg1 Qe3+ 108.Kh1 Qe1+
+109.Kh2 Qe5+ 110.Kg1 Qe3+ 111.Kf1 Qf4+ 112.Kg1 Qe3+
+113.Kh2 Qe5+ 114.Kg1 Qe3+ 1/2-1/2
+
+[Event ""]
+[GID "26"]
+[PlyCount "82"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Ngf6 12.O-O-O Be7
+13.Ne4 Nxe4 14.Qxe4 Nf6 15.Qe1 Qd5 16.Kb1 c5
+17.Be3 c4 18.Ne5 Rc8 19.f3 Qb5 20.Bc1 Nd5
+21.c3 Qa6 22.Qg3 Bf6 23.Ng4 b5 24.Bd2 b4
+25.Nxf6+ gxf6 26.cxb4 c3 27.Bxc3 Rxc3 28.bxc3 Nxc3+
+29.Kb2 Nxd1+ 30.Rxd1 Qe2+ 31.Ka3 Qxd1 32.Qb8+ Ke7
+33.Qxh8 Qd3+ 34.Ka4 Qc2+ 35.Ka3 Qd3+ 36.Ka4 Qc2+
+37.Ka3 Qd3+ 38.Ka4 Qc2+ 39.Ka3 Qd3+ 40.Ka4 Qc2+
+41.Ka3 Qd3+ 1/2-1/2
+
+[Event ""]
+[GID "25"]
+[PlyCount "104"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 c5
+9.dxc5 Bxc5 10.O-O Nc6 11.Qc2 g6 12.Bf4 Qe7
+13.Bg3 Be6 14.Nf4 Rfd8 15.Be4 a5 16.Rfe1 Ne5
+17.Nxe6 Qxe6 18.Bxb7 Ra7 19.Be4 Rad7 20.Re2 Qxa2
+21.Rae1 Qe6 22.Qc1 Qb6 23.Bf4 h5 24.Bxe5 fxe5
+25.Qg5 Rd1 26.Kf1 R8d6 27.Qxe5 Rxe1+ 28.Rxe1 Rd2
+29.Qe8+ Kg7 30.Qe5+ f6 31.Qe8 Rxf2+ 32.Kg1 Re2+
+33.Kf1 Rf2+ 34.Kg1 f5 35.b4 axb4 36.Qd7+ Kh6
+37.Bd3 bxc3 38.Kh1 Rd2 39.Qd5 c2 40.Qf3 Qd6
+41.Bxc2 Rxc2 42.h3 h4 43.Ra1 Qe5 44.Rd1 Re2
+45.Qf1 f4 46.Rd8 Re1 47.Rd1 Rxf1+ 48.Rxf1 Qe2
+49.Rg1 Bxg1 50.Kxg1 Qe1+ 51.Kh2 Qf1 52.g3 fxg3#
+ 0-1
+
+[Event ""]
+[GID "20"]
+[PlyCount "315"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 c6
+13.a4 a5 14.Bf4 Ne8 15.d5 cxd5 16.Qd1 d6
+17.Qxd5 Be6 18.Qb5 Nc7 19.Qxb7 Rb8 20.Qa7 Rxb2
+21.Qxa5 Rb8 22.h3 h6 23.Bg3 Rb3 24.Qh5 Nd5
+25.Qd1 Nxc3 26.Nxc3 Rxc3 27.Rb1 Bf5 28.Rc1 Rxc1
+29.Qxc1 d5 30.Qc5 Be7 31.Qd4 Bf6 32.Qc5 Be7
+33.Qd4 Bf6 34.Be5 Bxe5 35.Qxe5 Bc2 36.Qd4 Qa5
+37.Bb5 Qe1+ 38.Kh2 g6 39.Qxd5 Qxf2 40.Qe5 Qa7
+41.Bc6 Qb6 42.Qb5 Qc7+ 43.Kh1 Be4 44.Bxe4 Qc1+
+45.Kh2 Qf4+ 46.Kg1 Qxe4 47.Qb8+ Kh7 48.Qc7 Qe1+
+49.Kh2 Kg7 50.a5 Qa1 51.Qc5 h5 52.Qd5 Qf6
+53.Kg1 Qc3 54.Kf2 h4 55.Kf1 Qc1+ 56.Kf2 Qb2+
+57.Kg1 Qc3 58.Kf2 Qc2+ 59.Ke3 Qc3+ 60.Ke2 Qc2+
+61.Qd2 Qe4+ 62.Kf1 Qf5+ 63.Ke2 Qb5+ 64.Kf2 Qc5+
+65.Kf1 Qb5+ 66.Kg1 Qc5+ 67.Kh1 Qe5 68.Qb4 f6
+69.Qd2 Qa1+ 70.Kh2 Qa3 71.Qe1 Qd6+ 72.Kg1 Qc5+
+73.Kf1 Qf5+ 74.Kg1 Qc5+ 75.Kh2 Qd6+ 76.Kh1 Qa3
+77.Qd2 Qa1+ 78.Kh2 Qa3 79.Qd7+ Kh6 80.Qc7 g5
+81.Kg1 Kg6 82.Qb6 Qa1+ 83.Kf2 Qa2+ 84.Kf3 Qc4
+85.Qb1+ f5 86.Qe1 g4+ 87.hxg4 fxg4+ 88.Kf2 Qc5+
+89.Kf1 g3 90.Qe6+ Kg5 91.Qg8+ Kh5 92.Qf7+ Kg4
+93.Qg6+ Kf4 94.Qf6+ Kg4 95.Qg6+ Kf4 96.Qf6+ Kg4
+97.Qf3+ Kg5 98.Ke2 Qb5+ 99.Ke3 Qe5+ 100.Kd3 h3
+101.gxh3 Qb5+ 102.Ke3 Qb3+ 103.Ke2 Qc4+ 104.Ke1 Kh4
+105.a6 Qc1+ 106.Ke2 Qc2+ 107.Kf1 Qb1+ 108.Kg2 Qa2+
+109.Kg1 Qh2+ 110.Kf1 Qxh3+ 111.Kg1 Qh2+ 112.Kf1 Qh3+
+113.Kg1 Qh2+ 114.Kf1 Qh3+ 115.Ke1 Qe6+ 116.Qe2 Qf6
+117.Qe4+ Kh3 118.Qh7+ Kg4 119.Qe4+ Kg5 120.Qe3+ Kg4
+121.a7 Qa1+ 122.Ke2 Qa2+ 123.Kf1 Qb1+ 124.Kg2 Qc2+
+125.Kf1 Qb1+ 126.Ke2 Qa2+ 127.Ke1 Qb1+ 128.Kd2 Qb2+
+129.Kd3 Qa3+ 130.Kd2 Qb2+ 131.Kd3 Qa3+ 132.Ke4 Qe7+
+133.Kd3 Qa3+ 134.Ke4 Qe7+ 135.Kd3 Qa3+ 136.Kd2 Qb2+
+137.Kd1 Qb1+ 138.Qc1 Qxc1+ 139.Kxc1 g2 140.a8=Q g1=Q+
+141.Kb2 Qf2+ 142.Ka3 Qe3+ 143.Kb2 Qd2+ 144.Ka3 Qc3+
+145.Ka2 Qd2+ 146.Ka3 Qc3+ 147.Ka2 Qd2+ 148.Kb3 Qd3+
+149.Kb2 Qd4+ 150.Kc2 Qc4+ 151.Kd2 Kg3 152.Qa3+ Kg2
+153.Qa8+ Kh3 154.Qh1+ Kg3 155.Qg1+ Kf4 156.Qf2+ Kg4
+157.Qe2+ Qxe2+ 158.Kxe2 1/2-1/2
+
+[Event ""]
+[GID "28"]
+[PlyCount "210"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.N1e2 Nf6 7.c3 Nbd7 8.h4 h6
+9.Nf4 Bh7 10.Bd3 Bxd3 11.Nxd3 e6 12.Nh5 Nxh5
+13.Qxh5 Bd6 14.Be3 Nf6 15.Qf3 Bc7 16.a4 Qd5
+17.Qxd5 Nxd5 18.Bd2 Nf6 19.O-O-O O-O-O 20.Rh3 Rd5
+21.Kc2 Re8 22.Re1 h5 23.Rf3 Rf5 24.Rxf5 exf5
+25.Rxe8+ Nxe8 26.Be3 g6 27.Kb3 Nf6 28.Bf4 Bb6
+29.Ne5 Bc7 30.Nd3 Bb6 31.Kc4 Nd5 32.g3 Bd8
+33.Kb3 Nf6 34.Kc2 Nd5 35.Bd2 Kd7 36.c4 Nc7
+37.Ba5 Bf6 38.Bxc7 Kxc7 39.Kc3 Kd6 40.b4 g5
+41.hxg5 Bxg5 42.f4 Bd8 43.Nc5 Kc7 44.Nd3 a6
+45.c5 b5 46.cxb6+ Kxb6 47.Kc4 h4 48.gxh4 Bxh4
+49.d5 cxd5+ 50.Kxd5 Be7 51.Ke5 Kc6 52.Kd4 Bd6
+53.Ne5+ Kb7 54.Nd3 Kc6 55.Kc4 Kb7 56.Ne5 Kb6
+57.Nd3 Be7 58.Kd5 Kb7 59.Nc5+ Kb6 60.Nd7+ Kc7
+61.Nc5 Kb6 62.Nd3 Kb7 63.Kd4 Kc6 64.Ne5+ Kc7
+65.Nd3 Kc6 66.Kc4 Kb6 67.Ne5 Bd6 68.a5+ Kb7
+69.Nd3 Be7 70.Nc5+ Ka7 71.Nd3 Kb7 72.Kd5 Bf6
+73.Ne5 Be7 74.Nd3 Bf6 75.Nc5+ Ka7 76.Kc4 Be7
+77.Kd5 Bf6 78.Kc6 Bc3 79.Nd3 Bd2 80.Kd7 Kb7
+81.Kd6 Bc3 82.Kc5 Bd2 83.Kc4 Be3 84.Kd5 Bd2
+85.Kc4 Be3 86.Kd5 Bd2 87.Kc5 Be3+ 88.Kc4 Bd2
+89.Kc5 Be3+ 90.Kc4 Bd2 91.b5 Bxa5 92.bxa6+ Kxa6
+93.Nc1 Bc7 94.Ne2 Ka5 95.Kd4 Kb4 96.Nc3 Bb6+
+97.Kd3 Kc5 98.Na4+ Kc6 99.Nxb6 Kxb6 100.Kd4 Kc6
+101.Ke5 Kc5 102.Kxf5 Kd4 103.Kf6 Ke3 104.f5 Kf4
+105.Kxf7 Kxf5 1/2-1/2
+
+[Event ""]
+[GID "29"]
+[PlyCount "124"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "B15"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 c5
+9.O-O Nc6 10.dxc5 Bxc5 11.Qc2 g6 12.Bh6 Re8
+13.Rad1 Qc7 14.h3 Bf8 15.Bf4 Ne5 16.b3 Bd7
+17.Be4 Bc6 18.Bxc6 bxc6 19.Rfe1 a5 20.Qd2 Rad8
+21.Qc2 a4 22.Rxd8 Rxd8 23.bxa4 Ra8 24.Nd4 Nf3+
+25.Nxf3 Qxf4 26.Re4 Qf5 27.Qe2 h5 28.Nd2 Qc8
+29.Nb3 f5 30.Rc4 c5 31.g3 Qc6 32.Nd4 Qd5
+33.Nb3 Rb8 34.a5 Qc6 35.Rf4 Re8 36.Qd1 Bh6
+37.Rf3 c4 38.Nd4 Qa8 39.Qa4 Re1+ 40.Kg2 Qe4
+41.Qc2 Kg7 42.Qb2 Rd1 43.Nc2 Qe2 44.Ne3 Qxb2
+45.Nxd1 Qxa2 46.Ne3 Bxe3 47.Rxe3 Qxa5 48.Kg1 h4
+49.gxh4 Qd5 50.Re1 f4 51.h5 f3 52.Kh2 Qd2
+53.h6+ Kh7 54.Kg3 Qxe1 55.Kxf3 Qxc3+ 56.Kf4 Qd3
+57.f3 c3 58.Kg4 c2 59.h4 c1=Q 60.h5 Qf5+
+61.Kg3 Qg1+ 62.Kh4 Qxh5# 0-1
+
+[Event ""]
+[GID "27"]
+[PlyCount "339"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6
+5.Nxc6 bxc6 6.Bd3 d5 7.Nc3 Bb4 8.exd5 cxd5
+9.O-O O-O 10.Bg5 Be6 11.h3 h6 12.Bh4 c5
+13.Qf3 c4 14.Be2 Rc8 15.Rad1 Re8 16.Bxf6 Qxf6
+17.Nxd5 Qxb2 18.Rb1 Bxd5 19.Rxb2 Bxf3 20.Bxf3 a5
+21.Rd1 Rcd8 22.Rbb1 c3 23.Rxd8 Rxd8 24.Rd1 Rd2
+25.Rxd2 cxd2 26.Kf1 Kf8 27.Ke2 Ke7 28.Bg4 Kd6
+29.f4 Kd5 30.Kd3 Bd6 31.Bf3+ Kc5 32.f5 Bf4
+33.c3 f6 34.Bg4 Kb5 35.Bd1 Kc5 36.h4 Kd5
+37.Bf3+ Ke5 38.Bg4 Kd5 39.h5 Kc5 40.Bd1 Kd5
+41.Bc2 Bg5 42.Bd1 Bf4 43.Bc2 Kc5 44.Bb3 Kb5
+45.Bc2 Kc5 46.Bb3 Kb5 47.Bd1 Kc5 48.Bf3 Kb5
+49.Be2 Ka4 50.g3 Bxg3 51.Kxd2 Ka3 52.Bc4 Kb2
+53.Be6 a4 54.Kd3 Be1 55.Bd7 a3 56.c4 Bb4
+57.Be6 Bc5 58.Bf7 Kxa2 59.Kc2 Ka1 60.Be8 Bf2
+61.Ba4 Bc5 62.Be8 Bf2 63.Bg6 Bg1 64.Bf7 Bc5
+65.Bg6 Bf2 66.Be8 Bc5 67.Ba4 Bg1 68.Bc6 Bf2
+69.Kb3 Bc5 70.Be4 Bd6 71.Bc2 Bc5 72.Be4 Bd6
+73.Bc2 Bc5 74.Bd3 Bd6 75.Be4 Bc5 76.Bc2 Bd6
+77.Be4 Bc5 78.Kc2 Bf2 79.Bd5 Bc5 80.Ba8 Bf2
+81.Bc6 Bc5 82.Bb5 Bg1 83.Ba4 Bf2 84.Bd7 Bg1
+85.Bc6 Bf2 86.Be4 Bc5 87.Bd3 Bg1 88.Bf1 Bc5
+89.Be2 Bg1 90.Bd1 Bc5 91.Bf3 Bf2 92.Ba8 Bc5
+93.Bd5 Bf2 94.Bf3 Bc5 95.Be2 Bg1 96.Bd1 Bc5
+97.Bg4 Ka2 98.Bf3 Ka1 99.Bd1 Ka2 100.Be2 Ka1
+101.Bf1 Bg1 102.Bg2 Bc5 103.Bh1 Ka2 104.Ba8 Ka1
+105.Bc6 Ka2 106.Bb5 Ka1 107.Bd7 Ka2 108.Bc8 Ka1
+109.Bd7 Ka2 110.Kd3 Ka1 111.Kc3 Ka2 112.Kc2 Bg1
+113.c5 Bxc5 114.Bc8 Ka1 115.Be6 Bf2 116.Bc8 Ba7
+117.Bd7 Bc5 118.Be8 Ka2 119.Bf7+ Ka1 120.Bd5 Bd6
+121.Be6 Bc5 122.Bd7 Ba7 123.Bc6 Bc5 124.Bd7 Ba7
+125.Be6 Bc5 126.Bc8 Bf8 127.Bd7 Be7 128.Ba4 Bd8
+129.Bb5 Bc7 130.Ba6 Bf4 131.Bc8 Bg5 132.Bb7 Bh4
+133.Bc8 Bg5 134.Bb7 Bh4 135.Bc6 Be1 136.Be8 Bg3
+137.Bd7 Bc7 138.Be6 Bd8 139.Bc8 Be7 140.Bd7 Bd8
+141.Ba4 Bc7 142.Be8 Bd6 143.Bc6 Bf8 144.Be8 Bd6
+145.Bd7 Bf8 146.Bc8 Bd6 147.Bb7 Bc5 148.Ba6 Bf8
+149.Bc8 Be7 150.Bb7 Bd8 151.Be4 Be7 152.Bf3 Bc5
+153.Bd5 Bb6 154.Be4 Bd8 155.Bd3 Bb6 156.Kb3 Bc5
+157.Be4 Be7 158.Kc2 Bd8 159.Ba8 Be7 160.Bf3 Bc5
+161.Bb7 Bd6 162.Be4 Bc7 163.Bc6 Bd8 164.Ba8 Be7
+165.Bb7 Bd8 166.Ba8 Be7 167.Bb7 Bd8 168.Ba8 Be7
+169.Bb7 Bd8 170.Ba8 1/2-1/2
+
+[Event ""]
+[GID "22"]
+[PlyCount "412"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "E04"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.g3 dxc4
+5.Bg2 Bb4+ 6.Bd2 c5 7.Bxb4 cxb4 8.Ne5 O-O
+9.Nxc4 Nc6 10.e3 Nd5 11.O-O h6 12.Re1 Rb8
+13.a4 bxa3 14.Nbxa3 b5 15.Nd2 Qb6 16.Qe2 Rd8
+17.Rec1 Bd7 18.Nb3 a5 19.Bf1 Nc7 20.Bg2 a4
+21.Nc5 Na5 22.Rab1 Na6 23.Nxd7 Rxd7 24.Rc2 b4
+25.Nc4 Nxc4 26.Rxc4 Rc7 27.Rxc7 Nxc7 28.Ra1 Qa5
+29.Qc2 a3 30.Qb3 Rb6 31.Be4 f5 32.Bd3 Qd5
+33.Bc4 axb2 34.Rb1 Qc6 35.Rxb2 Kh7 36.Ra2 Qf3
+37.h3 Nd5 38.Be2 Qe4 39.Rc2 Nf6 40.Rc5 Qa8
+41.Bc4 Ne4 42.Bxe6 Nxc5 43.dxc5 Rb5 44.Bxf5+ Kh8
+45.e4 Rxc5 46.Qxb4 Qf8 47.Qb6 Rxf5 48.exf5 Qxf5
+49.g4 Qc8 50.Qb5 Qd8 51.Qf5 Kg8 52.Qe4 Qc8
+53.Kg2 Qd8 54.Qf3 Qe7 55.Qf4 Kh8 56.Qb8+ Kh7
+57.Qf4 Qd8 58.Qf7 Qa8+ 59.Qf3 Qd8 60.Qf7 Qa8+
+61.Qf3 Qd8 62.Kh2 Kh8 63.Qf4 Kh7 64.Kg3 Qd3+
+65.Kh2 Qd8 66.Kg3 Qd3+ 67.Kg2 Qd5+ 68.Kg1 Qd1+
+69.Kg2 Qd5+ 70.Kg1 Qd1+ 71.Kh2 Qd8 72.Qf3 Kh8
+73.Kg3 Qd6+ 74.Qf4 Qd1 75.Qf8+ Kh7 76.Qf5+ Kg8
+77.Qf3 Qf1 78.Kh2 Qa6 79.Qd5+ Kh7 80.Qf5+ Kh8
+81.Qf8+ Kh7 82.Qf5+ Kh8 83.Qd5 Kh7 84.Kg3 Qe2
+85.Qf5+ Kg8 86.Qd5+ Kh7 87.Qf3 Qe5+ 88.Qf4 Qe1
+89.Qf5+ Kg8 90.Kg2 Qe2 91.Qd5+ Kh7 92.Qf5+ Kg8
+93.Qf4 Qd3 94.Qb8+ Kh7 95.Qe5 Qc4 96.Qf5+ Kg8
+97.Qf3 Qc8 98.h4 Qe6 99.Kg3 Qd6+ 100.Kh3 Qd8
+101.Kg3 Qd6+ 102.Kh3 Qe6 103.Kg2 Qc4 104.Kg3 Qc7+
+105.Kh3 Qd8 106.Qe4 Qc8 107.Qd5+ Kh8 108.Qf5 Qc6
+109.Qf8+ Kh7 110.Kg3 Qh1 111.Qf5+ Kh8 112.Qf3 Qg1+
+113.Kh3 Kh7 114.Qe4+ Kg8 115.Qa8+ Kh7 116.Qe4+ Kh8
+117.Qa8+ Kh7 118.Qg2 Qe1 119.Qf3 Qg1 120.Qf5+ Kh8
+121.Qf8+ Kh7 122.Qf5+ Kg8 123.Qd5+ Kh7 124.Qg2 Qe1
+125.f3 Qc1 126.Qf2 Kh8 127.Kg2 Kh7 128.Qd4 Qc2+
+129.Kg3 Qc1 130.Qe4+ Kh8 131.Qe8+ Kh7 132.Qe4+ Kh8
+133.Qe8+ Kh7 134.Kg2 Qb2+ 135.Kh3 Qc1 136.Qe4+ Kh8
+137.Qe8+ Kh7 138.Qe4+ Kg8 139.Kg2 Qd2+ 140.Kg3 Qd6+
+141.Kh3 Qd7 142.Qe5 Qd1 143.Qe8+ Kh7 144.Qe4+ Kh8
+145.g5 Qh1+ 146.Kg4 hxg5 147.hxg5 g6 148.Qe8+ Kg7
+149.Qe7+ Kg8 150.Qe6+ Kg7 151.Qe5+ Kg8 152.Qd5+ Kf8
+153.Qd6+ Kg7 154.Qf6+ Kh7 155.Qf7+ Kh8 156.Qf8+ Kh7
+157.Qf7+ Kh8 158.Qe8+ Kg7 159.Qe7+ Kg8 160.Qe6+ Kg7
+161.Qe5+ Kg8 162.Qd5+ Kh7 163.Kf4 Qc1+ 164.Ke4 Qe1+
+165.Kd3 Qb1+ 166.Kc4 Qa2+ 167.Kc5 Qa5+ 168.Kd4 Qa1+
+169.Ke4 Qe1+ 170.Kd3 Qd1+ 171.Kc4 Qa4+ 172.Kd3 Qd1+
+173.Kc4 Qa4+ 174.Kc5 Qa5+ 175.Kd4 Qa1+ 176.Ke3 Qe1+
+177.Kf4 Qh4+ 178.Ke5 Qxg5+ 179.Ke4 Qe7+ 180.Qe5 Qb4+
+181.Kd3 Qb3+ 182.Ke2 Qc2+ 183.Kf1 Qd1+ 184.Kg2 Qc2+
+185.Kg3 Qc1 186.Kg2 Qd2+ 187.Kg3 Qc1 188.f4 Qg1+
+189.Kh3 Qf1+ 190.Kh2 Qf2+ 191.Kh3 Qf3+ 192.Kh4 Qg2
+193.Qe7+ Kh8 194.Qf7 Qh2+ 195.Kg5 Qh5+ 196.Kf6 Qf5+
+197.Ke7 Qxf7+ 198.Kxf7 Kh7 199.Kf6 Kh6 200.Ke6 Kg7
+201.Ke7 Kg8 202.Kf6 Kh7 203.Kf7 Kh6 204.Kg8 Kh5
+205.Kg7 Kg4 206.Kxg6 Kxf4 1/2-1/2
+
+[Event ""]
+[GID "30"]
+[PlyCount "165"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "B10"]
+
+1.e4 c6 2.Nc3 d5 3.Nf3 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.d4 Bd6 7.Bd3 O-O 8.O-O Bg4
+9.Re1 Nd7 10.c4 c5 11.Be4 Qc7 12.h3 Bh5
+13.d5 a6 14.Qc2 Bg6 15.Bd2 b5 16.b3 Rfe8
+17.Bf5 Rab8 18.Bc3 Nf8 19.Nh4 b4 20.Bb2 a5
+21.g3 Nd7 22.Re4 Rxe4 23.Qxe4 a4 24.Re1 Ra8
+25.Qf3 Ne5 26.Qe4 Re8 27.Kf1 axb3 28.axb3 Re7
+29.Ra1 Qb8 30.Kg2 Nd7 31.Qc2 Qb7 32.Bc1 Re1
+33.Ra5 Nf8 34.Bxg6 hxg6 35.Nf3 Re8 36.Qa2 g5
+37.Ra7 Qb8 38.Qa6 Bxg3 39.Rb7 Qd6 40.Rb6 Qc7
+41.d6 Bxd6 42.Rxd6 Re2 43.Qc6 Qxc6 44.Rxc6 Rc2
+45.Be3 Ne6 46.Bxc5 Nf4+ 47.Kg3 Nd3 48.Rc8+ Kh7
+49.Be3 Rb2 50.Nd4 f5 51.Nxf5 Rxb3 52.Kf3 Rc3
+53.Ke4 Nf4 54.Nd6 Kg6 55.Bxf4 gxf4 56.Rb8 f5+
+57.Kxf4 Kf6 58.Ne8+ Ke7 59.Nxg7 Kf6 60.Ne8+ Ke6
+61.Rxb4 Rxh3 62.Ng7+ Kd6 63.Nxf5+ Kc5 64.Ra4 Rh8
+65.Ke4 Re8+ 66.Kd3 Rd8+ 67.Kc3 Rd1 68.Ra5+ Kb6
+69.Rb5+ Ka7 70.Ne3 Re1 71.Kd4 Rh1 72.f4 Ka8
+73.Nd5 Ka7 74.c5 Rh6 75.f5 Rc6 76.Ke5 Rc8
+77.Kd6 Rf8 78.c6 Re8 79.Nc7 Rd8+ 80.Kc5 Rd5+
+81.Nxd5 Ka8 82.Nc7+ Ka7 83.Rb7# 1-0
+
+[Event ""]
+[GID "31"]
+[PlyCount "170"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nd2 e6
+5.Ngf3 c5 6.c3 a6 7.Be2 h6 8.O-O Nc6
+9.a3 Bh7 10.Re1 Rc8 11.Bf1 cxd4 12.cxd4 Nge7
+13.b4 Na7 14.Ra2 Nb5 15.Bb2 Bc2 16.Qa1 Ba4
+17.Qb1 g5 18.h3 Nc6 19.Bxb5 axb5 20.Nh2 h5
+21.Re3 g4 22.Rg3 Bh6 23.Qe1 Bf4 24.Rc3 Qg5
+25.Ndf1 Qg6 26.g3 gxh3 27.Nf3 Kd7 28.Ra1 h4
+29.Bc1 Nxd4 30.Nxd4 Rxc3 31.Qxc3 hxg3 32.Bxf4 h2+
+33.Nxh2 gxh2+ 34.Kh1 Qe4+ 35.Nf3 Qxf4 36.Rc1 Qc4
+37.Qd2 Qe4 38.Qc3 Ra8 39.Re1 Qc4 40.Qd4 Qxd4
+41.Nxd4 Rh8 42.Kg2 Rh5 43.Nf3 Bc2 44.Nxh2 Bf5
+45.f3 Rg5+ 46.Kf2 Bh3 47.Re2 Rg2+ 48.Ke1 Rg1+
+49.Kf2 Ra1 50.f4 Rxa3 51.Re3 Ra2+ 52.Re2 Ra8
+53.Nf3 Bg4 54.Rb2 Bxf3 55.Kxf3 Ra3+ 56.Kg4 Re3
+57.Rd2 Rb3 58.Rd4 Rb2 59.Kf3 Ke7 60.Kg3 Rb3+
+61.Kh4 f6 62.exf6+ Kxf6 63.Kg4 Rb1 64.Rd2 Rxb4
+65.Rh2 Ke7 66.Rh7+ Kd6 67.Kf3 Re4 68.Rxb7 b4
+69.Kf2 Kc5 70.Kf3 Kc4 71.Rc7+ Kd4 72.Rb7 Kc3
+73.Rc7+ Rc4 74.Re7 b3 75.Rxe6 b2 76.Rb6 Rb4
+77.Rc6+ Kb3 78.Re6 b1=Q 79.Re3+ Kc4 80.Re5 Qg1
+81.Re3 Rb2 82.Re4+ Kc5 83.Rc4+ Kxc4 84.f5 Rf2+
+85.Ke3 Qg3# 0-1
+
+[Event ""]
+[GID "32"]
+[PlyCount "161"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.a4 a5 15.Bd3 g6 16.Nd2 Ng7
+17.Nf3 c6 18.Bh6 Be7 19.Qe3 Nf5 20.Bxf5 Bxf5
+21.h3 f6 22.Re1 Bd6 23.Nh4 Bd7 24.Bf4 Bxf4
+25.Qxf4 Rc8 26.Nf3 Bf5 27.Re2 b6 28.Nd2 Qc7
+29.Qxc7 Rxc7 30.Re8+ Kf7 31.Rb8 Bc2 32.Rxb6 Bxa4
+33.Ra6 Rb7 34.Rxa5 Rxb2 35.Rxa4 Rxd2 36.Ra7+ Ke6
+37.Rc7 Rc2 38.Rxc6+ Kf5 39.g3 Ke4 40.h4 Kd3
+41.Rc7 h5 42.Rc5 Rxc3 43.Rxd5 Ke4 44.Rd6 Kf5
+45.Rd5+ Ke6 46.Ra5 Rc4 47.Ra6+ Kf5 48.Rd6 Rb4
+49.Kg2 Ra4 50.Kf1 Rb4 51.Rd8 Rb1+ 52.Kg2 Rb4
+53.Kh3 Rb3 54.Rd5+ Ke6 55.Ra5 Rb4 56.Ra6+ Kf5
+57.Rd6 Ra4 58.Kg2 Rb4 59.Kh3 Ra4 60.Kg2 Rb4
+61.Rd8 Ra4 62.Kf3 Ra3+ 63.Kg2 Ra4 64.Kh3 Ra2
+65.f4 Ke4 66.Rg8 Kf3 67.Rxg6 Ra1 68.Kh2 Ra2+
+69.Kh3 Ra1 70.Kh2 Ra2+ 71.Kh1 Ra3 72.d5 Ra1+
+73.Kh2 Ra2+ 74.Kh1 Ra1+ 75.Kh2 Ra2+ 76.Kh1 Ra1+
+77.Kh2 Ra2+ 78.Kg1 Ra1+ 79.Kh2 Ra2+ 80.Kg1 Ra1+
+81.Kh2 1/2-1/2
+
+[Event ""]
+[GID "33"]
+[PlyCount "129"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Qc7 6.h3 e6 7.Nf3 Bd6 8.O-O Nge7
+9.Nbd2 O-O 10.Re1 Bd7 11.a3 Nf5 12.Nf1 Rae8
+13.Ne3 Nxe3 14.Bxe3 h6 15.Bd2 Re7 16.Qe2 e5
+17.dxe5 Nxe5 18.Nxe5 Bxe5 19.Bf4 Rfe8 20.Bxe5 Rxe5
+21.Qd2 Ba4 22.Re2 Rxe2 23.Bxe2 Qe5 24.Bf3 Bb3
+25.a4 b6 26.a5 Qb8 27.Be2 bxa5 28.Rxa5 Qc7
+29.Rb5 Bc4 30.Bxc4 dxc4 31.Rd5 Qc6 32.Rd6 Qe4
+33.Rd4 Qc6 34.Qf4 Qb5 35.Rxc4 Qxb2 36.Rc7 Rf8
+37.Qd4 a5 38.g3 Qb8 39.Rd7 Qb1+ 40.Kh2 Qf5
+41.Rd5 Qf3 42.Rxa5 Re8 43.Ra1 Re4 44.Qc5 Rc4
+45.Qxc4 Qxf2+ 46.Kh1 Qf3+ 47.Kg1 Qxg3+ 48.Kf1 Qf3+
+49.Kg1 Qg3+ 50.Kh1 Qxh3+ 51.Kg1 Qg3+ 52.Kh1 Qh3+
+53.Kg1 Qg3+ 54.Kf1 Qf3+ 55.Ke1 Qe3+ 56.Kd1 Qg1+
+57.Kd2 Qxa1 58.Qc8+ Kh7 59.Qf5+ g6 60.Qxf7+ Kh8
+61.Qxg6 Qb2+ 62.Kd1 Qxc3 63.Qxh6+ Kg8 64.Qd2 Qxd2+
+65.Kxd2 1/2-1/2
+
+[Event ""]
+[GID "36"]
+[PlyCount "207"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.N1e2 Nf6 7.c3 Nbd7 8.h4 h6
+9.Nf4 Bh7 10.Bd3 Bxd3 11.Nxd3 e6 12.Nh5 Nxh5
+13.Qxh5 Be7 14.Qg4 Nf6 15.Qxg7 Rg8 16.Qxh6 Qd5
+17.Ke2 Rxg2 18.Bg5 Ne4 19.Qh8+ Bf8 20.Rhg1 Ng3+
+21.Kd2 Ne4+ 22.Ke2 Ng3+ 23.Kd2 Ne4+ 24.Kc2 Nxf2
+25.Rxg2 Qxg2 26.Nf4 Qe4+ 27.Kb3 Qf5 28.Qe5 Qxe5
+29.dxe5 Ne4 30.Re1 Nxg5 31.hxg5 Rd8 32.g6 Bg7
+33.Rg1 Rd7 34.gxf7+ Rxf7 35.Nd3 Bf8 36.Rg6 Rf3
+37.Kc4 Kf7 38.Rg4 Be7 39.b3 b5+ 40.Kd4 Rf5
+41.Rf4 Kg6 42.Rg4+ Kf7 43.a4 bxa4 44.bxa4 Rh5
+45.Kc4 a5 46.Rd4 Ke8 47.Rg4 Kf7 48.Kd4 Rh1
+49.Rf4+ Kg7 50.Nc5 Kg6 51.Nxe6 Rd1+ 52.Kc4 Rd5
+53.Kb3 Rxe5 54.Nd4 Rc5 55.Nf3 Rd5 56.Rc4 Bc5
+57.Rf4 Rh5 58.Re4 Kf6 59.Nd2 Rd5 60.Rc4 Kf5
+61.Ne4 Bd6 62.Nxd6+ Rxd6 63.Rh4 Rd1 64.Kc4 Rc1
+65.Rh6 Ra1 66.Kb3 Ke5 67.Rxc6 Kd5 68.Rh6 Rb1+
+69.Kc2 Re1 70.Rh5+ Kc4 71.Rh4+ Kc5 72.Rh6 Kc4
+73.Rc6+ Kd5 74.Rh6 Kc4 75.Rc6+ Kd5 76.Rc8 Ra1
+77.Kb3 Rb1+ 78.Ka2 Rb7 79.Ka3 Rb1 80.Ka2 Rb7
+81.Rd8+ Kc4 82.Ra8 Kxc3 83.Rc8+ Kb4 84.Kb2 Kxa4+
+85.Ka2 Rh7 86.Rc4+ Kb5 87.Rc8 a4 88.Rc3 Kb4
+89.Rf3 Rh2+ 90.Ka1 Kc5 91.Rg3 Kc4 92.Rg4+ Kb3
+93.Rg3+ Kb4 94.Rg8 a3 95.Rg3 Rh1+ 96.Ka2 Rh2+
+97.Ka1 Rh1+ 98.Ka2 Rh2+ 99.Kb1 Rh1+ 100.Ka2 Rh2+
+101.Ka1 Rh1+ 102.Ka2 Rh2+ 103.Kb1 Rh1+ 104.Ka2 1/2-1/2
+
+[Event ""]
+[GID "35"]
+[PlyCount "239"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 c5
+9.dxc5 Bxc5 10.Qc2 g6 11.O-O Nc6 12.Bf4 Qe7
+13.Bg3 Be6 14.Nf4 Rac8 15.a4 Rfd8 16.Nxe6 Qxe6
+17.Rfe1 Ne5 18.Rad1 Kg7 19.Kf1 Qc6 20.Bxe5 fxe5
+21.Rxe5 Qf6 22.Ree1 h5 23.g3 h4 24.Be4 Rxd1
+25.Rxd1 b6 26.Bd5 a5 27.Qe2 Rd8 28.Rd3 Qf5
+29.Be4 Qg5 30.Rxd8 Qxd8 31.Qd3 Qe8 32.b3 Qe7
+33.Bd5 Bd6 34.Qf3 hxg3 35.hxg3 Kg8 36.Kg2 Kg7
+37.Kf1 Kg8 38.g4 Kg7 39.g5 Kg8 40.Bc4 Kg7
+41.Bd5 Kg8 42.Bc4 Be5 43.b4 Qc7 44.Bb3 axb4
+45.cxb4 Qc1+ 46.Ke2 Qb2+ 47.Kf1 Qc1+ 48.Ke2 Qb2+
+49.Kd1 Qd4+ 50.Ke1 Qxb4+ 51.Kf1 Qf4 52.Ke2 Kg7
+53.Bd5 Bd6 54.Qc3+ Kg8 55.Qf3 Kf8 56.Bb3 Qe5+
+57.Kf1 Qe7 58.Qa8+ Kg7 59.Qd5 Be5 60.Qc4 Qxg5
+61.Qxf7+ Kh6 62.Qf8+ Kh7 63.Bg8+ Kh8 64.Bd5+ Kh7
+65.Bg8+ Kh8 66.Bd5+ Kh7 67.Qg8+ Kh6 68.Be4 Qf6
+69.Qc4 Bg3 70.f3 Bf4 71.Bc2 Qd6 72.Qe4 Kg7
+73.Bd3 Bg5 74.Bc2 Bf4 75.Bd3 Bg5 76.Kg2 Bf4
+77.Kf2 Kh7 78.Ke2 Kg7 79.Bb5 Qd2+ 80.Kf1 Bg3
+81.Qe7+ Kh6 82.Qe2 Qd4 83.Kg2 Qh4 84.Qe3+ Kh5
+85.Qxb6 Qh2+ 86.Kf1 Qh1+ 87.Ke2 Qe1+ 88.Kd3 Qd1+
+89.Kc4 Qf1+ 90.Kd5 Qxf3+ 91.Ke6 Qf5+ 92.Ke7 Bh4+
+93.Kd6 Bf2 94.Qc6 Qf8+ 95.Kc7 Qg7+ 96.Kc8 Qf8+
+97.Kb7 Qf7+ 98.Qc7 Qxc7+ 99.Kxc7 Be1 100.Kd6 Kg4
+101.Ke5 Kf3 102.Kf6 Kf4 103.a5 Bxa5 104.Kxg6 Bd8
+105.Bc6 Ba5 106.Bg2 Bd2 107.Kh5 Kg3 108.Bb7 Kh2
+109.Kg4 Ba5 110.Kf3 Bd8 111.Kf4 Ba5 112.Kg4 Be1
+113.Kh5 Ba5 114.Kg4 Be1 115.Kh5 Ba5 116.Kg4 Be1
+117.Kh5 Ba5 118.Kg4 Be1 119.Kh5 Ba5 120.Kg4 1/2-1/2
+
+[Event ""]
+[GID "38"]
+[PlyCount "145"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Bd3 Qxd4 8.Nf3 Qd6
+9.Bxg6 Qxg6 10.Be3 Nd7 11.Qxd7+ Kxd7 12.Ne5+ Ke8
+13.Nxg6 fxg6 14.O-O-O e6 15.Rhe1 Nf6 16.Bd4 Be7
+17.Rxe6 Kf7 18.Re3 Rad8 19.c3 Rhe8 20.Kc2 b6
+21.Rf3 Kg8 22.Bxf6 Bxf6 23.Rf4 Rxd1 24.Kxd1 Re5
+25.Ra4 h5 26.Nf1 Rb5 27.Kc2 Rf5 28.f3 Re5
+29.Kd2 b5 30.Rxa7 Bxh4 31.g3 Bf6 32.Rc7 Re6
+33.b3 Rd6+ 34.Kc2 g5 35.a4 bxa4 36.bxa4 Kh7
+37.Nd2 h4 38.Ne4 Bd8 39.Rc8 Rd5 40.c4 Rd7
+41.g4 h3 42.Rxd8 Rxd8 43.Nxg5+ Kg6 44.Nxh3 Re8
+45.Kd3 Ra8 46.f4 Rxa4 47.Kd4 Kf6 48.Ng5 Ra3
+49.Ne4+ Ke7 50.f5 Ra5 51.Ke3 Ke8 52.Kd4 Ke7
+53.Ke3 Ke8 54.Kd4 Ra2 55.Ke5 Ke7 56.Kd4 Ke8
+57.Ke5 Rg2 58.g5 Kf7 59.Kd6 Rg4 60.Ke5 Rg1
+61.Kd6 Rg4 62.Ke5 Kf8 63.f6 g6 64.Kd4 Kf7
+65.Ke5 Rg2 66.Kd6 Rg4 67.Ke5 Rg2 68.Kd6 Rg4
+69.Ke5 Rg2 70.Kd6 Rg4 71.Ke5 Rg2 72.Kd6 Rg4
+73.Ke5 1/2-1/2
+
+[Event ""]
+[GID "37"]
+[PlyCount "330"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.Nf3 Bd6 7.Bd3 O-O 8.O-O Bg4
+9.h3 Bh5 10.Re1 Na6 11.Bxa6 bxa6 12.Qd3 Qc7
+13.Nh4 Rfd8 14.Bd2 Rab8 15.Bc3 a5 16.Re3 Rb5
+17.Rae1 Qd7 18.Qc4 Bf8 19.Qa4 Rdb8 20.a3 Rc8
+21.Rd3 Qb7 22.b3 g5 23.g4 Bxg4 24.hxg4 gxh4
+25.d5 Rxd5 26.Rf3 Qd7 27.Qf4 Bg7 28.Bxf6 Bxf6
+29.Qxf6 Qxg4+ 30.Kh2 Rg5 31.Qxf7+ Kh8 32.Re8+ Rxe8
+33.Qxe8+ Rg8 34.Qe5+ Qg7 35.Qxg7+ Kxg7 36.Kh3 a4
+37.b4 Ra8 38.Rf5 Kg6 39.Rc5 Rf8 40.Rxc6+ Kh5
+41.Rc5+ Kg6 42.Kxh4 Rxf2 43.Rg5+ Kf6 44.Rc5 Rd2
+45.Rc7 h5 46.Kxh5 a5 47.b5 Rd5+ 48.Kg4 Rxb5
+49.Kf4 Rh5 50.Rc3 Ke6 51.Ke3 Kd5 52.Kd2 Rh1
+53.Rc8 Kd4 54.Rd8+ Kc5 55.Rd3 Kb5 56.Rf3 Kc4
+57.Rf4+ Kb5 58.Rf5+ Kb6 59.Rf3 Ra1 60.Rd3 Kc5
+61.Ke3 Kc4 62.Kd2 Kb5 63.Ke2 Rh1 64.Rg3 Kc4
+65.Re3 Rh2+ 66.Kd1 Kb5 67.Kc1 Rh1+ 68.Kb2 Rh5
+69.Kc3 Rc5+ 70.Kd2 Rh5 71.Rf3 Rd5+ 72.Ke2 Rc5
+73.Kd2 Ka6 74.Rh3 Kb6 75.Rh4 Kb5 76.Rh3 Rd5+
+77.Kc3 Rc5+ 78.Kd2 Rd5+ 79.Kc1 Rc5 80.Rh4 Rg5
+81.Rh1 Rg2 82.Rh5+ Ka6 83.Rh8 Kb5 84.Rh4 Rg1+
+85.Kb2 Rg3 86.Rh5+ Ka6 87.Rh6+ Kb5 88.Rh5+ Kb6
+89.Rh4 Kb5 90.Rh2 Kb6 91.Rh6+ Kb5 92.Ka2 Rg5
+93.Rh4 Rc5 94.Kb2 Rf5 95.Kb1 Rf2 96.Kb2 Rg2
+97.Rd4 Rg7 98.c4+ Kb6 99.Kc3 Rg5 100.Rd6+ Kc5
+101.Rd8 Rh5 102.Rc8+ Kb6 103.Rb8+ Ka6 104.Rd8 Rh3+
+105.Rd3 Rh1 106.Kd4 Kb6 107.Rf3 Rh4+ 108.Kc3 Kb7
+109.Rf7+ Kc6 110.Rf3 Kb6 111.Re3 Kc5 112.Re5+ Kb6
+113.Rb5+ Ka6 114.Rb8 Rh3+ 115.Kb2 Rh2+ 116.Ka1 Ka7
+117.Rb2 Rh3 118.Ka2 Rc3 119.c5 Rxc5 120.Rh2 Rc3
+121.Kb2 Rb3+ 122.Ka2 Rf3 123.Rh6 Rg3 124.Rc6 Rg2+
+125.Ka1 Rh2 126.Rc3 Rh4 127.Rg3 Rh1+ 128.Kb2 Rh4
+129.Kc3 Kb7 130.Rf3 Rh1 131.Rd3 Kc8 132.Kc4 Kb7
+133.Kc5 Kc7 134.Re3 Rh5+ 135.Kc4 Kd6 136.Rd3+ Ke6
+137.Rf3 Ke7 138.Kc3 Rh8 139.Kb2 Rh2+ 140.Kc1 Kd6
+141.Rf5 Kc6 142.Re5 Rh1+ 143.Kb2 Rh2+ 144.Kb1 Kd7
+145.Rd5+ Kc6 146.Rd8 Kb5 147.Rc8 Rh3 148.Rb8+ Kc4
+149.Ka2 Rh2+ 150.Rb2 Rxb2+ 151.Kxb2 Kd3 152.Kc1 Kc3
+153.Kd1 Kb2 154.Kd2 Kxa3 155.Kc3 Ka2 156.Kc2 Ka1
+157.Kc1 a3 158.Kc2 Ka2 159.Kc1 Ka1 160.Kc2 Ka2
+161.Kc1 Ka1 162.Kc2 Ka2 163.Kc1 Ka1 164.Kc2 Ka2
+165.Kc1 Ka1 1/2-1/2
+
+[Event ""]
+[GID "34"]
+[PlyCount "350"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nc3 a6 7.Be2 b5 8.d4 b4
+9.Na4 Nxd5 10.Bf3 N7f6 11.Ne2 e6 12.O-O Ra7
+13.Nf4 Be7 14.Nc5 O-O 15.Bd2 a5 16.Nxd5 Nxd5
+17.a3 Rc7 18.axb4 axb4 19.Ra5 Bf6 20.Bxd5 Qxd5
+21.Bxb4 Qxd4 22.Qxd4 Bxd4 23.Nb3 Rd8 24.Nxd4 Rxd4
+25.Bc3 Rd5 26.Rxd5 exd5 27.Rd1 Be6 28.f3 f6
+29.Kf2 h5 30.Ke3 Kf7 31.Ra1 Rc4 32.Ra7+ Kg6
+33.Ra6 Kf7 34.Ra7+ Kg6 35.Re7 Bf5 36.g3 Bc8
+37.h4 Bh3 38.Re8 d4+ 39.Bxd4 Rc1 40.Kf4 Rf1
+41.Re7 Bg4 42.Re3 Bd7 43.Rc3 Rb1 44.Rc7 Be6
+45.Ke4 Bh3 46.Ke3 Bg2 47.Rc2 Bh3 48.Rc7 Bg2
+49.Rc2 Bh3 50.Rd2 Bc8 51.Rd3 Bf5 52.Ra3 Be6
+53.Ra5 Bh3 54.Ke2 Bf1+ 55.Kf2 Bh3 56.Ra4 Be6
+57.Ra3 Rd1 58.Ke3 Re1+ 59.Kd2 Rb1 60.Ke2 Bd5
+61.Ra5 Bc4+ 62.Ke3 Rg1 63.Kf4 Rb1 64.Ke4 Be6
+65.Ra6 Re1+ 66.Be3 Bf5+ 67.Kf4 Rb1 68.Bd4 Bc8
+69.Ra7 Be6 70.Ra5 Bf7 71.Ke4 Be6 72.Ra6 Re1+
+73.Be3 Bf5+ 74.Kf4 Rb1 75.Bd4 Bc8 76.Rb6 Rc1
+77.Ke3 Bh3 78.Kd2 Rf1 79.Ke2 Rc1 80.Rd6 Bg2
+81.Rb6 Bh1 82.Rb3 Rc2+ 83.Ke1 Rc4 84.Bf2 Rc2
+85.g4 hxg4 86.fxg4 Rc4 87.Rh3 Bc6 88.g5 fxg5
+89.hxg5 Kxg5 90.Rg3+ Rg4 91.Rc3 Bh1 92.Rc5+ Kf6
+93.Kd2 Ke6 94.Kc3 g5 95.b4 Rf4 96.Be3 Rf5
+97.Rxf5 Kxf5 98.Kd4 Bb7 99.Bf2 g4 100.Bg3 Ba6
+101.b5 Bxb5 102.Ke3 Ke6 103.Kf2 Ba4 104.Kg2 Bd1
+105.Kf1 Kd5 106.Kf2 Kc5 107.Kg2 Bf3+ 108.Kg1 Be2
+109.Bb8 Kc6 110.Ba7 Bc4 111.Kf2 Kb7 112.Bd4 Kc6
+113.Kg3 Be6 114.Be5 Kb5 115.Bf4 Kc4 116.Bg5 Kc3
+117.Bh4 Kc2 118.Bd8 Kd2 119.Bb6 Bc8 120.Bc7 Ke3
+121.Bf4+ Kd4 122.Bd2 Kd3 123.Be1 Kc2 124.Bf2 Kc3
+125.Bg1 Kd3 126.Bb6 Kd2 127.Bd8 Ke1 128.Bg5 Be6
+129.Bf4 Ke2 130.Bh6 Bc8 131.Bc1 Kd1 132.Bh6 Be6
+133.Be3 Ke2 134.Bg1 Bc8 135.Bd4 Kd2 136.Bf6 Ke2
+137.Bh4 Be6 138.Bd8 Bf5 139.Bb6 Be6 140.Ba5 Kd1
+141.Bd8 Bc8 142.Bc7 Be6 143.Bb8 Ke2 144.Ba7 Kd2
+145.Bd4 Kd3 146.Ba7 Kc3 147.Be3 Bc8 148.Bg1 Kd3
+149.Bc5 Kc4 150.Be3 Kc3 151.Ba7 Kd3 152.Bb6 Kd2
+153.Bc7 Kd3 154.Be5 Kc4 155.Bd6 Kd5 156.Bf4 Bd7
+157.Bc1 Bc8 158.Bg5 Kd4 159.Bf6+ Kd3 160.Be5 Kc4
+161.Bd6 Kd5 162.Kh2 Kxd6 163.Kg3 Ke5 164.Kf2 Ba6
+165.Ke3 Bb5 166.Kf2 Kf4 167.Ke1 Ke3 168.Kd1 Bc4
+169.Kc2 Kd4 170.Kb2 g3 171.Kc2 g2 172.Kb2 g1=Q
+173.Kc2 Qf2+ 174.Kc1 Kc3 175.Kd1 Qg1# 0-1
+
+[Event ""]
+[GID "40"]
+[PlyCount "81"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Ba4 b5 8.Bb3 Bb7
+9.O-O Bxd5 10.Bxd5 Nxd5 11.Nc3 N7f6 12.a4 b4
+13.Nxd5 Qxd5 14.b3 e6 15.Bb2 Be7 16.Rc1 O-O
+17.Rc7 Bd6 18.Rc4 e5 19.Re1 Rfe8 20.Qc2 h6
+21.Bxe5 Bxe5 22.Rc5 Bxh2+ 23.Kxh2 Qd6+ 24.Kg1 Rxe1+
+25.Nxe1 Rd8 26.d3 Nd5 27.Qc4 Nc3 28.Rc6 Qe5
+29.Nf3 Qf5 30.Rxa6 Qh5 31.Qxb4 Ne2+ 32.Kf1 Re8
+33.Qh4 Qd5 34.Qc4 Qh5 35.Qh4 Qd5 36.Qc4 Qh5
+37.Qh4 Qd5 38.Qc4 Qh5 39.Qh4 Qd5 40.Qc4 Qh5
+41.Qh4 1/2-1/2
+
+[Event ""]
+[GID "39"]
+[PlyCount "122"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.Bd3 Bxd3
+9.Qxd3 Ngf6 10.Bf4 e6 11.O-O-O Be7 12.Kb1 O-O
+13.Ne4 Nxe4 14.Qxe4 Nf6 15.Qe2 Qd5 16.Ne5 Qe4
+17.Qxe4 Nxe4 18.Be3 Rfd8 19.c3 Rac8 20.Kc2 Rd5
+21.Nd3 h5 22.g3 Bd6 23.Rhe1 Rf5 24.Bf4 Bxf4
+25.Rxe4 Bc7 26.a4 a5 27.Re3 Bd6 28.f4 Rd5
+29.Ne5 Bc7 30.Nf3 Rdd8 31.Nd2 Kf8 32.Ne4 b6
+33.b4 axb4 34.cxb4 Bd6 35.Nxd6 Rxd6 36.Re5 g6
+37.a5 bxa5 38.Rxa5 Rc7 39.Kb3 Ke7 40.Kc4 Rcd7
+41.Kc5 Rb7 42.Rda1 Rbd7 43.Ra7 Rd5+ 44.Kxc6 R5d6+
+45.Kc5 Rd5+ 46.Kc4 Rxd4+ 47.Kc5 R4d5+ 48.Kb6 R5d6+
+49.Kc5 Rd5+ 50.Kb6 R5d6+ 51.Kc5 Rd5+ 52.Kc6 R5d6+
+53.Kb5 Rd5+ 54.Kc6 R5d6+ 55.Kb5 Rd5+ 56.Kc6 R5d6+
+57.Kb5 Rd5+ 58.Kc6 R5d6+ 59.Kc5 Rd5+ 60.Kb6 R5d6+
+61.Kc5 Rd5+ 1/2-1/2
+
+[Event ""]
+[GID "42"]
+[PlyCount "131"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.c3 Nd7 7.N1e2 e5 8.h4 h6
+9.dxe5 Nxe5 10.Qxd8+ Kxd8 11.Nf4 Bh7 12.Be3 Kc7
+13.Be2 Re8 14.O-O Nd7 15.Bc4 g5 16.hxg5 hxg5
+17.Nfe2 Ne5 18.Bb3 Be7 19.Bd4 Bd6 20.Rad1 Nh6
+21.Bxa7 Nf5 22.Nxf5 Bxf5 23.Bd4 c5 24.Bxe5 Rxe5
+25.Rfe1 Bg6 26.Ng3 Rxe1+ 27.Rxe1 b5 28.Bd5 c4
+29.Nf1 g4 30.g3 Rd8 31.Bg2 Bc5 32.Re5 Kb6
+33.b4 cxb3 34.axb3 Rd3 35.b4 Bd6 36.Re3 Rd1
+37.Be4 Bxe4 38.Rxe4 Rc1 39.Rxg4 Rxc3 40.Rh4 Kc6
+41.Rh6 Kd7 42.Rh5 Kc6 43.Rh6 Rc1 44.Kg2 Kd7
+45.Rf6 Bxb4 46.Rxf7+ Kc6 47.Rf6+ Kc5 48.Rf5+ Kc6
+49.Rf6+ Kd7 50.Rf3 Bc3 51.Rd3+ Kc6 52.Ne3 b4
+53.f4 Kb5 54.Kf3 b3 55.Nd1 Kc4 56.Ke4 b2
+57.Rxc3+ Kb4 58.Nxb2 Kxc3 59.Na4+ Kb4 60.Nb2 Rg1
+61.f5 Rxg3 62.f6 Rg6 63.Nd3+ Kc3 64.Nf4 Rxf6
+65.Nd5+ Kc4 66.Nxf6 1/2-1/2
+
+[Event ""]
+[GID "45"]
+[PlyCount "92"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Be2 g6 8.O-O Nb6
+9.Re1 Bg7 10.d4 Nbxd5 11.Nc3 O-O 12.Ne5 Be6
+13.Bf3 Rc8 14.Na4 b6 15.a3 Qd6 16.Qe2 Bd7
+17.Qd1 e6 18.Bd2 Rfd8 19.h3 Bb5 20.Nc3 Be8
+21.Nxd5 Nxd5 22.Rc1 h6 23.Qb3 Rxc1 24.Rxc1 g5
+25.Nc4 Qd7 26.Ne5 Qd6 27.Rd1 a5 28.Re1 Rc8
+29.a4 Ne7 30.Bc3 Qd8 31.Rd1 Nd5 32.Bd2 Rb8
+33.Ra1 Ne7 34.Bc3 Nd5 35.Bd2 b5 36.axb5 Rxb5
+37.Qd1 Ne7 38.Bc3 Nd5 39.Be1 Nf4 40.Bc3 Nd5
+41.Be1 Ne7 42.Bc3 Nd5 43.Be1 Ne7 44.Bc3 Nd5
+45.Be1 Ne7 46.Bc3 Nd5 1/2-1/2
+
+[Event ""]
+[GID "43"]
+[PlyCount "188"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 c5
+9.dxc5 Bxc5 10.Qc2 g6 11.O-O Re8 12.Nf4 Nc6
+13.h3 Qe7 14.b4 Bd6 15.Be3 Rd8 16.Rad1 Bxf4
+17.Bxf4 Be6 18.Rfe1 Rac8 19.a3 Ne5 20.Bxe5 fxe5
+21.Rxe5 Qf6 22.Rde1 Bb3 23.Qxb3 Rxd3 24.Re8+ Rxe8
+25.Rxe8+ Kg7 26.Re3 Rxe3 27.fxe3 b5 28.Qb2 Kg8
+29.Qc1 Qe6 30.Kh2 Qd6+ 31.Kh1 Qe6 32.Kh2 Qd5
+33.Kg3 Qa2 34.Kf3 Qd5+ 35.Kf2 Qa2+ 36.Kf3 Qd5+
+37.Kg3 Qa2 38.e4 Qe2 39.Qg5 Qe1+ 40.Kh2 Qxc3
+41.Qxb5 Qxa3 42.Qe8+ Kg7 43.Qe5+ Kg8 44.Qb8+ Kg7
+45.Qe5+ Kg8 46.b5 Qe3 47.Qb8+ Kg7 48.Qe5+ Kh6
+49.Qf6 Qxe4 50.Qxf7 Qe5+ 51.Kg1 Qe1+ 52.Kh2 Qe5+
+53.Kg1 Qe1+ 54.Kh2 Qe5+ 55.g3 Qe2+ 56.Kh1 Qe1+
+57.Kg2 Qe2+ 58.Kg1 Qe3+ 59.Qf2 Qe5 60.Kh2 Qxb5
+61.Qf8+ Kh5 62.Qf3+ Kh6 63.Qf8+ Kh5 64.Qf3+ Kh6
+65.Qf4+ Kg7 66.Qd4+ Kh6 67.Qf4+ Kg7 68.Qd4+ Kh6
+69.Qh4+ Qh5 70.Qf4+ Kg7 71.Qc7+ Kf6 72.Qd6+ Kf7
+73.Qd7+ Kf6 74.Qd6+ Kf7 75.Qd7+ Kf6 76.Qxa7 Qe2+
+77.Kg1 h5 78.Qd4+ Ke6 79.Qb6+ Kf7 80.Qf2+ Qxf2+
+81.Kxf2 Kf6 82.h4 Ke5 83.Ke3 Kf6 84.Kf4 Ke6
+85.Kg5 Kf7 86.Kf4 Ke6 87.Kg5 Kf7 88.g4 hxg4
+89.Kxg4 Kg7 90.Kf4 Kh6 91.Kg4 Kg7 92.Kf4 Kh6
+93.Kg3 g5 94.hxg5+ Kxg5 1/2-1/2
+
+[Event ""]
+[GID "41"]
+[PlyCount "210"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Qc7 6.Ne2 e5 7.dxe5 Nxe5 8.Bb5+ Bd7
+9.Bxd7+ Qxd7 10.Bf4 Ng6 11.Be3 Bd6 12.Nd2 N8e7
+13.Nf3 O-O 14.O-O Nf5 15.Qd3 Rfe8 16.Bd2 Rad8
+17.Ng3 Nfe7 18.Rfe1 Bc7 19.Rad1 a6 20.Bg5 f6
+21.Be3 Nc6 22.Qc2 Nge5 23.Nxe5 Rxe5 24.Rf1 Ree8
+25.Rd2 Qf7 26.b3 h5 27.Ne2 f5 28.Bg5 Rd7
+29.g3 Ne5 30.Kg2 Ng6 31.Nd4 f4 32.Re2 Rxe2
+33.Qxe2 Be5 34.Re1 Rc7 35.Qd3 Bxd4 36.cxd4 Rc6
+37.Kf1 Rc8 38.Qe2 fxg3 39.hxg3 Nf8 40.Kg2 Nh7
+41.Bf4 Nf6 42.Qd3 Ne4 43.f3 Rc3 44.Qe2 Nf6
+45.Qd2 Rc6 46.Rc1 Rxc1 47.Qxc1 Qg6 48.Qc8+ Kh7
+49.Be5 Qd3 50.Bxf6 gxf6 51.Qxb7+ Kh6 52.Qe7 Qd2+
+53.Kh3 Qxd4 54.Qe8 Qd1 55.Kg2 Qc2+ 56.Kh3 Qf5+
+57.Kg2 d4 58.Qh8+ Kg6 59.Qg8+ Kh6 60.Qc4 Qd7
+61.Qxa6 d3 62.Qxf6+ Kh7 63.Qa1 Qc6 64.Qe1 Qc2+
+65.Kf1 Kg6 66.Qe6+ Kg7 67.Qe7+ Kh6 68.g4 d2
+69.g5+ Kg6 70.Qf6+ Kh7 71.Qf7+ Kh8 72.Qf8+ Kh7
+73.Qf7+ Kh8 74.Qxh5+ Kg7 75.Qh6+ Kg8 76.Qe6+ Kg7
+77.Qe7+ Kg8 78.Qe8+ Kg7 79.Qe7+ Kg6 80.Qf6+ Kh7
+81.Qh6+ Kg8 82.Qe6+ Kf8 83.Qf6+ Ke8 84.Qe6+ Kf8
+85.Qf6+ Ke8 86.Qe5+ Kd7 87.Qd5+ Kc8 88.Qe6+ Kc7
+89.Qe7+ Kb6 90.Qd8+ Kb7 91.Qd7+ Kb6 92.Qd6+ Ka5
+93.Qe5+ Kb4 94.Qe7+ Kc3 95.Qf6+ Kb4 96.Qe7+ Ka5
+97.Qe5+ Ka6 98.Qd6+ Ka5 99.Qd5+ Kb4 100.Qd6+ Ka5
+101.Qd5+ Kb4 102.Qd6+ Ka5 103.Qd8+ Kb5 104.Qd7+ Kb4
+105.Qd6+ Ka5 1/2-1/2
+
+[Event ""]
+[GID "44"]
+[PlyCount "231"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Nc3 Nxd5 6.Nf3 Nc6 7.d4 Bg4 8.Bb5 Rc8
+9.h3 Bh5 10.g4 Bg6 11.O-O e6 12.Bg5 Be7
+13.Bxe7 Ndxe7 14.Bxc6+ bxc6 15.Re1 O-O 16.Rc1 h5
+17.Qe2 Qd6 18.Qe5 Qxe5 19.Rxe5 hxg4 20.hxg4 Nd5
+21.Na4 Rfd8 22.Nc5 Nf6 23.g5 Nd5 24.Nb7 Rd7
+25.Nc5 Rdd8 26.Nb7 Rd7 27.Nc5 Rdd8 28.Kg2 Bh5
+29.Rc4 Rb8 30.b3 Nb6 31.Rc1 Bxf3+ 32.Kxf3 Rxd4
+33.g6 Rd5 34.gxf7+ Kxf7 35.Re2 Re8 36.Ne4 Nd7
+37.Kf4 c5 38.Rc4 Re7 39.Ng5+ Kf6 40.Ne4+ Kf7
+41.f3 Kg6 42.Ke3 Rf5 43.Rc1 Rh5 44.Rd2 Kf7
+45.Rc3 Kg6 46.Rc1 Kf7 47.Rdc2 Kg8 48.Nxc5 Nf6
+49.Ne4 Nd5+ 50.Kf2 Nf6 51.Rc8+ Kf7 52.Kg3 Nxe4+
+53.fxe4 Kf6 54.R8c5 Rh6 55.Rf1+ Kg6 56.b4 Kh7
+57.a3 Rg6+ 58.Kf2 Rf7+ 59.Ke1 Rd7 60.Ke2 Rg2+
+61.Ke3 Rg3+ 62.Kf4 Rxa3 63.Ke5 Rb7 64.Kxe6 Ra6+
+65.Kd5 Rxb4 66.e5 Rb8 67.Rg1 Re8 68.Rc7 Ra5+
+69.Kd4 Raxe5 70.Rgxg7+ Kh8 71.Rh7+ Kg8 72.Rcg7+ Kf8
+73.Rg2 a5 74.Rh3 Kf7 75.Rf3+ Ke6 76.Rg6+ Kd7
+77.Ra6 Kc7 78.Kc4 Kb7 79.Raf6 R8e7 80.Kb3 Ka8
+81.R6f4 Re1 82.Rf2 Kb7 83.Rb2 Rh7 84.Ka2+ Kc6
+85.Rd4 Rhh1 86.Ka3 Ra1+ 87.Ra2 Rxa2+ 88.Kxa2 Kb5
+89.Rd8 Kb4 90.Ra8 Rh2+ 91.Kb1 Kb3 92.Rb8+ Ka3
+93.Rc8 Rh4 94.Rc3+ Ka4 95.Re3 Rh1+ 96.Kb2 Kb5
+97.Rc3 Rh2+ 98.Ka3 a4 99.Rc1 Rh3+ 100.Ka2 Rh2+
+101.Ka3 Rh3+ 102.Kb2 Kb6 103.Rc2 a3+ 104.Ka2 Ka7
+105.Rc1 Kb6 106.Rc8 Rh1 107.Kxa3 Rh3+ 108.Kb2 Rh2+
+109.Kc1 Kb5 110.Rd8 Ka6 111.Rb8 Ka7 112.Rb3 Rh1+
+113.Kd2 Rh2+ 114.Kc3 Rh3+ 115.Kb4 Rxb3+ 116.Kxb3 1/2-1/2
+
+[Event ""]
+[GID "46"]
+[PlyCount "144"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.Nf3 Bd6 7.Bd3 O-O 8.O-O Bg4
+9.Re1 Nd7 10.h3 Bh5 11.c4 c5 12.Be4 Qc7
+13.Qd3 Bg6 14.d5 Rae8 15.Bd2 Ne5 16.Nxe5 fxe5
+17.Bf5 Bxf5 18.Qxf5 Qe7 19.f3 g6 20.Qg5 f6
+21.Qh4 Qc7 22.Re3 f5 23.Rd1 b6 24.Kh1 e4
+25.fxe4 Bf4 26.Re2 Bg3 27.Qg5 fxe4 28.Qg4 Qe5
+29.Bc3 Qf4 30.Qxf4 Rxf4 31.Bd2 Rf2 32.Rxf2 Bxf2
+33.Rf1 e3 34.Be1 Rf8 35.b3 a5 36.g4 a4
+37.g5 Bxe1 38.Rxe1 Rf3 39.Kg2 Rf2+ 40.Kg3 a3
+41.Rxe3 Rxa2 42.Re8+ Kf7 43.Rh8 Kg7 44.Ra8 Ra1
+45.d6 a2 46.Kf2 Kf7 47.d7 Rd1 48.Rxa2 Rxd7
+49.Ke3 Ke6 50.Ra6 Rd6 51.Ra7 Rd7 52.Rxd7 Kxd7
+53.Kf4 Kd6 54.h4 Ke6 55.Ke4 Kd6 56.Kf3 Ke5
+57.Ke3 Kf5 58.Kf3 Ke6 59.Kf4 Kd6 60.Ke4 Ke6
+61.Kf4 Kd6 62.Ke4 Ke6 63.Kf4 Kd6 64.Ke4 Ke6
+65.Kf4 Kd6 66.Kf3 Ke5 67.Ke3 Kf5 68.Kf3 Ke5
+69.Ke3 Kf5 70.Kf3 Ke5 71.Ke3 Kf5 72.Kf3 Ke5
+ 1/2-1/2
+
+[Event ""]
+[GID "47"]
+[PlyCount "88"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.h3 Bd6 7.Bd3 Na6 8.Qe2+ Be6
+9.Bxa6 bxa6 10.Qxa6 O-O 11.Ne2 Bf5 12.c3 Re8
+13.O-O Qd7 14.Ng3 Bg6 15.Bd2 c5 16.Ne2 Be4
+17.Be3 Re6 18.Qa5 Bxg2 19.Kxg2 Qb7+ 20.Kg1 f5
+21.Bg5 Rg6 22.h4 Qf3 23.Qa4 Qg4+ 24.Ng3 Bxg3
+25.f3 Qh3 26.Qc2 Bxh4 27.Qh2 Rxg5+ 28.Kh1 Qxh2+
+29.Kxh2 Bg3+ 30.Kh1 Re8 31.Rg1 Rh5+ 32.Kg2 f4
+33.Kf1 cxd4 34.cxd4 Re3 35.Rd1 f5 36.Rxg3 fxg3
+37.Kg1 f4 38.d5 Re2 39.Rc1 Reh2 40.Kf1 Rh1+
+41.Ke2 Rxc1 42.Kd3 g2 43.a4 g1=Q 44.d6 Qe3#
+ 0-1
+
+[Event ""]
+[GID "50"]
+[PlyCount "165"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6
+5.Be2 c5 6.O-O Nc6 7.Nbd2 a6 8.c3 h6
+9.a3 Bh7 10.Re1 Rc8 11.Bf1 cxd4 12.cxd4 Nge7
+13.b4 Na7 14.Ra2 Nb5 15.Bb2 Bc2 16.Qa1 Ba4
+17.Qb1 g6 18.Qd3 Nf5 19.Nb3 Nc3 20.Raa1 Bxb3
+21.Rec1 Bc4 22.Qxc3 h5 23.Bd3 Bh6 24.Rc2 Bxd3
+25.Qxc8 Bxc2 26.Qxc2 g5 27.Nd2 g4 28.Nb3 O-O
+29.Bc1 Bg7 30.Qd3 Qc7 31.Bg5 Rc8 32.Rc1 Qd7
+33.h3 Rxc1+ 34.Nxc1 Qc7 35.hxg4 hxg4 36.Ne2 Qc4
+37.Qxc4 dxc4 38.a4 Bf8 39.Bd2 b5 40.axb5 axb5
+41.g3 Bg7 42.Kg2 Kh7 43.f3 Bh6 44.Bxh6 Kxh6
+45.Kf2 Kg5 46.f4+ Kg6 47.Nc3 Nxd4 48.Ke3 Nc2+
+49.Ke2 f6 50.Nxb5 fxe5 51.fxe5 Nxb4 52.Ke3 Nd3
+53.Nd6 Nxe5 54.Kd4 Kf6 55.Ne4+ Kf5 56.Nd6+ Kg6
+57.Kc3 Kh6 58.Kd4 Kg6 59.Kc3 Kf6 60.Ne4+ Kf5
+61.Nd6+ Kf6 62.Ne4+ Kf5 63.Nd6+ Kg6 64.Kd4 Nc6+
+65.Kxc4 Ne7 66.Kd3 Kf6 67.Ne4+ Ke5 68.Nf2 Kf5
+69.Nd1 Nd5 70.Kd4 Nf6 71.Ne3+ Kg6 72.Ke5 Nh5
+73.Nxg4 Nxg3 74.Nf2 Kh5 75.Kf4 Kh4 76.Kf3 e5
+77.Nd1 Kh3 78.Ne3 Nh5 79.Ke4 Kg3 80.Nd1 Nf6+
+81.Kf5 Kf3 82.Kxf6 Ke2 83.Kxe5 1/2-1/2
+
+[Event ""]
+[GID "49"]
+[PlyCount "183"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Qc7 6.Ne2 e5 7.dxe5 Nxe5 8.Bc2 Bd6
+9.O-O Bd7 10.h3 Nf6 11.Re1 O-O-O 12.Nd2 Rde8
+13.Nd4 g5 14.Nf1 g4 15.h4 Nc4 16.Rxe8+ Rxe8
+17.Ne2 Kb8 18.Nfg3 h5 19.Bg5 Be5 20.Qc1 a6
+21.Bd3 Nd6 22.Be3 Bb5 23.Bxb5 axb5 24.Bd4 Nde4
+25.Nf5 Bh2+ 26.Kf1 Be5 27.g3 Nd7 28.Kg2 Qc4
+29.Qe3 b4 30.b3 Qc6 31.cxb4 Qf6 32.Bxe5+ Nxe5
+33.Nfd4 Nd3 34.Rf1 Nxb4 35.Nf4 Nc6 36.Rd1 Re5
+37.Nxc6+ Qxc6 38.Rd4 f6 39.Nd3 Rf5 40.Nf4 Re5
+41.Ng6 Re6 42.b4 Re8 43.Qd3 Nc3 44.Nf4 Re1
+45.a4 Re5 46.b5 Qc5 47.b6 Kc8 48.Qd2 Re4
+49.Rd3 d4 50.a5 Qc4 51.Kh2 Nb1 52.Qd1 Nc3
+53.Qc2 Re5 54.Rd2 f5 55.Nxh5 Rxa5 56.Nf4 Rc5
+57.Qb2 Kd7 58.Qa1 Rc8 59.Qa5 Nb5 60.Re2 Rd8
+61.Re5 Kc6 62.Rxf5 Re8 63.Rf6+ Kc5 64.Qd2 Qb3
+65.Nd3+ Kc4 66.Nb2+ Kc5 67.h5 Rh8 68.Nd3+ Kc4
+69.Ne5+ Kd5 70.Qg5 Qc2 71.Ng6+ Kc4 72.Nxh8 Nc3
+73.Qxg4 Nd5 74.Rf7 Ne3 75.Qc8+ Kb3 76.Qxc2+ Nxc2
+77.Rxb7 Nb4 78.Rd7 Nc6 79.Kg2 Ne5 80.Rxd4 Nc6
+81.Rd6 Na5 82.b7 Nxb7 83.Rb6+ Kc2 84.Rxb7 Kd3
+85.Re7 Kd4 86.Nf7 Kd3 87.h6 Kc2 88.h7 Kb2
+89.Rc7 Ka3 90.Rb7 Ka4 91.h8=Q Ka5 92.Qa8# 1-0
+
+[Event ""]
+[GID "51"]
+[PlyCount "366"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Ba4 b5 8.Bb3 Bb7
+9.O-O Bxd5 10.Bxd5 Nxd5 11.Nc3 N7f6 12.a4 b4
+13.Nxd5 Qxd5 14.b3 e6 15.Bb2 Be7 16.Rc1 O-O
+17.Rc7 Bd6 18.Rc4 e5 19.Re1 Rfe8 20.Qc2 Rad8
+21.Re3 h6 22.g3 Nd7 23.Rd3 Qe6 24.Re3 Qd5
+25.Qd3 Qxd3 26.Rxd3 Re6 27.Re3 Bf8 28.Bxe5 Nxe5
+29.Rxe5 Rxe5 30.Nxe5 Rxd2 31.Nc6 Rd3 32.Nxb4 Rxb3
+33.Nxa6 Bd6 34.Rc6 Bf8 35.Nc7 Ra3 36.Rc4 g6
+37.Nd5 Kg7 38.Kf1 Ra2 39.Ne3 Be7 40.Nc2 Bd8
+41.Ke2 Rb2 42.Kd2 Rb3 43.Ne3 Ra3 44.Nc2 Rb3
+45.Rc5 h5 46.Rb5 Rf3 47.Ke2 Rc3 48.Kd1 Rd3+
+49.Ke1 Rc3 50.Kd1 Rc4 51.Rb4 Rc3 52.h4 Ba5
+53.Rb5 Rd3+ 54.Ke2 Rd2+ 55.Ke3 Rxc2 56.Rxa5 Ra2
+57.Ra7 Kf6 58.f3 Ke5 59.Re7+ Kf6 60.Ra7 Rg2
+61.Kf4 Ra2 62.Ra6+ Kg7 63.Ke4 Rg2 64.Kf4 Ra2
+65.Ra7 Kf6 66.Ra5 Kg7 67.Ra8 f6 68.Ra7+ Kh6
+69.Ra8 Kg7 70.Ra7+ Kh6 71.Ra6 Kg7 72.g4 hxg4
+73.fxg4 Kh6 74.Ra8 g5+ 75.hxg5+ fxg5+ 76.Kf3 Ra1
+77.Ra6+ Kh7 78.Ra5 Rf1+ 79.Kg2 Rf4 80.Kh3 Rc4
+81.Ra6 Kg7 82.a5 Rc3+ 83.Kg2 Rc4 84.Kf3 Rc3+
+85.Ke4 Rc4+ 86.Kf5 Rc5+ 87.Ke6 Rc4 88.Kf5 Rc5+
+89.Ke4 Rc4+ 90.Kf3 Rc3+ 91.Kg2 Rc2+ 92.Kg3 Rc3+
+93.Kh2 Rc4 94.Rb6 Rxg4 95.a6 Kf7 96.Kh3 Ra4
+97.Kg3 Ke7 98.Rg6 Kd8 99.Rg8+ Kc7 100.Ra8 Ra3+
+101.Kg4 Kb6 102.Rb8+ Ka7 103.Rb4 Kxa6 104.Rb8 Ra5
+105.Rb3 Rb5 106.Ra3+ Kb6 107.Re3 Kc7 108.Kg3 Kd6
+109.Ra3 Rb1 110.Rd3+ Ke6 111.Rd4 Rg1+ 112.Kh2 Re1
+113.Rd3 Kf5 114.Kg3 Rg1+ 115.Kf2 Rc1 116.Kf3 g4+
+117.Kg3 Ra1 118.Rd5+ Kg6 119.Rd3 Kh6 120.Kxg4 Kg6
+121.Re3 Kf6 122.Kf3 Kf5 123.Kf2 Ra2+ 124.Kg3 Ra5
+125.Re1 Rd5 126.Rg1 Ke6 127.Kf2 Ra5 128.Rg8 Kd7
+129.Ke3 Ke6 130.Re8+ Kd7 131.Rb8 Ra3+ 132.Kd2 Ra2+
+133.Ke3 Kc6 134.Rc8+ Kb7 135.Rc1 Ra4 136.Rb1+ Kc8
+137.Ke2 Kc7 138.Rc1+ Kb7 139.Kd2 Rh4 140.Rb1+ Ka7
+141.Rb5 Ka6 142.Rb3 Ka7 143.Rd3 Ka6 144.Ke1 Rh1+
+145.Kf2 Kb7 146.Ke2 Kc8 147.Kd2 Kb7 148.Re3 Rh4
+149.Kd1 Kb6 150.Rb3+ Ka7 151.Rd3 Rh8 152.Ke2 Rh2+
+153.Kd1 Kb8 154.Rb3+ Ka8 155.Rg3 Rb2 156.Ke1 Ka7
+157.Ra3+ Kb6 158.Re3 Kb7 159.Rd3 Rh2 160.Re3 Ra2
+161.Rb3+ Ka6 162.Kd1 Ra1+ 163.Ke2 Ka7 164.Re3 Kb6
+165.Rg3 Ra2+ 166.Ke1 Ra1+ 167.Kd2 Ka6 168.Kc2 Ra2+
+169.Kd3 Ra3+ 170.Ke2 Rxg3 171.Kf2 Rb3 172.Ke2 Kb5
+173.Kd2 Kc5 174.Ke2 Kd4 175.Kf2 Ke4 176.Ke2 Rb2+
+177.Kd1 Kd3 178.Ke1 Re2+ 179.Kf1 Ke3 180.Kg1 Kf3
+181.Kf1 Re4 182.Kg1 Rh4 183.Kf1 Rh1# 0-1
+
+[Event ""]
+[GID "52"]
+[PlyCount "212"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.Bd3 Bxd3
+9.Qxd3 Qc7 10.Bd2 e6 11.O-O-O Ngf6 12.Kb1 Be7
+13.Nf1 Rd8 14.Ne3 c5 15.Bc1 h5 16.Rhe1 cxd4
+17.Nxd4 O-O 18.Qe2 Bc5 19.Nb3 Bb6 20.Nf1 a5
+21.Nd4 Qe5 22.Qf3 Qc5 23.Qxb7 a4 24.Be3 Rb8
+25.Qa6 a3 26.Nb3 Qc6 27.Qxa3 Qxg2 28.Qd6 Bxe3
+29.fxe3 Rfc8 30.Nfd2 Qb7 31.Qf4 Qc6 32.Rc1 Ng4
+33.c4 Nde5 34.Rc3 Qg2 35.c5 Rd8 36.e4 Rbc8
+37.Rf1 f6 38.Nc4 Nd3 39.Qf3 Qxf3 40.Rxf3 Nxc5
+41.Nxc5 Rxc5 42.b4 Rb5 43.a3 Rd4 44.Kc2 Rxe4
+45.Nd6 Re2+ 46.Kb3 Rb8 47.a4 Re1 48.b5 Kh7
+49.Rfd3 e5 50.Rc4 Rd8 51.Rd2 Ne3 52.Rc8 Rxc8
+53.Nxc8 Rb1+ 54.Rb2 Rxb2+ 55.Kxb2 g5 56.b6 Nc4+
+57.Kc3 Na5 58.Ne7 g4 59.Nf5 Kg6 60.Ng3 f5
+61.Ne2 Nc6 62.b7 Nb8 63.Kc4 f4 64.a5 Kf5
+65.Kb5 f3 66.Ng3+ Kf4 67.a6 Kxg3 68.a7 f2
+69.axb8=Q f1=Q+ 70.Kc6 Qf3+ 71.Kd6 Qf6+ 72.Kd5 Qf7+
+73.Kd6 Qf6+ 74.Kd5 Qf7+ 75.Kc6 Qf3+ 76.Kd6 Qf6+
+77.Kc5 Qf2+ 78.Kb5 Qe2+ 79.Kb6 Qf2+ 80.Kb5 Qe2+
+81.Kb6 Qf2+ 82.Kc7 Qf7+ 83.Kc8 Qe6+ 84.Kd8 Qg8+
+85.Kc7 Qf7+ 86.Kc8 Qe6+ 87.Kd8 Qf6+ 88.Kd7 Qf7+
+89.Kd8 Qf8+ 90.Kc7 Qf7+ 91.Kd6 Qf6+ 92.Kc5 Qf2+
+93.Kc4 Qf7+ 94.Kb4 Qf4+ 95.Kb5 Qf1+ 96.Kb4 Qf4+
+97.Kb3 Qe3+ 98.Ka4 Qe4+ 99.Kb3 Qd3+ 100.Kb4 Qd2+
+101.Kc4 Qf4+ 102.Kc5 Qf2+ 103.Kc4 Qf7+ 104.Kc5 Qf2+
+105.Kd5 Qf7+ 106.Kd6 Qf6+ 1/2-1/2
+
+[Event ""]
+[GID "54"]
+[PlyCount "68"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Ba4 b5 8.Bb3 Bb7
+9.O-O Bxd5 10.Bxd5 Nxd5 11.Nc3 N7f6 12.a4 b4
+13.Nxd5 Qxd5 14.b3 e6 15.Bb2 Be7 16.Rc1 O-O
+17.Qc2 Rfd8 18.Rfe1 h5 19.h3 Nd7 20.Bd4 Rac8
+21.Qxc8 Rxc8 22.Rxc8+ Kh7 23.Rc7 g5 24.Ne5 Nxe5
+25.Bxe5 Qxd2 26.Re4 Qd5 27.Re1 Qd8 28.Re4 Qd5
+29.Re1 Qd8 30.Re4 Qd5 31.Re1 Qd8 32.Re4 Qd5
+33.Re1 Qd8 34.Re4 Qd5 1/2-1/2
+
+[Event ""]
+[GID "55"]
+[PlyCount "168"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nf3 Nf6 7.Bd3 e6 8.O-O Be7
+9.Bxg6 hxg6 10.Qe2 O-O 11.c3 Nbd7 12.Ne4 Nxe4
+13.Qxe4 Nf6 14.Qe2 a5 15.Bg5 Qc7 16.Rad1 c5
+17.g3 a4 18.a3 Rfd8 19.dxc5 Bxc5 20.Be3 Bxe3
+21.Qxe3 Re8 22.Rfe1 e5 23.Ng5 Qc6 24.Qd2 Rac8
+25.Qd6 Qb5 26.Qb4 Qxb4 27.axb4 Rc6 28.Re3 Kf8
+29.h3 Rc7 30.h4 Nd7 31.Ne4 Nb6 32.Ree1 f6
+33.Nc5 Nc4 34.Nxa4 b5 35.Nc5 Nxb2 36.Ra1 Kg8
+37.Kg2 Kh7 38.Reb1 Nc4 39.Ne4 Rb8 40.Rc1 Rd8
+41.Ra6 Nb2 42.Rb6 Rd1 43.Rxd1 Nxd1 44.Rxb5 Nxc3
+45.Rc5 Rxc5 46.Nxc5 Kg8 47.Kf1 Kf7 48.Ke1 Ke7
+49.Kd2 Nd5 50.b5 Kd6 51.Ne4+ Ke6 52.Nc5+ Kd6
+53.Ne4+ Ke6 54.Kd3 Nb6 55.Nc5+ Kd5 56.Nb7 Nd7
+57.Nd8 Kc5 58.Ne6+ Kxb5 59.Nxg7 f5 60.h5 gxh5
+61.Nxf5 Kc6 62.Ke4 Nf6+ 63.Kxe5 Ng4+ 64.Kf4 Nxf2
+65.Kf3 Ng4 66.Nh4 Kd7 67.Kf4 Ke6 68.Kg5 Nf6
+69.Kf4 Ng4 70.Kg5 Nf6 71.Kg6 Ne4 72.Kxh5 Nxg3+
+73.Kg5 Nh5 74.Ng6 Nf6 75.Kh4 Kd5 76.Nh8 Ne4
+77.Kh5 Ke6 78.Kh4 Kd5 79.Kh5 Ke6 80.Kh4 Kd5
+81.Kh5 Ke6 82.Kh4 Kd5 83.Kh5 Ke6 84.Kh4 Kd5
+ 1/2-1/2
+
+[Event ""]
+[GID "56"]
+[PlyCount "172"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.Nf3 Bd6 7.Bd3 O-O 8.O-O Bg4
+9.Re1 Qc7 10.h3 Bh5 11.c4 c5 12.d5 Nd7
+13.g4 Bg6 14.Qc2 Ne5 15.Nxe5 Bxe5 16.Rb1 Rfe8
+17.Be3 Rad8 18.Kg2 Re7 19.Re2 b5 20.b3 Bd6
+21.Rbe1 bxc4 22.bxc4 Rde8 23.Bc1 Qd7 24.Rxe7 Rxe7
+25.Rxe7 Qxe7 26.Bb2 Qb7 27.Bc3 Qa6 28.Bxg6 hxg6
+29.Bd2 Bc7 30.Qe4 Qxa2 31.Be3 Qe2 32.Qe8+ Kh7
+33.Qxf7 Be5 34.Qxa7 Qxc4 35.Qxc5 Qd3 36.f3 g5
+37.Bf2 Qd1 38.Qa5 Qd3 39.Qc5 Qd1 40.Qa5 Qd3
+41.h4 f5 42.Qb4 gxh4 43.Bxh4 Qxd5 44.gxf5 Qa2+
+45.Bf2 Bf6 46.Qd6 Qc2 47.Qf4 Qe2 48.Qh2+ Kg8
+49.Qb8+ Kh7 50.Qf4 Kg8 51.Qg4 Qd2 52.Qe4 Qg5+
+53.Kh3 Qh6+ 54.Kg2 Qd2 55.Kf1 Qh6 56.Qd5+ Kh8
+57.Kg2 Qg5+ 58.Bg3 Kh7 59.Qd3 Qh6 60.Qd1 Qg5
+61.Qd3 Qc1 62.Qe4 Qg5 63.Kh3 Qh5+ 64.Bh4 Kg8
+65.Qg4 Qh7 66.Qc4+ Kf8 67.Qe4 Bxh4 68.Qxh4 Qxf5+
+69.Qg4 Qxg4+ 70.Kxg4 Kf7 71.Kf5 Ke7 72.Kg5 Kf7
+73.f4 Kf8 74.Kg6 Kg8 75.f5 Kf8 76.Kg5 Kf7
+77.Kg4 Kf8 78.Kf4 Kg8 79.Ke5 Kf8 80.Kf4 Kg8
+81.Kg4 Kh7 82.Kg5 Kg8 83.Kf4 Kh7 84.Ke5 Kg8
+85.f6 Kf8 86.fxg7+ Kxg7 1/2-1/2
+
+[Event ""]
+[GID "53"]
+[PlyCount "448"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Ngf6 10.Bxh7 Nxh7 11.Bf4 e6 12.O-O Ndf6
+13.c4 Bd6 14.Ne5 Qe7 15.Qf3 O-O 16.Rfe1 Rad8
+17.Rad1 Rfe8 18.a3 Ng5 19.Qe3 Ngh7 20.Qf3 a5
+21.Rd3 Bb8 22.Red1 a4 23.b4 axb3 24.Rxb3 Nd7
+25.Rdb1 Bxe5 26.Bxe5 Nxe5 27.dxe5 Rd7 28.Qe2 f5
+29.exf6 Nxf6 30.Re1 e5 31.Re3 Qc5 32.Ne4 Nxe4
+33.Rxe4 Qxa3 34.Rxe5 Rxe5 35.Qxe5 Qf8 36.f3 Qd6
+37.Qxd6 Rxd6 38.Re7 b6 39.Rb7 Rd4 40.Rxb6 Rxc4
+41.Rb2 c5 42.Rb7 Rf4 43.Kf2 Rf5 44.g4 Rf7
+45.Rb8+ Rf8 46.Rb3 Rc8 47.Ke3 Kf7 48.Ra3 Rc7
+49.f4 Re7+ 50.Kd3 Rd7+ 51.Ke4 Rc7 52.Kd3 Rd7+
+53.Ke4 Rc7 54.Ke5 c4 55.Kd4 Kg8 56.Rc3 Rd7+
+57.Ke4 Re7+ 58.Kd5 Rd7+ 59.Ke5 Rc7 60.Kd6 Rc8
+61.Kd5 Rd8+ 62.Ke5 Re8+ 63.Kd5 Rd8+ 64.Kc5 Rc8+
+65.Kd4 Rd8+ 66.Kc5 Rc8+ 67.Kb5 Rb8+ 68.Kxc4 Rb1
+69.Kd5 Rg1 70.Ke4 Rxg4 71.Kf3 Rg1 72.Rc8+ Kh7
+73.Ra8 Rf1+ 74.Kg3 Re1 75.Kg2 Rc1 76.Ra5 Rc2+
+77.Kf3 Rc1 78.Rf5 Rf1+ 79.Kg3 Rg1+ 80.Kh2 Rc1
+81.Kg2 Re1 82.Re5 Ra1 83.Rc5 Ra2+ 84.Kg3 Ra1
+85.Rc8 Rg1+ 86.Kf3 Rh1 87.Kg4 Rg1+ 88.Kf3 Rh1
+89.Kg4 Rg1+ 90.Kh4 Rh1+ 91.Kg4 Rg1+ 92.Kh3 Ra1
+93.Kh4 Rh1+ 94.Kg4 Rg1+ 95.Kf3 Rh1 96.Rc5 Rf1+
+97.Kg3 Rg1+ 98.Kf3 Ra1 99.Rf5 Rf1+ 100.Kg3 Re1
+101.Ra5 Rh1 102.Kg2 Rb1 103.Re5 Rb2+ 104.Kh3 Rf2
+105.Kg4 Rg2+ 106.Kf3 Rg1 107.Ra5 Rf1+ 108.Kg3 Rg1+
+109.Kf3 Rf1+ 110.Kg4 Rg1+ 111.Kh3 Rh1+ 112.Kg2 Re1
+113.Ra8 Rc1 114.f5 Rc2+ 115.Kg3 Rc3+ 116.Kg4 Rc4+
+117.Kg3 Rc3+ 118.Kg4 Rc4+ 119.Kh3 Rc3+ 120.Kg2 Rc2+
+121.Kh3 Rc3+ 122.Kg4 Rc4+ 123.Kh3 Rc3+ 124.Kg4 Rc4+
+125.Kg3 Rc3+ 126.Kf4 Rc4+ 127.Ke5 Rc5+ 128.Ke6 Rc1
+129.Ra7 Re1+ 130.Kf7 Rf1 131.Ra5 Rf4 132.Ke6 Kg8
+133.Ra8+ Kh7 134.Ra7 Kg8 135.Ra8+ Kh7 136.Ra7 Kg8
+137.Ke5 Rf1 138.Ra8+ Kh7 139.Ra6 Rh1 140.f6 Rxh5+
+141.Ke6 gxf6 142.Kxf6 Rh1 143.Ra7+ Kg8 144.Ra8+ Kh7
+145.Ra7+ Kg8 146.Kg6 Rg1+ 147.Kh5 Kh8 148.Ra4 Kh7
+149.Kh4 Kh8 150.Rf4 Rg7 151.Rf8+ Rg8 152.Rf1 Ra8
+153.Rc1 Kg7 154.Rh1 Kf6 155.Kg4 Kg6 156.Rb1 h5+
+157.Kg3 Ra5 158.Rb6+ Kg5 159.Rc6 Ra3+ 160.Kf2 Kg4
+161.Kg2 Ra2+ 162.Kg1 Ra1+ 163.Kh2 Ra2+ 164.Kh1 h4
+165.Rc8 Ra1+ 166.Kh2 Kf3 167.Rf8+ Kg4 168.Rf2 Ra3
+169.Rc2 Kf3 170.Rc4 Ra2+ 171.Kh3 Ra3 172.Rb4 Ra1
+173.Rb3+ Kf2 174.Kxh4 Rg1 175.Kh5 Ke2 176.Ra3 Kf2
+177.Kh6 Ke2 178.Rh3 Kf2 179.Kh7 Rb1 180.Kg6 Rb6+
+181.Kg5 Rb4 182.Ra3 Rb5+ 183.Kf4 Rb7 184.Ra2+ Kg1
+185.Kf5 Rf7+ 186.Ke4 Re7+ 187.Kf5 Rb7 188.Rc2 Rb5+
+189.Ke4 Rb4+ 190.Ke3 Kf1 191.Ra2 Rb3+ 192.Ke4 Kg1
+193.Kf5 Rb7 194.Rc2 Rb5+ 195.Kg6 Rb6+ 196.Kg5 Rb1
+197.Kh4 Rb4+ 198.Kg3 Rb3+ 199.Kg4 Rb4+ 200.Kh5 Rb7
+201.Kg4 Rb4+ 202.Kg5 Rb1 203.Ra2 Rb3 204.Kg4 Rb7
+205.Kf3 Rb8 206.Rg2+ Kh1 207.Ra2 Kg1 208.Ra1+ Kh2
+209.Kf2 Rb3 210.Ra7 Rb2+ 211.Ke1 Rb1+ 212.Kf2 Rb2+
+213.Ke3 Rb3+ 214.Ke2 Rb5 215.Ra3 Rg5 216.Ra8 Kh3
+217.Rb8 Kg4 218.Kf2 Rh5 219.Rb3 Rf5+ 220.Ke2 Rg5
+221.Rb1 Kf4 222.Rb4+ Ke5 223.Rb5+ Kf6 224.Rxg5 Kxg5
+ 1/2-1/2
+
+[Event ""]
+[GID "57"]
+[PlyCount "191"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.N1e2 Nf6 7.c3 Nbd7 8.h4 h6
+9.Nf4 Bh7 10.Bd3 Bxd3 11.Nxd3 e6 12.Nh5 Qa5
+13.Nxf6+ Nxf6 14.Bf4 Be7 15.O-O O-O 16.g3 Qf5
+17.Re1 Rfd8 18.Qf3 Rd5 19.Kg2 a5 20.a4 Rc8
+21.Re5 Qg4 22.Rc1 Qxf3+ 23.Kxf3 Nd7 24.Rxd5 cxd5
+25.b3 g5 26.Bd2 Ba3 27.Rc2 f6 28.hxg5 hxg5
+29.c4 b6 30.Rc3 dxc4 31.Rxc4 Rxc4 32.bxc4 Kf7
+33.g4 Bd6 34.Be3 Ke7 35.Nc1 Ba3 36.Nb3 Bb4
+37.Ke4 Nb8 38.f3 Nc6 39.Nc1 Kd6 40.Ne2 Nd8
+41.Ng3 Ke7 42.Kd3 Nc6 43.Ne4 Ba3 44.Kc3 Bd6
+45.c5 bxc5 46.dxc5 Bf4 47.Bxf4 gxf4 48.g5 fxg5
+49.Nxg5 Kd7 50.Kc4 e5 51.Kd5 Kc7 52.Ne6+ Kd7
+53.Ng5 Kc7 54.Ne4 Nb4+ 55.Kxe5 Kc6 56.Kxf4 Kd5
+57.Kf5 Nc2 58.Kg5 Nd4 59.Kf4 Nc2 60.Kf5 Nd4+
+61.Kf4 Nc2 62.Kf5 Nd4+ 63.Kg4 Nc2 64.Kf4 Nd4
+65.Ke3 Nc2+ 66.Kf2 Nb4 67.Ke3 Nc2+ 68.Kd3 Ne1+
+69.Ke2 Nc2 70.Kd3 Ne1+ 71.Ke2 Nc2 72.Kf2 Nd4
+73.Kg3 Nc6 74.Kf2 Nd4 75.c6 Nxc6 76.Ke3 Kc4
+77.f4 Kb3 78.Kd3 Kxa4 79.f5 Kb4 80.Kc2 Nd4+
+81.Kb2 Nxf5 82.Nf6 Ne3 83.Ka2 a4 84.Ne4 Nd5
+85.Kb2 Ka5 86.Ka3 Ka6 87.Nc5+ Kb5 88.Nd3 Nb6
+89.Ne1 Nd5 90.Nc2 Kc4 91.Ne1 Nc3 92.Nc2 Kd3
+93.Nb4+ Kd2 94.Nc6 Nb5+ 95.Kxa4 Kc2 96.Kxb5 1/2-1/2
+
+[Event ""]
+[GID "59"]
+[PlyCount "139"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.Bf4 Ngf6
+9.h5 Bh7 10.Bd3 Bxd3 11.Qxd3 e6 12.O-O-O Be7
+13.Kb1 O-O 14.Ne4 Nxe4 15.Qxe4 Nf6 16.Qe2 Qd5
+17.Ne5 Qe4 18.Qxe4 Nxe4 19.Be3 Rfd8 20.g4 Bd6
+21.Nd3 a5 22.c4 a4 23.f3 Ng5 24.Rhf1 f6
+25.Kc2 Kf7 26.Bd2 Bg3 27.Bc3 b5 28.c5 Kg8
+29.f4 Ne4 30.Rf3 f5 31.gxf5 exf5 32.Rh1 Re8
+33.d5 cxd5 34.Bd4 b4 35.Nxb4 Rec8 36.Nd3 Rab8
+37.Rg1 Bh4 38.Rxg7+ Kf8 39.Rg6 Be7 40.Rxh6 Kf7
+41.Ne5+ Kg8 42.Nc6 Bxc5 43.Rh8+ Kf7 44.Nxb8 Bf8+
+45.Kd3 Rc1 46.Nd7 Bd6 47.Ne5+ Ke7 48.h6 a3
+49.bxa3 Rd1+ 50.Kc2 Rd2+ 51.Kb3 Rh2 52.Ka4 Bxe5
+53.Bxe5 Kf7 54.h7 Rh6 55.Kb5 Rh1 56.a4 Rh5
+57.Rd3 Kg6 58.Rxd5 Rh6 59.Rg8+ Kh5 60.h8=Q Rxh8
+61.Rxh8+ Kg4 62.a5 Ng5 63.fxg5 f4 64.Bxf4 Kxf4
+65.Rf8+ Ke3 66.Kc6 Ke2 67.a6 Ke1 68.a7 Ke2
+69.a8=Q Ke3 70.Qe8# 1-0
+
+[Event ""]
+[GID "58"]
+[PlyCount "162"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.Bf4 Ngf6
+9.Bd3 Nd5 10.Be5 Bxd3 11.Qxd3 Qa5+ 12.Kf1 e6
+13.Rh3 N5f6 14.c3 Rd8 15.Ne4 Nxe5 16.Nxe5 Nxe4
+17.Qxe4 Bd6 18.Nc4 Qd5 19.Qxd5 cxd5 20.Nxd6+ Rxd6
+21.h5 Rb6 22.Rb1 Ra6 23.a3 Rb6 24.Ke2 a5
+25.Rg3 O-O 26.b3 a4 27.b4 Rc8 28.Kd2 Rbc6
+29.b5 Rb6 30.Re3 Rc4 31.f4 f6 32.g4 Kf7
+33.Kd3 Rd6 34.g5 fxg5 35.fxg5 hxg5 36.Rg3 Rd7
+37.Re1 g4 38.Kd2 Rc8 39.Rxg4 Rh8 40.Re5 Rc7
+41.Rf4+ Kg8 42.Kd3 Rh6 43.Rf1 b6 44.Rf3 Rf7
+45.Rg3 Kf8 46.c4 dxc4+ 47.Kxc4 Rf1 48.Rge3 Kf7
+49.d5 exd5+ 50.Rxd5 Rf4+ 51.Kc3 Rh4 52.Rd7+ Kf8
+53.Rd8+ Kf7 54.Rd7+ Kf8 55.Rf3+ Ke8 56.Rff7 Rh3+
+57.Kd4 Rh4+ 58.Kc3 Rh3+ 59.Kc4 Rh4+ 60.Kd3 Rh3+
+61.Kd4 Rh4+ 62.Ke3 Rh3+ 63.Kf4 Rf6+ 64.Rxf6 Kxd7
+65.Rxb6 Rxh5 66.Kg4 Rd5 67.Ra6 Rxb5 68.Rxa4 Rb1
+69.Kg5 Ke7 70.Re4+ Kf7 71.a4 Rg1+ 72.Rg4 Rxg4+
+73.Kxg4 Ke6 74.Kg5 Kd7 75.Kg6 Ke6 76.Kxg7 Kd5
+77.Kh6 Kc5 78.Kg6 Kd6 79.a5 Kc6 80.a6 Kb6
+81.Kh5 Kxa6 1/2-1/2
+
+[Event ""]
+[GID "62"]
+[PlyCount "83"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.Nf3 Bd6 7.Bd3 O-O 8.O-O Bg4
+9.Re1 Re8 10.Rxe8+ Qxe8 11.Be3 Na6 12.h3 Bh5
+13.c4 Rd8 14.Qb3 Bxf3 15.gxf3 c5 16.d5 Nb4
+17.a3 Nxd3 18.Qxd3 Rb8 19.Rb1 b5 20.b3 g6
+21.Kg2 h5 22.Qc2 bxc4 23.bxc4 Rxb1 24.Qxb1 Qe5
+25.f4 Qc3 26.Qb5 Qc2 27.Qc6 Qe4+ 28.Kg1 Bxf4
+29.Bxc5 Kg7 30.Bxa7 Qe7 31.Bc5 Qe1+ 32.Kg2 Qe4+
+33.Kg1 g5 34.Qa8 Qb1+ 35.Kg2 Qe4+ 36.Kg1 Qb1+
+37.Kg2 Qe4+ 38.Kg1 Qb1+ 39.Kg2 Qe4+ 40.Kg1 Qb1+
+41.Kg2 Qe4+ 42.Kg1 1/2-1/2
+
+[Event ""]
+[GID "61"]
+[PlyCount "166"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Nc3 Nxd5 6.Nf3 Nc6 7.d4 Bg4 8.Bc4 e6
+9.O-O Be7 10.h3 Nxc3 11.bxc3 Bf5 12.d5 exd5
+13.Qxd5 Qxd5 14.Bxd5 O-O 15.g4 Be6 16.Bxe6 fxe6
+17.Kg2 Rad8 18.Be3 Rd5 19.Rfd1 Ra5 20.Nd4 Nxd4
+21.cxd4 Bf6 22.a4 Rf7 23.Rdb1 Rd5 24.Rb5 Rd6
+25.Rd1 Rfd7 26.Rb4 Rd5 27.f4 g5 28.fxg5 Bxg5
+29.Bxg5 Rxg5 30.Re1 Rgd5 31.Rxe6 Rxd4 32.Rxd4 Rxd4
+33.a5 Ra4 34.Re5 Ra3 35.Rg5+ Kf7 36.Rf5+ Kg7
+37.Rd5 b6 38.axb6 axb6 39.Rd7+ Kg6 40.Rd6+ Kg5
+41.Rd5+ Kg6 42.h4 Ra2+ 43.Kf3 Ra3+ 44.Kf4 Ra4+
+45.Kg3 Ra3+ 46.Kf4 Ra4+ 47.Kg3 Ra3+ 48.Kg2 Ra2+
+49.Kf3 Ra3+ 50.Ke2 Ra2+ 51.Ke3 Ra3+ 52.Kd2 Ra2+
+53.Kc3 Ra3+ 54.Kb4 Rg3 55.Rd6+ Kf7 56.Rd4 Kg7
+57.g5 Rh3 58.Kb5 Rb3+ 59.Ka4 Rb2 60.Rd7+ Kg6
+61.Rd6+ Kf7 62.Ka3 Rb1 63.Rd7+ Kg8 64.Rd4 Kg7
+65.Rd7+ Kg6 66.Ka4 b5+ 67.Ka5 Rh1 68.Rd6+ Kg7
+69.Rh6 Rb1 70.Kb6 b4 71.Kb5 Rb2 72.Ka4 Rb1
+73.Rd6 Rh1 74.Rh6 Rb1 75.Rb6 Rh1 76.Rxb4 h6
+77.gxh6+ Kxh6 78.Kb5 Ra1 79.Kc5 Kg6 80.Rd4 Rc1+
+81.Rc4 Rxc4+ 82.Kxc4 Kh5 83.Kb5 Kxh4 1/2-1/2
+
+[Event ""]
+[GID "48"]
+[PlyCount "266"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Ngf6 12.O-O-O Be7
+13.Kb1 O-O 14.Ne4 Nxe4 15.Qxe4 Nf6 16.Qe2 Qd5
+17.Ne5 Qe4 18.Qxe4 Nxe4 19.Be3 Bd6 20.c3 Nf6
+21.Kc2 Nd5 22.Rhe1 Nf6 23.Rh1 Nd5 24.c4 Nxe3+
+25.fxe3 Rad8 26.Nf3 c5 27.Rd3 Rc8 28.b3 Rfe8
+29.dxc5 Bxc5 30.a4 a6 31.a5 Bb4 32.Rd7 Re7
+33.Rxe7 Bxe7 34.Rd1 Kf8 35.Ne5 Ke8 36.Nd3 Bd8
+37.Ra1 Bf6 38.Ra4 Kd8 39.Kd1 Rc7 40.Kd2 Kd7
+41.g4 Rc8 42.Rb4 Rc7 43.c5 Kc8 44.Rc4 Bd8
+45.Kc2 Bg5 46.e4 Be3 47.b4 g6 48.Ne5 Bf4
+49.Nd3 Be3 50.Ne5 Bf4 51.Nf3 Rd7 52.c6 Rd6
+53.cxb7+ Kxb7 54.Rc3 gxh5 55.gxh5 f5 56.exf5 exf5
+57.Rc5 Rf6 58.Nh4 Bd6 59.Rxf5 Re6 60.b5 axb5
+61.Rxb5+ Ka6 62.Rf5 Bc7 63.Kd3 Bxa5 64.Ng6 Bd8
+65.Kd4 Re1 66.Ne5 Bg5 67.Nf7 Rh1 68.Nxg5 Rxh5
+69.Rf6+ Kb7 70.Nf7 Rh1 71.Ne5 h5 72.Rh6 h4
+73.Rh7+ Kb6 74.Nc4+ Kc6 75.Ne5+ Kd6 76.Nf3 h3
+77.Rh6+ Kd7 78.Ke3 Ke7 79.Ke2 Kf8 80.Kf2 Ra1
+81.Rh7 Ra3 82.Ne5 Kg8 83.Rd7 Ra1 84.Kg3 h2
+85.Kxh2 Kf8 86.Rb7 Ra2+ 87.Kg1 Ra1+ 88.Kf2 Ra3
+89.Nc4 Rc3 90.Nd6 Ra3 91.Rf7+ Kg8 92.Rc7 Rb3
+93.Rd7 Rc3 94.Ne4 Ra3 95.Nd6 Kf8 96.Rf7+ Kg8
+97.Rd7 Rh3 98.Ne4 Ra3 99.Kg2 Kf8 100.Nd6 Kg8
+101.Nb5 Re3 102.Nd6 Rd3 103.Kh2 Ra3 104.Rf7 Rd3
+105.Rd7 Ra3 106.Rf7 Ra1 107.Kg2 Rd1 108.Rd7 Rd3
+109.Kf1 Ra3 110.Ke2 Rh3 111.Ne8 Kf8 112.Nd6 Kg8
+113.Ne4 Kf8 114.Ng5 Ke8 115.Rb7 Rg3 116.Rg7 Ra3
+117.Kd2 Rg3 118.Ke2 Ra3 119.Ne4 Kf8 120.Rb7 Ke8
+121.Nd6+ Kd8 122.Nf7+ Kc8 123.Nd6+ Kd8 124.Nf7+ Kc8
+125.Re7 Rh3 126.Kd2 Ra3 127.Ng5 Kd8 128.Rh7 Rg3
+129.Ne4 Rg6 130.Rf7 Ke8 131.Rb7 Kf8 132.Kc3 Rg7
+133.Rxg7 Kxg7 1/2-1/2
+
+[Event ""]
+[GID "64"]
+[PlyCount "230"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.h5 Bh7
+9.Bd3 Bxd3 10.Qxd3 e6 11.Bf4 Ngf6 12.O-O-O Be7
+13.Kb1 O-O 14.Ne4 Nxe4 15.Qxe4 Nf6 16.Qe2 Qd5
+17.Ne5 Qe4 18.Qxe4 Nxe4 19.Be3 Bd6 20.c3 Nf6
+21.Kc2 a5 22.a4 Nd5 23.Nd3 b5 24.Ra1 Rfe8
+25.Rhe1 Nf6 26.Bf4 Be7 27.Rh1 Nd5 28.Rhb1 b4
+29.Be5 bxc3 30.bxc3 Rac8 31.c4 f6 32.cxd5 cxd5+
+33.Kd2 fxe5 34.dxe5 Rc4 35.g3 Rf8 36.Rb6 Rf5
+37.Rxe6 Bb4+ 38.Ke2 Rc2+ 39.Kf1 Rd2 40.Nf4 Bc3
+41.Rc1 Bxe5 42.Rc8+ Kf7 43.Ree8 Bd6 44.Kg2 Bxf4
+45.Rf8+ Ke6 46.Rce8+ Kd7 47.Rxf5 Kxe8 48.Rxf4 Ke7
+49.Rg4 Kf8 50.Rf4+ Ke7 51.Rg4 Kf7 52.Kf3 Ra2
+53.Ke3 Ra3+ 54.Ke2 Ra2+ 55.Ke3 Ra3+ 56.Ke2 Ra2+
+57.Kf3 Ra3+ 58.Kg2 Ra2 59.Kf3 Ra3+ 60.Kg2 Ra2
+61.Rd4 Ke6 62.Rf4 Ra3 63.Rg4 Kf7 64.Rf4+ Ke6
+65.Rg4 Kf7 66.Rd4 Ke6 67.Rf4 Ra2 68.Kf3 Ra3+
+69.Ke2 Ke7 70.Kd2 Ke6 71.Rg4 Kf7 72.Rf4+ Ke7
+73.Kc2 Ra2+ 74.Kd3 Ke6 75.Rg4 Kf7 76.Rf4+ Ke7
+77.Ke3 Ra3+ 78.Kd2 Ke6 79.Ke2 Ra2+ 80.Kd3 Ra3+
+81.Kc2 Ra2+ 82.Kd3 Ra3+ 83.Kd2 Ke5 84.Rg4 d4
+85.Rxg7 Rxa4 86.Rg6 Ra2+ 87.Ke1 Ra1+ 88.Ke2 Ra2+
+89.Ke1 Ra1+ 90.Ke2 Ra2+ 91.Kf3 Ra3+ 92.Ke2 Ra2+
+93.Kf3 Ra3+ 94.Ke2 Ra2+ 95.Kf3 Ra3+ 96.Kg2 d3
+97.Kf3 Kd4 98.Rxh6 Ra1 99.Rd6+ Kc3 100.h6 d2
+101.h7 Rh1 102.Ke3 Re1+ 103.Kf4 Rh1 104.Ke3 Re1+
+105.Kf4 Rh1 106.Ke3 Re1+ 107.Kf4 Rh1 108.Ke3 Re1+
+109.Kf3 Rh1 110.Ke2 Re1+ 111.Kf3 Rh1 112.Rc6+ Kd3
+113.Rd6+ Kc3 114.Rc6+ Kd3 115.Rd6+ Kc3 1/2-1/2
+
+[Event ""]
+[GID "63"]
+[PlyCount "380"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.N1e2 Nf6 7.c3 Nbd7 8.h4 h6
+9.Nf4 Bh7 10.Bd3 Bxd3 11.Nxd3 e6 12.Nh5 Nxh5
+13.Qxh5 Bd6 14.Bd2 Nf6 15.Qf3 Qa5 16.a4 O-O-O
+17.h5 Rd7 18.c4 Qf5 19.O-O-O Be7 20.Be3 Ng4
+21.Qxf5 exf5 22.Ne5 Nxe5 23.dxe5 Rxd1+ 24.Kxd1 Kd7
+25.Rh3 Ke6 26.Rg3 Rg8 27.Bxa7 Ra8 28.Be3 Rxa4
+29.Rxg7 Rxc4 30.g3 Rb4 31.Kc2 Re4 32.Rg8 Rxe5
+33.Rh8 f6 34.Rxh6 Bc5 35.Bg5 Be7 36.Kd3 Kf7
+37.Bd2 Kg7 38.Rg6+ Kf7 39.Bh6 Ke6 40.Bf4 Rd5+
+41.Ke2 Kf7 42.Bh6 Ke6 43.Rg8 Rd8 44.Rxd8 Bxd8
+45.Bf4 Kf7 46.Kf3 Be7 47.b3 Ke6 48.Be3 Bd6
+49.Bb6 Kf7 50.g4 Ke6 51.h6 Kf7 52.gxf5 Be7
+53.Kg3 Kg8 54.Kg4 Kh7 55.Kh5 Bd6 56.Bd8 Be5
+57.Bb6 Bd6 58.Bd4 Be7 59.Ba7 Bd6 60.Bb6 Be5
+61.Bc5 Bc3 62.Be3 Bb4 63.Bd4 Be7 64.Bb2 b5
+65.Bc3 Bd8 66.Bb4 Bb6 67.Bc3 Bd8 68.Bd2 Be7
+69.Be3 Bf8 70.Bd4 Be7 71.Be3 Bf8 72.Bc1 Bc5
+73.Bb2 Be7 74.Ba1 c5 75.Bb2 c4 76.bxc4 bxc4
+77.Bc3 Bd8 78.Bb4 Bc7 79.Bc3 Bf4 80.Bxf6 Bd2
+81.Bd4 c3 82.f6 c2 83.f7 c1=Q 84.f8=Q Qh1+
+85.Kg4 Qg2+ 86.Kh4 Qh2+ 87.Kg4 Qg2+ 88.Kh4 Qg5+
+89.Kh3 Qh5+ 90.Kg3 Qg5+ 91.Kf3 Qd5+ 92.Ke2 Qxd4
+93.Qg7+ Qxg7 94.hxg7 Bh6 95.g8=Q+ Kxg8 96.Kf3 Kf7
+97.Kg4 Bc1 98.Kf5 Ba3 99.f3 Bb2 100.Kg5 Bd4
+101.f4 Bc5 102.Kg4 Bd6 103.f5 Kf6 104.Kh3 Bf4
+105.Kg4 Bb8 106.Kh3 Bd6 107.Kg4 Ba3 108.Kf4 Bd6+
+109.Ke4 Bb4 110.Kf4 Bc5 111.Kg4 Ba3 112.Kg3 Bd6+
+113.Kf3 Bc5 114.Kf4 Bd6+ 115.Kf3 Bc5 116.Ke4 Bb6
+117.Kf4 Ba5 118.Ke4 Bc3 119.Kf4 Ba5 120.Kg3 Bc7+
+121.Kf3 Bb6 122.Ke4 Ba7 123.Kd5 Bg1 124.Ke4 Bh2
+125.Kd5 Bc7 126.Kc6 Be5 127.Kc5 Bh2 128.Kd5 Be5
+129.Ke4 Bc3 130.Kd5 Be1 131.Kc6 Bd2 132.Kd6 Bb4+
+133.Kc6 Ba5 134.Kd6 Bd8 135.Kc5 Ba5 136.Kd4 Bb4
+137.Kd5 Bf8 138.Ke4 Be7 139.Kd5 Ba3 140.Ke4 Bb2
+141.Kf4 Bd4 142.Kg4 Ke5 143.Kf3 Kf6 144.Kf4 Bb2
+145.Kg3 Ba3 146.Kh2 Bd6+ 147.Kh3 Kg5 148.Kg2 Kg4
+149.f6 Kg5 150.Kh1 Kg6 151.f7 Bf8 152.Kh2 Kf5
+153.Kg2 Ke4 154.Kh2 Kf5 155.Kg3 Ke5 156.Kg2 Kf6
+157.Kf3 Ke7 158.Kg4 Ke6 159.Kh3 Ke7 160.Kh2 Kd6
+161.Kh1 Kd5 162.Kg2 Ke6 163.Kf3 Ke5 164.Kf2 Ke6
+165.Kg2 Kd6 166.Kf3 Ke6 167.Kf4 Ke7 168.Kg3 Kd6
+169.Kg2 Kd5 170.Kg3 Kd6 171.Kg4 Ke6 172.Kh3 Kd5
+173.Kg2 Kd6 174.Kf3 Ke7 175.Kf2 Ke6 176.Kf1 Kd7
+177.Ke2 Kc6 178.Kd3 Kc7 179.Ke3 Kb8 180.Kf4 Kb7
+181.Kg3 Kc7 182.Kg4 Kc8 183.Kg3 Kc7 184.Kg4 Kd7
+185.Kh5 Ke6 186.Kg6 Kd6 187.Kh5 Ke6 188.Kg6 Bb4
+189.Kg7 Bd6 190.f8=Q Bxf8+ 1/2-1/2
+
+[Event ""]
+[GID "65"]
+[PlyCount "134"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.Bd3 Bxd3
+9.Qxd3 e6 10.Bf4 Ngf6 11.O-O-O Be7 12.Kb1 O-O
+13.Ne4 Nxe4 14.Qxe4 Nf6 15.Qe2 Qd5 16.Ne5 Qe4
+17.Qxe4 Nxe4 18.Nd3 Nf6 19.c3 b5 20.h5 Rfc8
+21.g4 Nd5 22.Bc1 c5 23.dxc5 Bxc5 24.f4 Be3
+25.Nb4 Bxc1 26.Nxd5 exd5 27.Kxc1 Rc4 28.Rxd5 Rxf4
+29.g5 b4 30.cxb4 Rxb4 31.gxh6 gxh6 32.Rg1+ Kf8
+33.a3 Rh4 34.Rf1 Rc8+ 35.Kb1 Rc7 36.Ka2 Rh2
+37.Rff5 Rg2 38.a4 Kg7 39.Ka3 f6 40.Rc5 Rb7
+41.Rb5 Rc7 42.Rfc5 Rf7 43.b4 Rg5 44.Rf5 Rc7
+45.a5 a6 46.Rbd5 Rg3+ 47.Kb2 Rg2+ 48.Kb3 Rg3+
+49.Kb2 Rg4 50.b5 Rg2+ 51.Kb3 Rg3+ 52.Kb4 Rg4+
+53.Ka3 Rg3+ 54.Kb2 Rg2+ 55.Kb3 Rg3+ 56.Kb4 Rg4+
+57.Ka3 Rg3+ 58.Ka2 Rg2+ 59.Kb1 Rg1+ 60.Ka2 Rg2+
+61.Kb1 Rg1+ 62.Kb2 Rg2+ 63.Kb3 Rg3+ 64.Kb4 Rg4+
+65.Kb3 Rg3+ 66.Kb2 Rg2+ 67.Kb3 Rg3+ 1/2-1/2
+
+[Event ""]
+[GID "67"]
+[PlyCount "226"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6
+5.c3 c5 6.Bb5+ Nd7 7.Be3 c4 8.Nbd2 Ne7
+9.Ba4 Rb8 10.Bc2 b5 11.O-O Bxc2 12.Qxc2 Nf5
+13.Bg5 Be7 14.Bxe7 Qxe7 15.b4 Nb6 16.a3 O-O
+17.Rfb1 Rb7 18.Nf1 Ra8 19.g3 a5 20.h4 axb4
+21.axb4 Rba7 22.Qc1 Rxa1 23.Rxa1 Ra4 24.h5 h6
+25.N1d2 Qa7 26.Rxa4 bxa4 27.g4 Ne7 28.Nb1 Na8
+29.Na3 Qd7 30.Qb2 Nb6 31.Kf1 Nec8 32.Qc1 Qe7
+33.Ke1 Na8 34.Kd2 Nc7 35.Qd1 Nb6 36.Qe2 Nc8
+37.Qd1 Qe8 38.Kc2 f6 39.exf6 gxf6 40.Kb2 Nd6
+41.Nh4 Ne4 42.Qg1 Kg7 43.Qh2 Qd7 44.f3 Nd6
+45.f4 Nce8 46.f5 exf5 47.Nxf5+ Nxf5 48.gxf5 Kf7
+49.Qb8 Qxf5 50.Qb7+ Kf8 51.b5 Qxh5 52.Nc2 Qe2
+53.Qa7 Nd6 54.b6 h5 55.Qxa4 Qe8 56.Qa5 h4
+57.Qxd5 Qd8 58.Qc5 h3 59.Nb4 h2 60.Qh5 Qxb6
+61.Qxh2 Kg7 62.Qg2+ Kf7 63.Qh2 Kg6 64.Qg2+ Kf7
+65.Qd5+ Ke7 66.Qg8 Nf7 67.Qg2 Qb5 68.Qe4+ Kd7
+69.Qg4+ f5 70.Qg7 Ke7 71.Qg6 Nd6 72.Kc1 Kd7
+73.Qg7+ Ke8 74.Qg8+ Kd7 75.Qg7+ Ke8 76.d5 Qb6
+77.Qg5 Kf8 78.Nc6 Nf7 79.Qxf5 Qe3+ 80.Kb2 Qd2+
+81.Qc2 Qxd5 82.Nb4 Qf3 83.Qd2 Qg3 84.Nc6 Qc7
+85.Nb4 Qg3 86.Nc6 Qc7 87.Nd4 Qb6+ 88.Kc2 Qg6+
+89.Kd1 Qg1+ 90.Kc2 Qg6+ 91.Kb2 Qb6+ 92.Kc1 Qh6
+93.Kd1 Qxd2+ 94.Kxd2 Ke7 95.Ke3 Kd6 96.Kf4 Kc5
+97.Ne6+ Kd5 98.Ng7 Ne5 99.Nh5 Kd6 100.Kf5 Nd7
+101.Ng3 Kc5 102.Ke6 Nb6 103.Ne4+ Kb5 104.Nd6+ Kc6
+105.Ne4 Kb5 106.Nd6+ Ka4 107.Ke5 Ka3 108.Kd4 Kb3
+109.Nb7 Nc8 110.Nc5+ Kc2 111.Kxc4 Nb6+ 112.Kd4 Nd5
+113.Kxd5 Kxc3 1/2-1/2
+
+[Event ""]
+[GID "68"]
+[PlyCount "152"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.Bd3 Bxd3
+9.Qxd3 Ngf6 10.Bf4 e6 11.O-O-O Be7 12.Kb1 O-O
+13.Ne4 Nxe4 14.Qxe4 Nf6 15.Qe2 Qd5 16.Ne5 Qe4
+17.Qxe4 Nxe4 18.Be3 Rfd8 19.c3 h5 20.Kc2 Rd5
+21.Nd3 Nd6 22.g3 Nf5 23.Rhe1 Nxe3+ 24.Rxe3 Bd6
+25.b4 a5 26.a3 g6 27.Kb3 Kf8 28.Rc1 b6
+29.Rce1 Ke8 30.Rd1 Bc7 31.Rde1 Ra7 32.R1e2 Rd8
+33.Ra2 Ke7 34.Ree2 Rda8 35.a4 axb4 36.cxb4 Rd8
+37.Kc3 Rda8 38.Nb2 Rd8 39.Ra1 Ra6 40.f4 Kf6
+41.Nd3 Kf5 42.Nb2 Kg4 43.Re3 Ra7 44.Rc1 Rd5
+45.Kb3 Rxd4 46.Rxc6 Kh3 47.Nd3 Bd8 48.Ka3 b5
+49.a5 Be7 50.Kb3 Rad7 51.Rc3 Rd8 52.Nf2+ Kg2
+53.Nd3 Kh3 54.a6 Ra8 55.Rc7 Bd6 56.Rxf7 Rxa6
+57.Rb7 Rd5 58.Rg7 Ra4 59.Rxg6 Rd4 60.Kb2 Bxb4
+61.g4+ Kxh4 62.gxh5 Bd2 63.Reg3 Bxf4 64.Nxf4 Rab4+
+65.Kc2 Rbc4+ 66.Rc3 Rxc3+ 67.Kxc3 Rxf4 68.h6 Rf8
+69.Rxe6 Kg5 70.h7 Rh8 71.Rb6 Kh5 72.Kb4 Kg5
+73.Rb7 Kf6 74.Kxb5 Kg6 75.Ka5 Rxh7 76.Rxh7 Kxh7
+ 1/2-1/2
+
+[Event ""]
+[GID "60"]
+[PlyCount "540"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Nf6 6.h3 e5 7.dxe5 Nxe5 8.Qe2 Qe7
+9.Be3 Nxd3+ 10.Qxd3 g6 11.Ne2 Bg7 12.O-O O-O
+13.Na3 a6 14.Qd2 Ne4 15.Qxd5 Rd8 16.Qa5 Qh4
+17.Nc2 b5 18.Qc7 Re8 19.Qf4 Qh5 20.f3 g5
+21.Qh2 Be5 22.Qh1 Ng3 23.Nxg3 Bxg3 24.Bf2 Bf4
+25.Nd4 Bb7 26.h4 b4 27.hxg5 Qxg5 28.Qh4 Qxh4
+29.Bxh4 bxc3 30.bxc3 Rab8 31.Rfd1 h6 32.a4 Kh7
+33.Rab1 Bd5 34.Rb4 Bd6 35.Rxb8 Bxb8 36.Bf2 Rc8
+37.Rd3 Bc4 38.Re3 Bf4 39.Re7 Rb8 40.g3 Rb1+
+41.Kg2 Bd6 42.Re8 Bf1+ 43.Kh2 Rb2 44.Kg1 Rb1
+45.Re1 Rxe1 46.Bxe1 Bc4 47.Kf2 h5 48.Ke3 Bc7
+49.Ke4 Kg6 50.f4 Kf6 51.Nc6 Ke6 52.Kd4 Bb3
+53.a5 Kd6 54.Nb4 Bxa5 55.Nxa6 Bb6+ 56.Kd3 Ba5
+57.Nb4 Bxb4 58.cxb4 Kd5 59.f5 Ke5 60.Bf2 Kxf5
+61.Be1 Ke5 62.Bc3+ Kd5 63.b5 Bc4+ 64.Ke3 Bxb5
+65.Bd4 Ke6 66.Kf4 Bc6 67.Ba7 Bb7 68.Bg1 Bg2
+69.Bb6 Bh3 70.Bc5 f6 71.Bd4 Kf7 72.Kf3 Bf5
+73.Kg2 Bd7 74.Bc3 Kg6 75.Bb4 Kf5 76.Kf2 Ba4
+77.Bd6 Kg6 78.Ke3 Bd7 79.Bb8 Bg4 80.Kf4 Be6
+81.Bc7 Kh6 82.Bd8 Kg6 83.Ke3 Bg4 84.Kf4 Bd7
+85.Ke4 Bf5+ 86.Kf4 Bg4 87.Ke3 Bd1 88.Bc7 Kf5
+89.Kf2 Bg4 90.Ke1 Kg6 91.Kf2 Kg5 92.Bf4+ Kg6
+93.Bc1 Bd7 94.Bf4 Bf5 95.Bb8 Bc2 96.Kg2 Bf5
+97.Ba7 Kg5 98.Kf2 Be6 99.Bb8 Bb3 100.Kf3 Bd1+
+101.Ke3 Bg4 102.Bf4+ Kf5 103.Bc7 Ke6 104.Bd8 Bh3
+105.Bb6 Kf7 106.Bc7 Kg6 107.Kf4 Bc8 108.Bb8 Be6
+109.Bc7 Bc8 110.Bd6 Kf7 111.Bc5 Kg6 112.Bg1 Be6
+113.Bh2 Kf7 114.Ke3 Bh3 115.Bg1 Be6 116.Bf2 Bd7
+117.Be1 Bc6 118.Bb4 f5 119.Kf4 Kg6 120.Be7 Bd5
+121.Bh4 Bc4 122.Be7 Bd5 123.Bh4 Bc4 124.Bd8 Bb5
+125.Bc7 Bf1 126.Bd6 Bc4 127.Bb8 Bd3 128.Bd6 Be2
+129.Bb8 Bd3 130.Ba7 Be2 131.Bd4 Bc4 132.Bg1 Bd3
+133.Bc5 Ba6 134.Bd6 Bb5 135.Be5 Ba6 136.Ba1 Be2
+137.Bb2 Bc4 138.Be5 Bd3 139.Ba1 Be2 140.Bb2 Bc4
+141.Be5 Bd3 142.Bb8 Be2 143.Ba7 Ba6 144.Bd4 Bb5
+145.Bh8 Ba4 146.Be5 Bb3 147.Ba1 Ba4 148.Bh8 Bb3
+149.Ba1 Bc2 150.Bd4 Be4 151.Bg1 Kf6 152.Bf2 Bc6
+153.Bd4+ Ke6 154.Bb6 Bb5 155.Bc7 Bf1 156.Be5 Ba6
+157.Bb2 Bf1 158.Ba3 Kf6 159.Bf8 Bc4 160.Bd6 Bd3
+161.Bc7 Be4 162.Be5+ Kf7 163.Bc7 Bd3 164.Bd6 Kg6
+165.Be7 Be2 166.Bc5 Ba6 167.Bf2 Bb5 168.g4 hxg4
+169.Ba7 Bd7 170.Bg1 Bc8 171.Bh2 Bb7 172.Bg3 Be4
+173.Bh4 Bc2 174.Bf2 Ba4 175.Bd4 Bb3 176.Be5 Ba4
+177.Kg3 Bd7 178.Kh4 Kf7 179.Kg5 Bc8 180.Bh2 Ke7
+181.Kf4 Be6 182.Bg1 Bc8 183.Bd4 Bd7 184.Be5 Ke6
+185.Bc7 Kd5 186.Bd8 Be6 187.Bh4 Bd7 188.Bd8 Kc6
+189.Bh4 Be6 190.Ke5 Bc8 191.Bg3 Kb5 192.Kf4 Kc5
+193.Ke3 Be6 194.Bb8 Kd5 195.Kf4 Kc4 196.Ba7 Kd5
+197.Bg1 Kc4 198.Ke3 Kb3 199.Kf4 Kc3 200.Ke3 Kb4
+201.Kf4 Bd7 202.Bf2 Kb5 203.Bh4 Kc4 204.Ke3 Kb3
+205.Kf4 Be6 206.Bf2 Kb4 207.Ke3 Kb5 208.Kf4 Kc4
+209.Ba7 Kb3 210.Bg1 Kc3 211.Ke3 Kb4 212.Bh2 Kc5
+213.Bg3 Kb4 214.Bd6+ Kb3 215.Bf4 Bd7 216.Kd3 Ka4
+217.Ke2 Kb5 218.Bb8 f4 219.Bxf4 Ka6 220.Bg3 Bc6
+221.Kf1 Bf3 222.Kf2 Ka5 223.Bc7+ Kb5 224.Kg3 Bb7
+225.Bb8 Ka6 226.Bc7 Kb5 227.Bf4 Be4 228.Be3 Bc2
+229.Bf2 Kc6 230.Ba7 Kb7 231.Bc5 Ka6 232.Be7 Ka7
+233.Bf6 Ka6 234.Bh4 Kb7 235.Bg5 Ka8 236.Be3 Kb7
+237.Bf4 Bd3 238.Bg5 Kc6 239.Bc1 Kc5 240.Bb2 Kc4
+241.Bf6 Be4 242.Be5 Bb1 243.Bf4 Kb4 244.Bc1 Kb3
+245.Bf4 Kb4 246.Bg5 Ka4 247.Bf6 Kb3 248.Be5 Kc4
+249.Bg7 Bd3 250.Bh6 Be4 251.Bg5 Bf3 252.Bh6 Kd3
+253.Bf4 Bb7 254.Bg5 Ke2 255.Bf6 Kd1 256.Bg7 Be4
+257.Be5 Bf3 258.Bf6 Kd2 259.Bh4 Kd3 260.Bg5 Bb7
+261.Bf4 Ba6 262.Bd6 Kd2 263.Bb4+ Kd3 264.Be1 Bc4
+265.Ba5 Bd5 266.Bb6 Bc4 267.Bc7 Ba2 268.Bb6 Bb1
+269.Kxg4 Bc2 270.Be3 Kxe3 1/2-1/2
+
+[Event ""]
+[GID "66"]
+[PlyCount "383"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nd2 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 c5
+9.dxc5 Bxc5 10.Qc2 h6 11.O-O Nc6 12.Bf4 Re8
+13.Rad1 Qb6 14.h3 a5 15.b3 Ne7 16.c4 Bf5
+17.Nc3 Bxd3 18.Rxd3 Ng6 19.Bg3 Rad8 20.Nd5 Qc6
+21.Rfd1 Rc8 22.Nc3 Re6 23.Rd5 Rce8 24.Kh2 Kh8
+25.Qb1 Kg8 26.Qd3 b6 27.Na4 Bb4 28.Rb5 Ne5
+29.Qf5 g6 30.Qf4 g5 31.Qf5 Nd7 32.Qd5 Qxd5
+33.cxd5 Re1 34.Rxe1 Rxe1 35.Nxb6 Nxb6 36.Rxb6 Rd1
+37.Rb5 Rd2 38.a4 Rd3 39.Bc7 Rxb3 40.g3 Rd3
+41.Bxa5 Bxa5 42.Rxa5 Kf8 43.h4 Rd4 44.h5 g4
+45.Kg1 Ke7 46.Kf1 f5 47.Kg2 Kf6 48.f4 gxf3+
+49.Kxf3 Ke5 50.d6+ Kxd6 51.Rxf5 Ke6 52.Ra5 Rd3+
+53.Kf4 Rd4+ 54.Kf3 Rd3+ 55.Kg4 Rd4+ 56.Kh3 Rc4
+57.Ra8 Kf5 58.Ra5+ Ke6 59.Kg2 Rb4 60.Kf1 Rb3
+61.Kf2 Rb2+ 62.Ke3 Rb3+ 63.Kf4 Rb4+ 64.Kf3 Rb3+
+65.Kg2 Rb4 66.Kg1 Rb3 67.Kh2 Rb4 68.Kg2 Kf6
+69.Kf3 Rb3+ 70.Kf4 Rb4+ 71.Kf3 Rb3+ 72.Kg4 Rb4+
+73.Kh3 Ke6 74.g4 f5 75.gxf5+ Kf6 76.Kg3 Kg5
+77.Ra8 Kxf5 78.Kf3 Kg5 79.Ra5+ Kf6 80.Ra8 Rh4
+81.Ra5 Rb4 82.Ke3 Rh4 83.Kd3 Ke6 84.Kd2 Kf6
+85.Ra6+ Kg5 86.Ra5+ Kf6 87.Ke3 Ke6 88.Ra6+ Kd7
+89.Ra5 Ke7 90.Ke2 Ke6 91.Kd1 Ke7 92.Ke2 Ke6
+93.Kd3 Kd6 94.Ke3 Ke6 95.Kf3 Kf6 96.Kg3 Rc4
+97.Kf2 Rh4 98.Kf1 Rh1+ 99.Ke2 Rh4 100.Kd3 Ke6
+101.Kc3 Rh3+ 102.Kc4 Rh4+ 103.Kb3 Rh3+ 104.Kb4 Rh4+
+105.Kb3 Rh3+ 106.Kb4 Rh4+ 107.Ka3 Rh3+ 108.Kb2 Rh4
+109.Ra6+ Kd7 110.Ra5 Ke6 111.Ka3 Rh3+ 112.Ka2 Rh4
+113.Ra6+ Kd7 114.Ra5 Kc6 115.Kb3 Rh3+ 116.Kb4 Rh4+
+117.Kc3 Rh3+ 118.Kd2 Rh4 119.Ra6+ Kd7 120.Ra5 Kc6
+121.Ra6+ Kd7 122.Rxh6 Rxa4 123.Rh8 Ke7 124.h6 Kf6
+125.Ke3 Kf5 126.h7 Kg6 127.Rg8+ Kxh7 128.Rg1 Kh8
+129.Rh1+ Kg7 130.Rf1 Kh6 131.Ke2 Kh5 132.Rg1 Rg4
+133.Ra1 Kg6 134.Kd2 Kh5 135.Rh1+ Rh4 136.Rf1 Kh6
+137.Rf6+ Kg5 138.Rf8 Kh6 139.Rh8+ Kg5 140.Rg8+ Kf5
+141.Rg1 Ke4 142.Rd1 Kd4 143.Kc2+ Kc4 144.Rd2 Rh8
+145.Kd1 Kc3 146.Rc2+ Kb3 147.Re2 Rh1+ 148.Kd2 Rh8
+149.Re3+ Ka2 150.Kd1 Kb1 151.Re1 Ka2 152.Ke2 Rh3
+153.Rf1 Rh8 154.Kd2 Kb3 155.Rd1 Kb2 156.Rf1 Kb3
+157.Rb1+ Ka2 158.Rg1 Kb3 159.Rb1+ Ka2 160.Rg1 Kb3
+161.Rg3+ Kb4 162.Kc2 Rh2+ 163.Kd1 Rh1+ 164.Kc2 Rh2+
+165.Kc1 Rh1+ 166.Kd2 Rh2+ 167.Ke1 Rh1+ 168.Kd2 Rh8
+169.Re3 Kc4 170.Re1 Ra8 171.Re3 Ra2+ 172.Kd1 Ra1+
+173.Kc2 Rh1 174.Kd2 Kc5 175.Kc2 Kc4 176.Re2 Kb5
+177.Re3 Kc4 178.Re2 Kb5 179.Kd2 Kc6 180.Kc3 Kb7
+181.Re3 Rh4 182.Re2 Rh1 183.Re3 Rh4 184.Rd3 Rh2
+185.Rd8 Rh4 186.Rd3 Rh2 187.Rd8 Rh4 188.Rd3 Rh2
+189.Rd8 Rh4 190.Rd3 Rh2 191.Rd8 Rh4 192.Rd3 1/2-1/2
+
+[Event ""]
+[GID "70"]
+[PlyCount "61"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Qc7 6.Ne2 e5 7.dxe5 Nxe5 8.Bb5+ Bd7
+9.Bxd7+ Qxd7 10.O-O Nf6 11.Ng3 Be7 12.Re1 Nc6
+13.Na3 O-O 14.Nc2 Rfe8 15.Qf3 Bc5 16.Be3 Bxe3
+17.Rxe3 d4 18.Nxd4 Nxd4 19.Rxe8+ Rxe8 20.cxd4 Qxd4
+21.Qxb7 Ng4 22.Rf1 Nxf2 23.Ne2 Nh3+ 24.Kh1 Nf2+
+25.Kg1 Nh3+ 26.Kh1 Nf2+ 27.Kg1 Nh3+ 28.Kh1 Nf2+
+29.Kg1 Nh3+ 30.Kh1 Nf2+ 31.Kg1 1/2-1/2
+
+[Event ""]
+[GID "71"]
+[PlyCount "53"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Bxd7+ Qxd7 8.O-O Nxd5
+9.Ne5 Qf5 10.Re1 f6 11.Nc4 Be6 12.d4 Kf7
+13.Ne3 Nxe3 14.fxe3 Qg4 15.Qd3 Rc8 16.Nd2 Kg8
+17.e4 Bf7 18.Nf3 h6 19.Bd2 Bc4 20.Qb1 Bf7
+21.Qd3 Bc4 22.Qc3 Bf7 23.Qd3 Bc4 24.Qb1 Bf7
+25.Qd3 Bc4 26.Qb1 Bf7 27.Qd3 1/2-1/2
+
+[Event ""]
+[GID "69"]
+[PlyCount "262"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Nf3 Nxd5 6.Nc3 Nc6 7.d4 e6 8.Bc4 Bd6
+9.Bxd5 exd5 10.Nxd5 O-O 11.Nc3 Bg4 12.O-O Qb6
+13.h3 Bxf3 14.Qxf3 Nxd4 15.Qh5 Rfe8 16.Qg4 f5
+17.Qh5 f4 18.Bd2 Re5 19.Qg4 Rf5 20.Ne4 h5
+21.Qg6 Be5 22.Qxb6 axb6 23.Rfd1 f3 24.a4 Re8
+25.Kf1 Bb8 26.gxf3 Nxf3 27.Nc3 Nd4 28.Kg2 Be5
+29.Ne4 Re6 30.Ra3 Nc6 31.Bc3 Bxc3 32.Nxc3 h4
+33.Kf1 Re3 34.Nb5 Rxa3 35.bxa3 Kh7 36.Rd7 Rf6
+37.Rxb7 Ne5 38.Nc3 Nd3 39.Ne4 Rc6 40.Rf7 Rc4
+41.Rf3 Rxe4 42.Rxd3 Rxa4 43.Rb3 Ra7 44.Kg2 Ra4
+45.Kf3 b5 46.Rxb5 Rxa3+ 47.Kg2 Kh6 48.Rc5 g6
+49.Rb5 Kg7 50.Kh2 Ra2 51.Kg2 Ra3 52.Rb4 g5
+53.Rb5 Kh6 54.Rb6+ Kh5 55.Rc6 Ra5 56.Rc4 Ra1
+57.Re4 Ra5 58.Rb4 Kh6 59.Kf3 Ra8 60.Kg4 Ra6
+61.Kf3 Kg6 62.Kg2 Ra5 63.Kf3 Ra2 64.Rb6+ Kf7
+65.Kg2 Ra3 66.Rb7+ Kg6 67.Rb4 Ra2 68.Rb3 Kh5
+69.Rb4 Kg6 70.Kf3 Ra1 71.Rb6+ Kh5 72.Kg2 Ra8
+73.Rb5 Kg6 74.Rb6+ Kf7 75.Rb3 Ra4 76.Kf3 Rf4+
+77.Ke3 Ra4 78.Kf3 Rf4+ 79.Kg2 Kg6 80.Rb6+ Kh5
+81.Rb5 Ra4 82.Kf3 Ra1 83.Kg2 Kh6 84.Rc5 Ra8
+85.Rc4 Kg6 86.Rg4 Ra6 87.Rc4 Ra8 88.Rg4 Ra6
+89.Re4 Kh6 90.Rd4 Ra8 91.Rg4 Ra2 92.Kf1 Kh5
+93.Rb4 Rd2 94.Kg2 Kg6 95.Ra4 Kh5 96.Rg4 Ra2
+97.Rd4 Kg6 98.Rb4 Kg7 99.Rc4 Kh6 100.Kg1 Kh5
+101.f3 Kg6 102.Rg4 Kf5 103.Rb4 Rc2 104.Re4 Rc1+
+105.Kf2 Rc2+ 106.Kg1 Rc1+ 107.Kf2 Rc2+ 108.Re2 Rxe2+
+109.Kxe2 Kg6 110.Kf1 Kf6 111.Kf2 Ke5 112.Ke1 Kf6
+113.Kf2 Ke5 114.Kf1 Ke6 115.Kg2 Kd5 116.Kf1 Ke5
+117.Ke2 Kf6 118.Kd1 Kf5 119.Ke2 Kg6 120.Kd3 Kf5
+121.Ke3 Ke5 122.Ke2 Kf6 123.Ke1 Ke5 124.Kf1 Ke6
+125.Ke2 Kf6 126.Kd2 Kf5 127.Ke3 Ke5 128.Ke2 Kf6
+129.Kd2 Kf5 130.Ke1 Ke5 131.Ke2 Kf6 1/2-1/2
+
+[Event ""]
+[GID "73"]
+[PlyCount "178"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Nf6 6.Bf4 Bg4 7.Qb3 Qd7 8.Nd2 e6
+9.Ngf3 Bd6 10.Bxd6 Qxd6 11.O-O O-O 12.Rfe1 Bh5
+13.Ne5 Qc7 14.Ndf3 Rfb8 15.Qc2 Bxf3 16.Nxf3 b5
+17.Rac1 a5 18.Qd2 a4 19.a3 Na5 20.Rc2 Rb6
+21.Qc1 Rab8 22.Rce2 h6 23.Ne5 Nc4 24.Qf4 Rf8
+25.Qh4 Nd7 26.Nxd7 Qxd7 27.f4 Qc7 28.Qf2 g6
+29.g4 Kg7 30.Kh1 Nd6 31.f5 exf5 32.gxf5 Ne4
+33.Bxe4 dxe4 34.Rxe4 Rf6 35.Re5 Qd7 36.Qf1 Rb8
+37.Qd3 gxf5 38.Rg1+ Kf8 39.Qg3 Rg6 40.Qf4 Rf6
+41.Rf1 Rbb6 42.d5 Rbd6 43.Rd1 Rde6 44.Rf1 Re8
+45.Rf3 Re7 46.Qb4 Qd6 47.Qxd6 Rxd6 48.Rxe7 Kxe7
+49.Rxf5 Rf6 50.d6+ Rxd6 51.Re5+ Kf6 52.Rxb5 Rd2
+53.h4 h5 54.Kg1 Ke6 55.Rxh5 Rxb2 56.Ra5 Rc2
+57.Rxa4 Rxc3 58.Ra5 Kf6 59.h5 Kg7 60.a4 Rc4
+61.Ra6 f6 62.Kf1 Rc5 63.h6+ Kxh6 64.Rxf6+ Kg7
+65.Ra6 Kf7 66.a5 Ke7 67.Ra8 Kd6 68.a6 Ra5
+69.Kf2 Kc6 70.Ke3 Ra2 71.a7 Kb7 72.Rb8+ Kxa7
+73.Rb3 Ra6 74.Rb2 Ra1 75.Ke4 Ra6 76.Kd3 Ra1
+77.Rb3 Ra5 78.Kc4 Ra4+ 79.Kd5 Ra1 80.Rb4 Re1
+81.Ra4+ Kb8 82.Rc4 Ka7 83.Kc6 Rh1 84.Ra4+ Kb8
+85.Ra3 Rh2 86.Ra1 Rh6+ 87.Kd5 Kb7 88.Ke4 Ra6
+89.Rxa6 Kxa6 1/2-1/2
+
+[Event ""]
+[GID "74"]
+[PlyCount "106"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.Bd3 Bxd3
+9.Qxd3 e6 10.Bf4 Ngf6 11.O-O-O Be7 12.Kb1 O-O
+13.Ne4 Nxe4 14.Qxe4 Nf6 15.Qe2 Qd5 16.Ne5 Qe4
+17.Qxe4 Nxe4 18.Be3 Rfd8 19.c3 Rac8 20.Kc2 b5
+21.g4 a5 22.Nd3 c5 23.dxc5 Nxc5 24.Nxc5 Rxd1
+25.Rxd1 Bxc5 26.Bxc5 Rxc5 27.Kb3 f5 28.gxf5 exf5
+29.a4 Kf7 30.Rd7+ Kf6 31.Rd6+ Ke5 32.Ra6 bxa4+
+33.Kxa4 h5 34.Ra7 Kf6 35.Ra6+ Ke5 36.Rg6 Rc4+
+37.Kxa5 Rg4 38.Rc6 Rxh4 39.b4 Rf4 40.Rg6 Rxf2
+41.Rxg7 Rc2 42.b5 f4 43.Rg5+ Ke4 44.Rxh5 Rxc3
+45.b6 f3 46.b7 Rb3 47.Rh4+ Ke3 48.Rb4 Rxb4
+49.Kxb4 f2 50.b8=Q f1=Q 51.Qe5+ Kf2 52.Qf5+ Kg1
+53.Qxf1+ Kxf1 1/2-1/2
+
+[Event ""]
+[GID "72"]
+[PlyCount "205"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 c5
+9.dxc5 Bxc5 10.O-O Nc6 11.Qc2 h6 12.Rd1 Qe7
+13.h3 Rd8 14.Bf4 Be6 15.Ng3 Ne5 16.Be4 Qc7
+17.Nh5 a5 18.Bg3 Rxd1+ 19.Rxd1 a4 20.Qb1 Rd8
+21.Nf4 Rxd1+ 22.Qxd1 Bd7 23.Qd5 b5 24.Bc2 Qc6
+25.Qxc6 Nxc6 26.Kf1 f5 27.b3 axb3 28.axb3 g5
+29.Nd3 Bf8 30.f3 Be6 31.Ke1 f6 32.Bf2 Kf7
+33.Nc1 f4 34.Kd2 Ne5 35.Ne2 Bd5 36.Ke1 h5
+37.Nd4 g4 38.hxg4 hxg4 39.Nxb5 gxf3 40.gxf3 Nxf3+
+41.Ke2 Ne5 42.Nd4 Bc5 43.Nf5 Bxf2 44.Kxf2 Ng4+
+45.Ke1 Ke6 46.Nd4+ Ke5 47.Bd1 Ne3 48.Be2 Be4
+49.Kd2 Kd5 50.Nf3 Ng4 51.Ke1 Ne5 52.Kf2 Ng4+
+53.Kf1 Ne3+ 54.Ke1 Ng4 55.Nd2 Ne3 56.Ba6 f5
+57.Nf3 Nc2+ 58.Ke2 Ne3 59.Ke1 Nc2+ 60.Kf2 Ne3
+61.Be2 Bc2 62.Nd4 Be4 63.Ke1 Ng4 64.Nf3 Nf6
+65.Kd2 Bxf3 66.Bxf3+ Ne4+ 67.Kd3 Ke5 68.b4 Nf2+
+69.Ke2 Ne4 70.Kd3 Nf2+ 71.Kc2 Ne4 72.Bd1 Kd5
+73.Be2 Ke5 74.Bd1 Ng5 75.Kd3 f3 76.c4 f4
+77.c5 f2 78.Be2 Ne6 79.Bf1 Nd4 80.Bg2 f3
+81.Bf1 Kd5 82.c6 Nxc6 83.b5 Ne7 84.Ke3 Kc5
+85.b6 Kxb6 86.Kxf2 Nd5 87.Bh3 Ka7 88.Bf1 Kb8
+89.Bh3 Nc3 90.Ke3 Nd5+ 91.Ke4 Nc3+ 92.Ke3 Nd5+
+93.Kf2 Nc3 94.Bf1 Ne4+ 95.Ke3 Nc3 96.Kd2 Nd5
+97.Kd3 Ka7 98.Ke4 Nc3+ 99.Kf4 Ne2+ 100.Ke3 Kb6
+101.Kf2 Kc5 102.Kxf3 Kc4 103.Bxe2+ 1/2-1/2
+
+[Event ""]
+[GID "75"]
+[PlyCount "152"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Nf6 6.h3 e5 7.dxe5 Nxe5 8.Qe2 Ne4
+9.Bb5+ Bd7 10.Nf3 Ng6 11.Ng5 Be7 12.Nxe4 dxe4
+13.Bxd7+ Qxd7 14.Qxe4 O-O 15.O-O Rfe8 16.Qf3 Ne5
+17.Qe2 Bc5 18.Be3 Bxe3 19.fxe3 Qd3 20.Rf2 Rad8
+21.Nd2 g6 22.e4 f5 23.Raf1 b6 24.b3 Re7
+25.Qxd3 Nxd3 26.Re2 Kg7 27.Nf3 fxe4 28.Nd2 Rde8
+29.Re3 b5 30.Rd1 Nf4 31.Nf1 h5 32.h4 Re5
+33.Rd7+ Kh6 34.Nd2 R8e6 35.Kh1 a6 36.Kg1 g5
+37.Rd4 gxh4 38.Rdxe4 Rxe4 39.Rxe4 Rxe4 40.Nxe4 Ne2+
+41.Kh2 Nc1 42.a4 Nxb3 43.axb5 axb5 44.Nd6 Kg5
+45.Kh3 Nc1 46.Nxb5 Nd3 47.c4 Nf4+ 48.Kh2 Ne6
+49.Nc3 Kf5 50.Kh3 Nf4+ 51.Kh2 Ne6 52.Nd5 Ke5
+53.Ne3 Ke4 54.Nd5 Kd4 55.Nf6 Kxc4 56.Nxh5 Ng5
+57.Nf4 Kd4 58.Nh3 Ne4 59.Kh1 Kc3 60.Nf4 Kd4
+61.Kh2 Ng5 62.Ng6 Ke3 63.Nxh4 Kf2 64.Kh1 Ne4
+65.Nf5 Ng5 66.Ng7 Ke3 67.Nh5 Kf2 68.Nf6 Kg3
+69.Ne8 Nf3 70.Nd6 Ng5 71.Nb5 Ne6 72.Nc3 Ng5
+73.Kg1 Nf3+ 74.Kf1 Nd2+ 75.Kg1 Nf3+ 76.gxf3 Kxf3
+ 1/2-1/2
+
+[Event ""]
+[GID "78"]
+[PlyCount "202"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.c3 Nd7 7.N1e2 e5 8.h4 h6
+9.dxe5 Nxe5 10.Qxd8+ Rxd8 11.Nf4 Bc2 12.Be3 Nf6
+13.Bxa7 Bd6 14.Be2 O-O 15.O-O Ra8 16.Bd4 c5
+17.Bxe5 Bxe5 18.Nfh5 Nxh5 19.Nxh5 Rfe8 20.Rfe1 Kf8
+21.Ng3 Bxg3 22.fxg3 Bb3 23.Bb5 Rxe1+ 24.Rxe1 Be6
+25.a3 Rd8 26.Kf2 Rd2+ 27.Re2 Rd1 28.Ke3 g5
+29.Rf2 Rg1 30.Bf1 Ke7 31.hxg5 hxg5 32.b4 cxb4
+33.axb4 b6 34.Kd4 Rh1 35.Be2 Rh8 36.c4 Rd8+
+37.Kc3 Ra8 38.Bd1 Ra3+ 39.Bb3 Ra1 40.Re2 Kd6
+41.Rd2+ Kc6 42.Rd1 Ra8 43.Re1 Kc7 44.Rc1 Re8
+45.Rf1 Ra8 46.b5 Re8 47.Kb4 Rd8 48.Kc3 Re8
+49.Bc2 Ra8 50.Kb4 Ra2 51.Rf2 Kd6 52.Re2 Rb2+
+53.Kc3 Ra2 54.Kb3 Ra8 55.Kb4 Ra2 56.Rd2+ Kc7
+57.Kb3 Ra5 58.Kb4 Ra2 59.Re2 Kd6 60.Rf2 Kd7
+61.Kb3 Ra5 62.Kb4 Ra2 63.Kb3 Ra5 64.Rd2+ Kc7
+65.Kc3 Ra3+ 66.Bb3 Ra1 67.Kd4 Kd6 68.Re2 Rb1
+69.Bc2 Ra1 70.Bd3 Rd1 71.Rf2 g4 72.Rc2 Bf5
+73.Rc3 Bd7 74.Ra3 Be6 75.Ra6 Bf5 76.c5+ Ke7
+77.Ra7+ Ke6 78.Ra3 bxc5+ 79.Kc4 Bxd3+ 80.Rxd3 Rc1+
+81.Rc3 Rxc3+ 82.Kxc3 Kd5 83.Kb3 c4+ 84.Kc3 Kc5
+85.b6 Kxb6 86.Kxc4 Kc6 87.Kd4 Kd6 88.Ke4 Ke6
+89.Kf4 f5 90.Ke3 Ke5 91.Ke2 Ke4 92.Kf2 Kd3
+93.Kf1 Kd2 94.Kf2 Kd3 95.Kf1 Kd2 96.Kf2 Kd3
+97.Kf1 Kd2 98.Kf2 Kd3 99.Ke1 Ke3 100.Kf1 Kd2
+101.Kf2 Kd3 1/2-1/2
+
+[Event ""]
+[GID "77"]
+[PlyCount "214"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 c5
+9.dxc5 Bxc5 10.Qc2 g6 11.O-O Re8 12.Nf4 Qc7
+13.Nd5 Qd8 14.Nf4 Nc6 15.h3 Qe7 16.b4 Bd6
+17.Be3 Rd8 18.Rad1 Bxf4 19.Bxf4 Be6 20.Rfe1 Rac8
+21.a3 Ne5 22.Bxe5 fxe5 23.Rxe5 Qf6 24.Rde1 Bb3
+25.Qxb3 Rxd3 26.Re8+ Rxe8 27.Rxe8+ Kg7 28.Re3 Rxe3
+29.fxe3 b5 30.Qc2 Kg8 31.Qc1 Qe6 32.Qd2 Qa6
+33.Qb2 Qf6 34.Qc1 Qe6 35.Qd2 Qa6 36.Qd8+ Kg7
+37.Qd4+ Kg8 38.Qd8+ Kg7 39.Qd4+ Kg8 40.Kf2 Qxa3
+41.Qd8+ Kg7 42.Qd4+ Kg8 43.Kf3 Qa1 44.Qd8+ Kg7
+45.Qd4+ Kg8 46.Qd8+ Kg7 47.Qd3 h5 48.Kg3 a5
+49.Qd4+ Kh7 50.Qf6 a4 51.Qxf7+ Kh6 52.Qf8+ Kh7
+53.Qf7+ Kh6 54.Qf8+ Kh7 55.Qe7+ Kh6 56.Qe5 Kh7
+57.Qxb5 a3 58.Qd7+ Kh6 59.Qd4 Kh7 60.Qd7+ Kh6
+61.Qd4 Kh7 62.Qa7+ Kh6 63.Qc5 Qf1 64.Qd4 Qf8
+65.Qc4 Qd6+ 66.Kf3 Qd1+ 67.Kg3 Qd2 68.Qf4+ Kg7
+69.Qc7+ Kh6 70.Qf4+ Kg7 71.Qc7+ Kh6 72.Qc5 Qd7
+73.b5 a2 74.Qa3 Qe6 75.Kh2 Qe5+ 76.Kh1 Qd5
+77.Qa4 Qd2 78.Kh2 Qb2 79.Qf4+ Kh7 80.Qf7+ Kh6
+81.Qf4+ Kh7 82.Qf7+ Kh6 83.Qf8+ Kh7 84.Qe7+ Kh6
+85.Qf8+ Kh7 86.Qe7+ Kh6 87.Qf6 a1=Q 88.Qf8+ Kh7
+89.Qf7+ Kh6 90.Qf8+ Kh7 91.Qe7+ Kg8 92.Qe6+ Kh7
+93.Qe7+ Kh8 94.Qf8+ Kh7 95.Qf7+ Kh6 96.Qf4+ Kg7
+97.Qe5+ Kf7 98.Qc7+ Kf6 99.Qd6+ Kg7 100.Qc7+ Kh6
+101.Qf4+ Kh7 102.Qc7+ Kh8 103.Qd8+ Kg7 104.Qe7+ Kh6
+105.Qf8+ Kh7 106.Qe7+ Kh8 107.Qf8+ Kh7 1/2-1/2
+
+[Event ""]
+[GID "79"]
+[PlyCount "182"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Nf6 6.h3 e5 7.dxe5 Nxe5 8.Nf3 Nxd3+
+9.Qxd3 Bd6 10.O-O O-O 11.Be3 Be6 12.Bg5 h6
+13.Bh4 Be7 14.Nbd2 Re8 15.Nd4 Nh5 16.Bxe7 Qxe7
+17.N2b3 Bd7 18.Rfe1 Qd6 19.Rad1 Qb6 20.Qd2 Qd6
+21.Ne2 Re5 22.Ned4 Nf4 23.Rxe5 Qxe5 24.Qe3 Qd6
+25.Ne2 Nxe2+ 26.Qxe2 Re8 27.Qd3 Ba4 28.Qd4 Bd7
+29.Qd3 Ba4 30.Rb1 Bxb3 31.axb3 Re4 32.Rd1 Qe5
+33.g3 b6 34.Kf1 g6 35.h4 d4 36.cxd4 Qd5
+37.f3 Re8 38.Re1 Rd8 39.Kg2 h5 40.Re2 Qc6
+41.Re4 Qc1 42.Re2 Rd5 43.Re8+ Kg7 44.Re2 a5
+45.Qd2 Qc7 46.Re4 Qd6 47.Qd3 Qc6 48.Re5 Rxe5
+49.dxe5 Qc1 50.Qe2 Qc5 51.e6 fxe6 52.Qxe6 Qc2+
+53.Kh3 Qd1 54.Qe7+ Kg8 55.Qe8+ Kg7 56.Qe7+ Kg8
+57.Qe8+ Kg7 58.Qe5+ Kh7 59.Kg2 Qxb3 60.Qe7+ Kh6
+61.Qf6 Qc2+ 62.Kf1 Qd1+ 63.Kf2 Qd2+ 64.Kf1 Qd1+
+65.Kf2 Qd2+ 66.Kg1 Qd1+ 67.Kg2 Qe2+ 68.Kg1 Qe3+
+69.Kf1 Kh7 70.g4 hxg4 71.fxg4 Qd3+ 72.Kf2 Qd2+
+73.Kf3 Qd3+ 74.Kf2 Qd2+ 75.Kf3 Qd3+ 76.Kf4 Qd2+
+77.Ke4 Qg2+ 78.Ke3 Qxg4 79.Qe7+ Kg8 80.Qe8+ Kg7
+81.Qe7+ Kh6 82.Qf8+ Kh7 83.Qe7+ Kg8 84.Qe8+ Kg7
+85.Qe7+ Kg8 86.Qd8+ Kf7 87.Qc7+ Kf8 88.Qd8+ Kg7
+89.Qe7+ Kg8 90.Qd8+ Kg7 91.Qe7+ Kg8 1/2-1/2
+
+[Event ""]
+[GID "81"]
+[PlyCount "98"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "D49"]
+
+1.Nf3 d5 2.d4 Nf6 3.c4 e6 4.Nc3 c6
+5.e3 Nbd7 6.Bd3 dxc4 7.Bxc4 b5 8.Bd3 Bd6
+9.O-O O-O 10.Bd2 b4 11.Ne4 Nxe4 12.Bxe4 Bb7
+13.Qa4 f5 14.Bd3 c5 15.Qd1 a5 16.a3 Qf6
+17.Bb5 Nb6 18.dxc5 Bxc5 19.Ne1 Bd6 20.Bxb4 Bxh2+
+21.Kxh2 axb4 22.Qd6 Nc4 23.Qxb4 Ne5 24.Rh1 Rfb8
+25.a4 h6 26.Rc1 Bc6 27.Kg1 Bxb5 28.axb5 Rb6
+29.Rh4 Rab8 30.Rc5 Nd7 31.Rc6 Rxb5 32.Qc4 Ne5
+33.Qxe6+ Qxe6 34.Rxe6 Rc8 35.Rd4 Rc1 36.Kf1 Nc4
+37.Re7 Rxb2 38.g4 Rbb1 39.Kg2 fxg4 40.Rxg4 Rxe1
+41.Rgxg7+ Kf8 42.Rgf7+ Kg8 43.Rg7+ Kf8 44.Ref7+ Ke8
+45.Re7+ Kf8 46.Rgf7+ Kg8 47.Rg7+ Kf8 48.Ref7+ Ke8
+49.Re7+ Kf8 1/2-1/2
+
+[Event ""]
+[GID "80"]
+[PlyCount "197"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Be7
+5.O-O Nf6 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 h6 10.d4 Re8 11.Nbd2 Bd7 12.Nf1 a5
+13.Bc2 a4 14.Ng3 Bf8 15.Be3 a3 16.b3 exd4
+17.Nxd4 Ne7 18.Qd3 Rb8 19.Nde2 Ng6 20.Nf4 Ne5
+21.Qd2 Rc8 22.Rad1 Ra8 23.f3 c5 24.Bb1 Qc8
+25.Kh1 Qd8 26.Bg1 g6 27.Nf1 Bc6 28.Ne3 Qb6
+29.Qc1 Qc7 30.Bh2 Bg7 31.Rd2 c4 32.Bc2 Bf8
+33.b4 Ra6 34.Rdd1 Bb7 35.Qd2 Bg7 36.Qf2 Raa8
+37.Rd4 Ra6 38.Red1 Qd8 39.Bg3 Bf8 40.Kg1 Qb8
+41.R4d2 Bg7 42.Ne2 Qc7 43.Kh1 Nh5 44.Bh2 Nf6
+45.Nf4 Qb8 46.Bb1 h5 47.Rd4 Bh6 48.Qg1 Ba8
+49.Qe1 Kh8 50.Bc2 Kg8 51.Qg3 Qd8 52.Bb1 Bg7
+53.Qf2 Qb6 54.Bc2 Bh6 55.Kg1 Bb7 56.Kh1 Qa7
+57.Qg3 Bg7 58.Qf2 g5 59.Ne2 d5 60.Bxe5 Rxe5
+61.f4 gxf4 62.Qxf4 Rae6 63.Ng3 Bc6 64.Nef5 dxe4
+65.Rd6 Qc7 66.Rxe6 fxe6 67.Nxg7 Kxg7 68.Rf1 Ne8
+69.Bxe4 Rxe4 70.Qg5+ Kh7 71.Qxh5+ Kg7 72.Nxe4 Bxe4
+73.Qxe8 Bf5 74.Qxb5 Qd6 75.Qxc4 Qd3 76.Qd4+ Qxd4
+77.cxd4 Be4 78.Kh2 Bd5 79.Rf2 Bc4 80.Kg3 Kh6
+81.Kf4 Kg7 82.Ke5 Kg6 83.Rc2 Ba6 84.Kxe6 Bd3
+85.Rc3 Bb1 86.Rxa3 Bf5+ 87.Kd6 Bc8 88.d5 Bb7
+89.Ra7 Bc8 90.g4 Kf6 91.b5 Kg6 92.Rc7 Bxg4
+93.hxg4 Kh6 94.b6 Kg5 95.b7 Kxg4 96.Rf7 Kh3
+97.b8=Q Kh2 98.Qg8 Kh3 99.Rh7# 1-0
+
+[Event ""]
+[GID "76"]
+[PlyCount "343"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Nc3 Nxd5 6.Nf3 Nc6 7.d4 a6 8.Bc4 Be6
+9.Bb3 Nxc3 10.bxc3 Bxb3 11.axb3 e6 12.O-O Be7
+13.Bf4 O-O 14.Qd3 h6 15.Rfd1 Rc8 16.h3 Bd6
+17.Bd2 Rc7 18.Qe4 Rd7 19.c4 Be7 20.Be3 Bd6
+21.Rd3 Qe7 22.Bd2 Bb4 23.Bf4 Bd6 24.Bxd6 Rxd6
+25.Ne5 Nxe5 26.Qxe5 Rfd8 27.Rad1 R8d7 28.R1d2 b6
+29.g3 b5 30.c5 Rd5 31.Qb8+ Kh7 32.Qb6 e5
+33.c6 Qe6 34.Kg2 Rxd4 35.Rxd4 Rxd4 36.Rxd4 exd4
+37.Qc5 d3 38.c7 d2 39.c8=Q d1=Q 40.Qxe6 fxe6
+41.b4 Qd3 42.Qe5 Qc4 43.Qd6 Qe4+ 44.Kh2 Qe1
+45.Kg2 Qe2 46.Qc6 Qc4 47.Qd6 Qe4+ 48.Kh2 Qe1
+49.Kg2 e5 50.h4 Qe4+ 51.Kh2 Qf5 52.Kg2 e4
+53.Kg1 Qc8 54.Qe7 Qc2 55.Kg2 Qc4 56.Kg1 e3
+57.fxe3 Qc2 58.Kf1 Qb1+ 59.Kg2 a5 60.bxa5 b4
+61.Qb7 Qc2+ 62.Kh3 Qf5+ 63.Kg2 Qc2+ 64.Kh3 Qf5+
+65.Kh2 b3 66.a6 Qc2+ 67.Kh3 Qf5+ 68.Kg2 Qc2+
+69.Kh3 Qf5+ 70.Kg2 Qc2+ 71.Kh3 Qf5+ 72.g4 Qd3
+73.Qb6 Qf1+ 74.Kg3 Qg1+ 75.Kf3 Qf1+ 76.Ke4 Qg2+
+77.Ke5 Qh2+ 78.Kd4 Qd2+ 79.Ke5 Qb2+ 80.Kf5 Qf2+
+81.Ke5 Qh2+ 82.Kd4 Qd2+ 83.Ke4 Qc2+ 84.Kf4 Qh2+
+85.Kf5 Qf2+ 86.Ke4 Qc2+ 87.Kf4 Qh2+ 88.Kf5 Qf2+
+89.Ke4 Qg2+ 90.Kf4 b2 91.a7 Qf1+ 92.Kg3 Qg1+
+93.Kf4 Qh2+ 94.Kf5 Qf2+ 95.Ke5 Qh2+ 96.Kd4 Qd2+
+97.Ke5 Qh2+ 98.Kd4 Qd2+ 99.Ke5 Qh2+ 100.Kf5 Qf2+
+101.Ke5 Qh2+ 102.Ke6 Qg2 103.Kd6 Qc2 104.e4 Qd3+
+105.Ke5 Qc3+ 106.Kd5 Qd3+ 107.Ke5 Qc3+ 108.Kf4 Qc1+
+109.Kf5 Qc8+ 110.Kf4 Qc1+ 111.Kf5 Qf1+ 112.Ke5 Qa1
+113.Ke6 Qa2+ 114.Kd6 Qa3+ 115.Kd7 Qd3+ 116.Kc7 Qc2+
+117.Kd6 Qd3+ 118.Kc7 Qc4+ 119.Kd8 Qd3+ 120.Kc8 Qc2+
+121.Kd7 Qd3+ 122.Kc8 Qc2+ 123.Kd8 Qd3+ 124.Kc8 Qc2+
+125.Kd8 Qd3+ 126.Kc8 Qc2+ 127.Kd7 Qd3+ 128.Kc7 b1=Q
+129.Qxb1 Qxb1 130.a8=Q Qg1 131.Qd5 Qa7+ 132.Qb7 Qf2
+133.Qd5 Qa7+ 134.Qb7 Qf2 135.Qc6 Qf4+ 136.Kb6 Qxg4
+137.e5 Qd4+ 138.Qc5 Qxh4 139.e6 Kg6 140.Qc7 Qb4+
+141.Kc6 Kf6 142.Qf7+ Ke5 143.Qxg7+ Kxe6 144.Qxh6+ Kf7
+145.Qh7+ Ke6 146.Qh6+ Kf7 147.Qh7+ Kf8 148.Qh8+ Kf7
+149.Qe5 Qa4+ 150.Kb7 Qb3+ 151.Ka7 Qa4+ 152.Kb7 Qb3+
+153.Ka7 Qa4+ 154.Kb7 Qb3+ 155.Kc7 Qc2+ 156.Kb6 Qb3+
+157.Kc7 Qc2+ 158.Kd8 Kg8 159.Qg3+ Kf7 160.Qe5 Kg8
+161.Qb8 Kf7 162.Qd6 Qa4 163.Qe5 Qa8+ 164.Kc7 Qa7+
+165.Kc8 Qa8+ 166.Kd7 Qb7+ 167.Kd8 Qa8+ 168.Kc7 Qa7+
+169.Kc8 Qa8+ 170.Kd7 Qb7+ 171.Qc7 Qxc7+ 172.Kxc7 1/2-1/2
+
+[Event ""]
+[GID "82"]
+[PlyCount "199"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Ba4 b5 8.Bb3 Bb7
+9.O-O Bxd5 10.Bxd5 Nxd5 11.Nc3 N5f6 12.d4 b4
+13.Ne2 e6 14.Bg5 Be7 15.Bxf6 Nxf6 16.Qa4+ Qd7
+17.Qxd7+ Kxd7 18.Ne5+ Ke8 19.Nf4 Bd6 20.Rfc1 Ke7
+21.Nc6+ Kd7 22.Nd3 Nd5 23.Na5 h5 24.g3 h4
+25.Kf1 g5 26.Ke2 f6 27.Rc6 Rhb8 28.Nc5+ Bxc5
+29.Rxc5 Rb5 30.Nb3 Rh8 31.Re1 Nc7 32.Rec1 Nd5
+33.Kd3 Rb6 34.Ra5 Ke7 35.Nc5 hxg3 36.hxg3 Rh2
+37.Ke2 Rh8 38.Kd3 f5 39.Rxa6 Rxa6 40.Nxa6 Ra8
+41.Nc5 Rxa2 42.Kc2 Ra8 43.Re1 b3+ 44.Kd3 Nc7
+45.Nxe6 Nxe6 46.d5 g4 47.Rxe6+ Kd7 48.Kc3 Rf8
+49.Rg6 Re8 50.Rf6 Re5 51.d6 Rd5 52.Kxb3 Rc5
+53.Ka3 Kc6 54.b3 Rd5 55.Ka4 Kb7 56.Rf7+ Kc6
+57.d7 Kb6 58.Kb4 Rd1 59.Kc4 Kc7 60.b4 Kc6
+61.Rxf5 Rxd7 62.Rf6+ Kc7 63.Rf4 Rg7 64.Kd5 Kd7
+65.Ke5 Ke7 66.Kf5 Rg8 67.Re4+ Kd6 68.Rxg4 Rf8+
+69.Kg6 Rg8+ 70.Kh5 Rh8+ 71.Kg5 Rg8+ 72.Kf4 Rb8
+73.Ke3 Ke6 74.Rf4 Rc8 75.g4 Rb8 76.Rc4 Kf6
+77.f4 Kg6 78.Ke4 Rb5 79.Rd4 Kh6 80.Kd3 Rb8
+81.Kc4 Rg8 82.g5+ Kh5 83.b5 Rc8+ 84.Kd5 Rd8+
+85.Kc5 Rc8+ 86.Kb6 Rc1 87.Rb4 Kg4 88.Ka6 Ra1+
+89.Kb7 Kf5 90.b6 Ke6 91.Kc6 Rc1+ 92.Kb5 Rc8
+93.b7 Rf8 94.Kc6 Kf7 95.b8=Q Rxb8 96.Rxb8 Ke6
+97.Rf8 Ke7 98.Rf6 Ke8 99.Kd6 Kd8 100.Rf8# 1-0
+
+[Event ""]
+[GID "83"]
+[PlyCount "192"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Bxd7+ Qxd7 8.O-O Nxd5
+9.Ne5 Qf5 10.Re1 f6 11.Nc4 Be6 12.d4 Rd8
+13.h3 h5 14.Ne3 Nxe3 15.Rxe3 Bd5 16.Nc3 Kf7
+17.Nxd5 Qxd5 18.Rd3 Rd7 19.a3 e5 20.Be3 Bc5
+21.Qc2 Rhd8 22.Rad1 e4 23.Rc3 Ba7 24.h4 Bb8
+25.Rc1 Kg6 26.Qe2 Qf5 27.Rc5 Qg4 28.Qxg4+ hxg4
+29.h5+ Kh7 30.Kf1 Ba7 31.Rc7 g6 32.hxg6+ Kxg6
+33.Ke2 Kf5 34.R1c4 Bb6 35.Rxd7 Rxd7 36.b3 Bc7
+37.Rc5+ Kg6 38.g3 Bd6 39.Rd5 Rd8 40.Bf4 Bc7
+41.Rxd8 Bxd8 42.Kd2 b5 43.Ke3 Kf5 44.a4 Be7
+45.d5 Bc5+ 46.Ke2 Ba7 47.Bd6 Kg6 48.Bf4 f5
+49.Be3 Bb8 50.Kd2 Be5 51.Bc5 Kf7 52.axb5 axb5
+53.Ke3 Ke8 54.Bd4 Bd6 55.Bb6 Kd7 56.Kd4 Ke7
+57.Ba5 Kf6 58.Bd8+ Kg6 59.Bh4 Kf7 60.Bd8 Ke8
+61.Ba5 Ke7 62.Be1 Kd7 63.Bd2 Ke7 64.Be1 Kd7
+65.Bd2 Bb8 66.Be3 Bd6 67.Bc1 Ke7 68.Be3 Kd7
+69.Bg5 Bb8 70.Be3 Bd6 71.Bg5 Bb8 72.Be3 Bd6
+73.Bc1 Ke7 74.Bd2 Ke8 75.Bc3 Ke7 76.Bd2 Ke8
+77.Bc3 Ke7 78.Ba5 Kf6 79.Bd8+ Kg6 80.Bb6 Kf6
+81.Ba5 Ke7 82.Bc3 Kd7 83.Be1 Ke7 84.Bc3 Kd7
+85.Be1 Ke7 86.Bd2 Ke8 87.Bh6 Ke7 88.Bg5+ Kd7
+89.Be3 Ke7 90.Bc1 Ke8 91.Bd2 Ke7 92.Bg5+ Kd7
+93.Be3 Ke7 94.Bh6 Kd7 95.Bg5 Bb8 96.Be3 Bd6
+ 1/2-1/2
+
+[Event ""]
+[GID "84"]
+[PlyCount "193"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.Nf3 Nd7 7.h4 h6 8.Bf4 Ngf6
+9.h5 Bh7 10.Bd3 Nd5 11.Bc1 Bxd3 12.Qxd3 e6
+13.Bd2 Qc7 14.O-O-O c5 15.dxc5 Rc8 16.Kb1 Bxc5
+17.Ne4 Be7 18.a3 a6 19.g4 Qc4 20.Bc1 Qxd3
+21.Rxd3 b5 22.c3 a5 23.Bd2 O-O 24.g5 hxg5
+25.Bxg5 f6 26.Bd2 Kf7 27.Nd4 f5 28.Ng5+ Bxg5
+29.Bxg5 Nc5 30.Rg3 Ne4 31.Rg2 b4 32.axb4 axb4
+33.cxb4 Nxb4 34.Nf3 Rh8 35.Be3 Rh7 36.Rhg1 Nc6
+37.Rc1 Ne7 38.Rxc8 Nxc8 39.Ne5+ Kg8 40.h6 Ne7
+41.Bc1 Nd5 42.Kc2 f4 43.Kd3 Nd6 44.hxg7 Rxg7
+45.Rg4 Kh7 46.Rh4+ Kg8 47.Rg4 Kh7 48.f3 Rxg4
+49.fxg4 Kh6 50.Nf3 Kg6 51.Kd4 Nf7 52.Bd2 Nf6
+53.Bxf4 Nxg4 54.Bg3 Kf5 55.Nh4+ Kf6 56.Nf3 e5+
+57.Kc5 Ke6 58.b4 Nf6 59.Be1 Kd7 60.Nd2 Nd6
+61.b5 Nb7+ 62.Kb6 Nd6 63.Bg3 Ke6 64.Kc5 Nxb5
+65.Kxb5 Kd5 66.Nb1 e4 67.Be1 e3 68.Nc3+ Kd4
+69.Ne2+ Kd3 70.Nf4+ Ke4 71.Ng2 e2 72.Bd2 Kf3
+73.Ne1+ Kf2 74.Nd3+ Kf1 75.Ba5 Ne8 76.Kc6 Nf6
+77.Kc5 Ne4+ 78.Kd4 Nd6 79.Bb4 Nf5+ 80.Ke4 Nh4
+81.Ke3 Nf5+ 82.Kf4 Nh4 83.Ke5 Ng2 84.Bc3 Ne3
+85.Kd4 Nc2+ 86.Ke4 Kg2 87.Nf4+ Kf1 88.Nd3 e1=Q+
+89.Nxe1 Nxe1 90.Bh8 Ke2 91.Bc3 Nd3 92.Ba5 Nf2+
+93.Kf4 Nd3+ 94.Kg4 Kf1 95.Bb6 Ke1 96.Kf5 Nf2
+97.Bxf2+ 1/2-1/2
+
+[Event ""]
+[GID "85"]
+[PlyCount "112"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Bxd7+ Qxd7 8.O-O Nxd5
+9.Ne5 Qf5 10.Re1 f6 11.Nc4 Be6 12.d4 Rd8
+13.Ne3 Nxe3 14.Bxe3 Bd5 15.Nc3 e6 16.Nxd5 Qxd5
+17.Qa4+ Kf7 18.Rec1 Bd6 19.Rc3 g5 20.h3 h5
+21.Rac1 Rhg8 22.g3 f5 23.Qb3 Qxb3 24.Rxb3 Rd7
+25.Kf1 Be7 26.Rb6 Rh8 27.d5 e5 28.f3 Bd8
+29.Rb3 Kg6 30.g4 f4 31.Bf2 hxg4 32.hxg4 Rhh7
+33.Rd1 Rh2 34.Rc1 Rh1+ 35.Bg1 Rh3 36.Bf2 Rhh7
+37.Rd1 Rh1+ 38.Ke2 Rh2 39.Kf1 Ba5 40.Kg1 Rdh7
+41.Kf1 Kf6 42.Rc1 Rh1+ 43.Bg1 e4 44.fxe4 R7h2
+45.Rxb7 Ke5 46.Re7+ Kd6 47.Re6+ Kd7 48.Rcc6 f3
+49.Red6+ Ke8 50.Re6+ Kd7 51.Red6+ Ke8 52.Re6+ Kd7
+53.Rcd6+ Kc7 54.Rc6+ Kd7 55.Rcd6+ Kc7 56.Rc6+ Kd7
+ 1/2-1/2
+
+[Event ""]
+[GID "87"]
+[PlyCount "90"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.h3 Na6 7.c3 Bd6 8.Bxa6 bxa6
+9.Ne2 O-O 10.O-O Re8 11.Qd3 h5 12.Qf3 Be6
+13.Qxh5 Bd5 14.Re1 a5 15.Qf5 Qb8 16.b3 a4
+17.bxa4 Be4 18.Qh5 Re6 19.Bd2 Bh2+ 20.Kh1 Bd6
+21.Kg1 Bd5 22.Rab1 Qc7 23.Rbc1 Bc4 24.Qf3 Rae8
+25.Ng3 Bxg3 26.fxg3 Be2 27.Qf2 Qa5 28.Rb1 Qxa4
+29.Rb2 Bb5 30.Rxe6 Rxe6 31.Kh2 Re2 32.Qf5 Qa3
+33.Qb1 a6 34.h4 Rf2 35.Qc1 Kh7 36.Qc2+ g6
+37.Qb3 Qe7 38.Bc1 Rf1 39.Bd2 Rf2 40.Bc1 Rf1
+41.Bd2 Rf2 42.Bc1 Rf1 43.Bd2 Rf2 44.Bc1 Rf1
+45.Bd2 Rf2 1/2-1/2
+
+[Event ""]
+[GID "90"]
+[PlyCount "56"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B18"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.N1e2 Nf6 7.c3 Nbd7 8.h4 h6
+9.Nf4 Bh7 10.Bd3 Bxd3 11.Nxd3 e6 12.Nh5 Qa5
+13.Nxf6+ Nxf6 14.Qf3 Rd8 15.O-O Qd5 16.Qxd5 Rxd5
+17.g3 g5 18.hxg5 hxg5 19.Kg2 Ng4 20.f3 Rh2+
+21.Kg1 Rh3 22.Kg2 Rh2+ 23.Kg1 Rh3 24.Kg2 Rh2+
+25.Kg1 Rh3 26.Kg2 Rh2+ 27.Kg1 Rh3 28.Kg2 Rh2+
+ 1/2-1/2
+
+[Event ""]
+[GID "86"]
+[PlyCount "218"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Nf3 Nxd5 6.Nc3 Nxc3 7.dxc3 Qxd1+ 8.Kxd1 g6
+9.a4 Bg7 10.a5 O-O 11.Bc4 Bf5 12.Ke2 Na6
+13.Be3 Rfc8 14.Bd5 Nc5 15.a6 Bd3+ 16.Ke1 Bxa6
+17.Rxa6 Nxa6 18.Bxb7 Nc7 19.Bxc8 Rxc8 20.Kd2 a5
+21.Bb6 Nd5 22.Bxa5 e5 23.Ra1 e4 24.Ne1 f5
+25.g3 h5 26.Ng2 Kf7 27.Ra4 Ra8 28.Ke2 Bxc3
+29.bxc3 Nxc3+ 30.Bxc3 Rxa4 31.h4 Rc4 32.Bd2 Kf6
+33.Bg5+ Ke5 34.Be3 Rc6 35.Bf4+ Kd4 36.Bh6 Kc4
+37.Nf4 Ra6 38.Bf8 Rc6 39.Nh3 Ra6 40.Bh6 Ra2+
+41.Kf1 Kb5 42.Be3 Ra1+ 43.Ke2 Ra2+ 44.Kf1 Ra1+
+45.Kg2 Kc4 46.Nf4 Ra6 47.Kf1 Ra1+ 48.Kg2 Ra6
+49.Kh2 Rd6 50.Kg1 Rc6 51.Kf1 Kb5 52.Nd5 Kc4
+53.Nb6+ Kb5 54.Nd5 Kc4 55.Nf4 Ra6 56.Ke2 Ra2+
+57.Bd2 Ra6 58.Be3 Ra2+ 59.Ke1 Ra1+ 60.Kd2 Ra2+
+61.Kd1 Ra6 62.Kc2 Ra2+ 63.Kd1 Ra6 64.Bc1 Ra2
+65.Bd2 Ra1+ 66.Ke2 Ra6 67.Kd1 Kd4 68.Ke1 Kc4
+69.Kd1 Kd4 70.Bc1 Kc4 71.Be3 Ra1+ 72.Kd2 Ra2+
+73.Kc1 Ra6 74.Kb2 Rc6 75.Kc2 Ra6 76.Kd1 Ra1+
+77.Bc1 Ra6 78.Bb2 Ra2 79.Kc2 Ra6 80.Kd2 Ra2
+81.Ne6 Rxb2+ 82.Ke3 Rb3+ 83.Kd2 Ra3 84.Ke1 Ra2
+85.Nf4 Kd4 86.Ng2 e3 87.Nxe3 Ke4 88.Nc4 Kf3
+89.Ne5+ Kg2 90.Nxg6 Rxf2 91.Ne5 Kxg3 92.Nf7 f4
+93.Ne5 f3 94.Kd1 Ra2 95.Nc4 Ra1+ 96.Kd2 f2
+97.Ne3 f1=Q 98.Nxf1+ Rxf1 99.Kc3 Kxh4 100.Kc4 Kg4
+101.Kd3 Rf4 102.Kc3 h4 103.Kd3 h3 104.Kc3 h2
+105.Kd3 h1=Q 106.Ke3 Qd5 107.Ke2 Re4+ 108.Kf2 Qd2+
+109.Kg1 Re1# 0-1
+
+[Event ""]
+[GID "92"]
+[PlyCount "118"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B12"]
+
+1.e4 c6 2.d4 d5 3.e5 Bf5 4.Nf3 e6
+5.Nbd2 c5 6.c3 a6 7.Be2 Nc6 8.Nb3 c4
+9.Nbd2 b5 10.Nf1 Bg6 11.h4 h6 12.Ne3 Nge7
+13.g3 b4 14.h5 Be4 15.O-O Nf5 16.Ng2 Qa5
+17.g4 Nfe7 18.Qe1 Nc8 19.Nfh4 Nb6 20.f3 Bc2
+21.Rf2 Be7 22.Be3 Na4 23.Bxc4 Nxb2 24.Bxd5 Qxd5
+25.Rxc2 Nc4 26.Bf2 Na3 27.Rcc1 O-O 28.Nf4 Qd7
+29.Qe4 Rfd8 30.Ne2 Rac8 31.Ng2 a5 32.cxb4 Nxb4
+33.Rxc8 Rxc8 34.f4 Nd5 35.f5 Nc4 36.Ngf4 Bg5
+37.fxe6 fxe6 38.Nxd5 Nd2 39.Nb6 Qb5 40.Qg6 Nf3+
+41.Kg2 Nh4+ 42.Bxh4 Qxe2+ 43.Kh3 Rc3+ 44.Bg3 Rxg3+
+45.Kxg3 Qe3+ 46.Kg2 Qe2+ 47.Kg1 Be3+ 48.Kh1 Qf3+
+49.Kh2 Bf4+ 50.Kg1 Qg3+ 51.Kf1 Qf3+ 52.Ke1 Qc3+
+53.Kf1 Qf3+ 54.Kg1 Qg3+ 55.Kf1 Qf3+ 56.Ke1 Qc3+
+57.Kf1 Qf3+ 58.Ke1 Qc3+ 59.Kf1 Qf3+ 1/2-1/2
+
+[Event ""]
+[GID "89"]
+[PlyCount "276"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.a4 a5 14.Bf4 d5 15.Bd3 g6 16.Nd2 Ng7
+17.Nf3 Bf5 18.Bxf5 Nxf5 19.h3 Be7 20.Qe2 Bd6
+21.Be5 Bxe5 22.dxe5 Qe7 23.Qd2 Rd8 24.b4 c6
+25.bxa5 Ra8 26.Rb1 Rxa5 27.c4 Rc5 28.cxd5 Rxd5
+29.Qb2 Nd4 30.Nxd4 Qxe5 31.Qxb7 Qxd4 32.Qxc6 Kg7
+33.Rc1 Qb2 34.Rf1 Qd4 35.Rc1 Qb2 36.Rf1 Qd4
+37.Re1 Rf5 38.Qc2 h5 39.Re3 Rc5 40.Rd3 Qb4
+41.Qd1 Qb2 42.Rb3 Rc1 43.Rxb2 Rxd1+ 44.Kh2 Ra1
+45.Rb4 Ra2 46.Kg3 Kh6 47.Kf3 g5 48.h4 gxh4
+49.Rxh4 Ra3+ 50.Ke2 Ra2+ 51.Ke3 Ra3+ 52.Kd2 Ra2+
+53.Ke3 Ra3+ 54.Kd2 Ra2+ 55.Kc3 Rxf2 56.g4 Rf3+
+57.Kb2 Rf2+ 58.Kb3 Rf3+ 59.Kb2 Rf2+ 60.Ka3 Rf3+
+61.Kb2 Rf2+ 62.Kc3 Rf3+ 63.Kd4 Kg5 64.Rxh5+ Kxg4
+65.Rh7 f5 66.Rg7+ Kh3 67.Rf7 Kg4 68.Kc5 Ra3
+69.Kb5 Ra2 70.a5 f4 71.a6 f3 72.Rf8 f2
+73.Rf7 Rb2+ 74.Kc6 Rc2+ 75.Kb7 Rb2+ 76.Kc7 Ra2
+77.Kb6 Rb2+ 78.Kc5 Rc2+ 79.Kb6 Rb2+ 80.Kc6 Rc2+
+81.Kb7 Rb2+ 82.Kc7 Ra2 83.Rf8 Kg3 84.Kb7 Rb2+
+85.Kc8 Ra2 86.Kb7 Rb2+ 87.Kc6 Rc2+ 88.Kb6 Rb2+
+89.Kc6 Rc2+ 90.Kb6 Rb2+ 91.Kc7 Ra2 92.Kb6 Rb2+
+93.Kc5 Ra2 94.Kb6 Rb2+ 95.Kc7 Ra2 96.Rg8+ Kh4
+97.Rh8+ Kg4 98.Rg8+ Kf5 99.Rf8+ Ke6 100.Kb6 Rb2+
+101.Kc6 Rc2+ 102.Kb7 Kd6 103.a7 Rb2+ 104.Ka8 Kc7
+105.Rf7+ Kb6 106.Kb8 Kc5+ 107.Kc8 Ra2 108.Kb7 Rb2+
+109.Kc7 Ra2 110.Kb7 Rb2+ 111.Kc7 Ra2 112.Kb8 Rb2+
+113.Kc8 Ra2 114.Rf5+ Kd6 115.Kb7 Rb2+ 116.Kc8 Ra2
+117.Kb7 Rb2+ 118.Ka6 Ra2+ 119.Kb6 Rb2+ 120.Ka6 Ra2+
+121.Kb6 Rb2+ 122.Ka5 Ra2+ 123.Kb4 Rxa7 124.Rf6+ Ke7
+125.Rxf2 Ra8 126.Kc3 Kd6 127.Rf1 Ke6 128.Re1+ Kf7
+129.Kd2 Ra2+ 130.Ke3 Ra3+ 131.Ke2 Ra2+ 132.Ke3 Ra3+
+133.Kf2 Ra2+ 134.Kf3 Ra8 135.Rd1 Rc8 136.Ke2 Rf8
+137.Rf1+ Kg7 138.Rxf8 Kxf8 1/2-1/2
+
+[Event ""]
+[GID "91"]
+[PlyCount "285"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 c5
+9.dxc5 Bxc5 10.O-O Nc6 11.Qc2 g6 12.Bf4 Qe7
+13.Bg3 Be6 14.Nf4 Ne5 15.Be4 Rad8 16.Nxe6 Qxe6
+17.Bxb7 Rd7 18.Be4 f5 19.Bxe5 Qxe5 20.Bc6 Rd6
+21.Bf3 Rfd8 22.Rad1 h5 23.Rxd6 Bxd6 24.g3 f4
+25.Rd1 fxg3 26.hxg3 h4 27.gxh4 Qh2+ 28.Kf1 Qh3+
+29.Bg2 Qxh4 30.Qe4 Bf4 31.Rd4 Rxd4 32.Qxd4 Qg5
+33.Bd5 Qf5 34.Be4 Qe6 35.Bd5 Qf5 36.Be4 Qe6
+37.Bxg6 Bc1 38.Bd3 Bxb2 39.a4 Qb3 40.Qd8+ Kg7
+41.Qg5+ Kf8 42.Qc5+ Kg8 43.Qg5+ Kf8 44.Qh6+ Ke7
+45.Qe3+ Kf8 46.Qc5+ Kg8 47.Qc8+ Kg7 48.Qg4+ Kf8
+49.Qb4+ Qxb4 50.cxb4 Ke7 51.Ke2 Kd6 52.b5 Bd4
+53.a5 Bc3 54.b6 a6 55.b7 Kc7 56.Bxa6 Bxa5
+57.Ke3 Bb6+ 58.Ke4 Bxf2 59.b8=Q+ Kxb8 60.Kf5 Ka7
+61.Bc4 Kb6 62.Ba2 Ka7 63.Bd5 Kb6 64.Ba8 Bd4
+65.Be4 Bf2 66.Ba8 Bd4 67.Be4 Bf2 68.Bc2 Ka5
+69.Bb3 Bd4 70.Bc4 Bc3 71.Bd3 Bd2 72.Bb1 Bc3
+73.Be4 Bb4 74.Ba8 Be1 75.Bc6 Bf2 76.Bb7 Bc5
+77.Be4 Bf2 78.Bb1 Ba7 79.Be4 Bf2 80.Ba8 f6
+81.Bc6 Ka6 82.Be8 Bg3 83.Bg6 Ka5 84.Be8 Be1
+85.Bh5 Ka6 86.Be2+ Ka7 87.Bd3 Kb7 88.Bc4 Bd2
+89.Bd5+ Kb6 90.Ba2 Ka6 91.Bd5 Ka5 92.Be4 Kb6
+93.Ba8 Kc5 94.Bf3 Be1 95.Bd1 Bh4 96.Ba4 Be1
+97.Bd7 Kd6 98.Be6 Kc5 99.Bc8 Bf2 100.Ba6 Bd4
+101.Bd3 Bf2 102.Bc2 Bh4 103.Bd1 Be1 104.Bh5 Kc6
+105.Bf7 Bd2 106.Be8+ Kd6 107.Bf7 Be1 108.Bc4 Ba5
+109.Bb3 Be1 110.Bg8 Kc5 111.Ba2 Bd2 112.Bb3 Kb4
+113.Bc2 Kc5 114.Ba4 Kb4 115.Bc6 Ka5 116.Bd7 Be1
+117.Bc8 Bf2 118.Bb7 Bd4 119.Bc6 Bf2 120.Ba8 Ba7
+121.Bb7 Kb6 122.Ba8 Ka6 123.Bd5 Ka5 124.Ba2 Bf2
+125.Be6 Ba7 126.Bb3 Bd4 127.Bg8 Bc5 128.Bd5 Ba7
+129.Be6 Bf2 130.Bd7 Be1 131.Kxf6 Bc3+ 132.Kg5 Be1
+133.Bf5 Bh4+ 134.Kg4 Be1 135.Bc8 Bh4 136.Kh5 Be1
+137.Bf5 Kb6 138.Be4 Bc3 139.Bf5 Ka5 140.Bg4 Kb4
+141.Bh3 Be1 142.Bg4 Bh4 143.Kxh4 1/2-1/2
+
+[Event ""]
+[GID "88"]
+[PlyCount "419"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B19"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Bf5
+5.Ng3 Bg6 6.h4 h6 7.Nf3 Nd7 8.Bf4 Ngf6
+9.h5 Bh7 10.Bd3 Bxd3 11.Qxd3 e6 12.O-O-O Be7
+13.Kb1 O-O 14.Ne4 Nxe4 15.Qxe4 Nf6 16.Qe2 Qd5
+17.Ne5 Qe4 18.Qxe4 Nxe4 19.Be3 Bd6 20.Rhg1 Rad8
+21.Nd3 b5 22.Rde1 Kh7 23.c3 a5 24.g3 Nf6
+25.g4 a4 26.a3 Rc8 27.Rc1 Nd5 28.c4 Nxe3
+29.fxe3 Be7 30.Rc3 Bg5 31.Nc5 Rfe8 32.Ne4 Be7
+33.Rf1 Kg8 34.cxb5 cxb5 35.Kc2 Rb8 36.Rc7 Rec8
+37.Rxc8+ Rxc8+ 38.Kd3 Kf8 39.Rb1 Rb8 40.b4 axb3
+41.Rxb3 Ra8 42.Rxb5 Rxa3+ 43.Ke2 Ra8 44.Kf3 Ke8
+45.Rb7 Rc8 46.Ra7 Kd8 47.Ra2 Kd7 48.Ke2 Ke8
+49.Kd3 Rd8 50.Nd2 Rb8 51.Nc4 Bf6 52.Ra6 Rb3+
+53.Ke2 Rb8 54.Kf3 Rd8 55.Ke4 Rd5 56.Nd6+ Ke7
+57.Nc4 Rd7 58.Nd2 Rd6 59.Ra8 Rd8 60.Ra6 Bh4
+61.Ra7+ Ke8 62.Kd3 Bf6 63.Ne4 Be7 64.Ra6 Kf8
+65.Nd2 Bf6 66.Ne4 Be7 67.Ke2 Bb4 68.Ra7 Ke8
+69.Kd3 Be7 70.Nd2 Bf6 71.Ra4 Kf8 72.Ke4 Ke7
+73.Ra6 Rd6 74.Ra1 Rd8 75.Kd3 Ke8 76.Ra7 Kf8
+77.Ne4 Be7 78.Ra6 Ke8 79.Ke2 Bb4 80.Kd3 Be7
+81.Nd2 Bf6 82.Nc4 Rd5 83.Ra7 Kf8 84.Ke2 Ke8
+85.Kd3 Kf8 86.Ke4 Ke8 87.Ra6 Kf8 88.Ra8+ Ke7
+89.Kf3 Rd7 90.Ke4 Rc7 91.Kd3 Rd7 92.Ra6 Rd5
+93.Ke4 Rd7 94.Kf4 Rc7 95.Ne5 Bxe5+ 96.Kxe5 Rd7
+97.Kf4 Kf6 98.Ra5 Rd6 99.Ra7 Rd8 100.Ra5 Rd7
+101.Ra8 g5+ 102.hxg6 Kxg6 103.Ra6 Rd5 104.Rc6 Kf6
+105.Rc5 Rd6 106.Rb5 Ra6 107.Rb1 Kg7 108.Rc1 Kf6
+109.Rf1 Ra5 110.Kg3+ Kg6 111.Rh1 Kg7 112.Kf4 Kg6
+113.Rb1 Ra4 114.Rd1 Kf6 115.Rh1 Kg6 116.Kg3 Ra3
+117.Kf4 Kg7 118.Rc1 Rb3 119.Re1 Rb5 120.Rd1 Kf6
+121.Rh1 Kg6 122.Rg1 Rb4 123.Rd1 Ra4 124.Rh1 Ra5
+125.Rb1 Ra4 126.Rd1 Kf6 127.Rf1 Ra5 128.Kg3+ Kg6
+129.Rc1 Ra2 130.Kf4 Ra4 131.Rg1 Ra3 132.Rd1 Ra4
+133.Rb1 Kf6 134.Rh1 Kg7 135.Kg3 Kg6 136.Rd1 Kg5
+137.Rh1 Kg6 138.Kf3 Ra3 139.Rd1 Rb3 140.Ra1 Kg7
+141.Kf4 Rd3 142.Rh1 Kg6 143.Ke4 Ra3 144.Kf3 Ra2
+145.Rb1 Ra5 146.Rg1 Ra2 147.Rc1 Kg5 148.Rh1 Kg6
+149.Ke4 Ra3 150.Kf3 Ra2 151.Rd1 Ra5 152.e4 Ra3+
+153.Ke2 Ra4 154.Ke3 Kf6 155.Rf1+ Ke7 156.Rd1 Ra3+
+157.Rd3 Ra1 158.Rc3 Rg1 159.Kf3 Rf1+ 160.Ke3 Ra1
+161.Kf4 Kf6 162.Rd3 Ke7 163.Rb3 Kf6 164.Rd3 Rc1
+165.d5 Rf1+ 166.Kg3 Ke7 167.Rb3 Kd6 168.Rb5 Rg1+
+169.Kf4 Rf1+ 170.Kg3 Rg1+ 171.Kf4 Rf1+ 172.Ke3 Re1+
+173.Kf3 exd5 174.exd5 Ra1 175.Rb7 Ke5 176.Kg2 Kxd5
+177.g5 hxg5 178.Rxf7 g4 179.Rd7+ Kc6 180.Rd2 Kc7
+181.Rd3 Ra2+ 182.Kg3 Ra1 183.Rc3+ Kb6 184.Rc8 Kb7
+185.Rg8 Rg1+ 186.Kf2 Ra1 187.Rxg4 Kc7 188.Rg7+ Kc6
+189.Rg8 Kd5 190.Rf8 Kc4 191.Rd8 Kc3 192.Ke2 Kc4
+193.Rb8 Ra2+ 194.Kd1 Ra1+ 195.Kc2 Rh1 196.Kd2 Rh2+
+197.Kd1 Rh1+ 198.Kc2 Rh2+ 199.Kc1 Rh1+ 200.Kd2 Rh2+
+201.Ke1 Ra2 202.Rc8+ Kd5 203.Rf8 Kc4 204.Rf3 Ra8
+205.Ke2 Kd5 206.Rf1 Ke4 207.Rd1 Ke5 208.Kd2 Rd8+
+209.Ke1 Rxd1+ 210.Kxd1 1/2-1/2
+
+[Event ""]
+[GID "93"]
+[PlyCount "276"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Qc7 6.h3 e5 7.dxe5 Nxe5 8.Bb5+ Nc6
+9.Nf3 Nf6 10.O-O Be7 11.Bg5 O-O 12.Bxf6 Bxf6
+13.Qxd5 Be6 14.Qe4 Qb6 15.Na3 Rad8 16.Qe3 Qxe3
+17.fxe3 a6 18.Be2 Ne5 19.Nxe5 Bxe5 20.Rfd1 Bg3
+21.Nc2 Rxd1+ 22.Bxd1 g6 23.Nd4 Re8 24.Bf3 Bc8
+25.Ne2 Bh4 26.e4 Be6 27.b3 Rd8 28.Nd4 Rc8
+29.c4 Rd8 30.Nxe6 fxe6 31.Rf1 b6 32.Bg4 Re8
+33.b4 h5 34.Be2 Be7 35.a3 Kg7 36.e5 a5
+37.c5 axb4 38.axb4 bxc5 39.b5 Rf8 40.Rxf8 Kxf8
+41.Kf2 Bd8 42.Bd3 Kf7 43.Kf3 g5 44.g3 Bc7
+45.Ke4 Kg7 46.Bf1 Kf7 47.Be2 Kg6 48.Bd3 Bb6
+49.Kf3+ Kg7 50.Be2 Kg6 51.Ke4 Ba5 52.Bc4 Kf7
+53.Ke3 Bc7 54.Ke4 Ba5 55.Be2 Kg6 56.Bf1 Bd8
+57.Bd3 Bb6 58.Bc4 Kf7 59.Be2 Kg6 60.Bd3 Bc7
+61.Bc4 Kf7 62.Be2 Kg6 63.Bc4 Kf7 64.Ba2 Bd8
+65.Bb3 Bc7 66.Bd1 Kg6 67.Bb3 Kf7 68.Bd1 Kg6
+69.Bc2 Kg7 70.Bd3 Kg6 71.Kf3+ Kf7 72.h4 gxh4
+73.gxh4 Bxe5 74.b6 Ke8 75.Ke4 Bg3 76.b7 Kd7
+77.Kf3 Bc7 78.Bb5+ Kd8 79.Be2 Bb8 80.Ke4 Bg3
+81.Bxh5 Kc7 82.Bg4 Bxh4 83.b8=Q+ Kxb8 84.Bxe6 c4
+85.Kf5 c3 86.Bb3 Kc7 87.Bc2 Kb6 88.Ke4 Ka5
+89.Kd3 Kb4 90.Bd1 Bf6 91.Kc2 Kc4 92.Bg4 Be5
+93.Be6+ Kd4 94.Bf5 Ke3 95.Bg6 Bf6 96.Bh5 Ke4
+97.Bd1 Ke3 98.Bh5 Be5 99.Bf7 Ke4 100.Bb3 Ke3
+101.Bd5 Kd4 102.Ba8 Ke3 103.Bc6 Bh8 104.Be8 Bg7
+105.Bf7 Kd4 106.Bg6 Be5 107.Be8 Bd6 108.Bh5 Bf4
+109.Be8 Bg3 110.Bg6 Be5 111.Be8 Bg7 112.Ba4 Bf8
+113.Kd1 Ba3 114.Bc2 Kc4 115.Ba4 Bc5 116.Kc2 Kd4
+117.Be8 Bd6 118.Bd7 Be7 119.Bf5 Ke3 120.Kd1 Bf6
+121.Bc2 Be5 122.Kc1 Kd4 123.Kb1 Kc4 124.Kc1 Bf4+
+125.Kb1 Bg5 126.Ka2 Kd4 127.Ka3 Ke3 128.Kb4 Kd2
+129.Kb3 Be3 130.Bh7 c2 131.Bxc2 Bg5 132.Bf5 Kc1
+133.Bd7 Bf6 134.Bb5 Bg7 135.Ba6 Be5 136.Bd3 Bd4
+137.Ka2 Kd2 138.Ka3 Kxd3 1/2-1/2
+
+[Event ""]
+[GID "96"]
+[PlyCount "361"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "B11"]
+
+1.e4 c6 2.Nf3 d5 3.Nc3 Bg4 4.h3 Bxf3
+5.Qxf3 e6 6.g3 Nd7 7.Bg2 d4 8.Ne2 Qb6
+9.O-O h5 10.d3 Ne7 11.h4 Ne5 12.Qf4 N7g6
+13.Qd2 a5 14.Qd1 Ng4 15.f3 Nf6 16.a4 Ne5
+17.Kh1 O-O-O 18.Bh3 Kb8 19.Bd2 Be7 20.Rb1 Ka7
+21.Ng1 Rhf8 22.Qe2 c5 23.f4 Neg4 24.b3 Rd7
+25.Nf3 g6 26.e5 Nd5 27.Bxg4 hxg4 28.Nh2 Rh8
+29.Nxg4 Qd8 30.Kg2 Rh5 31.Qf3 b6 32.Nf2 Qa8
+33.Ne4 Qb7 34.Rbe1 Rd8 35.Rh1 Kb8 36.Kf2 Rdh8
+37.Ke2 Qa8 38.Rh2 Qa6 39.Reh1 Qc8 40.Be1 R5h7
+41.h5 Qc6 42.g4 Qd7 43.Bd2 Ka8 44.Rh3 Qc8
+45.Kd1 Kb8 46.Kc1 Qf8 47.Kb2 Qg7 48.R1h2 Bd8
+49.Nd6 Bc7 50.Nb5 Kc8 51.Qh1 Kb8 52.Rh4 Bd8
+53.R4h3 Bc7 54.Ka2 Ne7 55.Kb1 Nd5 56.Ka2 Kc8
+57.Kb1 Kd7 58.Kb2 Qf8 59.Rh4 Qg8 60.Na3 Bd8
+61.R4h3 Bc7 62.Nc4 Ne7 63.Rh4 Qa8 64.Qf1 Qg8
+65.Rh1 Qb8 66.Qg2 Qg8 67.h6 Qa8 68.Qh3 Qd5
+69.Qf1 Kc8 70.Bc1 Qd7 71.Na3 Nd5 72.Qf3 Kb7
+73.f5 Qc6 74.fxg6 fxg6 75.Qh3 Bd8 76.g5 Ne7
+77.Re4 Nf5 78.Nb5 Rg8 79.Nd6+ Ka7 80.Ree1 Bc7
+81.Bf4 Bd8 82.Rhf1 Be7 83.Ne4 Rf8 84.Nf6 Rhf7
+85.Bd2 Rh8 86.Ne4 Rhf8 87.Qg2 Bd8 88.Qe2 Bc7
+89.Nf6 Rh8 90.Qh2 Qa8 91.Ne4 Rhf8 92.Rh1 Qc6
+93.Bc1 Ka6 94.Nf6 Qa8 95.Bd2 Ka7 96.Qf4 Rb8
+97.Rhf1 Rbf8 98.Qg4 Ka6 99.Bf4 Rh8 100.Qh3 Rhf8
+101.Ne4 Qd5 102.Nf6 Qc6 103.Bd2 Rh8 104.Qg4 Re7
+105.Re4 Qa8 106.Qh3 Bd8 107.Ree1 Rf7 108.Ne4 Bc7
+109.Nf6 Rhf8 110.Re4 Qb7 111.Rc1 Qa8 112.Ra1 Rh8
+113.Rf1 Bd8 114.Ree1 Bc7 115.Qg4 Ka7 116.Qf4 Qg2
+117.Rf3 Rhf8 118.Ref1 Qe2 119.Re1 Qg2 120.Rf2 Qa8
+121.Qh2 Qc6 122.Rf4 Kb7 123.c4 Ka6 124.Ka3 Rh8
+125.Qe2 Qb7 126.Rf2 Qa8 127.Qg4 Bd8 128.Qe2 Be7
+129.Rxf5 exf5 130.Nd5 Qb7 131.e6 Rfh7 132.Bf4 Rd8
+133.Qe5 Ka7 134.Kb2 Ka6 135.Kc2 Qc6 136.Kb1 Kb7
+137.Re2 Ka6 138.Kc2 Qb7 139.Re1 Qc6 140.Kd1 Qb7
+141.Ke2 Qc6 142.Kf2 Kb7 143.Kg3 Ka6 144.Qc7 Qxc7
+145.Bxc7 Bxg5 146.Bxd8 Bxd8 147.e7 Bxe7 148.Rxe7 Rxh6
+149.Re6 Ka7 150.Kg2 Rh8 151.Rxg6 Re8 152.Rxb6 Re2+
+153.Kf3 Rd2 154.Rb5 Rxd3+ 155.Ke2 Rh3 156.Rxa5+ Kb8
+157.Rxc5 f4 158.Rb5+ Kc8 159.Nxf4 Rh4 160.Nd5 Rh3
+161.Kd2 d3 162.Ne3 Rh2+ 163.Kxd3 Rh3 164.Kd4 Rh4+
+165.Kc5 Kd7 166.Nd5 Rh6 167.Rb6 Rh8 168.b4 Kc8
+169.a5 Kd7 170.a6 Rh2 171.a7 Ra2 172.Rd6+ Ke8
+173.a8=Q+ Rxa8 174.Nc7+ Ke7 175.Nxa8 Kf7 176.b5 Kg7
+177.b6 Kg8 178.b7 Kf7 179.b8=Q Ke7 180.Qc7+ Ke8
+181.Rd8# 1-0
+
+[Event ""]
+[GID "97"]
+[PlyCount "110"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 c5
+9.dxc5 Bxc5 10.Qc2 g6 11.O-O Nc6 12.Bh6 Re8
+13.h3 Ne5 14.Bb5 Bf5 15.Qa4 Bd7 16.Rad1 Bxb5
+17.Qxb5 Qc7 18.Nf4 a6 19.Qb3 b5 20.a4 Qb6
+21.axb5 axb5 22.Nd5 Qc6 23.Nb4 Qe6 24.Qd5 Rac8
+25.Qb7 Rb8 26.Qe4 g5 27.Rfe1 Rbc8 28.Kf1 Bxb4
+29.Qxb4 Qf5 30.Qxb5 Rb8 31.Qa4 Qg6 32.f4 g4
+33.fxe5 gxh3 34.gxh3 Qxh6 35.Qg4+ Kh8 36.Rd6 Rxb2
+37.Qf5 Rh2 38.Qxf6+ Qxf6+ 39.Rxf6 Rb8 40.Rf2 Rh1+
+41.Ke2 Rb2+ 42.Kd3 Rxh3+ 43.Re3 Rxe3+ 44.Kxe3 Rxf2
+45.Kxf2 Kg7 46.Kg3 Kf8 47.Kf4 h5 48.c4 Ke7
+49.c5 f6 50.exf6+ Kxf6 51.c6 Ke6 52.Kg5 Ke7
+53.Kxh5 Kd6 54.Kh4 Kc7 55.Kg3 Kxc6 1/2-1/2
+
+[Event ""]
+[GID "94"]
+[PlyCount "453"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.h3 Bd6 7.Bd3 O-O 8.Ne2 Bf5
+9.O-O Bg6 10.Be3 Re8 11.c4 Nd7 12.Qb3 b6
+13.Rad1 Qe7 14.Rfe1 c5 15.Qc2 cxd4 16.Nxd4 Nc5
+17.Nf5 Qe6 18.Nxd6 Nxd3 19.Rxd3 Qxd6 20.Rxd6 Bxc2
+21.Rc1 Be4 22.b4 Re6 23.Rcd1 h5 24.R6d4 Rc8
+25.b5 Bc2 26.R1d2 Bf5 27.Rd8+ Re8 28.Rxe8+ Rxe8
+29.a4 Rc8 30.c5 bxc5 31.Rd1 Rc7 32.Rd6 Be6
+33.Bf4 Rb7 34.Be3 Rc7 35.a5 c4 36.Ra6 c3
+37.b6 axb6 38.axb6 Rd7 39.Ra3 c2 40.Rc3 Bf5
+41.Kh2 Kh7 42.Rb3 Rb7 43.h4 Kg6 44.Kg3 Be4
+45.Rc3 Bf5 46.f3 Rb8 47.Rb3 Rb7 48.Kf2 Rb8
+49.Ke2 Be6 50.Rc3 Bf5 51.Rc7 Rc8 52.Rxc8 Bxc8
+53.Kd2 Kf5 54.Kxc2 g5 55.Kd3 gxh4 56.Ke2 Ke5
+57.Bf2 Ba6+ 58.Ke3 Kd5 59.b7 Bxb7 60.Bxh4 Ke5
+61.Kf2 f5 62.Bg3+ f4 63.Bh4 Kf5 64.Be7 f6
+65.Bd6 h4 66.Bc7 Bc8 67.Ba5 Kg5 68.Bd2 h3
+69.Kg1 hxg2 70.Kxg2 Kf5 71.Kh1 Ba6 72.Kh2 Bb7
+73.Kg2 Bc6 74.Be1 Ke6 75.Ba5 Bb5 76.Bb4 Be2
+77.Kf2 Ba6 78.Ba3 Kf5 79.Bc1 Bd3 80.Bd2 Bc4
+81.Ba5 Bb3 82.Bc7 Ba2 83.Kg2 Bd5 84.Ba5 Be6
+85.Be1 Kg5 86.Kf2 Bc8 87.Bb4 Bf5 88.Bd6 Bc8
+89.Bb8 Bf5 90.Kg2 Bc2 91.Bd6 Bf5 92.Ba3 Bh7
+93.Bc1 Bf5 94.Kg1 Bd7 95.Kf1 Bb5+ 96.Kg1 Kf5
+97.Kf2 Bd3 98.Kg2 Kg5 99.Bb2 Kf5 100.Bd4 Be2
+101.Bf2 Ke6 102.Ba7 Kf5 103.Kf2 Bd3 104.Bb8 Bb1
+105.Bd6 Bd3 106.Bb4 Ke5 107.Be1 Ke6 108.Ba5 Kf5
+109.Kg2 Bc2 110.Bd2 Ba4 111.Kf2 Bc6 112.Bc1 Bd5
+113.Ba3 Bc6 114.Bb2 Bd7 115.Bc1 Bc6 116.Kg2 Ba4
+117.Ba3 Ke5 118.Kf2 Bb5 119.Kg2 f5 120.Be7 Bc4
+121.Bd8 Kd5 122.Kf2 Ba6 123.Ba5 Bb5 124.Bd2 Kc4
+125.Bc1 Kd3 126.Ba3 Ba6 127.Bd6 Kd2 128.Bc7 Bb5
+129.Ba5+ Kd1 130.Bb4 Kc1 131.Ke1 Bc4 132.Bd6 Bd3
+133.Ba3+ Kb1 134.Kd2 Bb5 135.Bd6 Ka2 136.Be5 Be8
+137.Ke1 Bb5 138.Bc7 Be8 139.Kf2 Kb1 140.Ba5 Bf7
+141.Bd8 Kc1 142.Bb6 Bc4 143.Kg2 Kc2 144.Bc5 Bf7
+145.Ba7 Kc1 146.Bb8 Bg6 147.Bd6 Kd1 148.Kf2 Kd2
+149.Bb4+ Kd1 150.Be7 Kc2 151.Bg5 Kd1 152.Kf1 Be8
+153.Bd8 Bg6 154.Ba5 Bf7 155.Bc7 Bc4+ 156.Kf2 Bd3
+157.Be5 Bc4 158.Bb8 Bd3 159.Ba7 Kc2 160.Bb6 Bc4
+161.Ba7 Ba2 162.Bb8 Kd1 163.Ba7 Bb1 164.Bb6 Bd3
+165.Bd8 Bb5 166.Bf6 Bd3 167.Be5 Bb1 168.Bxf4 Bc2
+169.Be5 Bb3 170.Kg3 Be6 171.Kf4 Ke2 172.Kg5 Kxf3
+173.Bd6 Bb3 174.Bb8 Ke3 175.Ba7+ Kd2 176.Kf4 Be6
+177.Be3+ Ke2 178.Bd4 Ba2 179.Bf6 Kf1 180.Bh4 Kg2
+181.Bg5 Bd5 182.Bh6 Kg1 183.Bf8 Bc6 184.Bg7 Bh1
+185.Bd4+ Kf1 186.Be3 Bd5 187.Bc1 Bh1 188.Ba3 Kg1
+189.Bb4 Bg2 190.Bd6 Ba8 191.Bf8 Bg2 192.Bh6 Bd5
+193.Bf8 Bc6 194.Bd6 Ba8 195.Be5 Bh1 196.Bd4+ Kf1
+197.Bb6 Bd5 198.Be3 Bh1 199.Bc5 Ba8 200.Be7 Be4
+201.Bg5 Bc2 202.Bh4 Bd1 203.Bf6 Bb3 204.Bc3 Bd1
+205.Bd4 Be2 206.Ba7 Ke1 207.Be3 Kf1 208.Ba7 Ke1
+209.Bb8 Kd2 210.Bc7 Ba6 211.Ba5+ Kd1 212.Bd8 Bf1
+213.Bf6 Bb5 214.Bb2 Ba6 215.Bh8 Bf1 216.Be5 Bc4
+217.Bd6 Bd3 218.Bc7 Bb5 219.Bb6 Be8 220.Bf2 Bb5
+221.Ke3 f4+ 222.Kf3 Bd3 223.Ba7 Kd2 224.Bb8 Bc2
+225.Bc7 Be4+ 226.Kxe4 Ke2 227.Kxf4 1/2-1/2
+
+[Event ""]
+[GID "95"]
+[PlyCount "493"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Qc7 6.Ne2 e5 7.dxe5 Nxe5 8.Bb5+ Bd7
+9.Bxd7+ Qxd7 10.Bf4 Ng6 11.O-O Bc5 12.Re1 Nf6
+13.Ng3+ Kf8 14.Be3 Bxe3 15.Rxe3 h5 16.h3 h4
+17.Ne2 Rh5 18.Nd2 Re5 19.Rxe5 Nxe5 20.Nd4 Re8
+21.Qb3 Kg8 22.Re1 g6 23.Nf1 a6 24.Qc2 Nc4
+25.Rd1 Qc7 26.Nf3 Qf4 27.b3 Ne5 28.Ne1 Nc6
+29.Nf3 Ne5 30.Ne1 Nc6 31.Qb2 Re4 32.Nf3 Ne5
+33.Nd4 Nc6 34.Nf3 Ne5 35.N3h2 Nc6 36.Qd2 d4
+37.Nf3 dxc3 38.Qxc3 Re2 39.Rd2 Re7 40.Qc1 Kg7
+41.Qb2 Re4 42.Rd1 Ne5 43.Nd4 Nd5 44.Nh2 Qf6
+45.Qc2 Qf4 46.Qb2 Qf6 47.Qc2 Qf4 48.Ne2 Nb4
+49.Qb2 Qf6 50.Qd2 Nd5 51.Re1 Nb4 52.Rd1 Nd5
+53.Re1 Nb4 54.Rd1 Nd5 55.Qc2 Rxe2 56.Qxe2 Nc3
+57.Qd2 Nxd1 58.Qxd1 Nc6 59.Nf3 Qb2 60.Qd7 Qxa2
+61.Qxb7 Ne5 62.Qd5 Qb1+ 63.Kh2 Nxf3+ 64.gxf3 Qa1
+65.Qc5 Qf6 66.Kg2 Qf4 67.b4 Qf6 68.b5 axb5
+69.Qxb5 g5 70.Qa5 Kg6 71.Qa8 Qf4 72.Qg8+ Kf6
+73.Qh7 Qf5 74.Qh6+ Ke7 75.Qh8 Ke6 76.Qc8+ Kf6
+77.Qc6+ Qe6 78.Qa4 Ke5 79.Qa1+ Kf4 80.Qa5 Qe5
+81.Qa7 Qd5 82.Qa4+ Ke5 83.Qg4 Kf6 84.Qb4 Qe6
+85.Qb5 Kg6 86.Qa4 Kf6 87.Qd4+ Kg6 88.Qh8 f6
+89.Qb8 Qd5 90.Qf8 Qe5 91.Qg8+ Kf5 92.Qf7 Qf4
+93.Qh7+ Ke6 94.Qg8+ Ke7 95.Qg7+ Ke6 96.Qf8 Qd4
+97.Qe8+ Kf5 98.Qh5 Ke6 99.Qh7 Qd5 100.Qg8+ Ke5
+101.Qc8 Qd4 102.Qh8 Qd5 103.Qh5 Qa8 104.Qf7 Kf5
+105.Qc4 Kg6 106.Qd3+ Kh6 107.Qd7 Qb8 108.Qf7 Qd6
+109.Qb3 Qe5 110.Qg8 Qf5 111.Qh8+ Kg6 112.Qg8+ Kh6
+113.Qf8+ Kg6 114.Qb4 Qe6 115.Qb7 Kh6 116.Qa8 Kg6
+117.Qa4 f5 118.Qd4 Qf6 119.Qd7 Qg7 120.Qc6+ Qf6
+121.Qd7 Qg7 122.Qe8+ Qf7 123.Qh8 Qe6 124.Qd8 Qf6
+125.Qd5 Qf7 126.Qc6+ Qf6 127.Qa8 Qe5 128.Qg8+ Qg7
+129.Qe6+ Qf6 130.Qg8+ Qg7 131.Qe6+ Qf6 132.Qe8+ Qf7
+133.Qc8 Qf6 134.Qa8 Qe5 135.Qf8 Qe6 136.Qb4 Kh5
+137.Qc5 Kg6 138.Qd4 Qf6 139.Qd5 Qf7 140.Qd8 Qe6
+141.Qd3 Kh6 142.Qd4 Kg6 143.Qd3 Kh6 144.Qd8 Kg6
+145.Kf1 Qc4+ 146.Kg1 Qc6 147.Qg8+ Kf6 148.Kg2 Qe6
+149.Qh7 Qe7 150.Qh6+ Ke5 151.Qg6 Qf6 152.Qe8+ Qe6
+153.Qh8+ Qf6 154.Qc8 Qd6 155.Qh8+ Qf6 156.Qg8 Qe7
+157.Qb8+ Kf6 158.Qb3 Kg6 159.Qa4 Qf7 160.Qa1 Qe6
+161.Qa4 Qd6 162.Qb3 Qf6 163.Qa3 Kh6 164.Qa7 Kg6
+165.Qa2 Kh5 166.Qc4 Kh6 167.f4 Kh5 168.fxg5 Kxg5
+169.Qg8+ Kh5 170.Qe8+ Kh6 171.Kf3 Qd6 172.Qa8 Kg5
+173.Qg8+ Kh6 174.Qh8+ Kg5 175.Qg7+ Kh5 176.Qh7+ Kg5
+177.Qg7+ Kh5 178.Qh7+ Kg5 179.Kg2 Qe5 180.Qg8+ Kh5
+181.Qh7+ Kg5 182.Qg8+ Kh5 183.Kf1 Qa1+ 184.Ke2 Qb2+
+185.Kf1 Qb1+ 186.Kg2 Qe4+ 187.Kh2 Qe5+ 188.Kg2 Qe4+
+189.Kh2 Qe5+ 190.Kh1 Qe4+ 191.Qg2 Qf4 192.Qf1 Qg5
+193.Qe2+ Kg6 194.Qe6+ Kg7 195.Qd5 Kg6 196.Qg8+ Kh6
+197.Qf8+ Kg6 198.Qe8+ Kf6 199.Qd8+ Kg6 200.Qd5 Qf4
+201.Kg1 Kg5 202.Qg8+ Kf6 203.Qh8+ Kg5 204.Qg7+ Kh5
+205.Qc3 Qe4 206.Qh8+ Kg5 207.Qg7+ Kh5 208.Qh7+ Kg5
+209.Qg8+ Kf6 210.Qh8+ Kg6 211.Qg8+ Kh6 212.Qf8+ Kg6
+213.Qd6+ Kg5 214.Qd1 Kf6 215.Qd2 Kg6 216.Qc3 Kg5
+217.Qe3+ Qxe3 218.fxe3 Kf6 219.Kf2 Ke5 220.Kf3 Ke6
+221.Kf4 Kf6 222.e4 fxe4 223.Kxe4 Ke6 224.Kf4 Kd7
+225.Kg5 Ke7 226.Kxh4 Kf6 227.Kh5 Kg7 228.Kg5 Kf7
+229.Kh6 Kg8 230.Kg6 Kf8 231.Kh7 Kf7 232.Kh6 Kg8
+233.Kg6 Kf8 234.h4 Kg8 235.h5 Kf8 236.Kh6 Kg8
+237.Kg6 Kf8 238.h6 Kg8 239.Kh5 Kf7 240.Kg5 Kg8
+241.Kg4 Kh7 242.Kg5 Kg8 243.Kg4 Kh7 244.Kh5 Kh8
+245.Kg6 Kg8 246.h7+ Kh8 247.Kh6 1/2-1/2
+
+[Event ""]
+[GID "98"]
+[PlyCount "222"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B15"]
+
+1.e4 c6 2.d4 d5 3.Nc3 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 Re8
+9.O-O Nd7 10.Re1 Nf8 11.Qc2 Bg4 12.Bd2 Bh5
+13.Ng3 Rxe1+ 14.Rxe1 Bxg3 15.hxg3 Bg6 16.Rd1 Bh5
+17.f3 Bg6 18.Be3 h5 19.Bf2 Bxd3 20.Rxd3 Qd5
+21.c4 Qf5 22.Rd2 Qxc2 23.Rxc2 Rd8 24.Rd2 Ng6
+25.Kf1 f5 26.Ke2 f4 27.d5 cxd5 28.Rxd5 Rxd5
+29.cxd5 fxg3 30.Bxg3 Kf8 31.Kd3 Ke8 32.Ke4 Kd7
+33.a4 Ne7 34.a5 a6 35.Bf2 Kd6 36.Bg3+ Kd7
+37.b3 f6 38.Be1 Kd6 39.Bb4+ Kd7 40.Bc5 g6
+41.Bd4 Kd6 42.Bxf6 Nxd5 43.Bd4 Ke6 44.Bf2 g5
+45.Bg3 b6 46.axb6 Nxb6 47.f4 Nd7 48.f5+ Kf7
+49.Bd6 Nf6+ 50.Kf3 Ng4 51.Bc5 Ne5+ 52.Ke4 Ng4
+53.Bd4 Nf6+ 54.Kf3 Ng4 55.Ke4 Nf6+ 56.Ke5 Ke7
+57.Bg1 Ng4+ 58.Ke4 Nf6+ 59.Kf3 Ng4 60.Bc5+ Kf6
+61.Ke4 Kf7 62.Bg1 Ke7 63.Bd4 Nf6+ 64.Ke5 Nd7+
+65.Ke4 Nf6+ 66.Kf3 Ng4 67.Bc3 Nh6 68.Ke4 Kf7
+69.Bd2 Kf6 70.Bc3+ Kf7 71.Bd4 h4 72.Bf2 Kf6
+73.Bd4+ Kf7 74.Ke5 Ng4+ 75.Kd5 Ke7 76.Ke4 Nh6
+77.Ke5 Nf7+ 78.Ke4 Nh6 79.Bc5+ Kf7 80.Be3 Kf6
+81.Bd4+ Kf7 82.Ke5 Ng4+ 83.Kd5 Ke7 84.Bc5+ Kf7
+85.Bg1 Ke7 86.Ke4 Kf7 87.b4 Nf6+ 88.Ke5 Ng4+
+89.Ke4 Nf6+ 90.Kf3 g4+ 91.Kf4 h3 92.g3 Ke7
+93.Kg5 Kf7 94.Bh2 Kg7 95.Bg1 Kf7 96.Bh2 Kg7
+97.Kh4 Kf7 98.Bg1 Ke7 99.Bc5+ Kf7 100.Bg1 Ke7
+101.Bc5+ Kd7 102.Bg1 Ke7 103.Bc5+ Kd7 104.Bg1 Ke7
+105.Kg5 Kf7 106.Kf4 Ke7 107.Bh2 Kf7 108.Bg1 Ke7
+109.Kg5 Kf7 110.Kf4 Ke7 111.Kg5 Kf7 1/2-1/2
+
+[Event ""]
+[GID "100"]
+[PlyCount "117"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "B13"]
+
+1.e4 c6 2.d4 d5 3.exd5 cxd5 4.Bd3 Nc6
+5.c3 Qc7 6.Ne2 Bg4 7.Qa4 e6 8.Ng3 Nf6
+9.O-O h5 10.f3 Bd6 11.fxg4 hxg4 12.Ne2 Bxh2+
+13.Kf2 Kf8 14.Na3 a6 15.Bg5 e5 16.dxe5 Nd7
+17.Be3 Ndxe5 18.Rad1 Re8 19.Nc2 Kg8 20.Rd2 Qc8
+21.Ncd4 b5 22.Qc2 g6 23.Nxc6 Nxc6 24.Bc5 Ne5
+25.Bd4 Nf3 26.Bxh8 Qd8 27.Rh1 Kxh8 28.Be4 Qb6+
+29.Kf1 Nxd2+ 30.Qxd2 Kg8 31.Rxh2 Rxe4 32.Qg5 Qe3
+33.Qxe3 Rxe3 34.Kf2 Rd3 35.Ke1 Re3 36.Kd2 Re4
+37.g3 Kg7 38.Rf2 f5 39.Kd3 Kf7 40.Rf1 a5
+41.Rf4 Ke6 42.Rxe4+ dxe4+ 43.Kd4 g5 44.b4 a4
+45.c4 bxc4 46.Nc3 e3 47.Kxc4 Kd6 48.a3 e2
+49.Nxe2 Ke5 50.b5 f4 51.b6 Ke4 52.b7 Ke3
+53.Nc3 Kf3 54.b8=Q Kf2 55.Ne4+ Ke3 56.Kd5 Kf3
+57.Qb2 fxg3 58.Qd2 g2 59.Qf2# 1-0
+
+[Event ""]
+[GID "102"]
+[PlyCount "148"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "0-1"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Ba4 b5 8.Bb3 Bb7
+9.O-O Bxd5 10.Bxd5 Nxd5 11.Nc3 N7f6 12.a4 b4
+13.Nxd5 Qxd5 14.a5 e6 15.Qa4+ Qd7 16.Qxd7+ Nxd7
+17.d4 Nf6 18.Ne5 Bd6 19.Bd2 Nd5 20.Rfc1 Bxe5
+21.dxe5 Kd7 22.Kf1 Rhc8 23.Ke2 Rab8 24.Rxc8 Rxc8
+25.Kd3 Rc5 26.Ra4 Kc6 27.Bxb4 Nf4+ 28.Kd2 Rxe5
+29.Bc3 Re2+ 30.Kd1 Rxf2 31.Rc4+ Kd5 32.Rd4+ Kc5
+33.Ke1 e5 34.b4+ Kb5 35.Kxf2 exd4 36.Bxd4 g6
+37.Kf3 Nd5 38.h4 Kc4 39.Ke4 Nxb4 40.Bb6 Nc6
+41.Kf4 Kb5 42.Kg5 Nxa5 43.Bd8 Nb7 44.Be7 Kc6
+45.Kh6 Kd7 46.Bf6 Ke6 47.Bd4 a5 48.Kxh7 Nd6
+49.g4 a4 50.Kh6 f5 51.Kg5 Kd5 52.Bb2 Ke4
+53.h5 fxg4 54.h6 Nf7+ 55.Kxg4 Nxh6+ 56.Kg5 Nf7+
+57.Kh4 Ne5 58.Kg5 Nc4 59.Bc1 Kd3 60.Kxg6 Kc2
+61.Bh6 a3 62.Bf8 a2 63.Kf7 a1=Q 64.Kg8 Qf6
+65.Bg7 Qg6 66.Kf8 Nd6 67.Ke7 Nf5+ 68.Kd7 Qd6+
+69.Kc8 Qc6+ 70.Kd8 Nxg7 71.Ke7 Nf5+ 72.Kf7 Qd6
+73.Kg8 Qf6 74.Kh7 Qg7# 0-1
+
+[Event ""]
+[GID "101"]
+[PlyCount "259"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Be2 Nb6 8.O-O g6
+9.Nc3 Bg7 10.d4 O-O 11.Re1 Nbxd5 12.Qb3 Be6
+13.Qxb7 Qd6 14.Qb3 Rfc8 15.Nxd5 Nxd5 16.Bf1 Rab8
+17.Qd1 Nb4 18.g3 Qb6 19.Bf4 Ra8 20.Re2 Bd5
+21.Bg2 Qb7 22.Ne1 Bxg2 23.Nxg2 Nd5 24.Be5 Bh6
+25.Qd3 a5 26.Qf3 Qc6 27.Qg4 a4 28.a3 Qb5
+29.Rae1 Qd3 30.Bf4 Nxf4 31.Nxf4 Qxd4 32.Rxe7 Bxf4
+33.Rd7 Qf6 34.Qxf4 Qxf4 35.gxf4 Ra6 36.Ree7 Rf6
+37.Re4 Rb8 38.Rd2 Rfb6 39.Rxa4 Rxb2 40.Rxb2 Rxb2
+41.Ra8+ Kg7 42.Kg2 Ra2 43.Ra6 Kh6 44.f5 Ra1
+45.Kg3 Rg1+ 46.Kf3 Rh1 47.fxg6 hxg6 48.Ra7 Ra1
+49.Ra8 g5 50.Ke4 Kg6 51.Kf3 f6 52.h3 Kf5
+53.Ra5+ Kg6 54.Kg3 Rg1+ 55.Kh2 Ra1 56.Ra4 Kh5
+57.Kg3 Rh1 58.Kg2 Rb1 59.Ra6 Rb3 60.Ra5 Kg6
+61.a4 Ra3 62.Ra8 Kf5 63.Ra6 Kg6 64.Ra5 Ra1
+65.Kg3 Ra3+ 66.Kg2 Ra1 67.Kg3 Ra3+ 68.Kh2 Kh5
+69.Ra8 Kg6 70.Kg2 Ra1 71.Ra5 Ra3 72.Ra6 Kf5
+73.Ra8 Ke4 74.Re8+ Kf5 75.Ra8 Ke5 76.Ra5+ Kf4
+77.Ra6 Kf5 78.a5 Ra1 79.Ra8 Kf4 80.Ra6 Kf5
+81.Ra7 Kf4 82.Ra8 Ra3 83.a6 Ra2 84.a7 f5
+85.Kh1 Ra1+ 86.Kh2 Ra3 87.Kg2 Ra1 88.h4 gxh4
+89.Rh8 Rxa7 90.Rxh4+ Kg5 91.Rh3 Ra2 92.Rg3+ Kf6
+93.Rh3 Kg5 94.Rb3 Ra5 95.Rg3+ Kf4 96.Rh3 Ra7
+97.Re3 Rg7+ 98.Kf1 Ra7 99.Rh3 Ra2 100.Kg1 Kg4
+101.Rg3+ Kh4 102.Kg2 Kh5 103.Kh3 Rxf2 104.Ra3 f4
+105.Ra5+ Kg6 106.Kg4 Kf6 107.Ra6+ Kf7 108.Ra4 Kf6
+109.Ra5 Ke6 110.Rb5 Rf1 111.Rc5 f3 112.Kg3 Kd7
+113.Ra5 f2 114.Ra6 Ke8 115.Ra7 Kd8 116.Ra8+ Kc7
+117.Ra4 Kb8 118.Rc4 Kb7 119.Rb4+ Kc6 120.Ra4 Kb7
+121.Kf3 Rb1 122.Kxf2 Rb2+ 123.Ke3 Rh2 124.Ra1 Rh3+
+125.Kf2 Rh2+ 126.Kg3 Rh7 127.Rf1 Kb6 128.Kf2 Rf7+
+129.Ke1 Rxf1+ 130.Kxf1 1/2-1/2
+
+[Event ""]
+[GID "103"]
+[PlyCount "135"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.Nf3 a6 7.Bxd7+ Qxd7 8.O-O Nxd5
+9.Ne5 Qf5 10.Re1 f6 11.Nc4 Be6 12.d4 Rd8
+13.h3 h5 14.Bd2 Kf7 15.Qe2 Rc8 16.Ne3 Nxe3
+17.Qxe3 Bd5 18.Nc3 e6 19.Nxd5 Qxd5 20.Qd3 Bc5
+21.Bc3 Rhd8 22.Qe2 Bb6 23.Rad1 Rc4 24.a3 Ba7
+25.Rd3 b5 26.Re3 Rc6 27.Re4 Rh8 28.Qf3 Rd8
+29.Qe2 Bb6 30.Rh4 Rh8 31.Re4 Rh6 32.a4 Rg6
+33.g3 Rh6 34.Rh4 Rh8 35.a5 Bd8 36.Bb4 Bc7
+37.Re4 h4 38.g4 Re8 39.Qd2 Rc4 40.b3 Rc6
+41.g5 Rh8 42.gxf6 gxf6 43.Rg4 Rh5 44.Qe2 Bb8
+45.Bc5 Rc8 46.b4 f5 47.Rg7+ Kxg7 48.Qxh5 Rg8
+49.Qxh4 Qf3 50.Kf1 Qd3+ 51.Re2 Kf7 52.Qe7+ Kg6
+53.Qxe6+ Kh7 54.Qf7+ Rg7 55.Qh5+ Kg8 56.Qe8+ Kh7
+57.Qh5+ Kg8 58.Qe8+ Kh7 59.Qh5+ Kg8 60.f3 Qd1+
+61.Re1 Qd3+ 62.Re2 Qd1+ 63.Re1 Qd3+ 64.Re2 Qd1+
+65.Re1 Qd3+ 66.Re2 Qd1+ 67.Re1 Qd3+ 68.Re2 1/2-1/2
+
+[Event ""]
+[GID "99"]
+[PlyCount "317"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1-0"]
+[ECO "B15"]
+
+1.e4 c6 2.Nc3 d5 3.d4 dxe4 4.Nxe4 Nf6
+5.Nxf6+ exf6 6.c3 Bd6 7.Bd3 O-O 8.Ne2 Re8
+9.Be3 Nd7 10.O-O Nf8 11.h3 Ng6 12.Re1 Be6
+13.Qc2 Qd7 14.Ng3 Nh4 15.Qd1 h6 16.Qh5 Bxg3
+17.fxg3 Bf5 18.Bc4 Ng6 19.Bf2 b5 20.Rxe8+ Rxe8
+21.Bf1 Be4 22.a4 a6 23.Qc5 Bd5 24.Qb4 f5
+25.b3 f4 26.g4 f3 27.g3 Nf8 28.c4 bxc4
+29.bxc4 Be4 30.Re1 Nh7 31.Qb6 Ng5 32.a5 f5
+33.gxf5 Qxf5 34.Kh2 Qf8 35.h4 Nh7 36.d5 cxd5
+37.cxd5 Bxd5 38.Rxe8 Qxe8 39.Qxa6 Nf6 40.Kg1 Ne4
+41.Bc4 Bxc4 42.Qxc4+ Kh8 43.a6 Nxf2 44.Kxf2 Qe5
+45.g4 Qh2+ 46.Kxf3 Qh1+ 47.Ke2 Qxh4 48.Qd4 Qh2+
+49.Kd3 Qh3+ 50.Kc2 Qg2+ 51.Kb3 Qf3+ 52.Kb4 Qf8+
+53.Kb3 Qg8+ 54.Kb2 Qa8 55.a7 Kh7 56.Qd3+ Kh8
+57.Qd7 Qg2+ 58.Kb3 Qf3+ 59.Kb4 Qe4+ 60.Ka5 Qe5+
+61.Ka4 Qa1+ 62.Kb5 Qb2+ 63.Kc5 Qa3+ 64.Kb6 Qb4+
+65.Qb5 Qd6+ 66.Qc6 Qb4+ 67.Qb5 Qd6+ 68.Qc6 Qb4+
+69.Kc7 Qf4+ 70.Kb7 Qf7+ 71.Ka6 Qa2+ 72.Kb7 Qf7+
+73.Kb6 Qb3+ 74.Qb5 Qe3+ 75.Qc5 Qb3+ 76.Ka6 Qe6+
+77.Ka5 Qe1+ 78.Kb5 Qe8+ 79.Qc6 Qe2+ 80.Kb6 Qe3+
+81.Qc5 Qe6+ 82.Kb7 Qf7+ 83.Ka6 Qe6+ 84.Kb7 Qf7+
+85.Kb6 Qe6+ 86.Kb5 Qe8+ 87.Qc6 Qe2+ 88.Kb6 Qe3+
+89.Kb7 Qe7+ 90.Kb8 Qb4+ 91.Kc7 Qe7+ 92.Qd7 Qc5+
+93.Kd8 Qb6+ 94.Kc8 Qa6+ 95.Kb8 Qb6+ 96.Ka8 Qb4
+97.g5 hxg5 98.Qb7 Qc5 99.Kb8 Qe5+ 100.Qc7 Qb5+
+101.Kc8 Qf5+ 102.Kb7 Qb5+ 103.Qb6 Qd7+ 104.Kb8 Qe8+
+105.Kc7 Qe5+ 106.Kb7 Qe4+ 107.Kb8 Qf4+ 108.Kb7 Qe4+
+109.Qc6 Qb4+ 110.Kc7 Qe7+ 111.Qd7 Qc5+ 112.Kd8 Qb6+
+113.Qc7 Qf6+ 114.Qe7 Qd4+ 115.Qd7 Qb6+ 116.Qc7 Qf6+
+117.Qe7 Qb6+ 118.Kc8 Qc6+ 119.Qc7 Qa6+ 120.Kd7 Qa4+
+121.Kd8 Qd4+ 122.Kc8 Qg4+ 123.Qd7 Qe4 124.Kb8 Qb4+
+125.Qb7 Qd6+ 126.Qc7 Qb4+ 127.Kc8 Qg4+ 128.Kb7 Qb4+
+129.Kc6 Qe4+ 130.Kc5 Qc2+ 131.Kd6 Qg6+ 132.Ke5 Qf6+
+133.Ke4 Qe6+ 134.Kd4 Qg4+ 135.Kc3 Qf3+ 136.Kb4 Qe4+
+137.Ka5 Qd5+ 138.Ka6 Qd3+ 139.Kb7 Qb5+ 140.Qb6 Qd7+
+141.Qc7 Qb5+ 142.Kc8 Qa6+ 143.Kd7 Qd3+ 144.Kc6 Qa6+
+145.Kc5 Kh7 146.Qh2+ Kg8 147.Qb8+ Kf7 148.a8=Q Qxa8
+149.Qxa8 Kg6 150.Qf3 g4 151.Qxg4+ Kf6 152.Kd5 g6
+153.Qf4+ Ke7 154.Qg5+ Kf7 155.Kd6 Kf8 156.Qe7+ Kg8
+157.Ke5 Kh8 158.Kf6 Kg8 159.Qg7# 1-0
+
+[Event ""]
+[GID "104"]
+[PlyCount "372"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Bb5+ Nbd7 6.d4 a6 7.Be2 Nb6 8.Nf3 g6
+9.O-O Bg7 10.Ne5 Nbxd5 11.Qa4+ Bd7 12.Qb3 b5
+13.Nxd7 Qxd7 14.a4 b4 15.a5 e6 16.Nd2 O-O
+17.Nc4 Qa7 18.Rd1 Rac8 19.Qd3 Rc6 20.Ne5 Rd6
+21.Nc4 Rc6 22.Bf3 Rb8 23.Bg5 Rc7 24.Bh4 Nf4
+25.Qf1 h6 26.Bg3 g5 27.h4 Rd8 28.Nb6 Rc2
+29.Bxf4 gxf4 30.Rac1 b3 31.Rxc2 bxc2 32.Rc1 Nd7
+33.Nxd7 Qxd7 34.Qxa6 Bxd4 35.Qe2 Rc8 36.Qd2 Qa4
+37.b3 Qa3 38.Be4 Bb2 39.Rxc2 Rxc2 40.Bxc2 Qa1+
+41.Kh2 Bc3 42.Qd3 Qxa5 43.Qh7+ Kf8 44.Qxh6+ Ke7
+45.Qg5+ Qxg5 46.hxg5 Bd2 47.Be4 f3 48.g6 fxg6
+49.Bxf3 Kd6 50.Kg3 Kc5 51.Be4 g5 52.Kg4 Kb4
+53.Bc2 Kc3 54.Bd1 Kd3 55.Bf3 Kc3 56.Bd1 Bc1
+57.g3 Kd3 58.Bf3 Kc3 59.Bd1 Kd3 60.Kh3 Kc3
+61.Kg2 e5 62.Kg1 Ba3 63.Bf3 Kxb3 64.Ba8 Kc3
+65.Kg2 Kd2 66.Be4 Bc5 67.f3 Bd4 68.Bc6 Be3
+69.Kh3 Ke2 70.Kg4 Kf1 71.Kf5 Kf2 72.Kg4 Kf1
+73.Be4 Ke1 74.Ba8 Kf2 75.Be4 Ke1 76.Ba8 Kf2
+77.Bb7 Ke1 78.Kf5 Kf2 79.Kg4 Ke1 80.Bd5 Kf2
+81.Kh3 Ke1 82.Kg2 Bc1 83.Bb7 Bb2 84.Be4 Kd2
+85.Kh3 Ke1 86.Bf5 Bc1 87.Bd3 Kf2 88.Kg4 Bd2
+89.Bb1 Be3 90.Ba2 Ke1 91.Bc4 Kf2 92.Bd5 Bc1
+93.Be4 Kf1 94.Kf5 Kf2 95.Kg4 Bd2 96.Bd5 Be3
+97.Kh3 Ke1 98.Ba8 Kf2 99.Kg4 Kf1 100.Bc6 Kg1
+101.Be4 Kf1 102.Bc6 Kg1 103.Bd7 Bd2 104.Bf5 Kf1
+105.Be4 Kf2 106.Bb7 Be3 107.Bd5 Kf1 108.Bc4+ Kf2
+109.Ba6 Bc1 110.Bd3 Bd2 111.Be4 Ke1 112.Bd5 Bc1
+113.Bb3 Be3 114.Kf5 Kf2 115.Kg4 Bc1 116.Bc2 Bb2
+117.f4 gxf4 118.gxf4 exf4 119.Bd1 Bc1 120.Bf3 Ba3
+121.Bb7 Ke2 122.Bg2 Ke1 123.Kf3 Bc1 124.Bh3 Be3
+125.Bc8 Ba7 126.Ba6 Bg1 127.Bc4 Kd2 128.Bd5 Bc5
+129.Bb7 Be7 130.Bc8 Bf8 131.Bg4 Ba3 132.Bh5 Bc1
+133.Bf7 Ba3 134.Bc4 Bc5 135.Ba6 Ba7 136.Bb7 Kd3
+137.Bc8 Kc2 138.Bb7 Kd3 139.Ba8 Kd2 140.Bd5 Kd1
+141.Bb3+ Kd2 142.Ba2 Kd3 143.Bb3 Kd2 144.Bd5 Kd1
+145.Ba8 Bd4 146.Bb7 Bc3 147.Bc8 Bb2 148.Be6 Ba3
+149.Bd5 Kc1 150.Ba8 Kc2 151.Be4+ Kd2 152.Bb7 Be7
+153.Be4 Bc5 154.Bb1 Be3 155.Bf5 Bd4 156.Bc8 Bg7
+157.Bh3 Bd4 158.Bg2 Bg7 159.Bf1 Bd4 160.Ba6 Kc1
+161.Be2 Kd2 162.Bf1 Kc1 163.Bc4 Ba7 164.Be6 Kd2
+165.Bc4 Kc3 166.Bf1 Kc2 167.Bb5 Be3 168.Ba6 Bc1
+169.Bf1 Ba3 170.Kxf4 Bc1+ 171.Kg3 Kd1 172.Bh3 Ba3
+173.Kf2 Bb2 174.Be6 Kd2 175.Bh3 Bd4+ 176.Kf1 Bc5
+177.Be6 Kd3 178.Ke1 Be3 179.Kf1 Bc1 180.Ke1 Bb2
+181.Kf1 Ke3 182.Ke1 Bc1 183.Bh3 Bb2 184.Bf1 Bd4
+185.Kd1 Kf2 186.Kd2 Kxf1 1/2-1/2
+
+[Event ""]
+[GID "105"]
+[PlyCount "242"]
+[White "Berserk 11"]
+[Black "RubyChess"]
+[Result "1/2-1/2"]
+[ECO "B10"]
+
+1.e4 c6 2.c4 d5 3.cxd5 cxd5 4.exd5 Nf6
+5.Nf3 Nxd5 6.Nc3 Nc6 7.d4 Bg4 8.Bc4 e6
+9.O-O Be7 10.Nxd5 exd5 11.Be2 O-O 12.Qb3 Bxf3
+13.Bxf3 Nxd4 14.Qxd5 Bf6 15.Qxb7 Rb8 16.Qe4 Qa5
+17.Bd1 Rfe8 18.Qf4 Qd5 19.a4 Be5 20.Qd2 Rbd8
+21.Qd3 g6 22.Ra3 Qd6 23.h3 h5 24.Bg5 Rb8
+25.Ra2 Bf6 26.Bxf6 Qxf6 27.b3 Red8 28.Qe3 Rb6
+29.Rd2 Re6 30.Qh6 Re5 31.Rd3 Rg5 32.Rg3 Rgd5
+33.Qc1 Nf5 34.Rf3 Qe5 35.Qb1 Rd2 36.Bc2 Rxc2
+37.Qxc2 Nd4 38.Qb1 Nxf3+ 39.gxf3 Qg5+ 40.Kh1 Qh4
+41.Kg2 Rd5 42.Qe4 Qg5+ 43.Kh2 Qd2 44.Kg2 Rg5+
+45.Kh1 Qd7 46.Kh2 Qd6+ 47.f4 Rf5 48.Kg3 Kg7
+49.h4 a5 50.Rc1 Kh7 51.f3 Qb6 52.Qd3 Qe6
+53.Qc3 Qb6 54.Re1 Rf6 55.Qe3 Qd6 56.Qc1 Qb8
+57.Qc4 Qa7 58.Rd1 Qe3 59.Qd4 Qe6 60.Qd5 Qb6
+61.Re1 Kg7 62.Rd1 Qe3 63.Qe5 Qb6 64.Kg2 Kh7
+65.Qd4 Qe6 66.Kg3 Rf5 67.Qc3 Qb6 68.Re1 Rd5
+69.Qc4 Qd6 70.Re3 Qb6 71.Re1 Qd8 72.Qe4 Kg7
+73.Qe7 Qb8 74.Re6 Rf5 75.Qd6 Qa7 76.Re1 Rf6
+77.Qd1 Qb6 78.Re8 Kh7 79.Qc1 Re6 80.Rxe6 Qxe6
+81.Qc3 Qb6 82.Kg2 Qd8 83.Qe1 Qd3 84.b4 axb4
+85.Qxb4 Qc2+ 86.Kg3 Qc1 87.Qd4 Qb1 88.Qe3 Qa1
+89.Qa7 Kg7 90.f5 gxf5 91.Kh2 Qa2+ 92.Kh3 Qa1
+93.Kg2 Qa2+ 94.Qf2 Qxa4 95.Qg3+ Kh7 96.Qg5 Qd7
+97.Qxh5+ Kg7 98.Qg5+ Kh7 99.Qh5+ Kg7 100.Qg5+ Kh7
+101.Kg3 Qd6+ 102.Qf4 Qg6+ 103.Qg5 Qxg5+ 104.hxg5 Kg7
+105.f4 Kg6 106.Kh4 Kg7 107.Kh3 Kg6 108.Kg3 Kg7
+109.Kh4 Kf8 110.Kg3 Kg7 111.Kh4 Kg6 112.Kh3 Kh5
+113.Kg3 Kg6 114.Kh4 Kh7 115.Kh3 Kg6 116.Kg2 Kh5
+117.Kg3 Kg6 118.Kh3 Kh5 119.Kg3 Kg6 120.Kh3 Kh5
+121.Kg3 Kg6 1/2-1/2
+
