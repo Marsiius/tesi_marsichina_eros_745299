@@ -1,0 +1,4597 @@
+[Event ""]
+[GID "1"]
+[PlyCount "108"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6
+5.Nxc6 bxc6 6.Bd3 d5 7.e5 Nd7 8.O-O Be7
+9.Re1 Nc5 10.Nd2 O-O 11.Bf1 Ne6 12.Nb3 a5
+13.Bd2 a4 14.Na5 Bd7 15.c4 Qb8 16.Rb1 Qa7
+17.Qf3 Bg5 18.Rbd1 Bxd2 19.Nxc6 Nd4 20.Nxd4 Bxe1
+21.cxd5 Rae8 22.Qf4 Ba5 23.Bd3 Qb6 24.e6 fxe6
+25.Qe4 g6 26.b4 Qxb4 27.dxe6 Bb6 28.a3 Qxd4
+29.Qxd4 Bxd4 30.exd7 Bxf2+ 31.Kh1 Re1+ 32.Rxe1 Bxe1
+33.Bc4+ Kg7 34.g3 c6 35.Bd3 Rd8 36.Bc2 Rxd7
+37.Bxa4 Rd6 38.Bb3 Kf6 39.Bg8 h6 40.Kg2 Ke5
+41.Kf1 Ba5 42.h4 Kd4 43.g4 c5 44.Ke2 c4
+45.h5 g5 46.Bh7 Rb6 47.Kd1 Rb2 48.Bc2 Kc3
+49.Bf5 Rd2+ 50.Kc1 Re2 51.Kd1 Re3 52.Bd3 cxd3
+53.a4 Kb3 54.Kc1 Re1# 0-1
+
+[Event ""]
+[GID "2"]
+[PlyCount "175"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 h6 10.d4 Re8 11.Nbd2 Bf8 12.Nf1 Na5
+13.dxe5 Nxb3 14.axb3 dxe5 15.Qxd8 Rxd8 16.Nxe5 Re8
+17.Bf4 Bc5 18.Nd3 Bb6 19.Ng3 Bb7 20.e5 Nd5
+21.Bd2 Rad8 22.Rad1 a5 23.Ne4 Ne7 24.Nec5 Bc6
+25.b4 a4 26.e6 f6 27.Bf4 Rd5 28.Kf1 Red8
+29.Ke2 g5 30.Bh2 Rf5 31.f3 Bd5 32.Nd7 Bc4
+33.g4 Rxd7 34.exd7 Rd5 35.Bg1 Bxg1 36.Rxg1 Rxd7
+37.Ke3 Bb3 38.Rd2 Nd5+ 39.Ke2 Bc4 40.Ke1 Nxc3
+41.Nc5 Rxd2 42.Kxd2 Nd5 43.Na6 c6 44.h4 Nf4
+45.hxg5 hxg5 46.Nc5 Kg7 47.Re1 Kf7 48.Ne4 Bd5
+49.Nd6+ Kg6 50.Rf1 Ng2 51.Nf5 Kf7 52.Nd4 Ke7
+53.Nf5+ Kf7 54.Kc3 Nh4 55.Nxh4 gxh4 56.Kd4 Kg6
+57.Ke3 Kg5 58.Rg1 h3 59.Rh1 Kh4 60.Kf2 c5
+61.bxc5 Bc6 62.Re1 b4 63.Re7 a3 64.Rh7+ Kg5
+65.bxa3 bxa3 66.Rh5+ Kg6 67.Rxh3 a2 68.Rh1 Bd5
+69.Ke3 f5 70.Ra1 Kf6 71.Kd4 Bxf3 72.gxf5 Kxf5
+73.Rxa2 Ke6 74.Rd2 Kd7 75.Ke3+ Kc6 76.Kxf3 Kxc5
+77.Ke4 Kc4 78.Rc2+ Kb4 79.Kd5 Kb3 80.Rc4 Ka3
+81.Kd4 Kb2 82.Kd3 Kb3 83.Rd4 Kb2 84.Rb4+ Ka3
+85.Kc3 Ka2 86.Ra4+ Kb1 87.Ra5 Kc1 88.Ra1# 1-0
+
+[Event ""]
+[GID "4"]
+[PlyCount "211"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 exd4 7.Re1 d5 8.Nxd4 Bd6
+9.Nxc6 Bxh2+ 10.Kh1 Qh4 11.Rxe4+ dxe4 12.Qd8+ Qxd8
+13.Nxd8+ Kxd8 14.Kxh2 Be6 15.Bf4 f5 16.Nc3 c6
+17.g4 g6 18.g5 Ke8 19.Kg3 Rf8 20.Be3 Rd8
+21.Rh1 Rf7 22.Kf4 Kf8 23.Bb3 Bxb3 24.axb3 Kg7
+25.Na4 Kh8 26.c3 Kg8 27.b4 Rfd7 28.Nc5 Rf7
+29.Bd4 Rd5 30.Ke3 Re7 31.Re1 Rd6 32.Kf4 Kf7
+33.Na4 Re8 34.Nc5 Re7 35.Na4 Re8 36.Rh1 Kg8
+37.Nb6 Rdd8 38.Nc4 Rd5 39.Na5 Re7 40.Nb3 Red7
+41.Ke3 Rf7 42.Nc5 Re7 43.Rg1 Rf7 44.Ne6 Rd6
+45.Nc5 Rd5 46.Na4 Re7 47.Nb6 Rd8 48.Rh1 Re6
+49.Nc4 Rd5 50.Kf4 Re8 51.Nb6 Rdd8 52.Ke3 Re6
+53.Rg1 Re7 54.Kf4 Rf7 55.Re1 Rd6 56.Nc4 Rd5
+57.Nb6 Rd6 58.Bc5 Rd3 59.Rh1 Rg7 60.Nc4 Rd5
+61.Ne5 Rc7 62.c4 Rd2 63.Ke3 Rxb2 64.Rd1 Rc8
+65.Rd7 b6 66.Bxb6 Rxb4 67.Bc5 Rb3+ 68.Kf4 Re8
+69.Be3 a5 70.Ra7 a4 71.Rxa4 Rbb8 72.Nxc6 Rbc8
+73.Na7 Rcd8 74.c5 Rd1 75.Nc6 Rh1 76.Ne5 Rh4+
+77.Kg3 Rh1 78.c6 h6 79.gxh6 g5 80.Bxg5 Rxe5
+81.Ra8+ Kh7 82.c7 Rc5 83.c8=R Rg1+ 84.Kh2 Rxg5
+85.Rxc5 Rh5+ 86.Kg2 Rg5+ 87.Kf1 Kxh6 88.Ke2 Kh5
+89.Re5 Rg1 90.Rxf5+ Kh6 91.Rf4 Rb1 92.Rxe4 Rb3
+93.Ree8 Kg5 94.Reb8 Rxb8 95.Rxb8 Kf6 96.Re8 Kf7
+97.Re4 Kf8 98.Kf3 Kf7 99.Kf4 Kf6 100.Kg4 Kg6
+101.Rf4 Kh6 102.Kf5 Kg7 103.Kg5 Kh7 104.Kf6 Kg8
+105.Kg6 Kh8 106.Rf8# 1-0
+
+[Event ""]
+[GID "3"]
+[PlyCount "149"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a3 Qc8
+13.Bc2 Nb8 14.b3 Nbd7 15.Bb2 c5 16.d5 c4
+17.bxc4 bxc4 18.Qe2 Nb6 19.Bc1 a5 20.Nf1 Ba6
+21.Be3 Qc7 22.N3d2 Nfd7 23.h4 Nc5 24.Bxc5 Qxc5
+25.Ne3 g6 26.h5 Qc7 27.g3 Bh6 28.Kg2 Nd7
+29.Ng4 Bg5 30.Nf3 Bd8 31.Rh1 Rf8 32.Rh2 Rb8
+33.hxg6 fxg6 34.Rah1 h5 35.Nh6+ Kh8 36.Qd2 Nf6
+37.Nh4 Qg7 38.N6f5 gxf5 39.Nxf5 Qh7 40.Bd1 Bc8
+41.Rxh5 Nxh5 42.Rxh5 Bxf5 43.exf5 Rb7 44.Rxh7+ Rxh7
+45.Qb2 e4 46.Qe2 Rxf5 47.Qxe4 Rf8 48.Qe6 Be7
+49.Bc2 Rf6 50.Qc8+ Rf8 51.Qd7 Rhf7 52.Qh3+ Kg8
+53.Qe6 Kh8 54.Qh6+ Kg8 55.Qg6+ Kh8 56.f4 Bd8
+57.Qxd6 Bf6 58.Qe6 Bxc3 59.d6 Bf6 60.Qxc4 Kg7
+61.Qd3 Rb8 62.g4 Ba1 63.Kg3 a4 64.g5 Rd8
+65.Qg6+ Kf8 66.Bxa4 Rb7 67.Qe6 Ra8 68.d7 Bb2
+69.Qe8+ Rxe8 70.dxe8=Q+ Kg7 71.Bc6 Bxa3 72.Bxb7 Bb4
+73.Bd5 Be1+ 74.Kf3 Bd2 75.Qg8# 1-0
+
+[Event ""]
+[GID "6"]
+[PlyCount "116"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Nd6 15.Qe3 c6 16.Re1 Bf5
+17.Qg3 Bh4 18.Qf3 Bg5 19.h4 Bxf4 20.Qxf4 h6
+21.c4 Be6 22.c5 Ne4 23.Nf3 Qa5 24.a3 Qa4
+25.Qc1 Bg4 26.Ne5 Be6 27.Qe3 Re8 28.Be2 Qa5
+29.Bd3 f6 30.Nf3 Bf7 31.Qf4 Qa4 32.Qc1 Bh5
+33.Re3 Qa5 34.b4 Qd8 35.b5 f5 36.Ne5 Nxf2
+37.bxc6 f4 38.Re1 Qxh4 39.cxb7 Nh3+ 40.gxh3 Qg3+
+41.Kf1 Qxh3+ 42.Kg1 Bf3 43.Bh7+ Kh8 44.Nxf3 Qg3+
+45.Kf1 Qxf3+ 46.Kg1 Qg4+ 47.Kf2 Qh4+ 48.Kf1 Qh3+
+49.Kg1 Qg4+ 50.Kf2 Qg3+ 51.Kf1 Qf3+ 52.Kg1 Qg4+
+53.Kf2 Qg3+ 54.Kf1 Qh3+ 55.Kg1 Qg4+ 56.Kf2 Qg3+
+57.Kf1 Qf3+ 58.Kg1 Qg4+ 1/2-1/2
+
+[Event ""]
+[GID "7"]
+[PlyCount "166"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.a4 a5 15.Nd2 Bf5 16.Qd1 c6
+17.Qb3 Qd7 18.Nf3 Be7 19.Ne5 Qc8 20.h3 Bd6
+21.c4 Nf6 22.c5 Bc7 23.Re1 h6 24.g4 Bh7
+25.Qe3 Ne4 26.Bd3 f6 27.Bxe4 Bxe4 28.Nc4 dxc4
+29.Qxe4 Bxf4 30.Qxf4 Qd7 31.Kg2 Rd8 32.Re4 Rf8
+33.Qf3 Qd5 34.Kg3 f5 35.Rf4 Qxf3+ 36.Kxf3 g6
+37.gxf5 g5 38.Rg4 Rxf5+ 39.Ke3 Kf7 40.f4 Kf6
+41.h4 gxh4 42.Rxh4 h5 43.Rh2 Kg6 44.Ke4 Rf7
+45.Rg2+ Kf6 46.d5 Re7+ 47.Kd4 cxd5 48.Kxd5 c3
+49.bxc3 Rd7+ 50.Kc4 h4 51.Rh2 Rh7 52.Kb5 Kf5
+53.Kxa5 Rh6 54.c6 bxc6 55.Kb6 Kxf4 56.a5 Kg3
+57.Rh1 h3 58.a6 c5+ 59.Kb7 Rh7+ 60.Kb6 Rh6+
+61.Kb5 c4 62.a7 Rh8 63.Kxc4 Ra8 64.Rg1+ Kf2
+65.Rg7 h2 66.Rh7 Kg2 67.Rg7+ Kf2 68.Rh7 Kg3
+69.Rg7+ Kf3 70.Rh7 Kg3 71.Rg7+ Kf3 72.Rf7+ Kg3
+73.Rg7+ Kf4 74.Rh7 Kg3 75.Rg7+ Kf2 76.Rf7+ Kg2
+77.Rg7+ Kf3 78.Rh7 Kg2 79.Rg7+ Kf2 80.Rf7+ Kg1
+81.Rg7+ Kf1 82.Rf7+ Kg1 83.Rg7+ Kf2 1/2-1/2
+
+[Event ""]
+[GID "5"]
+[PlyCount "230"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nxc6 Qf6 6.Qf3 dxc6 7.Nc3 Be6 8.Be3 Bb6
+9.O-O-O Qxf3 10.gxf3 Bxe3+ 11.fxe3 Nf6 12.Be2 g6
+13.Rhg1 Rd8 14.Rxd8+ Kxd8 15.h4 Ke7 16.f4 h5
+17.Kd2 Ng4 18.Bd3 f6 19.Ke2 Kf7 20.a4 a5
+21.Nb1 Rd8 22.Nd2 Kg7 23.b3 b6 24.Rb1 Bc8
+25.Ra1 Be6 26.Rg1 c5 27.Nc4 Re8 28.Na3 Re7
+29.Nb1 Bd7 30.Nd2 Bc6 31.Rd1 Kh6 32.Ra1 Kg7
+33.Rd1 Kh6 34.Rg1 Kg7 35.Re1 Bb7 36.Rb1 Kh6
+37.c3 Rd7 38.Rg1 Kg7 39.Bc2 Rd6 40.Bd3 Bc8
+41.Nf1 Be6 42.c4 Bd7 43.Ng3 Bc8 44.Bc2 Rd8
+45.Bb1 Kf7 46.Nf1 Re8 47.Bd3 Bb7 48.Ng3 Nh6
+49.Bb1 Bc8 50.Nf1 Rg8 51.Bc2 g5 52.hxg5 fxg5
+53.Rh1 gxf4 54.exf4 Rg2+ 55.Kd3 Bg4 56.Ne3 Rg3
+57.Kd2 Bf3 58.Rh2 Ng4 59.Nxg4 Bxg4 60.e5 Rf3
+61.f5 Bxf5 62.Rxh5 Rf2+ 63.Ke3 Re2+ 64.Kxe2 Bg4+
+65.Ke3 Bxh5 66.Kf4 Ke7 67.Kf5 Bf3 68.Kg5 Be2
+69.Kf4 c6 70.Kg3 Kf7 71.Kf2 Bh5 72.Ke3 Ke7
+73.Kf4 Be2 74.Ke4 Ke6 75.Kf4 Kf7 76.Ke3 Bh5
+77.Kf4 Ke7 78.Kf5 Bf3 79.Kf4 Be2 80.Ke4 Bg4
+81.Kf4 Bh5 82.Kf5 Be2 83.Ke4 Bg4 84.Kf4 Be2
+85.Ke3 Bh5 86.Kf4 Be8 87.Bf5 b5 88.Kg5 bxa4
+89.bxa4 Bf7 90.e6 Bxe6 91.Bxe6 Kxe6 92.Kf4 Kf6
+93.Ke4 Ke7 94.Ke5 Kd7 95.Kf5 Ke7 96.Ke5 Kd7
+97.Ke4 Ke6 98.Kf4 Kf7 99.Ke3 Ke7 100.Kf3 Ke6
+101.Ke4 Kf6 102.Kf4 Kf7 103.Kf5 Ke7 104.Kg5 Kf7
+105.Kf5 Ke7 106.Kg5 Kf7 107.Kf5 Ke7 108.Ke5 Kd7
+109.Ke4 Ke7 110.Kf5 Kf7 111.Ke5 Ke7 112.Kf5 Kf7
+113.Ke5 Ke7 114.Ke4 Ke8 115.Kf5 Ke7 1/2-1/2
+
+[Event ""]
+[GID "9"]
+[PlyCount "199"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.c3 O-O 8.O-O d6
+9.h3 h6 10.Re1 Bb6 11.a4 Bd7 12.Nbd2 Ne7
+13.Nh4 c5 14.Nf1 Qc7 15.Ng3 Rab8 16.Qe2 b4
+17.cxb4 cxb4 18.Be3 Bxe3 19.Qxe3 Qb6 20.Qxb6 Rxb6
+21.a5 Rb5 22.Nhf5 Bxf5 23.Nxf5 Nxf5 24.exf5 Rc5
+25.g4 Rb8 26.Rec1 Rbc8 27.Rxc5 Rxc5 28.Ra4 d5
+29.Rxb4 Rxa5 30.Rb8+ Kh7 31.Kg2 g5 32.fxg6+ Kxg6
+33.Kg3 Ra1 34.Rd8 Ra5 35.Rd6 Rb5 36.Ba2 Kg7
+37.f4 e4 38.g5 hxg5 39.fxg5 Nh5+ 40.Kg4 e3
+41.Rc6 e2 42.Rc1 Kg6 43.d4 f5+ 44.gxf6 Nxf6+
+45.Kf3 Rxb2 46.Bb1+ Ne4 47.Bd3 a5 48.Bxe2 a4
+49.Rc8 a3 50.Bd3 Rb3 51.Ke2 Kf5 52.Ra8 Kg5
+53.Rg8+ Kf6 54.Ra8 Ke6 55.h4 Kd6 56.Ke3 Nf2
+57.Kxf2 Rxd3 58.h5 Rh3 59.Kg2 Rxh5 60.Rxa3 Rh4
+61.Ra6+ Ke7 62.Kf3 Re4 63.Ra5 Ke6 64.Ra6+ Ke7
+65.Ra5 Rxd4 66.Ke3 Re4+ 67.Kd2 Kd6 68.Ra6+ Ke5
+69.Rh6 Rg4 70.Kd3 Rg3+ 71.Kd2 Rf3 72.Rh8 Ke4
+73.Rh4+ Rf4 74.Rxf4+ Kxf4 75.Kd3 Ke5 76.Ke3 d4+
+77.Kf2 Ke4 78.Ke2 Kd5 79.Kd2 Kc4 80.Kc2 d3+
+81.Kd1 Kc5 82.Kd2 Kd4 83.Kd1 Ke3 84.Ke1 Kf3
+85.Kd2 Ke4 86.Kd1 Kf3 87.Kd2 Ke4 88.Kd1 Kd4
+89.Kd2 Kc4 90.Kd1 Kc5 91.Kd2 Kd4 92.Kd1 Ke4
+93.Kd2 Kd4 94.Kd1 Kc3 95.Kc1 Kb3 96.Kd1 Kb4
+97.Kd2 Ka3 98.Kd1 Kb3 99.Kd2 Ka3 100.Kxd3 1/2-1/2
+
+[Event ""]
+[GID "12"]
+[PlyCount "112"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nb3 Bb6 6.Nc3 Nf6 7.Bg5 O-O 8.Qe2 h6
+9.Bh4 a5 10.a4 Nd4 11.Qd3 Nxb3 12.cxb3 c6
+13.O-O-O d5 14.exd5 cxd5 15.Bxf6 Qxf6 16.Nxd5 Qxf2
+17.Qe4 Be6 18.Bc4 Rad8 19.Rhf1 Qc5 20.Kb1 Rfe8
+21.Qf3 Ba7 22.Ka2 Rf8 23.Nf6+ gxf6 24.Rxd8 Rxd8
+25.Bxe6 Qe5 26.Qxb7 fxe6 27.Qxa7 Rd2 28.Rb1 f5
+29.Qb7 h5 30.g3 Rxh2 31.Qb5 Qxb5 32.axb5 Kf7
+33.Rc1 Rd2 34.Ka3 Rd4 35.Rc4 Rd8 36.Ka4 e5
+37.b6 e4 38.Rc1 h4 39.gxh4 Ke6 40.b4 axb4
+41.h5 Rb8 42.Ka5 f4 43.h6 f3 44.h7 e3
+45.b7 e2 46.Rc8 e1=Q 47.h8=Q Qa1+ 48.Kb6 Qg1+
+49.Kc7 Qg3+ 50.Kb6 Qg1+ 51.Ka6 Qa1+ 52.Kb6 Qg1+
+53.Kc6 Qc1+ 54.Kb6 Qg1+ 55.Kc7 Qg3+ 56.Kb6 Qg1+
+ 1/2-1/2
+
+[Event ""]
+[GID "8"]
+[PlyCount "322"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.h3 O-O 11.Bc2 Bc5 12.Nbd2 Bf5
+13.Nb3 Bb6 14.Bf4 Bg6 15.a4 bxa4 16.Rxa4 Re8
+17.Nbd4 Ne7 18.Nh4 Nc5 19.Nxg6 Nxg6 20.Bg3 Nxa4
+21.Bxa4 Bxd4 22.Qxd4 Rf8 23.f4 f6 24.exf6 gxf6
+25.f5 Ne5 26.Bxe5 fxe5 27.Qxe5 Qd6 28.Qxd6 cxd6
+29.Bc6 Rab8 30.Bxd5+ Kg7 31.b4 Kf6 32.Kh2 Rfe8
+33.Be6 d5 34.Rd1 Red8 35.Rd4 Ke5 36.Kg3 Rb6
+37.Rd3 d4 38.cxd4+ Kf6 39.d5 Rxb4 40.d6 Rb6
+41.d7 Rxe6 42.fxe6 Kxe6 43.Ra3 Rxd7 44.Rxa6+ Kf7
+45.Ra5 Kg6 46.Ra4 h5 47.Kh4 Rd2 48.Ra6+ Kh7
+49.g3 Rd5 50.Rb6 Kg7 51.Ra6 Kh7 52.Rb6 Kg7
+53.Rb7+ Kg6 54.Rb4 Ra5 55.Re4 Kh6 56.Re6+ Kg7
+57.Re3 Kg6 58.Re6+ Kg7 59.Re3 Kg6 60.Re4 Kh6
+61.Rd4 Kg6 62.Rd6+ Kg7 63.Rd7+ Kh6 64.Rd6+ Kg7
+65.Rd3 Kh6 66.Rf3 Kg6 67.Rf4 Ra3 68.Rb4 Ra5
+69.Rb6+ Kh7 70.Rf6 Rb5 71.Rf7+ Kg6 72.Rf4 Ra5
+73.Rd4 Kh6 74.Re4 Kg6 75.Rf4 Ra3 76.Re4 Ra5
+77.Rd4 Kh6 78.Rc4 Ra6 79.Rf4 Kg6 80.Rd4 Kh6
+81.Rf4 Kg6 82.Rc4 Kh6 83.Rb4 Kg6 84.Rd4 Kh6
+85.Rd2 Ra4+ 86.g4 hxg4 87.Rd6+ Kg7 88.hxg4 Ra5
+89.Rb6 Rd5 90.Rb7+ Kh6 91.Rb6+ Kh7 92.Rb7+ Kh6
+93.Rb6+ Kg7 94.Kg3 Rd4 95.Rb7+ Kh6 96.Rb6+ Kg7
+97.Rb7+ Kh6 98.g5+ Kg6 99.Rb6+ Kh7 100.Rf6 Rc4
+101.Rf7+ Kg6 102.Rf6+ Kg7 103.Ra6 Rb4 104.Rf6 Rc4
+105.Rf3 Rc5 106.Kg4 Rc1 107.Rf6 Rg1+ 108.Kf5 Rf1+
+109.Ke6 Re1+ 110.Kf5 Re2 111.Rg6+ Kh7 112.Rb6 Rf2+
+113.Ke5 Kg7 114.Rf6 Rb2 115.Kd5 Re2 116.Rc6 Rg2
+117.Rc7+ Kg6 118.Rc6+ Kxg5 119.Ke4 Rg3 120.Rc1 Kf6
+121.Rf1+ Ke7 122.Ra1 Rh3 123.Ra8 Rh1 124.Kf3 Rh2
+125.Ra1 Rh5 126.Ra7+ Kd8 127.Ra8+ Kd7 128.Ke3 Rg5
+129.Rf8 Ra5 130.Ke2 Ra2+ 131.Ke3 Ra6 132.Rf1 Ra3+
+133.Kd2 Ra2+ 134.Ke3 Ra3+ 135.Kd2 Ra2+ 136.Kd3 Kd6
+137.Ke3 Ra8 138.Rg1 Ra3+ 139.Ke2 Ra2+ 140.Kf3 Kd7
+141.Rd1+ Ke7 142.Re1+ Kf8 143.Re5 Rd2 144.Re3 Rc2
+145.Rd3 Rh2 146.Rd1 Rh6 147.Ke3 Re6+ 148.Kf2 Rf6+
+149.Ke2 Ke7 150.Ke3 Re6+ 151.Kf2 Rd6 152.Re1+ Kd7
+153.Ra1 Re6 154.Rd1+ Ke7 155.Rd2 Rf6+ 156.Ke2 Rb6
+157.Rd1 Rf6 158.Ra1 Rd6 159.Rf1 Re6+ 160.Kd2 Rf6
+161.Rxf6 Kxf6 1/2-1/2
+
+[Event ""]
+[GID "13"]
+[PlyCount "126"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Be7 7.O-O d6 8.a4 b4
+9.a5 O-O 10.Be3 h6 11.Nbd2 Ng4 12.Nc4 Nxe3
+13.Nxe3 Rb8 14.Bc4 Bf6 15.Nd5 g6 16.Qd2 Bg7
+17.Ra4 Bg4 18.Ne1 h5 19.Bxa6 Nxa5 20.Nxb4 c6
+21.Na2 Nb7 22.Bxb7 Rxb7 23.h3 Bd7 24.b3 f5
+25.Qa5 Qc8 26.exf5 gxf5 27.Qd2 c5 28.Ra6 Bc6
+29.b4 Bf6 30.c4 Rg7 31.b5 Bxg2 32.Nxg2 f4
+33.f3 Qxh3 34.Rxd6 Bh4 35.Rf2 Bg3 36.Qe1 Ra8
+37.Ra6 Rd8 38.Nc3 Qh2+ 39.Kf1 Bxf2 40.Qxf2 Rxd3
+41.Ne1 Qh1+ 42.Ke2 Rxc3 43.Kd2 Re3 44.Rd6 e4
+45.fxe4 Qxe4 46.Rd8+ Kh7 47.Qh2 Rg5 48.Rd7+ Kg6
+49.Rd6+ Kf7 50.Qf2 Rxe1 51.Rd7+ Ke8 52.Qxe1 Rg2+
+53.Kd1 Qxe1+ 54.Kxe1 Kxd7 55.Kf1 Rb2 56.Kg1 Ke6
+57.Kf1 Ke5 58.Kg1 f3 59.b6 Kf4 60.Kf1 Kg3
+61.Ke1 f2+ 62.Kf1 Kf3 63.b7 Rb1# 0-1
+
+[Event ""]
+[GID "14"]
+[PlyCount "186"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Be3 Qf6 6.c3 Qg6 7.Qf3 d6 8.Nxc6 Bxe3
+9.Qxe3 bxc6 10.Nd2 Nf6 11.f4 O-O 12.O-O-O Re8
+13.Re1 Nxe4 14.Bd3 d5 15.Nxe4 Bf5 16.Nf6+ gxf6
+17.Bxf5 Qxf5 18.Qf2 Re4 19.Rxe4 dxe4 20.Qg3+ Kf8
+21.Rd1 Re8 22.Qe3 h5 23.Rd4 h4 24.g3 hxg3
+25.hxg3 Qh3 26.Rd1 Kg7 27.Re1 a5 28.Kb1 a4
+29.a3 Re6 30.Qf2 Qg4 31.Qe3 Qf3 32.Qxf3 exf3
+33.Rf1 Re3 34.Kc1 c5 35.Kd2 Re2+ 36.Kd1 Rxb2
+37.Rxf3 Rb3 38.Kc2 Rxa3 39.Rd3 Ra2+ 40.Kb1 Rg2
+41.Rd5 Rxg3 42.Rxc5 Rf3 43.Rc4 f5 44.Kb2 Re3
+45.Rxc7 Re4 46.c4 Rxf4 47.Kc3 a3 48.Ra7 Rf1
+49.c5 Kf6 50.Kd3 Ke6 51.Kc4 Rc1+ 52.Kd4 Ra1
+53.Ra6+ Kd7 54.Kc3 Ke7 55.Ra7+ Ke6 56.c6 f6
+57.c7 Kd7 58.Kb3 Rf1 59.Ra6 Kxc7 60.Rxf6 Rf3+
+61.Kc2 Rf2+ 62.Kb1 Kd7 63.Ra6 Rf1+ 64.Ka2 Rf3
+65.Kb1 Ke7 66.Kc2 Rg3 67.Rc6 f4 68.Rc4 Rf3
+69.Ra4 Ke6 70.Kd2 Kf5 71.Ke2 Rb3 72.Ra8 f3+
+73.Kf2 Ke4 74.Ra4+ Kd5 75.Kg3 Kc5 76.Rh4 Rc3
+77.Kf2 Kb5 78.Rh7 Kc4 79.Ra7 Kb3 80.Rb7+ Kc2
+81.Ra7 Kb2 82.Rb7+ Rb3 83.Rd7 a2 84.Rd2+ Kb1
+85.Rd1+ Kc2 86.Re1 Kb2 87.Re5 a1=Q 88.Re8 Qa7+
+89.Kf1 Qg7 90.Re2+ fxe2+ 91.Kxe2 Qg2+ 92.Kd1 Qf1+
+93.Kd2 Rd3# 0-1
+
+[Event ""]
+[GID "11"]
+[PlyCount "315"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.Nc3 h6 8.Nd5 d6
+9.c3 O-O 10.O-O Rb8 11.d4 exd4 12.cxd4 Ba7
+13.h3 Bb7 14.Nxf6+ Qxf6 15.Be3 Na5 16.Bc2 Nc4
+17.Bc1 Rbe8 18.b3 Na5 19.Re1 c5 20.Bb2 Nc6
+21.e5 dxe5 22.dxe5 Qd8 23.Qe2 Nd4 24.Bxd4 cxd4
+25.a4 bxa4 26.Rxa4 Qb6 27.Nxd4 Re7 28.Be4 Rfe8
+29.e6 Bxe4 30.Qxe4 Rxe6 31.Nxe6 Qxf2+ 32.Kh1 Rxe6
+33.Qa8+ Kh7 34.Rae4 Qxe1+ 35.Rxe1 Rxe1+ 36.Kh2 Bg1+
+37.Kh1 Bf2+ 38.Kh2 Bg1+ 39.Kh1 Bd4+ 40.Kh2 Bg1+
+41.Kg3 Re3+ 42.Kg4 Rxb3 43.Qd5 Rb4+ 44.Kg3 Ba7
+45.h4 Kg8 46.Qd8+ Kh7 47.Qd3+ Kg8 48.Qd8+ Kh7
+49.Qd5 Kg8 50.Qd8+ Kh7 51.Qd3+ g6 52.h5 Bd4
+53.Kh3 Bf6 54.Qxa6 Rb3+ 55.g3 Be5 56.hxg6+ fxg6
+57.Qa7+ Bg7 58.Kg2 Rb5 59.g4 Re5 60.Kh3 Re8
+61.Qb7 Rf8 62.Kg2 Rf4 63.Kh3 Rf1 64.Qe7 Rf3+
+65.Kg2 Rf4 66.Kg3 Rf8 67.Kh3 Kg8 68.Qe4 Kh7
+69.Qe7 Rb8 70.Qe3 Rb1 71.Kg2 Rb7 72.Qe8 Bf6
+73.Qf8 Bg5 74.Kh3 Rg7 75.Qe8 Re7 76.Qf8 Rg7
+77.Kg2 Rc7 78.Kh2 Rd7 79.Kg2 Ra7 80.Kg1 Rb7
+81.Kg2 Ra7 82.Qf2 Re7 83.Qf8 Ra7 84.Kf2 Bh4+
+85.Kf3 Rc7 86.Kg2 Rg7 87.Qe8 Re7 88.Qf8 Rg7
+89.Qe8 Re7 90.Qf8 Rd7 91.Kh3 Rd3+ 92.Kh2 Bg3+
+93.Kh1 Be5 94.Qf7+ Bg7 95.Kh2 Re3 96.Qd7 Re4
+97.Kh3 Rd4 98.Qb7 Rd3+ 99.Kh2 Ra3 100.Kh1 Ra4
+101.Qc8 Ra7 102.Kh2 Bf6 103.Qf8 Be5+ 104.Kh3 Rc7
+105.Qd8 Bf4 106.Kg2 Rf7 107.Qd5 Kg7 108.Kh3 g5
+109.Kg2 Rf6 110.Qd7+ Kg6 111.Qe8+ Kg7 112.Qe7+ Rf7
+113.Qe6 Bc7 114.Qd5 Bf4 115.Qd4+ Rf6 116.Qd8 Bd6
+117.Qd7+ Kg8 118.Qd8+ Kg7 119.Qb6 Kf8 120.Qb1 Be7
+121.Qh7 Bb4 122.Qh8+ Kf7 123.Qa8 Bd6 124.Qa7+ Kg8
+125.Qa8+ Kf7 126.Qd5+ Kg7 127.Qb7+ Rf7 128.Qa8 Bf8
+129.Kh3 Rf4 130.Qb7+ Kg8 131.Qa8 Kg7 132.Qb8 Be7
+133.Qe5+ Bf6 134.Qd5 Kh7 135.Qa8 Bg7 136.Kg2 Rxg4+
+137.Kf3 Rf4+ 138.Kg3 h5 139.Qd5 h4+ 140.Kg2 Bf6
+141.Qf7+ Kh6 142.Qf8+ Bg7 143.Qe8 Bd4 144.Qe6+ Rf6
+145.Qd5 Rf2+ 146.Kh1 Bf6 147.Kg1 Rf4 148.Kg2 g4
+149.Qd6 Rf3 150.Qf8+ Kg5 151.Qg8+ Kf4 152.Qc4+ Kf5
+153.Qc8+ Ke5 154.Qc5+ Ke6 155.Qc8+ Ke5 156.Qxg4 Rg3+
+157.Qxg3+ hxg3 158.Kxg3 1/2-1/2
+
+[Event ""]
+[GID "17"]
+[PlyCount "98"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Bf1 f6 7.d4 Nf7 8.dxe5 fxe5
+9.Bc4 d6 10.Nc3 Be7 11.Nd5 Bf6 12.a4 a5
+13.Ra3 Nb4 14.Nxf6+ Qxf6 15.Bxf7+ Kxf7 16.Rc3 Re8
+17.Rxc7+ Kg8 18.Ng5 Bf5 19.Bd2 Nd5 20.Rxb7 Qg6
+21.c4 Bc2 22.Qc1 Nf6 23.c5 h6 24.Nf3 Be4
+25.Nh4 Qg4 26.f3 Qxh4 27.fxe4 dxc5 28.Qxc5 Rac8
+29.Qa7 Nh5 30.Qe3 Re6 31.Rb6 Rxb6 32.Qxb6 Nf4
+33.Qe3 Qg4 34.Qf3 Qd7 35.Bc3 Rf8 36.Ra1 Qc6
+37.Kh1 Qc4 38.Qe3 Nh3 39.gxh3 Rf1+ 40.Rxf1 Qxf1+
+41.Qg1 Qf3+ 42.Qg2 Qd1+ 43.Qg1 Qf3+ 44.Qg2 Qd1+
+45.Qg1 Qf3+ 46.Qg2 Qd1+ 47.Qg1 Qf3+ 48.Qg2 Qd1+
+49.Qg1 Qf3+ 1/2-1/2
+
+[Event ""]
+[GID "15"]
+[PlyCount "254"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.O-O d6 8.c3 O-O
+9.Nbd2 a5 10.a4 b4 11.Nc4 Rb8 12.h3 bxc3
+13.bxc3 h6 14.Be3 Bxe3 15.Nxe3 Ne7 16.Re1 Ng6
+17.Bc2 Re8 18.Qd2 Bd7 19.Rab1 Rxb1 20.Rxb1 Nf4
+21.c4 Qa8 22.Qe1 Qa7 23.Nd5 N6xd5 24.cxd5 c6
+25.Qe3 Qc7 26.dxc6 Qxc6 27.Bb3 Qc7 28.Bd1 Rb8
+29.Rc1 Qb6 30.d4 f6 31.Rc3 Qb1 32.Rc1 Qd3
+33.Qe1 Rb2 34.dxe5 dxe5 35.Rc3 Ne2+ 36.Bxe2 Qxe2
+37.Qxe2 Rxe2 38.Rc5 Rxe4 39.Rxa5 Rxa4 40.Rxa4 Bxa4
+41.Ne1 Kf7 42.f3 Ke6 43.Kf2 Kd5 44.g3 Bd7
+45.h4 Kd4 46.Nc2+ Kd3 47.Ne1+ Kd2 48.Ng2 Bc8
+49.Ne3 Kd3 50.Nd5 Bd7 51.Nb4+ Kd2 52.Nd5 Be6
+53.Ne3 Kd3 54.Ng2 Bc8 55.Ne3 Kd4 56.Nc2+ Kc3
+57.Ne3 Be6 58.Ng2 Kd4 59.Ne3 f5 60.Ng2 Kd3
+61.f4 e4 62.Ne3 Bc8 63.Ng2 Bd7 64.Ne1+ Kd2
+65.Ng2 Be6 66.Ne3 Kd3 67.Ng2 h5 68.Ne3 g6
+69.Ng2 Bb3 70.Ne1+ Kd2 71.Ng2 Bc4 72.Ne3 Kd3
+73.Ng2 Be6 74.Ne1+ Kc3 75.Ng2 Kd4 76.Ke2 Bc4+
+77.Kf2 Bb5 78.Ne3 Bd3 79.Ng2 Kc3 80.Ne3 Kd2
+81.Ng2 Be2 82.Ne3 Bb5 83.Ng2 Kc3 84.Ne3 Kd3
+85.Ng2 Bc6 86.Ne3 Ba4 87.Ng2 Bd1 88.Ne3 Bb3
+89.Ng2 Kd2 90.Ne3 Ba4 91.Nc4+ Kc3 92.Ne3 Bb5
+93.Ke1 Kd3 94.Kf2 Bc6 95.Ng2 Bd7 96.Ne3 Bc8
+97.Ng2 Ba6 98.Ne1+ Kd2 99.Ng2 Bb5 100.Ne3 Be8
+101.Ng2 Ba4 102.Ne3 Bc2 103.Nc4+ Kc3 104.Ne3 Kd3
+105.Ng2 Kd2 106.Ne3 Bb1 107.Nc4+ Kc3 108.Ne5 Ba2
+109.Ke2 Kc2 110.Ke1 Bg8 111.Ke2 Bd5 112.Nxg6 Bc4+
+113.Ke3 Kd1 114.Ne7 Be6 115.Nc6 Ke1 116.Nd4 Bd7
+117.g4 fxg4 118.Ne2 Kf1 119.f5 Kg2 120.Nf4+ Kh2
+121.Nxh5 Bxf5 122.Kf4 Bg6 123.Ng3 e3 124.Kxg4 Bh5+
+125.Kf4 Kh3 126.Kxe3 Kxg3 127.Kd4 Kxh4 1/2-1/2
+
+[Event ""]
+[GID "16"]
+[PlyCount "263"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Bf5 15.a4 a5 16.Qd1 c6
+17.h3 Be7 18.Qb3 Bd6 19.Be5 Qe7 20.Nf3 Be4
+21.Nd2 Bf5 22.Qb6 Qc7 23.Qxc7 Bxc7 24.g4 Bg6
+25.f4 f6 26.Bxc7 Nxc7 27.f5 Be8 28.Kf2 g6
+29.Bd3 gxf5 30.gxf5 Kf8 31.b4 b6 32.Nf1 Ke7
+33.Ne3 Bd7 34.Kg3 axb4 35.cxb4 c5 36.bxc5 bxc5
+37.dxc5 Ra5 38.Nc2 Rxc5 39.a5 Rc3 40.Ra3 Rxa3
+41.Nxa3 Kd6 42.Nc2 Kc5 43.Kg4 Be8 44.h4 h5+
+45.Kf3 d4 46.a6 Bc6+ 47.Kf4 Nd5+ 48.Kg3 Nc3
+49.Kf2 Ne4+ 50.Ke1 Nd6 51.Ke2 Ne4 52.Ne1 Kb6
+53.Ng2 Nc3+ 54.Kf2 Be4 55.Bxe4 Nxe4+ 56.Ke2 Ng3+
+57.Kf3 Nxf5 58.Ke4 Nxh4 59.a7 Kxa7 60.Nxh4 Kb6
+61.Kxd4 Kc6 62.Ke3 Kd5 63.Kf3 Ke5 64.Kg2 Kf4
+65.Kf2 Kg4 66.Ng2 f5 67.Ne1 f4 68.Nf3 Kf5
+69.Nd2 Ke6 70.Kf3 Ke5 71.Ne4 Kd4 72.Nf2 Kc4
+73.Ke2 Kd4 74.Kf3 Kc4 75.Nh3 Kc5 76.Ke2 Kb6
+77.Kd3 f3 78.Nf2 Kc5 79.Ne4+ Kd5 80.Nf2 Kc5
+81.Ne4+ Kd5 82.Ng3 f2 83.Nf1 h4 84.Ke2 Ke4
+85.Nh2 f1=Q+ 86.Kxf1 Kf4 87.Kg1 Kg3 88.Nf1+ Kf3
+89.Nh2+ Kg3 90.Kh1 Kf2 91.Ng4+ Kf3 92.Nh6 Kf4
+93.Kh2 Kg5 94.Nf7+ Kf6 95.Nd6 Ke5 96.Nb5 h3
+97.Kg1 Kf4 98.Nd6 Ke5 99.Nb5 Kf4 100.Nd4 Ke5
+101.Nf3+ Kf4 102.Nh2 Kf5 103.Nf1 Ke4 104.Ng3+ Kd4
+105.Nf5+ Ke5 106.Ng3 Kd4 107.Nf5+ Ke5 108.Nh6 Ke4
+109.Kh1 Kf4 110.Kh2 Kg5 111.Nf7+ Kf6 112.Nd8 Ke5
+113.Kg1 Ke4 114.Ne6 Kf5 115.Nd8 Ke4 116.Ne6 Kf5
+117.Nd4+ Ke5 118.Ne2 Ke4 119.Kh2 Kd3 120.Ng3 Kd4
+121.Kg1 Ke3 122.Kh1 Kd3 123.Nh5 Kc4 124.Kg1 h2+
+125.Kh1 Kb3 126.Ng7 Kb2 127.Nh5 Kb3 128.Ng7 Kb2
+129.Nf5 Kc3 130.Ng3 Kd4 131.Nf1 Kc5 132.Nxh2 1/2-1/2
+
+[Event ""]
+[GID "19"]
+[PlyCount "199"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nxc6 Qf6 6.Qf3 dxc6 7.Nc3 Be6 8.Be3 Bb6
+9.O-O-O Qxf3 10.gxf3 Bxe3+ 11.fxe3 Nf6 12.h4 g6
+13.Bh3 Bxh3 14.Rxh3 Rd8 15.Rxd8+ Kxd8 16.f4 Ke7
+17.e5 Nh5 18.Kd2 h6 19.Ke2 Rd8 20.Rh2 Ke6
+21.Kf3 Rd7 22.Rg2 a5 23.e4 b5 24.b3 b4
+25.Na4 Rd1 26.Nc5+ Ke7 27.f5 Rf1+ 28.Rf2 Rh1
+29.f6+ Ke8 30.Ke3 Rxh4 31.Na6 Kd7 32.Nc5+ Ke8
+33.Na6 Kd7 34.Nb8+ Ke8 35.e6 g5 36.e7 Rh3+
+37.Kd4 Rh4 38.Na6 Nxf6 39.Rxf6 Kxe7 40.Rf5 g4
+41.Ke3 Rh3+ 42.Kf2 h5 43.Rxa5 h4 44.Nxb4 g3+
+45.Kg1 Rh2 46.Nd3 Rxc2 47.Re5+ Kf6 48.Rh5 Rd2
+49.Nf4 Rd1+ 50.Kg2 Rd2+ 51.Kf3 Rf2+ 52.Ke3 Rxa2
+53.e5+ Ke7 54.Rxh4 Ra3 55.Ke4 Rxb3 56.Rg4 c5
+57.Rg7 Kf8 58.Nh5 c4 59.Rg5 Rb1 60.Rxg3 Rc1
+61.Nf4 c6 62.Ra3 Ke7 63.Ra7+ Kd8 64.Rxf7 Re1+
+65.Kd4 c5+ 66.Kd5 c3 67.Ne6+ Ke8 68.Rf2 Ke7
+69.Nxc5 Rd1+ 70.Ke4 Rd2 71.Rf3 Re2+ 72.Kd4 c2
+73.Rc3 Kf7 74.Nd3 Ke7 75.Nf4 Rf2 76.Ke3 Rh2
+77.Kd3 Rf2 78.Rc7+ Ke8 79.Nd5 Rf5 80.Ke4 Rf2
+81.Ne3 Re2 82.Rxc2 Re1 83.Rc7 Re2 84.Rb7 Re1
+85.Kf4 Ra1 86.Kf5 Rh1 87.Nd5 Kf8 88.Ke6 Ra1
+89.Rf7+ Ke8 90.Nf6+ Kd8 91.Rd7+ Kc8 92.Kf7 Kb8
+93.e6 Re1 94.e7 Kc8 95.e8=Q+ Rxe8 96.Kxe8 Kb8
+97.Kd8 Ka8 98.Kc7 Ka7 99.Rd6 Ka8 100.Ra6# 1-0
+
+[Event ""]
+[GID "20"]
+[PlyCount "177"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.a4 a5 14.Bf4 d5 15.Nd2 Bf5 16.Qd1 c6
+17.Qb3 g5 18.Bg3 Nd6 19.h3 h5 20.Re1 g4
+21.hxg4 hxg4 22.Qd1 Qd7 23.Qc1 Be7 24.Bf4 Kg7
+25.g3 Bf6 26.Bg2 Kg6 27.Nb3 b6 28.Nd2 Rh8
+29.Qd1 Qd8 30.f3 Qd7 31.fxg4 Bxg4 32.Bf3 Bxf3
+33.Qxf3 Bg5 34.Bxg5 Kxg5 35.Qf4+ Kg6 36.Nf3 f6
+37.b4 Kg7 38.Nh4 Rh5 39.Kg2 Rg5 40.Re3 Rh5
+41.Rf3 Qe7 42.Re3 Qd7 43.bxa5 bxa5 44.Rf3 Qe7
+45.Kf2 Qe6 46.Re3 Qd7 47.Rf3 Qe6 48.Re3 Qd7
+49.Rf3 Qe6 50.Kg1 Qe1+ 51.Rf1 Qe7 52.Rf3 Qe6
+53.Re3 Qd7 54.Rf3 Qe6 55.Re3 Ne4 56.c4 Qd7
+57.Kg2 Rg5 58.Rf3 Qb7 59.Nf5+ Rxf5 60.Qxf5 Qb2+
+61.Kg1 Qxd4+ 62.Kg2 Qd2+ 63.Kg1 Qe1+ 64.Kg2 Qe2+
+65.Kg1 Qxc4 66.Qd7+ Kh6 67.Qh3+ Kg6 68.Qg4+ Kf7
+69.Qd7+ Kf8 70.Qd8+ Kf7 71.Qd7+ Kg8 72.Qd8+ Kf7
+73.Qd7+ Kg6 74.Qe8+ Kh7 75.Qf7+ Kh8 76.Qf8+ Kh7
+77.Qf7+ Kh8 78.Qf8+ Kh7 79.Qe7+ Kh6 80.Rxf6+ Nxf6
+81.Qxf6+ Kh5 82.Qf5+ Kh6 83.Qf6+ Kh7 84.Qf7+ Kh6
+85.Qf6+ Kh7 86.Qf7+ Kh6 87.Qf6+ Kh7 88.Qf7+ Kh6
+89.Qf6+ 1/2-1/2
+
+[Event ""]
+[GID "18"]
+[PlyCount "313"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.Nc3 Rb8 8.Nxe5 Nxe5
+9.d4 Bd6 10.dxe5 Bxe5 11.Nd5 O-O 12.O-O Nxd5
+13.Bxd5 c6 14.Bb3 a5 15.c3 a4 16.Bc2 b4
+17.c4 a3 18.Rb1 axb2 19.Bxb2 Bxb2 20.Rxb2 Qf6
+21.Qb1 Qe7 22.a3 c5 23.e5 g6 24.Re1 Ba6
+25.Bd3 Rb6 26.Qc1 Re6 27.axb4 cxb4 28.Qd2 Rb8
+29.Reb1 Rxe5 30.Bf1 d5 31.cxd5 Bxf1 32.Kxf1 Rd8
+33.Qxb4 Qf6 34.Qc3 Qf5 35.d6 Rc5 36.Qg3 h5
+37.Re1 Rd5 38.Rb6 Qf6 39.Rc6 Rd7 40.Qc3 Qxc3
+41.Rxc3 R5xd6 42.g3 Kg7 43.Kg2 Rb7 44.Ra3 h4
+45.g4 Kh6 46.Re8 Rd4 47.h3 Rb1 48.Rf3 Rd7
+49.Rh8+ Kg7 50.Rxh4 Rdd1 51.Re3 Rg1+ 52.Kh2 Rgf1
+53.Kg2 Rg1+ 54.Kh2 Rgc1 55.Kg3 Ra1 56.Re8 Rg1+
+57.Kh2 Rgf1 58.Kg2 Rg1+ 59.Kh2 Rgf1 60.Re2 Rh1+
+61.Kg3 Rhg1+ 62.Kh2 Rgf1 63.Kg2 Rfd1 64.Re7 Rg1+
+65.Kh2 Rh1+ 66.Kg2 Rhb1 67.Rd7 Rg1+ 68.Kh2 Rh1+
+69.Kg3 Rhg1+ 70.Kh2 Rgf1 71.Kg2 Rab1 72.Rd8 Rg1+
+73.Kh2 Rh1+ 74.Kg2 Rbg1+ 75.Kf3 Rh2 76.Rhh8 Rf1
+77.Rhg8+ Kh7 78.Rh8+ Kg7 79.Rhg8+ Kh7 80.Rh8+ Kg7
+81.Kg3 Rfxf2 82.Ra8 Ra2 83.Rhg8+ Kf6 84.Rxa2 Rxa2
+85.h4 Ra3+ 86.Kg2 Ra1 87.Rb8 Ra4 88.Kg3 Ra3+
+89.Kg2 Ra4 90.Rb6+ Kg7 91.Kg3 Ra3+ 92.Kg2 Ra4
+93.Kh3 Ra3+ 94.Kg2 Ra4 95.Kf3 Kh6 96.Kg3 Ra3+
+97.Kg2 Ra2+ 98.Kh3 Ra1 99.Kg3 Ra3+ 100.Kh2 Re3
+101.Ra6 Rb3 102.g5+ Kh5 103.Ra4 Rc3 104.Kg2 Re3
+105.Rf4 Ra3 106.Rc4 Ra2+ 107.Kh3 Ra1 108.Rf4 Rh1+
+109.Kg3 Rg1+ 110.Kh3 Rb1 111.Ra4 Rh1+ 112.Kg3 Rg1+
+113.Kh3 Rh1+ 114.Kg3 Rd1 115.Kg2 Rd3 116.Rf4 Rd2+
+117.Kh3 Rd1 118.Kg3 Rb1 119.Ra4 Rb3+ 120.Kh2 Rf3
+121.Kg2 Rd3 122.Rf4 Rd6 123.Kh3 Rd1 124.Rc4 Rh1+
+125.Kg3 Rg1+ 126.Kh3 Rd1 127.Rf4 Rd7 128.Kg3 Rc7
+129.Kh3 Rc3+ 130.Kh2 Rc2+ 131.Kh3 Rc1 132.Kg3 Rg1+
+133.Kh3 Rd1 134.Rb4 Rh1+ 135.Kg3 Rg1+ 136.Kf3 Rc1
+137.Kg2 Re1 138.Kh2 Re7 139.Rf4 Ra7 140.Kg3 Rc7
+141.Kg2 Rc5 142.Kh3 Rb5 143.Kg2 Rb3 144.Kh2 Rb2+
+145.Kh3 Rb1 146.Rc4 Rb3+ 147.Kg2 Rb6 148.Rf4 Rb3
+149.Kh2 Rb2+ 150.Kg3 Rb1 151.Rf3 Rg1+ 152.Kh2 Re1
+153.Kh3 Re5 154.Ra3 Re3+ 155.Rxe3 f5 156.Re8 f4
+157.Rh8# 1-0
+
+[Event ""]
+[GID "22"]
+[PlyCount "162"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.O-O d6 8.c3 O-O
+9.h3 a5 10.a4 b4 11.Nbd2 h6 12.Re1 Re8
+13.Nf1 Bb6 14.Qc2 Ne7 15.d4 exd4 16.cxd4 d5
+17.e5 Bf5 18.Qe2 Ne4 19.Be3 Be6 20.N3d2 Nf5
+21.Nxe4 dxe4 22.d5 Bxd5 23.Rad1 Nxe3 24.Nxe3 Bxb3
+25.Rxd8 Raxd8 26.Nc4 Bxc4 27.Qxc4 e3 28.fxe3 Rxe5
+29.Kh1 Rd6 30.e4 g6 31.Rf1 Rde6 32.Rf4 Bc5
+33.Qd3 Bd6 34.Kg1 Re7 35.Rh4 Kg7 36.Rf4 h5
+37.b3 R5e6 38.Rf1 Rxe4 39.Qd5 R4e5 40.Qd3 Re3
+41.Qd5 R7e6 42.Qxa5 Rxb3 43.Rf3 Re1+ 44.Kf2 Rbb1
+45.Qb5 h4 46.Re3 Bg3+ 47.Rxg3 Rf1+ 48.Ke3 hxg3
+49.Qe5+ Kh7 50.Kd3 Rbc1 51.Qg5 b3 52.Qh4+ Kg7
+53.Qd4+ Rf6 54.Qb2 Rc2 55.Qxb3 Rxg2 56.Qb1 Rgf2
+57.Kc4 g2 58.Qg1 Rd2 59.Qe1 Rf1 60.Qxd2 g1=Q
+61.Qc3+ Kh7 62.Qd3 Rf4+ 63.Kb3 Qb6+ 64.Kc2 Qc5+
+65.Kb2 Rb4+ 66.Qb3 Rxb3+ 67.Kxb3 Kg7 68.Kb2 Qb4+
+69.Ka2 Qxa4+ 70.Kb2 Kf6 71.Kc3 Qh4 72.Kd2 Kf5
+73.Kd3 Qxh3+ 74.Kc4 Qg2 75.Kd3 Qb7 76.Kc3 Qb5
+77.Kd2 Ke4 78.Kc2 Qb4 79.Kd1 Qb2 80.Ke1 Ke3
+81.Kf1 Qf2# 0-1
+
+[Event ""]
+[GID "23"]
+[PlyCount "167"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.a4 a5 14.Bf4 d6 15.Nd2 Be6 16.Qe4 c6
+17.Bd3 g6 18.Qe3 Qb6 19.Ne4 Qxb2 20.Rb1 Qa3
+21.Bxd6 Qxa4 22.c4 Bxc4 23.Nc3 Bxd3 24.Nxa4 Bxb1
+25.Nb6 Rd8 26.Be5 Bf5 27.h3 Be6 28.Qa3 Bxe5
+29.dxe5 h5 30.Qxa5 Kh7 31.Kh2 Ng7 32.Na4 Rd4
+33.Nc5 b5 34.Qb6 b4 35.Qxc6 b3 36.Ne4 Nf5
+37.Ng5+ Kh6 38.Nxe6 fxe6 39.Qb5 Rd2 40.Qxb3 Rxf2
+41.Qxe6 h4 42.Kg1 Re2 43.Qe8 Kg5 44.Qe6 Kh6
+45.Qf6 Kh5 46.Qd8 Kh6 47.Qa8 Rd2 48.Qh8+ Kg5
+49.Qf6+ Kh6 50.Kf1 Ng3+ 51.Ke1 Re2+ 52.Kd1 Re4
+53.Kd2 Nf5 54.Kd3 Re3+ 55.Kc4 Re2 56.Kd5 Rxg2
+57.Ke6 Rd2 58.Qh8+ Kg5 59.Qc8 Rf2 60.Qc1+ Kh5
+61.Kf7 Nh6+ 62.Ke8 Nf5 63.e6 Ng7+ 64.Kd7 Ra2
+65.Qe3 Nf5 66.Qg1 Rd2+ 67.Ke8 Rd3 68.Qg4+ Kh6
+69.Kf7 Nd6+ 70.Kf6 Ne8+ 71.Ke7 Nd6 72.Qf4+ g5
+73.Qxd6 Rxh3 74.Qe5 Rf3 75.Kd7 h3 76.e7 Rf7
+77.Ke6 Rxe7+ 78.Kxe7 Kg6 79.Qe6+ Kh5 80.Qxh3+ Kg6
+81.Qf3 g4 82.Qxg4+ Kh6 83.Kf6 Kh7 84.Qg7# 1-0
+
+[Event ""]
+[GID "21"]
+[PlyCount "273"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 exd4 7.Re1 d5 8.Nxd4 Bd6
+9.Nxc6 Bxh2+ 10.Kh1 Qh4 11.Rxe4+ dxe4 12.Qd8+ Qxd8
+13.Nxd8+ Kxd8 14.Kxh2 Be6 15.Bf4 f5 16.Nc3 c6
+17.Ne2 Rf8 18.Nd4 Bd5 19.Bb3 Bxb3 20.Nxb3 a5
+21.a4 h6 22.Rd1+ Ke8 23.Bc7 Rf7 24.Bxa5 f4
+25.Kg1 Rf5 26.Bc3 Rxa4 27.Bxg7 Rc4 28.c3 e3
+29.fxe3 fxe3 30.Re1 Re4 31.Re2 Rb5 32.Nc1 h5
+33.Bh6 Rbe5 34.Nd3 Rd5 35.Ne1 c5 36.Bxe3 Kd7
+37.Nf3 Kc6 38.Kf2 Rf5 39.b3 Rd5 40.Ra2 Rd3
+41.Bd2 b5 42.Rc2 Kb7 43.Ra2 Kc6 44.Rb2 h4
+45.Ra2 Kc7 46.Rc2 Kd6 47.Ne1 Rd5 48.Nf3 Rd3
+49.Ne1 Rd5 50.Ra2 Kc6 51.Nf3 Rd3 52.Ra6+ Kc7
+53.Ra1 b4 54.cxb4 cxb4 55.Rb1 Kd6 56.Rb2 Rg4
+57.Nh2 Re4 58.Nf3 Rg4 59.Bc1 Rc3 60.Be3 Ke6
+61.Bd2 Rd3 62.Be3 Rc3 63.Rd2 Rg8 64.Bf4 Kf5
+65.Be3 Ke6 66.Ra2 Rg4 67.Ra6+ Kd5 68.Ra5+ Ke6
+69.Rh5 Rc2+ 70.Nd2 Rc3 71.Rh6+ Kf5 72.Rb6 Rc2
+73.Rh6 Rc3 74.Rh5+ Ke6 75.Rh8 Kf7 76.Rh7+ Ke6
+77.Rb7 Rc2 78.Rh7 Rc3 79.Rh5 Kf6 80.Rh8 Kf7
+81.Rb8 Rc2 82.Kf3 Rg3+ 83.Kf2 Rg4 84.Rb6 Kg7
+85.Kf3 Rg3+ 86.Kf2 Rg4 87.Rb7+ Kf6 88.Rb5 Ke6
+89.Rb6+ Kf5 90.Rb8 Ke6 91.Re8+ Kf7 92.Re5 Rc3
+93.Rf5+ Ke6 94.Rh5 Kf6 95.Rb5 Ke6 96.Rb6+ Kf5
+97.Rh6 Rc8 98.Rh5+ Ke6 99.Rh6+ Kf5 100.Nf3 Rc3
+101.Nxh4+ Ke4 102.Nf3 Rxg2+ 103.Kxg2 Kxe3 104.Re6+ Kd3
+105.Kf2 Rc2+ 106.Kg3 Rc8 107.Re7 Ra8 108.Ne1+ Kd2
+109.Nf3+ Kd3 110.Ne1+ Kd2 111.Kf2 Rf8+ 112.Nf3+ Kc2
+113.Re3 Rg8 114.Nd4+ Kd2 115.Rf3 Re8 116.Nc6 Re2+
+117.Kg3 Re4 118.Na5 Kc2 119.Rf4 Re3+ 120.Kf2 Re5
+121.Nc6 Rc5 122.Rxb4 Kb2 123.Nd4 Kc3 124.Ra4 Kd3
+125.Kf3 Rc3 126.Ne2 Rxb3 127.Nc1+ Kc2+ 128.Nxb3 Kxb3
+129.Rf4 Kc2 130.Ke3 Kc3 131.Ke2 Kc2 132.Rf3 Kb1
+133.Kd1 Kb2 134.Kd2 Ka1 135.Kc2 Ka2 136.Rh3 Ka1
+137.Ra3# 1-0
+
+[Event ""]
+[GID "24"]
+[PlyCount "169"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Be3 Qf6 6.c3 Qg6 7.Qd3 Nf6 8.Nxc6 Bxe3
+9.Ne5 Qh5 10.Qxe3 Qxe5 11.Nd2 O-O 12.h3 Qe6
+13.Bd3 Qb6 14.Nc4 Qxe3+ 15.Nxe3 Re8 16.O-O-O Nxe4
+17.Bxe4 Rxe4 18.Nd5 Rc4 19.Ne7+ Kf8 20.Nxc8 Rxc8
+21.Rxd7 Re8 22.Rhd1 g6 23.Kc2 a5 24.Kb3 Rc6
+25.R1d2 h5 26.R7d5 b6 27.Ka4 Rf6 28.c4 c6
+29.R5d4 Re5 30.b3 Kg7 31.h4 Ref5 32.f3 Re6
+33.Rc2 Rc5 34.Rd7 Re1 35.Rcd2 Rh1 36.R2d4 Rh2
+37.Rf4 Rf5 38.Rxf5 gxf5 39.Rb7 Rxg2 40.a3 Rh2
+41.Rxb6 Rxh4 42.Kxa5 Rd4 43.Rxc6 h4 44.Rc5 Rf4
+45.b4 h3 46.Rd5 Rxf3 47.a4 Rg3 48.Rd2 Rg2
+49.Rd1 h2 50.Rh1 f4 51.c5 f3 52.c6 f2
+53.c7 Rg1 54.c8=Q f1=Q 55.Qc3+ Kg6 56.Rxh2 Qf4
+57.Rh8 Rc1 58.Rg8+ Kf5 59.Qd3+ Kf6 60.Qg3 Qxg3
+61.Rxg3 Rc8 62.b5 Ra8+ 63.Kb4 Ke5 64.b6 f5
+65.a5 f4 66.Rc3 Ke4 67.b7 Rb8 68.a6 f3
+69.Kb5 f2 70.Rc1 Kd3 71.Ra1 Ke2 72.Kb6 f1=Q
+73.Rxf1 Kxf1 74.a7 Rxb7+ 75.Kxb7 Kg2 76.a8=Q Kg3
+77.Qf8 Kg2 78.Qf4 Kg1 79.Qf3 Kh2 80.Kc6 Kg1
+81.Kd5 Kh2 82.Qg4 Kh1 83.Ke4 Kh2 84.Kf3 Kh1
+85.Qg2# 1-0
+
+[Event ""]
+[GID "26"]
+[PlyCount "64"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qe2 Nd4
+9.Nxd4 Qxd4 10.h3 Be6 11.Rd1 Qc4 12.Qxc4 Bxc4
+13.Nc3 Be7 14.Be3 Be6 15.Ne4 b6 16.b3 Bf5
+17.f3 O-O 18.Ng3 Be6 19.Rd2 Rfd8 20.Rad1 Rxd2
+21.Rxd2 a5 22.Ne2 a4 23.g4 c5 24.Nf4 Bg5
+25.Ng2 Bd8 26.Nf4 Bg5 27.Ng2 Bd8 28.Nf4 Bg5
+29.Ng2 Bd8 30.Nf4 Bg5 31.Ng2 Bd8 32.Nf4 Bg5
+ 1/2-1/2
+
+[Event ""]
+[GID "25"]
+[PlyCount "221"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Re8 10.d4 Bb7 11.Ng5 Rf8 12.Nf3 Re8
+13.Ng5 Rf8 14.a3 Na5 15.Bc2 c5 16.Nf3 exd4
+17.cxd4 cxd4 18.Nxd4 Re8 19.Nc3 Rc8 20.Nf5 Bf8
+21.Qf3 h6 22.Qg3 Kh8 23.Qf4 Bxe4 24.Bxe4 Nb3
+25.Be3 Rxc3 26.bxc3 Rxe4 27.Qf3 Nxa1 28.Rxa1 d5
+29.Bd4 Re6 30.a4 bxa4 31.Rxa4 Qd7 32.Ra1 Qc6
+33.Qd3 Kg8 34.Ne3 Bc5 35.Ra5 Bxd4 36.Qxd4 Qc7
+37.Rc5 Rc6 38.Nxd5 Nxd5 39.Rxd5 Rxc3 40.Rd8+ Kh7
+41.g3 Qc6 42.Qd5 Qxd5 43.Rxd5 Rc7 44.g4 Ra7
+45.Ra5 Kg6 46.Kf1 Kf6 47.h4 Ke6 48.h5 Kd6
+49.Ke2 Kc6 50.Kd3 Kb6 51.Rf5 f6 52.f4 Rc7
+53.g5 fxg5 54.fxg5 a5 55.gxh6 gxh6 56.Rf6+ Rc6
+57.Rxc6+ Kxc6 58.Kc4 Kb6 59.Kb3 Kb5 60.Ka3 a4
+61.Ka2 Kb4 62.Kb2 Kc5 63.Ka3 Kd6 64.Kxa4 Ke5
+65.Kb3 Kf5 66.Kc4 Kg5 67.Kd3 Kg4 68.Ke4 Kh4
+69.Kf5 Kxh5 70.Kf4 Kg6 71.Kg4 Kg7 72.Kf5 Kf7
+73.Kg4 Kg8 74.Kf5 Kf7 75.Kg4 Kg6 76.Kh3 h5
+77.Kh2 Kg5 78.Kg3 Kf5 79.Kh3 Kf6 80.Kh4 Kg6
+81.Kh3 Kf5 82.Kh4 Kg6 83.Kh3 Kf5 84.Kh4 Kg6
+85.Kh3 Kg5 86.Kh2 Kg4 87.Kg1 Kf5 88.Kg2 h4
+89.Kg1 Kg6 90.Kf2 Kg5 91.Kf3 Kf5 92.Kg2 Kg4
+93.Kh2 h3 94.Kg1 Kg3 95.Kh1 Kf3 96.Kh2 Kg4
+97.Kg1 Kg5 98.Kh2 Kh4 99.Kg1 Kg5 100.Kh2 Kf5
+101.Kh1 Kf4 102.Kh2 Kg4 103.Kg1 Kg3 104.Kh1 Kf4
+105.Kg1 Kg5 106.Kh2 Kf6 107.Kg3 Ke6 108.Kh2 Kf6
+109.Kg1 Ke7 110.Kh2 Kf6 111.Kxh3 1/2-1/2
+
+[Event ""]
+[GID "29"]
+[PlyCount "67"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6
+5.O-O f6 6.d4 exd4 7.Nxd4 c5 8.Nb3 Qxd1
+9.Rxd1 Be6 10.Bf4 c4 11.Nc1 Rd8 12.Nc3 Rxd1+
+13.Nxd1 Kd7 14.Ne2 Bc5 15.Be3 Bd6 16.Nd4 Ne7
+17.Nxe6 Kxe6 18.f4 Rg8 19.Kf2 g5 20.g3 gxf4
+21.gxf4 Kf7 22.Nc3 Ng6 23.Ne2 Re8 24.f5 Ne5
+25.h3 Nc6 26.Kf3 Ne5+ 27.Kf2 Nc6 28.Kf3 Ne5+
+29.Kg2 Nc6 30.Kf3 Ne5+ 31.Kg2 Nc6 32.Kf3 Ne5+
+33.Kf2 Nc6 34.Kf3 1/2-1/2
+
+[Event ""]
+[GID "28"]
+[PlyCount "156"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nf5 Qf6 6.Nc3 Nge7 7.Ne3 b6 8.Nb5 Kd8
+9.Be2 Bb7 10.Nc3 a5 11.O-O Nd4 12.Bd3 Ne6
+13.Ng4 Qh4 14.Ne5 Qf6 15.Bb5 d6 16.Nd7 Qg6
+17.Nxc5 bxc5 18.f3 f5 19.Bd3 Rf8 20.Be3 Kc8
+21.Re1 a4 22.Rb1 Ng5 23.Qe2 f4 24.Bf2 Qh5
+25.b4 axb3 26.Rxb3 Rf6 27.Bc4 Rh6 28.h4 Ng6
+29.Bd5 Ba6 30.Bb7+ Bxb7 31.Qb5 Nxh4 32.Qxb7+ Kd7
+33.Kf1 Nhxf3 34.Rd1 Qg4 35.Ke2 Nd4+ 36.Kd3 Ra5
+37.Kc4 Nge6 38.e5 Nd8 39.Qe4 Qe6+ 40.Qd5 Nxb3
+41.Qxe6+ Rxe6 42.exd6 Nd4 43.dxc7 Kxc7 44.Bxd4 cxd4
+45.Rxd4 Rg6 46.Rd2 Rgg5 47.Nd5+ Kd6 48.Nxf4+ Ke7
+49.Kb3 Ne6 50.Nxe6 Rgb5+ 51.Kc4 Kxe6 52.c3 Re5
+53.Kb3 Rab5+ 54.Kc2 Rbd5 55.Rf2 Rf5 56.Re2+ Rde5
+57.Kd2 Rg5 58.Rf2 Rg4 59.Kd3 h5 60.a4 Rxa4
+61.c4 Ra3+ 62.Kd4 Rae3 63.Rf4 Re2 64.g4 h4
+65.g5 h3 66.Rh4 h2 67.Rh5 Kf5 68.g6+ Kf4
+69.Rh8 R2e4+ 70.Kc3 Kg3 71.Kc2 Rh4 72.Rd8 h1=Q
+73.Rd3+ Kf4 74.Kb3 Qb1+ 75.Ka4 Qxd3 76.c5 Rxc5
+77.Kb4 Rb5+ 78.Ka4 Qb3# 0-1
+
+[Event ""]
+[GID "27"]
+[PlyCount "225"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a3 h6
+13.Ba2 Nb8 14.Qb3 Qd7 15.Bb1 c5 16.d5 c4
+17.Qd1 Qc7 18.Nh2 Nbd7 19.Ndf1 Nc5 20.Bc2 Bc8
+21.Ng3 g6 22.f4 exf4 23.Bxf4 Bg7 24.Nf3 Bb7
+25.Qc1 Kh7 26.Qd2 Re7 27.Re3 Rae8 28.Rae1 Nfd7
+29.Nh5 Bh8 30.Ng3 Bg7 31.R3e2 Bc8 32.Nh5 gxh5
+33.Bxd6 Qd8 34.e5+ Kg8 35.Re3 Bb7 36.Kh1 Nd3
+37.Bxd3 cxd3 38.Qxd3 Nf8 39.Bxe7 Qxe7 40.e6 fxe6
+41.dxe6 Kh8 42.Nd4 h4 43.Qf5 Bf6 44.Qg4 Bxd4
+45.cxd4 Qg7 46.e7 Nh7 47.Qe2 Nf6 48.Qf2 Ng8
+49.R1e2 Qxd4 50.Qf7 Qd1+ 51.Kh2 Qd6+ 52.Kg1 Qd1+
+53.Kf2 Bc6 54.Qf4 Qd5 55.Kg1 Qc5 56.Kh2 Qg5
+57.Qd4+ Kh7 58.Re5 Qf6 59.Qd3+ Kh8 60.Kg1 Bb7
+61.Re6 Qg5 62.Qd7 Qc1+ 63.Re1 Qc5+ 64.Kh2 Qd5
+65.Qxd5 Bxd5 66.Rxa6 Kg7 67.Rb6 Bc4 68.b3 Bxb3
+69.Rxb5 Bf7 70.a4 Ra8 71.Rb4 Be8 72.Rxh4 Nf6
+73.Ra1 Ra5 74.Rf4 Kf7 75.Raf1 Ra6 76.a5 Kxe7
+77.Re1+ Kd8 78.Rd4+ Nd7 79.Re5 Bf7 80.Rf5 Ke7
+81.Rxf7+ Kxf7 82.Rxd7+ Ke6 83.Rc7 Kd5 84.Kg3 Rg6+
+85.Kh2 Ra6 86.Rh7 Ke4 87.g4 Rxa5 88.Kg3 h5
+89.Kh4 hxg4 90.hxg4 Ra8 91.Kh5 Rc8 92.g5 Rg8
+93.g6 Kf4 94.Rf7+ Ke4 95.g7 Rxg7 96.Rxg7 Ke3
+97.Rg4 Ke2 98.Kh4 Kd3 99.Ra4 Kc2 100.Kg3 Kb3
+101.Rd4 Kc3 102.Rg4 Kc2 103.Kf3 Kd3 104.Kf2 Kd2
+105.Rd4+ Kc2 106.Ke2 Kc3 107.Re4 Kc2 108.Re3 Kc1
+109.Kd3 Kb2 110.Kd2 Ka1 111.Rb3 Ka2 112.Kc2 Ka1
+113.Ra3# 1-0
+
+[Event ""]
+[GID "30"]
+[PlyCount "160"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nb3 Bb6 6.Nc3 Nf6 7.a4 a6 8.Bg5 h6
+9.Bh4 d6 10.Qe2 O-O 11.O-O-O Ba7 12.Qe1 Ne5
+13.f4 Ng6 14.Bf2 Bxf2 15.Qxf2 Qe7 16.Bd3 b5
+17.g3 bxa4 18.Na5 Bg4 19.Rd2 a3 20.b3 Ne5
+21.Be2 Bd7 22.Re1 Nc6 23.Nxc6 Bxc6 24.Bf3 Rfe8
+25.Kb1 a5 26.Ree2 a4 27.Ka2 axb3+ 28.cxb3 Rab8
+29.Qd4 Qd7 30.g4 Rb7 31.g5 hxg5 32.fxg5 Ng4
+33.Rg2 Ne5 34.Bd1 Reb8 35.Rg3 Rb4 36.Qe3 Ba8
+37.Nd5 Bxd5 38.exd5 g6 39.Rh3 Re4 40.Qc3 Qe7
+41.Rg2 Rbb4 42.Qc2 Rec4 43.Rc3 Rc5 44.Rxc5 dxc5
+45.Qc3 Rd4 46.Rd2 Rxd2+ 47.Qxd2 Qd6 48.Be2 Nc6
+49.Kxa3 Nb4 50.Qc1 Qxd5 51.Bb5 Qa8+ 52.Ba4 Qf8
+53.h3 Qe7 54.Qd2 Qe5 55.Qd8+ Kg7 56.Qd1 Nd3
+57.Qb1 Qc3 58.Ka2 c4 59.bxc4 Qxc4+ 60.Qb3 Nc1+
+61.Ka3 Nxb3 62.Bxb3 Qc5+ 63.Kb2 Qxg5 64.Bd1 Qd2+
+65.Bc2 Kf6 66.Kb1 Qe3 67.h4 Qe1+ 68.Kb2 Qxh4
+69.Kc3 Ke5 70.Bd3 Qd4+ 71.Kd2 Kf4 72.Kc2 Ke3
+73.Bf1 Qd2+ 74.Kb3 Qd1+ 75.Kb2 Qxf1 76.Kb3 Qb5+
+77.Kc3 g5 78.Kc2 Qb4 79.Kc1 Kd3 80.Kd1 Qb1#
+ 0-1
+
+[Event ""]
+[GID "31"]
+[PlyCount "147"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Bf5 15.a4 a5 16.Qd1 Bg5
+17.Bg3 c6 18.Nf3 Be7 19.Qb3 Qc8 20.Re1 Bf8
+21.h3 Nf6 22.Bf4 Ne4 23.Ne5 h6 24.Bd3 Nd6
+25.Be2 Ne4 26.Bd3 Nd6 27.Bf1 Ne4 28.Be2 Qc7
+29.Bd3 Re8 30.Ng6 Bd6 31.Bxd6 Qxd6 32.Ne5 Qc7
+33.Nf3 Re6 34.Qc2 Qf4 35.Re3 Bxh3 36.gxh3 Nxf2
+37.Rxe6 Nxh3+ 38.Kg2 Qg4+ 39.Kh2 Qf4+ 40.Kxh3 Qxf3+
+41.Kh2 fxe6 42.Qd2 Kf7 43.Bc2 Kf6 44.Bd1 Qe4
+45.Qf2+ Qf5 46.Qh4+ Qg5 47.Qe1 Qf5 48.Qh4+ Qg5
+49.Qe1 Qf5 50.Qg3 h5 51.Kg2 Qg5 52.Qxg5+ Kxg5
+53.Kg3 h4+ 54.Kh3 Kf4 55.Kxh4 e5 56.dxe5 Kxe5
+57.Kg5 Ke4 58.Bg4 d4 59.cxd4 Kxd4 60.Be2 Ke3
+61.Bg4 Kd2 62.Be6 Kc2 63.b3 Kc3 64.Kg6 b5
+65.axb5 cxb5 66.Bd7 Kxb3 67.Bxb5 a4 68.Bxa4+ Kxa4
+69.Kf5 Kb4 70.Kg4 Kc3 71.Kf5 Kb2 72.Kg4 Kc3
+73.Kf5 g5 74.Kxg5 1/2-1/2
+
+[Event ""]
+[GID "33"]
+[PlyCount "261"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Bf5 15.a4 c6 16.a5 Rc8
+17.Qe3 Nd6 18.a6 b6 19.Qg3 Bh4 20.Qf3 Be6
+21.Bd3 Bg5 22.Qg3 Bxf4 23.Qxf4 h6 24.Re1 Qc7
+25.Nf3 Nc4 26.Qc1 Rd8 27.Bb1 Re8 28.Bd3 Rd8
+29.Bb1 Re8 30.Bf5 Qc8 31.Bxe6 Rxe6 32.Rxe6 Qxe6
+33.Qf4 Qc8 34.b3 Na5 35.h3 Nxb3 36.Qd6 f6
+37.Qe7 Qxa6 38.Qe6+ Kh8 39.Nh4 Qd3 40.Nf5 Qb1+
+41.Kh2 Nd2 42.h4 Qe4 43.Qd7 Qg4 44.Qd8+ Kh7
+45.Ne7 Qe6 46.h5 Ne4 47.Kg1 Nxc3 48.Ng6 Qg8
+49.Nf8+ Kh8 50.Ng6+ Kh7 51.Nf8+ Kh8 52.Ng6+ Kh7
+53.Qe7 Qb8 54.Nf8+ Kh8 55.Ne6 Qg8 56.Nf4 Nb5
+57.Ng6+ Kh7 58.Nf8+ Kh8 59.Ng6+ Kh7 60.Nf8+ Kh8
+61.Kh2 Nxd4 62.Ng6+ Kh7 63.Nf8+ Kh8 64.Ng6+ Kh7
+65.Nf8+ Kh8 66.f3 b5 67.Ng6+ Kh7 68.Nf8+ Kh8
+69.f4 Nf5 70.Qd8 Ne3 71.Ng6+ Kh7 72.Nf8+ Kh8
+73.Ng6+ Kh7 74.Nf8+ Kh8 75.Kh3 f5 76.Ng6+ Kh7
+77.Nf8+ Kh8 78.Ng6+ Kh7 79.Qe7 d4 80.Nf8+ Kh8
+81.Ng6+ Kh7 82.Nf8+ Kh8 83.Ng6+ Kh7 84.Nf8+ Kh8
+85.Qe8 c5 86.g3 b4 87.Ng6+ Kh7 88.Nf8+ Kh8
+89.Ng6+ Kh7 90.Nf8+ Kh8 91.Qd8 d3 92.Ng6+ Kh7
+93.Nf8+ Qxf8 94.Qxf8 b3 95.Qd6 c4 96.Qg6+ Kh8
+97.g4 fxg4+ 98.Kh2 d2 99.Qe8+ Kh7 100.Qe4+ Kh8
+101.Qe8+ Kh7 102.Qg6+ Kh8 103.f5 g3+ 104.Kh3 g2
+105.Qe8+ Kh7 106.Qg6+ Kh8 107.f6 gxf6 108.Qe8+ Kg7
+109.Qe7+ Kg8 110.Qe8+ Kg7 111.Qe7+ Kg8 112.Qe8+ Kg7
+113.Qd7+ Kf8 114.Qd8+ Kf7 115.Qd7+ Kf8 116.Qd8+ Kg7
+117.Qc7+ Kf8 118.Qc5+ Kf7 119.Qxa7+ Kf8 120.Qc5+ Kf7
+121.Qa7+ Kg8 122.Qxe3 d1=Q 123.Qe8+ Kg7 124.Qe7+ Kg8
+125.Qe8+ Kg7 126.Qe7+ Kg8 127.Qe8+ Kg7 128.Qe7+ Kg8
+129.Qe8+ Kg7 130.Qe7+ Kg8 131.Qe8+ 1/2-1/2
+
+[Event ""]
+[GID "35"]
+[PlyCount "269"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5
+5.Nxe5 Nxe5 6.d4 a6 7.Be2 Ba7 8.dxe5 Nxe4
+9.Bf3 d5 10.c4 Be6 11.Nc3 Nxc3 12.bxc3 c6
+13.cxd5 Bxd5 14.Rb1 Bxf3 15.Qxf3 Qe7 16.Qg3 O-O-O
+17.Qxg7 Qe6 18.Rb4 Rdg8 19.Qh6 Qxe5 20.Bf4 Qd5
+21.Bg3 Re8 22.Rf4 Bb8 23.Qh3+ Qe6 24.Qxe6+ fxe6
+25.Re4 Bxg3 26.hxg3 h5 27.Rfe1 Kd7 28.Rd4+ Kc7
+29.Rde4 Kd7 30.c4 Rhf8 31.f3 b5 32.cxb5 axb5
+33.a4 Rf5 34.axb5 Rxb5 35.Kh2 Rd5 36.Kh3 c5
+37.Kh4 Rd2 38.Kxh5 Rxg2 39.g4 Rf2 40.Rd1+ Ke7
+41.Rd3 Rf8 42.Ree3 Rg2 43.Kh4 Rg1 44.Re4 Rg8
+45.Rde3 Rh8+ 46.Kg5 Rg8+ 47.Kf4 Rf8+ 48.Ke5 Rf1
+49.Rf4 Rd8 50.Ra4 Rd5+ 51.Ke4 Kf6 52.f4 Rd2
+53.Rc4 Rd5 54.Ra4 Rd2 55.Rc4 Rd5 56.Re2 Rg1
+57.g5+ Kg6 58.Ra4 Rf1 59.Re3 Kh5 60.Re2 Kg4
+61.Rg2+ Kh5 62.Rh2+ Kg4 63.Rg2+ Kh5 64.Rc4 Re1+
+65.Kf3 Kg6 66.Rh2 Rd3+ 67.Kf2 Rd2+ 68.Kxe1 Rxh2
+69.Rxc5 Rh4 70.Rc4 Kf5 71.Kf2 e5 72.Rc6 Rxf4+
+73.Ke3 Kxg5 74.Rc8 Ra4 75.Rg8+ Kf6 76.Re8 Kf5
+77.Rf8+ Ke6 78.Rb8 Ke7 79.Rb7+ Kf6 80.Rb8 Ra6
+81.Re8 Ra1 82.Rc8 Ke7 83.Rb8 Ra3+ 84.Ke4 Ra4+
+85.Kf3 Kd7 86.Rb6 Rf4+ 87.Ke2 Rd4 88.Rb5 Ke6
+89.Rb8 Kf5 90.Ke3 Re4+ 91.Kd3 Re1 92.Rf8+ Kg6
+93.Rg8+ Kf6 94.Rb8 Ra1 95.Ke4 Ra7 96.Rb6+ Ke7
+97.Kf3 Kd7 98.Ke3 Ra1 99.Kf3 Kc7 100.Rh6 Rf1+
+101.Ke3 Kd7 102.Rb6 Re1+ 103.Kf3 Ke7 104.Rb8 Kf6
+105.Re8 Rf1+ 106.Ke2 Rb1 107.Ke3 Ra1 108.Rg8 Ra3+
+109.Ke4 Ra4+ 110.Kf3 Rf4+ 111.Ke2 Kf5 112.Ke3 Rb4
+113.Rf8+ Ke6 114.Ra8 Rf4 115.Re8+ Kd6 116.Ra8 Ke7
+117.Ke2 Rh4 118.Ke3 Kf6 119.Re8 Kf5 120.Rf8+ Ke6
+121.Rb8 Kd7 122.Rb5 Rh3+ 123.Ke2 Ke7 124.Rxe5+ Kd7
+125.Rd5+ Ke6 126.Rd8 Ke7 127.Ra8 Kd7 128.Ra7+ Ke8
+129.Ra1 Rh2+ 130.Kd3 Kd7 131.Re1 Rh6 132.Rd1 Ke7
+133.Kd2 Rd6+ 134.Ke2 Rxd1 135.Kxd1 1/2-1/2
+
+[Event ""]
+[GID "37"]
+[PlyCount "263"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Bd2 Be7
+9.Nc3 Be6 10.h3 h6 11.Qe2 Nd4 12.Nxd4 Qxd4
+13.Rfd1 Qc4 14.Qxc4 Bxc4 15.Be3 Be6 16.f4 Bd7
+17.Ne4 b6 18.Kf2 O-O-O 19.Rd2 f6 20.exf6 gxf6
+21.Bd4 Rhf8 22.Re1 c5 23.Bc3 f5 24.Ng5 Bxg5
+25.fxg5 hxg5 26.Re7 f4 27.Rg7 Rf5 28.Re2 Bc6
+29.Ree7 Rd7 30.Re8+ Kb7 31.Rxd7 Bxd7 32.Re5 Kc6
+33.Kf3 a5 34.Rxf5 Bxf5 35.Bf6 g4+ 36.Kxf4 gxh3
+37.gxh3 Bxc2 38.Ke3 b5 39.Kd2 Bb1 40.a3 b4
+41.Kc1 Bg6 42.Bd8 c4 43.axb4 axb4 44.h4 Bh5
+45.Kd2 Kb6 46.Kc1 Bf7 47.Kc2 Bg6+ 48.Kd2 Be8
+49.Kc2 Kc6 50.Kc1 Bg6 51.Kd2 Bh5 52.Kc1 Kd6
+53.Kd2 Bf7 54.Kc1 Kd7 55.Bf6 Kc6 56.Bd8 Kd6
+57.Kd2 Bh5 58.Kc1 Be8 59.Kd2 c6 60.Bb6 Bh5
+61.Be3 c5 62.Kc1 Bg6 63.Bh6 Kc6 64.Bf8 Kb5
+65.Bh6 Kb6 66.Be3 Bh5 67.Bg5 Bf7 68.Bh6 Kc6
+69.Bg7 Kd5 70.Bf8 Bg6 71.Bg7 Bh5 72.Bh6 Be8
+73.Bf8 Kc6 74.Bh6 Kb6 75.Bf8 Bg6 76.Be7 Kb5
+77.Bf8 Kc6 78.Be7 Kb6 79.Bf8 Bh5 80.Bd6 Kc6
+81.Bf4 Bf7 82.Bg5 Kd5 83.Be7 Bh5 84.Bf8 Kc6
+85.Bh6 Bf3 86.Bf8 Kb5 87.Be7 Bg4 88.Bf6 Kc6
+89.Be7 Bf5 90.Bg5 Be4 91.Be7 Kb5 92.Bf8 Bh7
+93.Be7 Bd3 94.Bf6 Kb6 95.Bg5 Kc6 96.Bh6 Be2
+97.Bf8 Bf3 98.Bg7 Kb5 99.Bf8 Bh5 100.Bd6 Kb6
+101.Bf8 Bg4 102.Bh6 Bf5 103.Bg5 Kb5 104.Bh6 Bd3
+105.Bf8 Be4 106.Bh6 Kb6 107.Bf8 Bd3 108.Bh6 Kc6
+109.Bg7 Bf5 110.Bh6 Bh7 111.Bf8 Bc2 112.Kxc2 c3
+113.bxc3 bxc3 114.Kxc3 Kd7 115.Bxc5 Ke6 116.h5 Kf5
+117.h6 Kg6 118.Be3 Kf6 119.Kc2 Kf7 120.Kd3 Kg6
+121.Ke4 Kf6 122.Bg5+ Kg6 123.Kf4 Kf7 124.Kf5 Ke8
+125.h7 Kd7 126.h8=Q Kc7 127.Qa8 Kb6 128.Qd5 Ka6
+129.Qc6+ Ka7 130.Be3+ Kb8 131.Qd7 Ka8 132.Qc8# 1-0
+
+[Event ""]
+[GID "38"]
+[PlyCount "108"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.h3 O-O 11.Bc2 Bc5 12.Nbd2 Bf5
+13.Nb3 Bb6 14.a4 Bg6 15.axb5 axb5 16.Rxa8 Qxa8
+17.h4 Qd8 18.Bf4 Re8 19.Nbd4 Nxd4 20.cxd4 c5
+21.dxc5 Bxc5 22.Ng5 h6 23.Nxe4 Bxe4 24.g3 Bxc2
+25.Qxc2 Bd4 26.Re1 Qd7 27.Qd2 Bb6 28.Qd3 d4
+29.Kg2 Rc8 30.h5 Rd8 31.Rd1 Bc5 32.Rc1 Bb4
+33.Qe4 Qg4 34.Qf3 Qf5 35.Rd1 Qc2 36.Rd3 Be1
+37.Ra3 Bb4 38.Rd3 Be1 39.Rd1 Ba5 40.Rc1 Qxb2
+41.Bxh6 gxh6 42.e6 fxe6 43.Qf6 Qxc1 44.Qg6+ Kf8
+45.Qf6+ Kg8 46.Qxe6+ Kf8 47.Qf6+ Ke8 48.Qe6+ Kf8
+49.Qf6+ Ke8 50.Qe6+ Kf8 51.Qf6+ Ke8 52.Qe6+ Kf8
+53.Qf6+ Ke8 54.Qe6+ Kf8 1/2-1/2
+
+[Event ""]
+[GID "36"]
+[PlyCount "243"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.h3 O-O 11.Bc2 Bf5 12.Bb3 Be6
+13.Bc2 Bf5 14.Be3 Qd7 15.Nbd2 Rad8 16.Nd4 Bg6
+17.f4 Nxd4 18.cxd4 c5 19.Nxe4 Bxe4 20.dxc5 Bxc2
+21.Qxc2 d4 22.c6 Qe6 23.c7 Rd5 24.f5 Qxe5
+25.c8=Q Qxe3+ 26.Kh1 Rxc8 27.Qxc8+ Rd8 28.Qxa6 Qg3
+29.Qa5 Bf6 30.Rf3 Qb8 31.Qd2 h6 32.Rb3 Qe5
+33.Re1 Qc5 34.Rf3 Kh7 35.Rc1 Qd5 36.Qd3 Re8
+37.Rd1 Qc6 38.Kg1 Re4 39.Kf1 Qe8 40.a3 Bg5
+41.Kg1 Bf6 42.Ra1 Re2 43.b3 Re5 44.a4 bxa4
+45.bxa4 Qa8 46.Kh1 Qa5 47.Qd1 Qa6 48.Qd2 Ra5
+49.Qd3 Qa7 50.Qd1 Qe7 51.Rfa3 Qb4 52.Qe1 Qc5
+53.Rb3 Qd5 54.Qd1 Qc6 55.Rba3 Qd6 56.Qc2 Qd8
+57.Rd1 Qd6 58.Raa1 Qg3 59.Rd3 Qb8 60.Qd1 Qc7
+61.Rda3 Qd6 62.Qc2 Qd8 63.Qc4 Qe7 64.Qf1 Qb4
+65.Qe1 Qc5 66.Rb3 Qd5 67.Rd3 Qc5 68.Rdd1 Qb6
+69.Qd2 Qc5 70.Qd3 Qc7 71.Qb3 Qd7 72.Qb4 Qa7
+73.Ra2 Qc7 74.Rf1 Rc5 75.a5 Rc1 76.Rxc1 Qxc1+
+77.Kh2 Be5+ 78.g3 Qe3 79.Rg2 f6 80.a6 d3
+81.h4 Bd4 82.Qd2 Qf3 83.Qf4 Qd5 84.Rd2 Qa5
+85.Rxd3 Bc5 86.Qg4 Qa2+ 87.Kh3 Qxa6 88.Qg6+ Kg8
+89.Qe8+ Kh7 90.Rd8 Bf8 91.Kg4 Qa5 92.Qxf8 h5+
+93.Kf3 Qxf5+ 94.Ke3 Qe5+ 95.Kd2 Qb2+ 96.Kd3 Qb5+
+97.Kc3 Qc6+ 98.Kb4 Qb6+ 99.Kc4 Qc7+ 100.Kd5 Qb7+
+101.Ke6 Qe4+ 102.Kd6 Qd3+ 103.Kc5 Qxg3 104.Qg8+ Kh6
+105.Rd7 Qc3+ 106.Kb5 Qe5+ 107.Kc6 Qe4+ 108.Kc7 Qh7
+109.Qxh7+ Kxh7 110.Kd6 Kh6 111.Ke7 Kg6 112.Rd5 f5
+113.Rd6+ Kh7 114.Kf7 f4 115.Rd5 Kh6 116.Rf5 f3
+117.Rxf3 Kh7 118.Rf5 g6 119.Rf3 g5 120.hxg5 h4
+121.Rf6 Kh8 122.Rh6# 1-0
+
+[Event ""]
+[GID "40"]
+[PlyCount "160"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Be7 7.a4 b4 8.O-O O-O
+9.a5 Rb8 10.Ba4 Nxa5 11.Nxe5 c5 12.Bf4 d6
+13.Nf3 Nh5 14.Bc1 d5 15.exd5 Nf6 16.Bf4 Ra8
+17.c4 bxc3 18.Nxc3 Nxd5 19.Nxd5 Qxd5 20.Qe1 Qd8
+21.Bd2 Nb7 22.Bc3 Bd7 23.Qe4 Nd6 24.Qe5 Nf5
+25.h3 Be6 26.Bc6 Ra7 27.Qe4 Bf6 28.Rfc1 Bxc3
+29.Rxc3 Qb6 30.Rac1 Nd4 31.Rxc5 Nb3 32.Ng5 g6
+33.Qh4 h5 34.Nxe6 fxe6 35.Rg5 Rg7 36.Rc3 Nd4
+37.Qe4 Rxf2 38.Kxf2 Qxb2+ 39.Kg1 Qxc3 40.Rxg6 Qc1+
+41.Kh2 Qxc6 42.Rxg7+ Kxg7 43.Qxd4+ Kg6 44.Qd8 Qd5
+45.Qg8+ Kf6 46.Qf8+ Ke5 47.Qb8+ Kf5 48.Qf8+ Ke5
+49.Qb8+ Kd4 50.Qa7+ Qc5 51.Qxa6 Qc7+ 52.g3 Qc2+
+53.Kg1 Qd1+ 54.Kf2 Qd2+ 55.Kf1 Qd1+ 56.Kf2 Qd2+
+57.Kf1 Qd1+ 58.Kg2 Qe2+ 59.Kg1 Qd1+ 60.Kg2 Qe2+
+61.Kg1 Qe1+ 62.Kg2 Qd2+ 63.Kh1 Qe1+ 64.Kg2 Qe2+
+65.Kh1 Qf3+ 66.Kh2 Qf2+ 67.Kh1 Qf3+ 68.Kh2 Qf2+
+69.Kh1 Qf1+ 70.Kh2 Qf2+ 71.Kh1 Qe1+ 72.Kg2 Qd2+
+73.Kg1 Qe3+ 74.Kg2 Qe2+ 75.Kh1 Qd1+ 76.Kh2 Qd2+
+77.Kh1 Qe1+ 78.Kh2 Qf2+ 79.Kh1 Qe1+ 80.Kg2 Qe2+
+ 1/2-1/2
+
+[Event ""]
+[GID "42"]
+[PlyCount "128"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C60"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nge7 4.c3 Ng6
+5.d4 Be7 6.d5 Nb8 7.h4 Nxh4 8.Nxh4 Bxh4
+9.d6 cxd6 10.Bc4 Qf6 11.g3 Bg5 12.Bxg5 Qxg5
+13.Na3 a6 14.Bb3 b5 15.Bxf7+ Kxf7 16.Qd5+ Ke7
+17.Qxa8 Nc6 18.Nc2 Qg4 19.Ne3 Qf3 20.Nd5+ Kd8
+21.O-O h5 22.Rae1 h4 23.Nb6 Kc7 24.Nd5+ Kd8
+25.Nb6 Kc7 26.Re3 Qg4 27.Nd5+ Kd8 28.Nb6 Kc7
+29.Nd5+ Kd8 30.Rfe1 hxg3 31.Rxg3 Qh4 32.Kg2 Qh2+
+33.Kf1 Rf8 34.Rg2 Qh1+ 35.Rg1 Qh3+ 36.Ke2 Qh5+
+37.f3 Qh2+ 38.Ke3 Nd4 39.cxd4 exd4+ 40.Kd3 Rxf3+
+41.Ne3 Qxb2 42.e5 Qc3+ 43.Ke4 Rxe3+ 44.Rxe3 Qxe3+
+45.Kf5 Qf2+ 46.Kg6 Qxg1+ 47.Kf7 Qf2+ 48.Kxg7 Qg3+
+49.Kf7 Qf4+ 50.Kg8 Qg4+ 51.Kf8 Qf5+ 52.Kg8 Qe6+
+53.Kh7 Qxe5 54.Qg2 Qc5 55.Kg7 Kc7 56.Kf8 Bb7
+57.Qh3 Qd5 58.Qh6 d3 59.Qd2 Qf3+ 60.Kg7 Qg2+
+61.Qg5 Qxg5+ 62.Kf8 Bd5 63.a3 Qg8+ 64.Ke7 Qd8#
+ 0-1
+
+[Event ""]
+[GID "39"]
+[PlyCount "401"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Nd6 15.a4 a5 16.h3 Bf5
+17.Qd1 c6 18.Nf3 Be4 19.Ne5 Be7 20.Qb3 h6
+21.Re1 Bg5 22.Bh2 Bd2 23.Rd1 Bg5 24.Re1 Bd2
+25.Re2 Bg5 26.Qd1 Be7 27.Re1 Bf8 28.Qb3 Qc8
+29.Qd1 Qd8 30.Bf4 Qc8 31.Nd3 Bf5 32.Be2 Nc4
+33.b3 Nd6 34.Qc1 b5 35.Nc5 Nb7 36.axb5 cxb5
+37.Bxb5 Nxc5 38.dxc5 Qxc5 39.Ba4 Qb6 40.Qd2 Be4
+41.Kh1 Qb7 42.Qe2 Bc5 43.Rd1 Rd8 44.f3 Bf5
+45.Qe5 Be6 46.Qc7 Qb6 47.c4 Qxc7 48.Bxc7 Rc8
+49.Bxa5 dxc4 50.bxc4 Be7 51.Bb3 Rb8 52.Bc2 Bxc4
+53.Be4 Be6 54.g4 g6 55.Bc7 Rb3 56.Kg2 Rb2+
+57.Kh1 Bg5 58.Rb1 Re2 59.Bg3 f5 60.Bc6 Rc2
+61.Ba8 Kf7 62.Be5 Be7 63.Bg3 Rc8 64.Ra1 Rd8
+65.Ra7 Rd1+ 66.Kh2 Bd7 67.Ra5 Rd2+ 68.Kh1 Bg5
+69.Rd5 Rxd5 70.Bxd5+ Kg7 71.gxf5 Bxf5 72.Kg2 Bf6
+73.Be4 Bc8 74.h4 Be6 75.Bc2 Bc4 76.Ba4 Bd5
+77.Bc2 Ba1 78.Bf2 Bc4 79.Bg3 Bf6 80.Ba4 Ba2
+81.Bf2 Bd5 82.Bc2 Bc4 83.Be1 Ba2 84.Bf2 Bc4
+85.Ba4 Be6 86.Be1 Bd5 87.Bc2 Bf7 88.Kg3 Ba1
+89.Kg2 Ba2 90.Ba4 Bd5 91.Bf2 Bf6 92.Be1 h5
+93.Bg3 Bc3 94.Bh2 Kf7 95.Bg3 Ke6 96.Be8 Kf6
+97.Ba4 Kg7 98.Bc2 Ba1 99.Be1 Bf6 100.Bg3 Bb2
+101.Bf2 Kf7 102.Ba4 Be5 103.Bc2 Kg7 104.Bg3 Bc3
+105.Bf2 Kh7 106.Bg3 Ba1 107.Bf2 Bb2 108.Ba4 Bf6
+109.Bc2 Bb2 110.Bg3 Ba1 111.Be1 Kg7 112.Ba4 Kf7
+113.Bg3 Bc3 114.Bf2 Bb2 115.Bg3 Ba1 116.Bc2 Kf6
+117.Bf4 Kg7 118.Ba4 Bb2 119.Bg5 Bd4 120.Be8 Bc3
+121.Ba4 Kf7 122.Bc2 Bd4 123.Ba4 Be5 124.Bc2 Ba1
+125.Ba4 Bb2 126.Bc2 Bc3 127.Ba4 Ba1 128.Bc2 Kg7
+129.Bb1 Be5 130.Bc2 Bf7 131.Bb1 Ba1 132.Bd2 Be6
+133.Be4 Bf5 134.Bd5 Be5 135.Bg5 Kh7 136.Be4 Bxe4
+137.fxe4 Kg8 138.Kf2 Kf7 139.Kf3 Ke6 140.Kg2 Bc3
+141.Kf3 Bb4 142.Bd8 Bd2 143.Bb6 Bc3 144.Bd8 Bb2
+145.Bg5 Bd4 146.Bd8 Be5 147.Bg5 Bd6 148.Bd8 Bb4
+149.Bg5 Ba3 150.Kf2 Ke5 151.Kf3 Kd6 152.Bf4+ Ke6
+153.Bg5 Ke5 154.Bd8 Bc1 155.Bc7+ Kf6 156.Bf4 Bb2
+157.Bg5+ Ke6 158.Kg2 Ke5 159.Kf3 Kd6 160.Kf2 Kd7
+161.Ke2 Ba1 162.Ke3 Ke6 163.Kf2 Ke5 164.Ke3 Bc3
+165.Bf4+ Ke6 166.Bg5 Ba5 167.Ke2 Bb6 168.Kf3 Bc7
+169.Ke3 Bd6 170.Bd8 Ba3 171.Kf3 Bc1 172.Bc7 Bb2
+173.Bd8 Kf7 174.Bg5 Bg7 175.Ke3 Bh8 176.Kf2 Bc3
+177.Kf3 Bb4 178.Ke3 Ba5 179.Kd4 Ke6 180.Ke3 Bc3
+181.Kf3 Be5 182.Ke3 Bc3 183.Ke2 Bf6 184.Bxf6 Kxf6
+185.Kf3 g5 186.hxg5+ Kxg5 187.Kg3 Kf6 188.Kf4 Ke6
+189.e5 h4 190.Kg4 Kxe5 191.Kh3 Ke6 192.Kg2 Kf5
+193.Kh3 Ke6 194.Kg4 Ke7 195.Kf3 Kf6 196.Kg2 Kf7
+197.Kg1 h3 198.Kh2 Ke6 199.Kg3 Kf6 200.Kh2 Ke6
+201.Kxh3 1/2-1/2
+
+[Event ""]
+[GID "43"]
+[PlyCount "179"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Be7
+5.O-O Nf6 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Na5 10.Bc2 c5 11.d4 Qc7 12.d5 Nc4
+13.b3 Nb6 14.a4 c4 15.axb5 cxb3 16.Bd3 Nfd7
+17.Qxb3 Nc5 18.Qc2 f5 19.Nbd2 Nxd3 20.Qxd3 axb5
+21.Rxa8 Nxa8 22.Qxb5 Qxc3 23.Bb2 Qc7 24.Ba3 Bd7
+25.Qa6 Rb8 26.Rc1 Qb6 27.Qxb6 Nxb6 28.Nxe5 Ra8
+29.Nec4 Nxc4 30.Nxc4 Ra4 31.e5 Bg5 32.Rc3 dxe5
+33.Nxe5 Bf6 34.Bd6 Ra5 35.Rd3 Ba4 36.f4 h6
+37.Bc7 Rc5 38.d6 g5 39.g3 h5 40.Bb6 Rb5
+41.Ba7 gxf4 42.gxf4 Rb7 43.Bd4 Bxe5 44.Bxe5 Kf7
+45.Ra3 Ra7 46.Rg3 Ke6 47.Rg6+ Kd5 48.Rh6 Bc6
+49.Rxh5 Ke4 50.Kf2 Ra3 51.Rh7 Rf3+ 52.Ke2 Rd3
+53.h4 Bb5 54.Rb7 Ba6 55.Rb4+ Kd5 56.Rb6 Bc4
+57.Kf2 Kc5 58.Rb7 Rd2+ 59.Ke1 Re2+ 60.Kd1 Rg2
+61.Rc7+ Kb5 62.d7 Rg1+ 63.Kd2 Rg2+ 64.Ke1 Rg1+
+65.Kf2 Rf1+ 66.Ke3 Rd1 67.h5 Rd3+ 68.Kf2 Rd2+
+69.Kg3 Rd1 70.h6 Be6 71.h7 Rxd7 72.Rxd7 Bxd7
+73.Kh4 Kc4 74.h8=Q Be6 75.Kg5 Kd3 76.Kf6 Bd5
+77.Qd8 Kc4 78.Qxd5+ Kxd5 79.Kxf5 Kc4 80.Ke6 Kd3
+81.f5 Ke2 82.f6 Kf3 83.f7 Ke3 84.f8=Q Ke4
+85.Qf1 Ke3 86.Qd1 Kf2 87.Kf5 Kg2 88.Qe2+ Kg1
+89.Bg3 Kh1 90.Qf1# 1-0
+
+[Event ""]
+[GID "44"]
+[PlyCount "98"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 h6 10.Rd1+ Ke8 11.b3 Rg8 12.Bb2 Ne7
+13.Rd2 Ng6 14.Nd4 f6 15.exf6 gxf6 16.Ne4 Kf7
+17.Re1 Bb4 18.c3 Be7 19.Ng3 Rd8 20.Rdd1 Bf8
+21.h3 a5 22.a4 Bd7 23.c4 Bb4 24.Rf1 Nf4
+25.Kh2 h5 26.Bc1 Ne6 27.Nxh5 Nxd4 28.Rxd4 Bf5
+29.Rfd1 Rxd4 30.Rxd4 Bc2 31.Rd7+ Ke6 32.Rg7 Bd6+
+33.Nf4+ Kf5 34.g4+ Ke4 35.Kg3 c5 36.f3+ Kd4
+37.Bb2+ Ke3 38.Bc1+ Kd4 39.Bb2+ Ke3 40.Bc1+ Kd4
+41.Re7 Bxe7 42.Bb2+ Ke3 43.Bc1+ Kd4 44.Bb2+ Ke3
+45.Bc1+ Kd4 46.Bb2+ Ke3 47.Bc1+ Kd4 48.Bb2+ Ke3
+49.Bc1+ Kd4 1/2-1/2
+
+[Event ""]
+[GID "45"]
+[PlyCount "223"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 Bb7
+9.d4 d6 10.Nbd2 exd4 11.cxd4 Nb4 12.Qe2 c5
+13.a3 Nc6 14.d5 Ne5 15.Bc2 Nxf3+ 16.Nxf3 Re8
+17.Bf4 Nd7 18.Rad1 Bf8 19.Qd2 Qf6 20.b3 h6
+21.h3 a5 22.Nh2 b4 23.Ng4 Qd8 24.Ne3 Ba6
+25.Nf5 Ne5 26.axb4 axb4 27.Ra1 Bb5 28.Bg3 Rxa1
+29.Rxa1 h5 30.Bh4 Qb6 31.Kh2 g6 32.Qg5 c4
+33.bxc4 Nxc4 34.Re1 Bd7 35.Nh6+ Bxh6 36.Qxh6 Qd4
+37.Rd1 Qc3 38.Rd3 Qg7 39.Qxg7+ Kxg7 40.Rd4 Rc8
+41.Bb3 Bb5 42.f3 f5 43.Kg1 Rc5 44.Be1 Na5
+45.Rxb4 fxe4 46.fxe4 Bd3 47.Ba4 Rc1 48.Kf2 Nc4
+49.Bb3 Kf6 50.Bxc4 Bxc4 51.Bd2 Rc2 52.Ke3 Bf1
+53.Rb7 Bxg2 54.Ba5 g5 55.Rd7 h4 56.Kd3 Ra2
+57.Rxd6+ Kg7 58.Bc3+ Kh7 59.Rd7+ Kg6 60.Rd8 Bxh3
+61.Rg8+ Kh6 62.Bf6 Bf1+ 63.Kd4 h3 64.Kc5 Ra5+
+65.Kd4 Ra2 66.d6 h2 67.Bxg5+ Kh7 68.d7 Ra4+
+69.Kc5 Ra5+ 70.Kb4 h1=Q 71.Rh8+ Kxh8 72.d8=Q+ Kg7
+73.Qe7+ Kg8 74.Qe6+ Kg7 75.Bf6+ Kh6 76.Be5+ Kh5
+77.Qf7+ Kg4 78.Qf5+ Kh4 79.Qh7+ Kg4 80.Qxh1 Rxe5
+81.Qxf1 Rxe4+ 82.Kc5 Rf4 83.Qe2+ Kg5 84.Qd2 Kg4
+85.Kd5 Rf5+ 86.Ke4 Rf7 87.Qg2+ Kh5 88.Ke5 Kh4
+89.Qg6 Rf1 90.Qd3 Rg1 91.Qd2 Kh3 92.Kf5 Rf1+
+93.Ke4 Kg3 94.Qg5+ Kf2 95.Qe3+ Kg2 96.Qe2+ Rf2
+97.Qg4+ Kh2 98.Ke3 Rf1 99.Qe2+ Kg1 100.Qd2 Rf8
+101.Qd1+ Rf1 102.Qe2 Rc1 103.Qf2+ Kh1 104.Qd2 Rf1
+105.Ke2 Rf6 106.Qd5+ Kh2 107.Qe5+ Kh3 108.Qxf6 Kg4
+109.Qe5 Kh3 110.Qg5 Kh2 111.Kf2 Kh3 112.Qh5# 1-0
+
+[Event ""]
+[GID "46"]
+[PlyCount "286"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 Bg4
+9.d3 O-O 10.Nbd2 Na5 11.Bc2 c5 12.h3 Bd7
+13.d4 cxd4 14.cxd4 Nc6 15.d5 Nb4 16.Bb1 a5
+17.Nf1 Re8 18.a3 Na6 19.b3 Nc5 20.Bc2 Qb8
+21.Ng3 Rc8 22.Be3 h6 23.Qd2 Bf8 24.Rec1 Qb7
+25.Rcb1 Qb8 26.Rc1 Qb7 27.Qd1 Rc7 28.a4 bxa4
+29.bxa4 Rac8 30.Rcb1 Qa8 31.Nd2 Na6 32.Rc1 Nc5
+33.Ne2 Rb7 34.Nc3 Be7 35.Rcb1 Ne8 36.Nb5 Bg5
+37.Bxc5 Rxc5 38.Nb3 Rc8 39.Bd3 Rcb8 40.Nd2 Bxb5
+41.axb5 Nc7 42.Nc4 Rxb5 43.Rxb5 Rxb5 44.Nxd6 Rc5
+45.Qa4 Be7 46.Nc4 Ne8 47.Nxa5 Rc3 48.Bf1 Nf6
+49.Nc6 Qxa4 50.Nxe7+ Kf8 51.Ng6+ fxg6 52.Rxa4 g5
+53.f3 h5 54.Be2 Rc2 55.Kf1 h4 56.d6 Rd2
+57.Ra5 Nh5 58.Ra8+ Kf7 59.Bc4+ Kg6 60.Ra6 Nf6
+61.Kg1 g4 62.hxg4 h3 63.gxh3 Kg5 64.Kf1 Kf4
+65.Ke1 Rd4 66.Be2 g5 67.Kf2 Rd2 68.Rb6 Ne8
+69.d7 Rxd7 70.Re6 Rd8 71.Bc4 Rd2+ 72.Ke1 Rd8
+73.Ke2 Rb8 74.Kf2 Rb2+ 75.Be2 Rb8 76.Rh6 Rb7
+77.Re6 Rb8 78.Rh6 Rb7 79.Rg6 Rb2 80.Rc6 Rb8
+81.Re6 Rd8 82.Bc4 Rd2+ 83.Ke1 Rd8 84.Ke2 Rb8
+85.Bd5 Nc7 86.Rf6+ Kg3 87.Ke3 Nb5 88.Rf5 Nd4
+89.Rxg5 Nc2+ 90.Kd2 Nd4 91.Ke3 Nc2+ 92.Kd2 Nd4
+93.Kd3 Nxf3 94.Rf5 Nh4 95.Rxe5 Kxh3 96.Rg5 Kg3
+97.Ke3 Rb6 98.Rg7 Rd6 99.Kd4 Nf3+ 100.Kc5 Ra6
+101.g5 Kg4 102.g6 Ne5 103.Bf7 Kg5 104.Rg8 Kf6
+105.Be8 Ra3 106.Rf8+ Kg7 107.Rf5 Nxg6 108.Rf7+ Kg8
+109.Rb7 Ne5 110.Kd6 Kf8 111.Bb5 Nf7+ 112.Kc5 Re3
+113.Rb8+ Kg7 114.Re8 Ng5 115.Bc6 Re1 116.Bd5 Kf6
+117.Kd6 Nf7+ 118.Kc7 Ng5 119.Kd6 Nf7+ 120.Kd7 Ng5
+121.Rf8+ Kg6 122.Re8 Kf6 123.Kc6 Ra1 124.Kd6 Ra6+
+125.Kc5 Ra4 126.Kd6 Ra6+ 127.Kc5 Ra4 128.Kb5 Rd4
+129.e5+ Kf5 130.Bc4 Rd7 131.Kc6 Rd1 132.e6 Kf6
+133.Bd5 Ra1 134.Bc4 Rc1 135.Kd6 Ne4+ 136.Kd5 Rxc4
+137.Rf8+ Ke7 138.Rf7+ Ke8 139.Kxc4 Nd6+ 140.Kc5 Nxf7
+141.Kb5 Ne5 142.Kb6 Ke7 143.Kb5 Kxe6 1/2-1/2
+
+[Event ""]
+[GID "47"]
+[PlyCount "215"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C70"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5
+5.O-O Nge7 6.Nxe5 Nxe5 7.d4 Nf3+ 8.Qxf3 Bxd4
+9.Qd3 Ba7 10.Be3 Bxe3 11.Qxe3 b5 12.Bb3 O-O
+13.Nc3 d6 14.Ne2 Rb8 15.Ng3 a5 16.Qc3 b4
+17.Qe3 Bd7 18.Bc4 Bb5 19.Bxb5 Rxb5 20.b3 Rc5
+21.c4 bxc3 22.Rac1 f5 23.exf5 Kh8 24.Rfd1 c2
+25.Rd2 Nxf5 26.Qd3 Qf6 27.Rcxc2 Re5 28.Rd1 Ne7
+29.h3 Ng6 30.Qc3 Nf4 31.Re1 Rxe1+ 32.Qxe1 h5
+33.Qd1 Qg5 34.Rxc7 h4 35.Qxd6 Rd8 36.Rc5 hxg3
+37.Rxg5 Rxd6 38.fxg3 Rd1+ 39.Kf2 Nd5 40.g4 Rd3
+41.Rf5 Kh7 42.Ke2 Rd4 43.Kf3 Kg6 44.h4 a4
+45.bxa4 Nf6 46.a5 Ra4 47.Rb5 Rxa2 48.g5 Ra3+
+49.Kf4 Ra4+ 50.Ke5 Ne4 51.Rd5 Nc3 52.Rc5 Ne2
+53.g4 Rxg4 54.Rc2 Rxh4 55.Rxe2 Ra4 56.Rd2 Rxa5+
+57.Kf4 Ra1 58.Rb2 Kh7 59.Kg4 Ra4+ 60.Kf5 Ra5+
+61.Kg4 Ra7 62.Kh5 g6+ 63.Kh4 Re7 64.Rb6 Rf7
+65.Rb8 Kg7 66.Rb2 Rc7 67.Kh3 Re7 68.Rb6 Rd7
+69.Rb8 Kf7 70.Rb6 Ra7 71.Rf6+ Kg7 72.Rb6 Rf7
+73.Rb2 Kh7 74.Rb1 Rc7 75.Rb8 Ra7 76.Rb6 Rg7
+77.Kh4 Rd7 78.Ra6 Rb7 79.Kh3 Kg7 80.Ra8 Re7
+81.Rb8 Re5 82.Rb7+ Kg8 83.Kg3 Rxg5+ 84.Kh4 Rf5
+85.Rb1 Kg7 86.Rb8 Rd5 87.Kg4 Rd4+ 88.Kg3 Re4
+89.Rb7+ Kf6 90.Rb5 Re5 91.Rxe5 Kxe5 92.Kg4 Kf6
+93.Kf4 g5+ 94.Kg4 Kg6 95.Kh3 Kh5 96.Kg3 g4
+97.Kg2 Kh4 98.Kh2 Kg5 99.Kg1 Kg6 100.Kf2 Kf5
+101.Kg3 Kg5 102.Kg2 Kf4 103.Kf2 g3+ 104.Kg1 Kg4
+105.Kg2 Kh4 106.Kg1 Kg4 107.Kg2 Kh5 108.Kxg3 1/2-1/2
+
+[Event ""]
+[GID "48"]
+[PlyCount "211"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 Bc5 6.O-O d6 7.Bxc6+ bxc6 8.Be3 Bb6
+9.c4 Bxe3 10.fxe3 a5 11.Nc3 O-O 12.h3 h6
+13.Qd2 a4 14.Qc2 a3 15.b3 Nh7 16.Rf2 Ng5
+17.Kh2 Be6 18.d4 f5 19.Raf1 f4 20.Ng1 exd4
+21.exd4 d5 22.cxd5 cxd5 23.e5 c5 24.Rxf4 Rxf4
+25.Rxf4 Bf7 26.Qf2 Qe7 27.Nf3 cxd4 28.Qxd4 Ne6
+29.Qb4 Qe8 30.Rg4 Ng5 31.Nxg5 Qxe5+ 32.Qf4 Qxf4+
+33.Rxf4 hxg5 34.Rd4 Rc8 35.Nxd5 Bxd5 36.Rxd5 Rc2
+37.Rxg5 Rxa2 38.Ra5 Kh7 39.h4 Ra1 40.Ra7 a2
+41.g3 Kh6 42.g4 g6 43.Kg2 Rb1 44.Rxa2 Rxb3
+45.Ra4 Kg7 46.Ra7+ Kf6 47.Ra6+ Kf7 48.Ra7+ Kf6
+49.Ra4 Kg7 50.Re4 Kh6 51.Re7 Ra3 52.Re6 Kg7
+53.Re7+ Kh6 54.Re6 Kg7 55.Re4 Rb3 56.Re7+ Kh6
+57.Rd7 Ra3 58.Rd6 Kg7 59.Rd7+ Kh6 60.Rd1 Kg7
+61.Rf1 Kh6 62.Rf6 Ra4 63.Kg3 Ra3+ 64.Rf3 Ra1
+65.Re3 Ra4 66.Rd3 Ra1 67.Rd7 Ra3+ 68.Kf4 Ra4+
+69.Kf3 Ra3+ 70.Ke4 Ra4+ 71.Rd4 Ra3 72.Ke5 Ra7
+73.Rd8 Ra5+ 74.Kf6 Ra6+ 75.Kf7 Ra7+ 76.Kf6 Ra6+
+77.Ke5 Ra5+ 78.Rd5 Ra4 79.Rd4 Ra7 80.Rc4 Ra5+
+81.Kd6 Ra3 82.Ke6 Ra6+ 83.Ke5 Ra5+ 84.Ke4 Ra3
+85.Rd4 Ra1 86.Rb4 Ra7 87.Kd5 Ra5+ 88.Kd6 Ra1
+89.Ke5 Ra5+ 90.Kf4 Ra2 91.Rb6 Ra4+ 92.Kg3 Ra3+
+93.Kh2 Ra2+ 94.Kg1 Rf2 95.Kxf2 Kg7 96.h5 Kf7
+97.Rxg6 Kf8 98.h6 Kf7 99.Rg5 Kf6 100.Rh5 Ke6
+101.h7 Ke7 102.h8=Q Ke6 103.Qg7 Kd6 104.Qf6+ Kc7
+105.Rh7+ Kb8 106.Qh8# 1-0
+
+[Event ""]
+[GID "41"]
+[PlyCount "130"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d6 14.Nd2 Bf5 15.h3 c6 16.a4 a5
+17.Qd1 Be6 18.Ne4 Be7 19.Bd3 g6 20.Qe2 Ng7
+21.Re1 Bd5 22.Nd2 Bg5 23.Be3 Be6 24.Bc2 Bd5
+25.Nf1 Be6 26.Nd2 Bd5 27.b3 Be6 28.Nf3 Bxe3
+29.Qxe3 Bd5 30.Nh2 b5 31.Ng4 h5 32.Nh6+ Kh7
+33.axb5 cxb5 34.c4 bxc4 35.Be4 Qd7 36.Bxd5 Re8
+37.Qc1 Rxe1+ 38.Qxe1 Kxh6 39.Qc1+ Kh7 40.Qxc4 Ne6
+41.g3 Nc7 42.Bb7 Ne6 43.Bc8 Qe8 44.Bxe6 Qxe6
+45.Qxe6 fxe6 46.Kg2 Kg7 47.f4 Kf6 48.Kf3 Kf5
+49.g4+ Kf6 50.Ke4 hxg4 51.hxg4 d5+ 52.Kd3 Ke7
+53.Kd2 Kd6 54.Kc3 Kc7 55.b4 Kb6 56.Kb3 Kb5
+57.bxa5 Kxa5 58.Ka3 Kb5 59.Kb3 Ka5 60.Ka3 Kb5
+61.Kb3 Ka5 62.Ka3 Kb5 63.Kb3 Ka5 64.Ka3 Kb5
+65.Kb3 Ka5 1/2-1/2
+
+[Event ""]
+[GID "53"]
+[PlyCount "134"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 h6 10.h3 Bd7 11.Bf4 Kc8 12.Rad1 b6
+13.g4 Ne7 14.Bg3 a6 15.Ne4 a5 16.a3 a4
+17.Nh4 g5 18.Ng2 Ng6 19.f4 gxf4 20.Nxf4 Nxf4
+21.Rxf4 Be6 22.Rdf1 Rh7 23.Be1 Be7 24.Nf6 Rg7
+25.Kg2 Rg5 26.Bc3 c5 27.Kg3 Rg7 28.Nh5 Rh7
+29.Re4 Bd5 30.Ree1 Be6 31.Nf4 Bc4 32.Rf2 Kb7
+33.Re4 Ba2 34.h4 b5 35.Rd2 Kc6 36.Kh3 Rg8
+37.Rde2 Rhg7 38.Rg2 Rf8 39.Rg1 Be6 40.Nxe6 fxe6
+41.Bd2 h5 42.Bh6 Rf3+ 43.Rg3 hxg4+ 44.Rexg4 Rgf7
+45.Rg7 Rxg7 46.Bxg7 Rf5 47.Bf6 Bf8 48.Rg8 Bh6
+49.Bg5 Bxg5 50.Rxg5 Rf1 51.Rg3 Kd5 52.Kg4 Kxe5
+53.h5 Kf6 54.Rf3+ Rxf3 55.Kxf3 Kg5 56.Ke4 Kxh5
+57.Ke5 b4 58.Kxe6 c4 59.c3 bxc3 60.bxc3 Kg4
+61.Kd5 Kf3 62.Kxc4 Ke4 63.Kb5 Kd3 64.Kxa4 Kxc3
+65.Kb5 c6+ 66.Kc5 Kb3 67.Kxc6 Kxa3 1/2-1/2
+
+[Event ""]
+[GID "52"]
+[PlyCount "186"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nf5 d5 6.exd5 Bxf5 7.Qe2+ Qe7 8.dxc6 bxc6
+9.Nc3 Bxc2 10.Be3 Bxe3 11.Qxc2 Bb6+ 12.Be2 Qc5
+13.O-O Ne7 14.Rac1 O-O 15.Bf3 g6 16.Na4 Qxc2
+17.Rxc2 Rfd8 18.g3 Rd6 19.Re1 Kf8 20.Kf1 Rad8
+21.h4 Rf6 22.Be4 Rdd6 23.Ree2 Nd5 24.Bxd5 cxd5
+25.Nxb6 cxb6 26.Rc8+ Kg7 27.Ree8 Kh6 28.Rcd8 a5
+29.Rxd6 Rxd6 30.Re7 Kg7 31.Rc7 h6 32.Ke2 g5
+33.hxg5 hxg5 34.Ke3 d4+ 35.Kd3 Rf6 36.Rc2 Kg6
+37.Ke4 Rd6 38.Rd2 f5+ 39.Kd3 a4 40.Re2 Rd5
+41.Kc4 d3 42.Rd2 Rd8 43.f3 Rh8 44.Kxd3 Rh3
+45.Ke3 Rxg3 46.Rd6+ Kh5 47.Rf6 Rg2 48.Rxf5 Rxb2
+49.f4 Kg6 50.Rxg5+ Kf7 51.a3 Rb3+ 52.Ke4 Rxa3
+53.Rb5 Rb3 54.Rxb3 axb3 55.Kd3 Kf6 56.Kc3 Kf5
+57.Kxb3 Kxf4 58.Ka4 Ke4 59.Kb3 Kd5 60.Kb4 Kc6
+61.Kc4 b5+ 62.Kd3 Kc5 63.Kc3 Kd5 64.Kb4 Kc6
+65.Kb3 Kb6 66.Kc2 Ka5 67.Kb3 b4 68.Kc2 Ka4
+69.Kb2 Kb5 70.Kb3 Kc5 71.Kb2 Kb6 72.Ka1 Kc6
+73.Kb2 Kc5 74.Kc1 Kc4 75.Kc2 b3+ 76.Kb2 Kb4
+77.Kb1 Kc3 78.Kc1 Kd3 79.Kb1 Kd4 80.Kb2 Kc4
+81.Kb1 Kb4 82.Kb2 Ka4 83.Kb1 Kb5 84.Kc1 Ka5
+85.Kb2 Ka4 86.Kb1 Kb5 87.Kb2 Kc4 88.Kb1 Kb5
+89.Ka1 Kb4 90.Kb2 Kc4 91.Kb1 Kc3 92.Ka1 b2+
+93.Kb1 Kb3 1/2-1/2
+
+[Event ""]
+[GID "51"]
+[PlyCount "199"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6
+5.Nc3 Be7 6.d4 Bd7 7.d5 Nb8 8.Be2 c6
+9.Bg5 O-O 10.Bxf6 Bxf6 11.O-O Be7 12.a4 a5
+13.Nd2 Be8 14.dxc6 bxc6 15.Nc4 Qc7 16.Qd2 Bd7
+17.Rad1 Rd8 18.h3 Be6 19.Ne3 Nd7 20.Bg4 Rab8
+21.b3 Nc5 22.Bxe6 Nxe6 23.Nc4 g6 24.Rfe1 h5
+25.Qd3 Bg5 26.Rf1 Bh6 27.Kh1 Bg7 28.Ne3 Rd7
+29.Rfe1 Rbd8 30.Qa6 Nd4 31.Ne2 d5 32.Nxd4 exd4
+33.Nf1 Qf4 34.exd5 Rxd5 35.Kg1 Qc7 36.Re4 Qd6
+37.Qd3 Rc5 38.Nh2 Bf6 39.Nf3 Kg7 40.g3 Qd7
+41.h4 Qb7 42.Qe2 Rc3 43.Rd3 c5 44.Ne1 Qc6
+45.Rxc3 dxc3 46.Nd3 Bd4 47.Re7 c4 48.bxc4 Bf6
+49.Ne5 Bxe5 50.Qxe5+ Kf8 51.Qe1 Rd2 52.Re3 Qd6
+53.Re8+ Kg7 54.Qe3 Qf6 55.c5 Rd1+ 56.Kg2 Qc6+
+57.f3 Rd2+ 58.Kh3 Qd7+ 59.g4 hxg4+ 60.fxg4 Qd5
+61.Qxc3+ Rd4 62.Kg3 Qc4 63.Qxc4 Rxc4 64.Rc8 Rxa4
+65.Ra8 f5 66.Ra7+ Kf6 67.Ra6+ Kg7 68.g5 Rg4+
+69.Kh3 Rc4 70.Rxa5 Rxc2 71.Kg3 Rc4 72.Ra7+ Kg8
+73.Ra6 Kf7 74.c6 Ke6 75.c7+ Ke5 76.Rxg6 Rc3+
+77.Kf2 Rxc7 78.h5 Rc2+ 79.Kf3 Rc3+ 80.Ke2 f4
+81.h6 f3+ 82.Kd2 f2 83.Ke2 Rh3 84.Kxf2 Kf4
+85.Rg7 Rh2+ 86.Kg1 Rh3 87.h7 Rxh7 88.Rxh7 Kxg5
+89.Rf7 Kg6 90.Rf1 Kg7 91.Kg2 Kg6 92.Kg3 Kg5
+93.Rf4 Kh6 94.Kg4 Kg6 95.Kh4 Kh7 96.Kh5 Kg7
+97.Kg5 Kh8 98.Kg6 Kg8 99.Rf1 Kh8 100.Rf8# 1-0
+
+[Event ""]
+[GID "54"]
+[PlyCount "134"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nb3 Bb6 6.Nc3 Nf6 7.a4 a6 8.Bg5 h6
+9.Bh4 d6 10.Qe2 O-O 11.O-O-O Be6 12.Kb1 Re8
+13.f3 Rb8 14.h3 Ba7 15.Qe1 Ne5 16.f4 Ng6
+17.Bxf6 Qxf6 18.g3 Ne7 19.Rh2 Bxb3 20.cxb3 Nf5
+21.Rd3 c6 22.Qd2 Nd4 23.Qd1 b5 24.Rhd2 c5
+25.Nd5 Qd8 26.Re3 Nc6 27.Nc3 Nd4 28.Nd5 Qa5
+29.f5 Nc6 30.f6 g6 31.Rc3 Re5 32.h4 bxa4
+33.b4 Nxb4 34.Ne7+ Rxe7 35.fxe7 Qc7 36.h5 g5
+37.e8=R+ Rxe8 38.Rxd6 Qe7 39.Rd7 Qxe4+ 40.Bd3 Nxd3
+41.Qxd3 Qxd3+ 42.Rcxd3 Bb8 43.Rd8 Kf8 44.Rxe8+ Kxe8
+45.g4 f5 46.Re3+ Kf7 47.gxf5 Kf6 48.Re6+ Kxf5
+49.Rxh6 g4 50.Rh8 Be5 51.Rg8 g3 52.h6 Kf4
+53.h7 Kf3 54.Rf8+ Kg4 55.h8=Q Bxh8 56.Rxh8 g2
+57.Rg8+ Kf3 58.Ka2 Kf2 59.Ka3 g1=Q 60.Rxg1 Kxg1
+61.Kxa4 Kf2 62.Ka5 Ke3 63.Kxa6 c4 64.Kb5 Kd4
+65.Kb4 Kd3 66.Kc5 Kc2 67.Kxc4 Kxb2 1/2-1/2
+
+[Event ""]
+[GID "56"]
+[PlyCount "78"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Bf1 Be7 8.Rxe5 O-O
+9.d4 h6 10.Bf4 Ne8 11.Re1 d5 12.Nd2 Bf5
+13.c4 Nf6 14.Qb3 b6 15.Nf3 Be6 16.Rac1 c5
+17.Red1 Rc8 18.h3 Qe8 19.Be5 dxc4 20.Bxc4 Bxc4
+21.Qxc4 cxd4 22.Qxd4 Qb5 23.b3 Rxc1 24.Rxc1 Rd8
+25.Qa1 Qd5 26.Qb2 Ne4 27.Bxg7 Bc5 28.Bxh6 Bxf2+
+29.Kh1 Qd1+ 30.Ne1 Bd4 31.Rxd1 Ng3+ 32.Kh2 Nf1+
+33.Kh1 Ng3+ 34.Kh2 Nf1+ 35.Kh1 Ng3+ 36.Kh2 Nf1+
+37.Kh1 Ng3+ 38.Kh2 Nf1+ 39.Kh1 Ng3+ 1/2-1/2
+
+[Event ""]
+[GID "55"]
+[PlyCount "149"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Be7 7.Nxc6 dxc6 8.Bf1 O-O
+9.d4 a5 10.a4 Re8 11.c3 Bf8 12.Rxe8 Qxe8
+13.Be3 Qe4 14.Bd3 Qd5 15.Nd2 Bf5 16.Bf1 Qe6
+17.h3 Re8 18.Bf4 Qf6 19.Bh2 Qg5 20.Nf3 Qh6
+21.Qb3 b6 22.Ne5 Qd2 23.Rd1 Qc2 24.Qxc2 Bxc2
+25.Ra1 Be4 26.f3 Bd5 27.c4 Be6 28.Nxc6 Nxc4
+29.Bxc4 Bxc4 30.Bxc7 Bd5 31.Na7 Re2 32.Bxb6 Bb4
+33.Rc1 h5 34.Nc6 Bxc6 35.Rxc6 Rxb2 36.d5 Rd2
+37.d6 Rd5 38.Bc7 f6 39.Ra6 Kf7 40.Ra8 g5
+41.g4 hxg4 42.fxg4 Bxd6 43.Bxa5 Rd3 44.Bb6 Rxh3
+45.Kf1 Rb3 46.a5 Rb4 47.Be3 Rxg4 48.a6 Ra4
+49.a7 Ra1+ 50.Ke2 Ra2+ 51.Kd1 f5 52.Rd8 f4
+53.Bb6 Rxa7 54.Bxa7 Ke6 55.Ke2 g4 56.Kd3 f3
+57.Ke4 Bg3 58.Rd1 Bh4 59.Kf4 g3 60.Kxf3 g2
+61.Ke4 Bg5 62.Rg1 Bf6 63.Rxg2 Bc3 64.Bd4 Bxd4
+65.Kxd4 Kf5 66.Rf2+ Kg4 67.Ke5 Kg3 68.Rf4 Kh3
+69.Kf5 Kg3 70.Kg5 Kh3 71.Rg4 Kh2 72.Kh4 Kh1
+73.Kg3 Kg1 74.Rf4 Kh1 75.Rf1# 1-0
+
+[Event ""]
+[GID "57"]
+[PlyCount "191"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.Re1 Nc5 7.Bxc6 dxc6 8.Nxe5 Be7
+9.d4 Ne6 10.Be3 O-O 11.Nc3 Bf6 12.f4 Re8
+13.h3 Nf8 14.Qh5 g6 15.Qf3 Be6 16.Rad1 Bg7
+17.b3 Bd5 18.Qf2 Qc8 19.Ne2 f6 20.c4 fxe5
+21.cxd5 exf4 22.Nxf4 cxd5 23.Nxd5 Qd8 24.Nf4 Qf6
+25.d5 Re5 26.Rf1 Re4 27.Kh1 Rae8 28.Bc1 Qf5
+29.Qa7 Qc8 30.Ba3 Bh6 31.Bc1 Bg7 32.a4 R8e7
+33.Ba3 Rf7 34.Nd3 Rxf1+ 35.Rxf1 Nd7 36.Qf2 Qe8
+37.Qc2 Rd4 38.a5 Rxd5 39.Qxc7 Nf8 40.Nc5 Rf5
+41.Rxf5 Qe1+ 42.Kh2 gxf5 43.Qg3 Qa1 44.Bb4 Qd4
+45.Ba3 Qa1 46.Bb4 Qd4 47.Nd3 Ng6 48.Bc5 Qd5
+49.Qd6 Qxd6+ 50.Bxd6 Bc3 51.Bc7 Kf7 52.Nc5 Ke7
+53.Bb6 Kd6 54.Nxb7+ Kc6 55.Nc5 Bxa5 56.Bxa5 Kxc5
+57.Kg3 Kd4 58.Kf3 Kd3 59.g4 Ne5+ 60.Kf4 fxg4
+61.hxg4 Nc6 62.Bb6 Nd4 63.Kg5 Nf3+ 64.Kf4 Nd4
+65.b4 Nc6 66.Bc5 Kc4 67.Kg5 Kd5 68.Kf6 Ne5
+69.g5 Ke4 70.Be7 Nc6 71.Bc5 Kf4 72.Bd6+ Ke4
+73.Bc5 Kf3 74.Bd6 Ke4 75.Bf8 Nd4 76.Bh6 Nf3
+77.Ke6 Ne5 78.Kf6 Nf3 79.Ke6 Ng1 80.Kd6 Nh3
+81.Ke6 Nf4+ 82.Kf6 Nh3 83.Ke6 Kd3 84.Kf7 Kc4
+85.Kg7 Kxb4 86.Kxh7 Nxg5+ 87.Bxg5 a5 88.Be7+ Kc4
+89.Kg6 a4 90.Ba3 Kb3 91.Bf8 a3 92.Bg7 Kc2
+93.Ba1 Kb1 94.Bf6 a2 95.Kg5 a1=Q 96.Bxa1 1/2-1/2
+
+[Event ""]
+[GID "58"]
+[PlyCount "114"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Bf1 f6 7.b4 a6 8.d4 Be7
+9.dxe5 fxe5 10.c4 O-O 11.Bb2 e4 12.Nfd2 Nf5
+13.Nxe4 Bxb4 14.Nbc3 d6 15.Qa4 Bd7 16.Rad1 Kh8
+17.Qb3 b6 18.Rd3 Ba5 19.Ng3 Ne5 20.Rdd1 Nxg3
+21.hxg3 Qg5 22.f4 Qxg3 23.fxe5 Qf2+ 24.Kh1 Rf5
+25.g4 Bc6+ 26.Nd5 Bxe1 27.Bg2 Rg5 28.Qf3 Qxb2
+29.exd6 Bb4 30.dxc7 Bd6 31.Qh3 Qe2 32.Ne3 Bxg2+
+33.Qxg2 Qxg2+ 34.Kxg2 Bxc7 35.Rd5 Rxd5 36.Nxd5 Bd8
+37.Ne3 Kg8 38.Nf5 Rc8 39.Nd6 Rc6 40.c5 bxc5
+41.Ne4 Kf7 42.Kf1 Ke6 43.Ke2 Ke5 44.Kf3 Kd4
+45.Nd2 Kd3 46.Ne4 c4 47.Nf2+ Kd4 48.Ne4 c3
+49.Ng3 Kd3 50.Ne2 Rf6+ 51.Nf4+ Rxf4+ 52.Kxf4 c2
+53.Kg3 c1=Q 54.Kg2 Qd2+ 55.Kh3 Bc7 56.g5 Qxg5
+57.a3 Qg3# 0-1
+
+[Event ""]
+[GID "62"]
+[PlyCount "70"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qe2 Nd4
+9.Nxd4 Qxd4 10.h3 Be6 11.Rd1 Qc4 12.Rd3 Qc5
+13.b3 Bf5 14.Rd2 Rd8 15.c4 Rxd2 16.Bxd2 Be7
+17.Bc3 O-O 18.Nd2 a5 19.Ne4 Qa3 20.Ng3 Be6
+21.Nh5 a4 22.Qc2 b5 23.Nf4 h6 24.Nxe6 fxe6
+25.Qg6 b4 26.Qxe6+ Rf7 27.Bd4 c5 28.Qc8+ Rf8
+29.Qe6+ Rf7 30.Qc8+ Rf8 31.Qe6+ Rf7 32.Qc8+ Rf8
+33.Qe6+ Rf7 34.Qc8+ Rf8 35.Qe6+ Rf7 1/2-1/2
+
+[Event ""]
+[GID "61"]
+[PlyCount "164"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C42"]
+
+1.e4 e5 2.Nf3 Nf6 3.Nxe5 d6 4.Nf3 Nxe4
+5.d4 d5 6.Bd3 Bf5 7.O-O Be7 8.Re1 O-O
+9.c4 c6 10.a3 Bf6 11.Bf4 Bg6 12.Nc3 Nxc3
+13.bxc3 Bxd3 14.Qxd3 dxc4 15.Qxc4 Nd7 16.a4 Nb6
+17.Qd3 Nd5 18.Be5 Re8 19.Rab1 Bxe5 20.dxe5 Rb8
+21.Rbd1 h6 22.c4 Nb6 23.Qc2 Qe7 24.Rd6 Nd7
+25.c5 b6 26.Qd1 Rbd8 27.e6 fxe6 28.Rexe6 Qxe6
+29.Rxe6 Rxe6 30.cxb6 axb6 31.g4 Re7 32.Qd6 Rde8
+33.Qxc6 Ne5 34.Qd5+ Kh8 35.Nh4 Re6 36.Qd4 Rf6
+37.Kg2 Ng6 38.Nf5 Ref8 39.Kg3 h5 40.h3 R8f7
+41.Qd8+ Rf8 42.Qd3 h4+ 43.Kh2 R8f7 44.Kg1 Rf8
+45.Qe3 R8f7 46.Qe4 Kg8 47.Qd3 Kh8 48.Qe4 Kg8
+49.Kh2 Kh8 50.Qe3 Kh7 51.Qe4 Kh8 52.Qd3 Rf8
+53.Kg1 R8f7 54.Kh2 Rf8 55.Qe2 R8f7 56.Qe4 Kg8
+57.Kg1 Kh8 58.f3 Rf8 59.Kg2 Kg8 60.f4 Kh8
+61.Kf3 R8f7 62.Qc2 Rf8 63.Qe4 R8f7 64.Qd3 Rf8
+65.Qd4 R8f7 66.Qd3 Rf8 67.Qc3 Ne7 68.Nxh4 Rxf4+
+69.Kg2 Rxa4 70.Qe5 Ra2+ 71.Kg1 Rd8 72.Ng2 Rd1+
+73.Kh2 Rdd2 74.Qh5+ Kg8 75.Qe8+ Kh7 76.Qh5+ Kg8
+77.Qe8+ Kh7 78.Qh5+ Kg8 79.Qe8+ Kh7 80.Qh5+ Kg8
+81.Qe8+ Kh7 82.Qh5+ Kg8 1/2-1/2
+
+[Event ""]
+[GID "60"]
+[PlyCount "313"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6
+5.O-O a6 6.Bxc6+ bxc6 7.Re1 c5 8.c3 Be7
+9.d4 cxd4 10.cxd4 O-O 11.dxe5 dxe5 12.Qc2 Bd6
+13.h3 h6 14.Nbd2 Nh5 15.Nc4 Qf6 16.Qc3 Re8
+17.Bd2 a5 18.Nxa5 Bxh3 19.gxh3 Rxa5 20.Qxa5 Qxf3
+21.Qc3 Qf6 22.Qe3 Qh4 23.Kh2 Rb8 24.Bc3 f5
+25.Rg1 Rf8 26.Raf1 Kh8 27.a4 fxe4 28.Rg4 Qe7
+29.a5 Rf3 30.Qxe4 Nf6 31.Qa8+ Kh7 32.Kg2 Rf5
+33.Rg3 Qe6 34.Qc6 e4 35.Bxf6 Rxf6 36.Re3 Rf5
+37.Qxe4 Qxe4+ 38.Rxe4 Rg5+ 39.Kh1 Rxa5 40.Rfe1 Rb5
+41.R1e2 g5 42.R4e3 h5 43.b3 Kg6 44.Rc2 Rb4
+45.Ra2 Rb5 46.Ra4 Rd5 47.Kg2 Bf4 48.Re6+ Kg7
+49.h4 Bd6 50.hxg5 Rxg5+ 51.Kf1 Rf5 52.Ree4 Kf6
+53.Ke2 Kg5 54.Rec4 Re5+ 55.Kf1 Rd5 56.Rc3 Rf5
+57.Kg2 Rd5 58.Rac4 Kg6 59.Re3 Kf5 60.Rh4 Kg6
+61.Rc4 Kf5 62.Rec3 Kg6 63.Rh4 Kh6 64.Kf1 Rd1+
+65.Ke2 Rd5 66.Rhc4 Kg6 67.Rf3 Kg5 68.Rfc3 Kg6
+69.Rf3 Kg5 70.Kf1 Kg6 71.Ke1 Re5+ 72.Kf1 Rd5
+73.Rh3 Kg5 74.Ke2 Re5+ 75.Kf1 Rd5 76.Rhc3 Rd1+
+77.Kg2 Rd5 78.Ra4 Kh6 79.Kf3 Kg5 80.Kg2 Kh6
+81.Rh4 Rf5 82.Rhc4 Rg5+ 83.Kf1 Rf5 84.Kg2 Rg5+
+85.Kf1 Rf5 86.Ke2 Kg5 87.Rh3 Re5+ 88.Kf3 Rb5
+89.Kg2 Rd5 90.Rch4 Kg6 91.Rc4 Kg5 92.Re4 Kf5
+93.Re8 Kg5 94.Rc3 Kg6 95.Re4 Rb5 96.Kf3 Rf5+
+97.Kg2 Rb5 98.b4 Kf5 99.Kf3 Bxb4 100.Rf4+ Ke6
+101.Rb3 c5 102.Re3+ Kd5 103.Rd3+ Kc6 104.Rf6+ Kc7
+105.Rd5 Rb6 106.Rf7+ Kc6 107.Rxh5 Rb8 108.Re7 Rd8
+109.Re4 Bc3 110.Ke3 Bd4+ 111.Ke2 Rd5 112.Rh6+ Rd6
+113.Rhh4 Kb5 114.Rh1 Rd8 115.f4 c4 116.Rd1 Kc5
+117.f5 Bf6 118.Re6 Bd4 119.Re7 Rc8 120.Rd7 Bf6
+121.R1d5+ Kb4 122.R5d6 Rf8 123.Rc6 Be5 124.Rd5 Rxf5
+125.Re6 Rh5 126.Rdxe5 Rh2+ 127.Kd1 Kb3 128.Rb6+ Kc3
+129.Re3+ Kd4 130.Re2 Rh8 131.Rbe6 Ra8 132.Re8 Ra1+
+133.Kc2 c3 134.R2e4+ Kd5 135.Re1 Ra2+ 136.Kxc3 Kc6
+137.Kd4 Ra4+ 138.Ke5 Rh4 139.Kf5 Rh5+ 140.Kg6 Rh2
+141.R1e5 Rg2+ 142.Rg5 Rxg5+ 143.Kxg5 Kd7 144.Ra8 Kd6
+145.Kf4 Kc6 146.Ke5 Kb5 147.Rc8 Kb4 148.Kd5 Kb3
+149.Rc4 Ka3 150.Kd4 Kb2 151.Rc3 Kb1 152.Kc4 Kb2
+153.Kb4 Ka2 154.Rc2+ Ka1 155.Ka3 Kb1 156.Kb3 Ka1
+157.Rc1# 1-0
+
+[Event ""]
+[GID "64"]
+[PlyCount "142"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.Nc3 d6 8.a4 Bg4
+9.axb5 axb5 10.Rxa8 Qxa8 11.Nd5 Qa7 12.O-O Nd4
+13.Nxf6+ gxf6 14.Kh1 Bxf3 15.gxf3 Nxb3 16.cxb3 Bxf2
+17.f4 Bd4 18.Qe2 Qa2 19.fxe5 Bxe5 20.Qc2 Kd7
+21.Rg1 c5 22.b4 c4 23.Rf1 c3 24.Bf4 Bxf4
+25.Qxc3 Bg5 26.Qd4 Rc8 27.Qb6 Qe6 28.Qxb5+ Ke7
+29.Ra1 Qh3 30.Qf5 Qxf5 31.exf5 Rb8 32.Ra7+ Kf8
+33.Ra4 Kg7 34.Kg2 Rb5 35.Ra6 Bf4 36.Ra4 Be5
+37.h3 Kh6 38.Kf3 Kg5 39.Ke4 Bxb2 40.d4 Bc3
+41.Ra3 d5+ 42.Kd3 Bxb4 43.Ra7 h6 44.Rxf7 Bd6
+45.Kc3 Kxf5 46.Rd7 Bf4 47.Rd8 Ra5 48.Rd7 Bg5
+49.Rd8 h5 50.Rd6 Bf4 51.Rd8 h4 52.Rh8 Ra3+
+53.Kb4 Rxh3 54.Kc5 Kg4 55.Kxd5 Re3 56.Rg8+ Bg5
+57.Kc6 Rc3+ 58.Kb5 h3 59.Rh8 Rd3 60.Kc5 f5
+61.d5 f4 62.Kc4 Rd1 63.d6 f3 64.Kb3 f2
+65.Rf8 Bf4 66.Rg8+ Kf3 67.d7 f1=Q 68.Rf8 Qb5+
+69.Ka2 Rxd7 70.Ra8 Rd2+ 71.Ka3 Bd6# 0-1
+
+[Event ""]
+[GID "68"]
+[PlyCount "213"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6
+5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.h4 Bb7
+9.Bg5 Qb4+ 10.c3 Qb6 11.Rh3 h6 12.Bc1 O-O-O
+13.Nd2 Nf4 14.Nc4 Nxe2 15.Nxb6+ axb6 16.Bxe2 c5
+17.Kf1 Re8 18.Bf4 g6 19.Bb5 Bg7 20.Re1 Bd5
+21.b3 Re7 22.Ba6+ Kb8 23.Bd3 Kb7 24.Rhe3 g5
+25.Bg3 Be6 26.c4 f6 27.exf6 Bxf6 28.Be5 Bxe5
+29.Rxe5 Rg7 30.h5 Ra8 31.Bb1 Rf7 32.f3 g4
+33.R1e3 gxf3 34.Rxf3 Rxf3+ 35.gxf3 c6 36.Bf5 Bxf5
+37.Rxf5 Rxa2 38.Rf6 d5 39.Rxh6 dxc4 40.Rh7+ Ka6
+41.bxc4 Rh2 42.Ke1 Rh4 43.h6 Rxc4 44.Rh8 Kb5
+45.h7 Rh4 46.f4 c4 47.f5 c3 48.Kd1 Kb4
+49.Rb8 Rxh7 50.Rxb6+ Kc5 51.Ra6 Kb5 52.Ra8 Rh2
+53.Kc1 Rf2 54.Rc8 Kc5 55.Kb1 Kd5 56.Kc1 c5
+57.Rf8 Rf1+ 58.Kc2 Kc4 59.f6 Rf2+ 60.Kc1 c2
+61.Rh8 Rxf6 62.Kxc2 Rf2+ 63.Kc1 Rg2 64.Rh3 Re2
+65.Rh8 Kd3 66.Rh5 Kd4 67.Kd1 Ra2 68.Kc1 Rg2
+69.Kb1 Re2 70.Kc1 Ra2 71.Rh4+ Kd5 72.Kd1 Kc6
+73.Kc1 Kb5 74.Kb1 Rf2 75.Kc1 Kc6 76.Rh8 Kc7
+77.Rh5 Kd6 78.Rh8 Kd5 79.Rh4 c4 80.Rh5+ Kd4
+81.Rg5 Kc3 82.Rg3+ Kb4 83.Kb1 Rd2 84.Kc1 Ra2
+85.Kb1 Rf2 86.Kc1 Re2 87.Kb1 Kc5 88.Rg4 Rh2
+89.Rg5+ Kd4 90.Kc1 Re2 91.Kd1 Re5 92.Rg3 Re3
+93.Rxe3 Kxe3 94.Kc2 Kd4 95.Kd2 Kd5 96.Kc3 Kc5
+97.Kc2 Kc6 98.Kd2 Kd6 99.Kc2 Kc5 100.Kb2 Kb4
+101.Kc2 c3 102.Kc1 Kc4 103.Kc2 Kd4 104.Kc1 Kc4
+105.Kc2 Kd5 106.Kd3 c2 107.Kxc2 1/2-1/2
+
+[Event ""]
+[GID "65"]
+[PlyCount "352"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C49"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.Nc3 Bb4
+5.O-O O-O 6.d3 d6 7.Ne2 Ne7 8.Ng3 Ba5
+9.Bg5 Ne8 10.d4 exd4 11.Qxd4 h6 12.Bd2 Bb6
+13.Qd3 Ng6 14.a4 a6 15.Bc4 a5 16.e5 Nh4
+17.Bc3 Nxf3+ 18.Qxf3 Qh4 19.Bb3 Qg4 20.Qd3 Be6
+21.h3 Qg5 22.Bxe6 fxe6 23.exd6 Nxd6 24.Rae1 Rae8
+25.Re2 Qd5 26.Qg6 e5 27.b3 Rf7 28.Qh5 Qc5
+29.Bb2 Ree7 30.Bxe5 Re6 31.Kh2 Kh7 32.f4 Rxf4
+33.Bxf4 Qxh5 34.Rxe6 Qf7 35.Re2 Qg6 36.Be5 h5
+37.Rf4 Kg8 38.Rh4 Nf5 39.Nxf5 Qxf5 40.Rhe4 c6
+41.Rf4 Qe6 42.Rf1 Bc5 43.Rfe1 Qf5 44.Re4 Bf2
+45.R1e2 Bb6 46.Rf4 Qe6 47.Re1 Bc5 48.Kh1 Bb4
+49.c3 Bc5 50.b4 Bd6 51.Rfe4 Bxe5 52.Rxe5 Qb3
+53.Rxa5 Qxc3 54.Re8+ Kf7 55.Re4 Qc2 56.Rae5 Qxa4
+57.b5 Qc2 58.Re1 Kg6 59.R1e2 Qd1+ 60.Re1 Qc2
+61.bxc6 bxc6 62.Re6+ Kh7 63.R1e5 Qc1+ 64.Re1 Qc2
+65.Kh2 Qd2 66.R6e2 Qc3 67.Re6 Qd2 68.R6e2 Qc3
+69.Re3 Qd2 70.Kh1 c5 71.R3e2 Qc3 72.Re5 Kh6
+73.R5e3 Qd2 74.R3e2 Qc3 75.Re3 Qd2 76.R3e2 Qc3
+77.Rb1 c4 78.Ree1 Qd2 79.Red1 Qe2 80.Rbc1 g6
+81.Rg1 Qd3 82.Rgf1 Qe2 83.Rf3 g5 84.Rf6+ Kh7
+85.Rc6 g4 86.hxg4 hxg4 87.R6xc4 Qe3 88.R1c3 Qh6+
+89.Kg1 Qb6+ 90.Kf1 Qb2 91.Rc2 Qf6+ 92.Ke2 Qe7+
+93.Kf2 Qh4+ 94.Ke3 Qh6+ 95.Ke4 Qf8 96.Rc6 Kg7
+97.R2c5 Qd8 98.Kf4 Qd2+ 99.Kg3 Qe1+ 100.Kxg4 Qd1+
+101.Kf5 Qf1+ 102.Ke5 Qe2+ 103.Kd6 Qxg2 104.Kc7 Qg3+
+105.Kb7 Qg2 106.Rc2 Qd5 107.R2c5 Qg2 108.Kb6 Kf7
+109.Rc7+ Ke6 110.R5c6+ Ke5 111.Re7+ Kf5 112.Rc5+ Kf6
+113.Rec7 Ke6 114.R5c6+ Ke5 115.Re7+ Kf5 116.Rc5+ Kf6
+117.Ra7 Qf2 118.Rac7 Ke6 119.Kb7 Qb2+ 120.Ka6 Qa1+
+121.Ra5 Qf1+ 122.Ka7 Kd6 123.Rac5 Qf2 124.R7c6+ Kd7
+125.Rc7+ Ke6 126.Ka8 Qa2+ 127.Ra7 Qg2+ 128.Rb7 Qf3
+129.Ka7 Qa3+ 130.Kb6 Qb2+ 131.Ka6 Qa2+ 132.Ra5 Qe2+
+133.Rbb5 Qd3 134.Kb7 Qd7+ 135.Ka6 Qd3 136.Ka7 Qd4+
+137.Kb8 Qd8+ 138.Ka7 Qd7+ 139.Ka8 Qd8+ 140.Ka7 Qc7+
+141.Ka6 Qc8+ 142.Ka7 Qd7+ 143.Rb7 Qd4+ 144.Rb6+ Kd7
+145.Kb7 Qe4+ 146.Ka6 Qa8+ 147.Kb5 Qd5+ 148.Ka6 Qd2
+149.Rc5 Qa2+ 150.Ra5 Qg2 151.Rb7+ Kd8 152.Kb6 Qf2+
+153.Rc5 Ke8 154.Ka6 Qxc5 155.Rb5 Qa3+ 156.Ra5 Qd3+
+157.Kb6 Kd7 158.Kc5 Qc3+ 159.Kb5 Kd6 160.Ka4 Qc4+
+161.Ka3 Qd3+ 162.Kb4 Qd4+ 163.Kb3 Qb6+ 164.Ka4 Kc6
+165.Ra8 Qb7 166.Ra5 Qb2 167.Rh5 Qc2+ 168.Kb4 Qe4+
+169.Kc3 Qf3+ 170.Kd4 Qxh5 171.Ke4 Qg4+ 172.Ke5 Qf3
+173.Ke6 Qf4 174.Ke7 Qf5 175.Ke8 Kd6 176.Kd8 Qd7#
+ 0-1
+
+[Event ""]
+[GID "70"]
+[PlyCount "121"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.Nc3 Bc5 6.d3 d6 7.Bxc6+ bxc6 8.Be3 Bb6
+9.O-O Bg4 10.a4 O-O 11.h3 Bh5 12.Qe2 Rb8
+13.b3 Re8 14.g4 Bg6 15.a5 Bxe3 16.fxe3 d5
+17.Ra4 h6 18.Qf2 dxe4 19.Nxe4 Nxe4 20.dxe4 Rb5
+21.Qd2 Rc5 22.Rf2 Kh7 23.Ne1 Qg5 24.Kh2 Rd8
+25.Nd3 Rb5 26.Re2 Qe7 27.Qc3 h5 28.Rg2 hxg4
+29.hxg4 Qh4+ 30.Kg1 Kg8 31.Rc4 Rd6 32.Nf2 Rf6
+33.Rh2 Qg3+ 34.Rg2 Qf3 35.Qe1 Kf8 36.Rh2 Qg3+
+37.Rg2 Qh4 38.g5 Rd6 39.Rg4 Qh5 40.Rg3 Rb8
+41.Qf1 Rd2 42.Qg2 Rb5 43.Rh3 Qe2 44.Qf3 Qxf3
+45.Rxf3 Rxa5 46.Nd3 Re2 47.b4 Ra3 48.Nxe5 Bh5
+49.Rf2 Re1+ 50.Kh2 Raxe3 51.Rd4 Rxe4 52.Rd8+ Ke7
+53.Nxc6+ Ke6 54.Nd4+ Ke7 55.Nc6+ Ke6 56.Nd4+ Ke7
+57.Nc6+ Ke6 58.Nd4+ Ke7 59.Nc6+ Ke6 60.Nd4+ Ke7
+61.Nc6+ 1/2-1/2
+
+[Event ""]
+[GID "69"]
+[PlyCount "299"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C64"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Bc5 4.O-O Nd4
+5.Nxd4 Bxd4 6.c3 Bb6 7.d4 c6 8.Bc4 d6
+9.dxe5 dxe5 10.Qxd8+ Bxd8 11.a4 a5 12.Be3 Nf6
+13.Nd2 Nd7 14.b4 Bb6 15.Nb3 axb4 16.cxb4 Bxe3
+17.fxe3 Rf8 18.a5 Nf6 19.Nc5 Ke7 20.Ra2 Ne8
+21.Rd2 Nd6 22.Be2 Rb8 23.Rc2 g6 24.g4 h5
+25.g5 Bh3 26.Rf3 Bg4 27.Rf6 Bxe2 28.Rxe2 Rfd8
+29.Ra2 Nc4 30.Kf2 Rd1 31.a6 bxa6 32.Rxa6 Rd2+
+33.Kf3 Ke8 34.Raxc6 Rxb4 35.Rc8+ Rd8 36.Rxd8+ Kxd8
+37.Rxf7 Nd2+ 38.Kf2 Ke8 39.Rg7 Rb2 40.Nd3 Nxe4+
+41.Kg1 Rb1+ 42.Kg2 Rb5 43.Rxg6 Kf7 44.Ra6 Nxg5
+45.Rh6 Ra5 46.Rxh5 Ra2+ 47.Kg3 Kg6 48.Rh4 Kf5
+49.Nf2 Ra3 50.Ng4 Ne4+ 51.Kf3 Nd2+ 52.Kg2 Kg5
+53.Kh3 Nf1 54.Rh8 Nxe3 55.Nxe3 Kf4 56.Kh4 Kxe3
+57.Kg5 Ke4 58.Kg4 Ra1 59.Kg3 Kd3 60.h4 e4
+61.h5 e3 62.Rd8+ Ke2 63.Re8 Kd2 64.Rd8+ Ke1
+65.h6 Ra7 66.Re8 e2 67.Kg4 Kf2 68.Rf8+ Ke3
+69.Re8+ Kd3 70.Rd8+ Kc2 71.Re8 Kd3 72.Rd8+ Ke4
+73.Re8+ Kd3 74.Kg5 Ra8 75.Re7 Ra5+ 76.Kg6 Ra6+
+77.Kg5 Ra5+ 78.Kg6 Ra7 79.Re5 Ra6+ 80.Kg7 Kd2
+81.h7 e1=Q 82.Rxe1 Ra7+ 83.Kg6 Rxh7 84.Re4 Rh8
+85.Kg5 Kd3 86.Ra4 Rf8 87.Kh5 Rg8 88.Kh6 Rg1
+89.Rh4 Ke3 90.Ra4 Rg8 91.Kh7 Rg2 92.Ra3+ Kf4
+93.Ra1 Ke5 94.Re1+ Kf6 95.Rf1+ Ke7 96.Re1+ Kf8
+97.Rf1+ Ke8 98.Kh6 Rg4 99.Re1+ Kd7 100.Rd1+ Ke6
+101.Ra1 Rg2 102.Kh7 Rc2 103.Re1+ Kd5 104.Kh6 Rg2
+105.Rd1+ Ke6 106.Re1+ Kf7 107.Rf1+ Kg8 108.Ra1 Kf8
+109.Rf1+ Ke7 110.Re1+ Kf6 111.Rf1+ Ke5 112.Re1+ Kf6
+113.Rf1+ Ke7 114.Ra1 Rf2 115.Ra7+ Ke6 116.Ra1 Rf6+
+117.Kg7 Rf4 118.Re1+ Kd6 119.Ra1 Rf3 120.Rd1+ Ke7
+121.Re1+ Kd8 122.Ra1 Kd7 123.Re1 Rf4 124.Ra1 Ke7
+125.Re1+ Kd7 126.Ra1 Rf2 127.Rd1+ Ke7 128.Re1+ Kd6
+129.Ra1 Ke5 130.Kh7 Kd5 131.Kg8 Kc4 132.Rc1+ Kd3
+133.Rh1 Rf1 134.Rxf1 Kc2 135.Kf7 Kd3 136.Ke6 Kd2
+137.Ke5 Ke2 138.Rf6 Kd3 139.Rf4 Kc3 140.Rd4 Kb3
+141.Ke4 Kc2 142.Ke3 Kc3 143.Re4 Kc2 144.Rc4+ Kb2
+145.Kd2 Kb3 146.Re4 Kb2 147.Re3 Ka1 148.Rb3 Ka2
+149.Kc2 Ka1 150.Ra3# 1-0
+
+[Event ""]
+[GID "10"]
+[PlyCount "151"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6
+5.Nxc6 bxc6 6.Bd3 d5 7.Nc3 Bb4 8.exd5 cxd5
+9.O-O O-O 10.h3 c6 11.Bf4 Re8 12.Qf3 Qa5
+13.Ne2 Bf8 14.a3 Qb6 15.b4 a5 16.Be3 Qc7
+17.Rab1 axb4 18.axb4 Nd7 19.Rfe1 Ne5 20.Qg3 Qd8
+21.Bd4 Ng6 22.Bc5 Bxc5 23.bxc5 Bd7 24.Ra1 Qe7
+25.Rxa8 Rxa8 26.Qd6 Qxd6 27.cxd6 Nf8 28.c4 g6
+29.Nf4 Ra4 30.Rc1 Kg7 31.Be2 Ne6 32.Nxe6+ Bxe6
+33.Bg4 f5 34.cxd5 cxd5 35.Be2 Kf6 36.Rc7 Ra1+
+37.Kh2 Ra2 38.Bb5 Ke5 39.d7 Ra8 40.Kg3 Rd8
+41.Kf3 Kd6 42.Rc6+ Ke7 43.Rc5 d4 44.Ke2 Kd6
+45.Rc6+ Kxd7 46.Kd3 Bd5 47.Rxg6+ Ke7 48.Rg7+ Kf6
+49.Rd7 Rxd7 50.Bxd7 Bxg2 51.Kxd4 Bxh3 52.f4 Ke7
+53.Bc8 h5 54.Ke3 Bg4 55.Kf2 h4 56.Bb7 Kd6
+57.Bc8 Kd5 58.Ke3 Kc6 59.Ba6 Kb6 60.Bd3 Bh3
+61.Kf2 Kc5 62.Ke3 Bg4 63.Ba6 Kc6 64.Kf2 Kd5
+65.Ke3 Ke6 66.Bb7 Kd7 67.Kf2 Kc7 68.Bd5 Kd6
+69.Bb7 Kc5 70.Bc8 Kd4 71.Bb7 Bd1 72.Kg2 Ke3
+73.Kh3 Kxf4 74.Bc8 Kg5 75.Bxf5 Kxf5 76.Kxh4 1/2-1/2
+
+[Event ""]
+[GID "49"]
+[PlyCount "169"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.d4 Bg4 10.Be3 exd4 11.cxd4 Na5 12.Bc2 Nc4
+13.Bc1 c5 14.b3 Na5 15.d5 Nd7 16.Nbd2 Bf6
+17.Rb1 Re8 18.h3 Bh5 19.g4 Bg6 20.Nf1 Rc8
+21.Kg2 Ne5 22.Ng1 h6 23.f4 Nd7 24.Nf3 Nb7
+25.Ng3 a5 26.Bd2 Bh7 27.h4 c4 28.g5 Be7
+29.Nd4 Qb6 30.Nc6 cxb3 31.Bxb3 Bf8 32.Qf3 b4
+33.a3 bxa3 34.Bc4 Qc7 35.gxh6 Nf6 36.Bc3 Nd8
+37.Bxa5 Qd7 38.Bxd8 Rcxd8 39.hxg7 Bxg7 40.Nxd8 Qxd8
+41.Ba2 Nd7 42.Qxa3 Ne5 43.fxe5 Bxe5 44.Qf3 Kh8
+45.Kh3 Rg8 46.Rg1 Bd4 47.Qxf7 Rg7 48.Qh5 Qc8+
+49.Kh2 Bxg1+ 50.Rxg1 Qc3 51.Qe2 Qe5 52.Bb1 Qf4
+53.Kh3 Bf5+ 54.Nxf5 Rxg1 55.Qb2+ Kh7 56.Qb7+ Kh8
+57.Qa8+ Rg8 58.Qa1+ Kh7 59.Qa7+ Kh8 60.Qd4+ Kh7
+61.Qd1 Rg7 62.Nxg7 Qe3+ 63.Kg4 Kxg7 64.Qf3 Qg1+
+65.Qg3 Qxb1 66.Kh5+ Kh8 67.Qxd6 Qd1+ 68.Kg5 Qg1+
+69.Kf5 Qd1 70.Qe5+ Kg8 71.Kg6 Kf8 72.d6 Qg4+
+73.Qg5 Qd7 74.Qf5+ Ke8 75.Qxd7+ Kxd7 76.e5 Ke6
+77.h5 Kxe5 78.d7 Kd5 79.h6 Kc4 80.d8=Q Kb5
+81.h7 Kc4 82.h8=Q Kb3 83.Qa1 Kc4 84.Qa4+ Kc3
+85.Qdd4# 1-0
+
+[Event ""]
+[GID "71"]
+[PlyCount "70"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.h3 O-O 11.Bc2 Bf5 12.Nbd2 Bc5
+13.a4 Re8 14.Nxe4 dxe4 15.axb5 Qxd1 16.Rxd1 axb5
+17.Rxa8 Rxa8 18.Nh4 Bxf2+ 19.Kxf2 e3+ 20.Bxe3 Bxc2
+21.Rd5 b4 22.cxb4 Nxb4 23.Rd7 Nd3+ 24.Ke2 Nxe5
+25.Rxc7 Be4 26.Bc5 f6 27.b4 Ra3 28.Rc8+ Kf7
+29.Rc7+ Kg8 30.Rc8+ Kf7 31.Rc7+ Kg8 32.Rc8+ Kf7
+33.Rc7+ Kg8 34.Rc8+ Kf7 35.Rc7+ Kg8 1/2-1/2
+
+[Event ""]
+[GID "72"]
+[PlyCount "141"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 exd4 7.Re1 d5 8.Nxd4 Bc5
+9.Bxc6+ bxc6 10.f3 Qh4 11.g3 Qh5 12.Bf4 O-O
+13.fxe4 Bg4 14.Qd2 dxe4 15.Be3 Rae8 16.Ne2 Rd8
+17.Qc3 Bxe3+ 18.Qxe3 Bxe2 19.Rxe2 Rd1+ 20.Re1 Rfd8
+21.Nc3 R1d2 22.Re2 Rxe2 23.Nxe2 Qb5 24.b3 f5
+25.Kg2 Qd5 26.Kf2 h6 27.Re1 c5 28.Nc3 Qe5
+29.Rd1 Rd6 30.h4 Kh7 31.Rxd6 cxd6 32.Ne2 g6
+33.a3 Qe7 34.b4 g5 35.bxc5 dxc5 36.h5 Qd6
+37.Qb3 Kg7 38.Qb2+ Kg8 39.Qb7 Qe5 40.Qc6 e3+
+41.Kg1 g4 42.Qg6+ Kf8 43.Qxh6+ Kg8 44.Qf4 Qa1+
+45.Kg2 Qd1 46.Qg5+ Kh8 47.Qxe3 Qxc2 48.Kf2 Qb1
+49.Qh6+ Kg8 50.Qg6+ Kh8 51.h6 Qb7 52.Qxf5 Qe7
+53.Qxg4 Kh7 54.Qg7+ Qxg7 55.hxg7 Kxg7 56.Nc3 Kf6
+57.Ne4+ Ke5 58.Nxc5 Kd4 59.Nxa6 Kc4 60.Ke3 Kb3
+61.Kd4 Kxa3 62.g4 Kb2 63.g5 Kc1 64.g6 Kd1
+65.g7 Ke2 66.g8=Q Kf3 67.Qg5 Kf2 68.Qg4 Ke1
+69.Ke3 Kf1 70.Qg5 Ke1 71.Qg1# 1-0
+
+[Event ""]
+[GID "75"]
+[PlyCount "187"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nf5 g6 6.Be3 b6 7.Bxc5 bxc5 8.Ne3 Rb8
+9.b3 Nf6 10.Nc3 O-O 11.Qd2 Nd4 12.Bd3 Nh5
+13.O-O-O d6 14.Rhf1 Nf4 15.Bc4 Be6 16.f3 c6
+17.Bxe6 fxe6 18.g3 Nh5 19.f4 Nf6 20.e5 dxe5
+21.fxe5 Nd5 22.Ne4 Nf3 23.Qe2 Nxe5 24.Rxf8+ Qxf8
+25.c4 Nxe3 26.Qxe3 Rd8 27.Rxd8 Qxd8 28.Nxc5 Qf6
+29.Ne4 Qf3 30.Qxf3 Nxf3 31.h3 Kf7 32.Kc2 e5
+33.Kd3 h5 34.a4 h4 35.gxh4 Nxh4 36.Nc5 Nf5
+37.b4 Kf6 38.a5 Ke7 39.Nb7 Kd7 40.Ke4 Ke6
+41.Nd8+ Kd7 42.Nb7 Ke6 43.a6 Ng3+ 44.Ke3 Nh5
+45.Nd8+ Kd6 46.Nf7+ Ke6 47.Nd8+ Kd6 48.Nf7+ Ke6
+49.Ng5+ Kd6 50.h4 Ng7 51.Ke4 Nf5 52.c5+ Ke7
+53.Nf3 Kf6 54.Nxe5 Ne7 55.Ng4+ Ke6 56.Ne3 Kf6
+57.Kf4 Ke6 58.Kg5 Kf7 59.Nc4 Ke6 60.Nd6 Ke5
+61.b5 cxb5 62.Nxb5 Kd5 63.Kf6 Nc6 64.Nxa7 Nxa7
+65.Kxg6 Kxc5 66.h5 Kb5 67.h6 Kxa6 68.h7 Nc6
+69.Kf5 Kb6 70.h8=Q Kc5 71.Ke6 Nd4+ 72.Ke5 Nc6+
+73.Ke6 Nd4+ 74.Kd7 Kd5 75.Qe8 Kc5 76.Qh5+ Kc4
+77.Kd6 Nb5+ 78.Ke5 Kc5 79.Ke6+ Kc4 80.Qd5+ Kb4
+81.Ke5 Na3 82.Qd4+ Kb3 83.Kd5 Nc2 84.Qd3+ Kb2
+85.Kc5 Na3 86.Qd2+ Kb3 87.Qb4+ Ka2 88.Qc3 Nb1
+89.Qc2+ Ka1 90.Kb4 Na3 91.Qf2 Nb5 92.Kb3 Nd4+
+93.Qxd4+ Kb1 94.Qb2# 1-0
+
+[Event ""]
+[GID "67"]
+[PlyCount "353"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.Nc3 Bc5 6.Bxc6 dxc6 7.Nxe5 Bxf2+ 8.Kxf2 Qd4+
+9.Ke1 Qxe5 10.d3 O-O 11.Qd2 Nd5 12.Ne2 Bg4
+13.c4 Bxe2 14.cxd5 Bg4 15.dxc6 bxc6 16.Qf4 Qe6
+17.h3 Bh5 18.g4 Bg6 19.Be3 a5 20.Rh2 Rad8
+21.Rd2 Rd7 22.Ke2 f6 23.b3 a4 24.bxa4 Ra8
+25.Rb1 Qe7 26.Rb3 h6 27.Rc3 Rxa4 28.a3 Qe6
+29.Qg3 Ra8 30.Kf2 Rb8 31.Bc5 Rb3 32.Rxb3 Qxb3
+33.Qe3 Qc3 34.Bb4 Qe5 35.Kg2 h5 36.gxh5 Qxh5
+37.a4 Rd8 38.a5 Rb8 39.Qc5 f5 40.a6 Qg5+
+41.Kh2 Qf4+ 42.Kg1 Rb5 43.Rf2 Qg5+ 44.Rg2 Qf4
+45.Qc4+ Kh7 46.exf5 Qe3+ 47.Kh2 Qe5+ 48.Kh1 Bh5
+49.Qh4 Rxb4 50.Qxb4 Bf3 51.Qh4+ Kg8 52.Qd8+ Kh7
+53.Qh4+ Kg8 54.f6 Qa1+ 55.Kh2 Bxg2 56.Qg4 Qxf6
+57.a7 Qa1 58.Qc8+ Kh7 59.a8=Q Qe5+ 60.Kxg2 Qe2+
+61.Kg3 Qe3+ 62.Kh4 Qf2+ 63.Kg5 Qe3+ 64.Kh4 Qe1+
+65.Kg4 Qg1+ 66.Kf5 Qg6+ 67.Ke5 Qd6+ 68.Ke4 Qd5+
+69.Ke3 Qg5+ 70.Ke4 Qd5+ 71.Ke3 Qg5+ 72.Kf3 Qd5+
+73.Kf2 Qd4+ 74.Kg3 Qe3+ 75.Kg4 Qg1+ 76.Kf5 Qg6+
+77.Kf4 Qd6+ 78.Ke3 Qe5+ 79.Kd2 Qg5+ 80.Kc2 Qc5+
+81.Kd1 Qg1+ 82.Ke2 Qg2+ 83.Ke3 Qg5+ 84.Kf3 Qd5+
+85.Kf2 Qc5+ 86.Ke2 Qc2+ 87.Ke3 Qc1+ 88.Kd4 Qf4+
+89.Kc3 Qe5+ 90.d4 Qe3+ 91.Kb4 Qxd4+ 92.Kb3 Qd3+
+93.Ka4 Qe4+ 94.Ka5 Qe5+ 95.Ka4 Qb5+ 96.Ka3 Qc5+
+97.Kb3 Qe3+ 98.Kc2 Qe2+ 99.Kb3 Qe3+ 100.Ka4 Qe4+
+101.Ka5 Qd5+ 102.Kb4 Qd4+ 103.Ka3 Qc5+ 104.Kb2 Qf2+
+105.Kc3 Qf6+ 106.Kc4 Qf4+ 107.Kd3 Qf3+ 108.Kd2 Qd5+
+109.Ke2 Qe4+ 110.Kf2 Qf4+ 111.Kg2 Qd2+ 112.Kf3 Qd3+
+113.Kf4 Qd4+ 114.Kg5 Qf6+ 115.Kg4 Qd4+ 116.Kf3 Qd3+
+117.Kg2 Qd2+ 118.Kg3 Qe3+ 119.Kh4 Qe7+ 120.Kg3 Qd6+
+121.Kg4 Qd4+ 122.Kg5 Qf6+ 123.Kh5 Qe5+ 124.Kh4 Qe1+
+125.Kg5 Qd2+ 126.Kh5 g6+ 127.Kg4 Qd4+ 128.Kf3 Qd5+
+129.Ke3 Qe5+ 130.Kd3 Qg3+ 131.Ke4 Qe1+ 132.Kf3 Qd1+
+133.Ke3 Qc1+ 134.Kd4 Qf4+ 135.Kd3 Qg3+ 136.Ke2 Qg2+
+137.Ke3 Qg5+ 138.Ke4 Qd5+ 139.Ke3 Qc5+ 140.Ke2 Qc2+
+141.Kf3 Qd3+ 142.Kf4 Qd6+ 143.Kf3 Qd5+ 144.Kg3 Qe5+
+145.Kh4 Qf6+ 146.Kg4 Qd4+ 147.Kg3 Qe5+ 148.Kg2 Qe2+
+149.Kh1 Qf1+ 150.Kh2 Qf2+ 151.Kh1 Qe1+ 152.Kg2 Qe2+
+153.Kg3 Qe5+ 154.Kf2 Qf4+ 155.Kg2 Qe4+ 156.Kf2 Qc2+
+157.Kg3 Qc3+ 158.Kh4 Qe1+ 159.Kg5 Qe7+ 160.Kg4 Qe4+
+161.Kg5 Qe5+ 162.Kh4 Qf6+ 163.Kg3 Qe5+ 164.Kf2 Qb2+
+165.Kg1 Qd4+ 166.Kg2 Qe4+ 167.Kf2 Qc2+ 168.Ke1 Qc1+
+169.Ke2 Qc4+ 170.Ke3 Qc5+ 171.Ke2 Qb5+ 172.Kf2 Qb2+
+173.Kf3 Qb3+ 174.Kg2 Qc2+ 175.Kf1 Qd3+ 176.Ke1 Qd7
+177.Qh8# 1-0
+
+[Event ""]
+[GID "34"]
+[PlyCount "264"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6
+5.O-O a6 6.Bxc6+ bxc6 7.Re1 c5 8.c3 Be7
+9.d4 exd4 10.cxd4 cxd4 11.Nxd4 Bd7 12.Bf4 O-O
+13.Nc3 Re8 14.h3 c5 15.Nf3 Qb6 16.b3 Bc6
+17.Bxd6 Rad8 18.e5 Bxd6 19.exd6 Rxe1+ 20.Nxe1 Qb8
+21.Qd2 Qxd6 22.Qxd6 Rxd6 23.Rc1 Kf8 24.Nc2 Nd7
+25.Ne3 Ne5 26.Rc2 Nd3 27.Rd2 Rd7 28.f3 Ke7
+29.Re2 f6 30.Nc4+ Kd8 31.Na5 Bd5 32.Nxd5 Rxd5
+33.Re6 Nf4 34.Rxa6 Rd2 35.Nb7+ Ke7 36.Nxc5 Rxg2+
+37.Kf1 Rb2 38.Ra7+ Kd6 39.Ne4+ Ke5 40.Rxg7 Rb1+
+41.Kf2 Rb2+ 42.Ke1 Rxa2 43.Re7+ Kd4 44.Nxf6 Nd3+
+45.Kf1 Rf2+ 46.Kg1 Rxf3 47.Re4+ Kc5 48.b4+ Kb5
+49.Nd5 Rxh3 50.Kg2 Rh6 51.Kg3 Rc6 52.Kf3 h5
+53.Ke3 Nb2 54.Rh4 Na4 55.Nf4 Nb6 56.Ne2 Nd5+
+57.Kd3 Rh6 58.Nd4+ Kb6 59.Nf5 Rg6 60.Rd4 Nc7
+61.Ne3 Nb5 62.Rh4 Rg5 63.Re4 Rg6 64.Rh4 Rd6+
+65.Kc2 Rh6 66.Nf5 Rh8 67.Kb3 Kc7 68.Rc4+ Kb7
+69.Rh4 Kc6 70.Rc4+ Kd7 71.Ka4 Nc7 72.Rh4 Nd5
+73.Kb5 Ke6 74.Ng7+ Kf6 75.Rxh5 Rb8+ 76.Kc4 Nxb4
+77.Rf5+ Kxg7 78.Rf2 Na6 79.Ra2 Rb6 80.Ra3 Rf6
+81.Rb3 Nc7 82.Kc5 Ne6+ 83.Kd5 Kf7 84.Rb7+ Ke8
+85.Ke5 Rg6 86.Kf5 Rh6 87.Rb8+ Kd7 88.Ra8 Nc7
+89.Rb8 Rd6 90.Rb1 Ne6 91.Rb7+ Ke8 92.Rb8+ Nd8
+93.Ra8 Rd7 94.Ra6 Ke7 95.Ke5 Rc7 96.Ke4 Ne6
+97.Ra8 Rc5 98.Ra7+ Kd8 99.Ra6 Kd7 100.Ra8 Rb5
+101.Rh8 Ng5+ 102.Ke3 Ra5 103.Rb8 Ra7 104.Kf4 Ne6+
+105.Kf5 Ke7 106.Rb1 Ra5+ 107.Ke4 Rh5 108.Rb7+ Kd8
+109.Rb8+ Kd7 110.Ra8 Nc7 111.Rb8 Nb5 112.Kf4 Nd6
+113.Rg8 Ra5 114.Ke3 Ra6 115.Kd4 Ra4+ 116.Kc5 Ra5+
+117.Kd4 Nf7 118.Rg1 Nd8 119.Rg7+ Kc8 120.Rh7 Ne6+
+121.Kc4 Re5 122.Rh8+ Kd7 123.Rh7+ Ke8 124.Rh8+ Nf8
+125.Rh6 Re4+ 126.Kc5 Ke7 127.Rd6 Rh4 128.Kb6 Kxd6
+129.Kb5 Nd7 130.Ka6 Kc6 131.Ka5 Nf8 132.Ka6 Ra4#
+ 0-1
+
+[Event ""]
+[GID "76"]
+[PlyCount "186"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Be3 Qf6 6.c3 Qg6 7.Qf3 Ne5 8.Qg3 Ng4
+9.Bd2 d6 10.f3 Ne5 11.a4 a6 12.Be3 Nf6
+13.Nd2 Bd7 14.Nc4 Nh5 15.Qf2 Qf6 16.Qd2 O-O
+17.a5 Qe7 18.O-O-O Nf6 19.Bf2 Rfe8 20.Be2 h6
+21.Ne3 Nc6 22.g4 Nxa5 23.Kb1 d5 24.Rhg1 Qf8
+25.Bh4 g5 26.Bg3 Ba4 27.e5 Nb3 28.Qe1 Nd7
+29.h4 Nxe5 30.hxg5 Nxd4 31.cxd4 Bxd1 32.Qxd1 Nc6
+33.Nf5 Bxd4 34.Nxh6+ Kh8 35.Rh1 Qb4 36.Nf5+ Kg8
+37.Nxd4 Qxd4 38.Qc2 Re6 39.Bd1 Rae8 40.Bf2 Qg7
+41.f4 Re4 42.Qd2 Nb4 43.f5 Qe5 44.g6 fxg6
+45.fxg6 b6 46.Rh5 Qg7 47.Bb3 c6 48.Bd1 c5
+49.Rf5 R4e5 50.Bd4 cxd4 51.Qxb4 Qxg6 52.Bc2 Rxf5
+53.gxf5 Qf6 54.Qb3 Re1+ 55.Ka2 Re3 56.Qb4 Kg7
+57.Qd2 Qe5 58.Qd1 Rg3 59.Bd3 b5 60.Qc2 b4
+61.Qd2 b3+ 62.Ka3 Qe7+ 63.Ka4 Qe3 64.Qa5 Qe8+
+65.Ka3 Qe7+ 66.Kxb3 Rxd3+ 67.Ka2 Rf3 68.Qb6 Qf6
+69.Qc5 Rxf5 70.Qc7+ Kh6 71.Qh2+ Rh5 72.Qe2 Rg5
+73.Ka1 a5 74.Qd3 Rg4 75.Qe2 Qf5 76.Ka2 Qe4
+77.Qa6+ Kg5 78.Qxa5 d3 79.Ka3 Kf4 80.Qd2+ Kf3
+81.b3 Qe7+ 82.b4 Qxb4+ 83.Qxb4 Rxb4 84.Kxb4 d2
+85.Kc5 d1=Q 86.Kb6 d4 87.Kc5 d3 88.Kc6 d2
+89.Kd7 Qg1 90.Kc6 d1=Q 91.Kb5 Qb3+ 92.Kc6 Qgb6+
+93.Kd7 Q3e6# 0-1
+
+[Event ""]
+[GID "77"]
+[PlyCount "204"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Bf1 f6 7.d4 Nf7 8.dxe5 fxe5
+9.Nc3 Be7 10.Nd5 O-O 11.Bd3 Bc5 12.c3 Ne7
+13.Nxe7+ Qxe7 14.Qc2 h6 15.b4 Bb6 16.Bc4 d6
+17.Qe4 Re8 18.Bd3 Kf8 19.a4 a5 20.Nh4 Qf6
+21.Be3 Ng5 22.Qd5 Be6 23.Qxb7 Rab8 24.Qc6 Kg8
+25.Rab1 Bxe3 26.Rxe3 Rf8 27.Rf1 Qf7 28.Bg6 Qf4
+29.Nf3 axb4 30.Nxg5 Qxg5 31.Rg3 Qd8 32.cxb4 Rxb4
+33.Rc3 Rd4 34.h3 Qg5 35.Be4 Qf4 36.Bf3 Rxa4
+37.Qxc7 e4 38.Bh5 Qe5 39.Rg3 Bf7 40.Qc3 Qxc3
+41.Bxf7+ Kxf7 42.Rxc3 Ke6 43.Re1 d5 44.f3 Rf7
+45.Rc6+ Ke5 46.Rc8 Kd6 47.Rd1 Rd7 48.fxe4 Rxe4
+49.Ra8 d4 50.Ra5 Ke6 51.Kf2 Re5 52.Ra4 Red5
+53.Kf3 Rf7+ 54.Ke4 Re5+ 55.Kd3 Rf4 56.Ra6+ Kf5
+57.Ra7 Kg6 58.Rd2 Re3+ 59.Kc4 Rc3+ 60.Kd5 Rg3
+61.Rd7 Kh5 62.Ke5 Rf8 63.R7xd4 Re3+ 64.Kd5 Rd8+
+65.Kc4 Rc8+ 66.Kd5 Re1 67.Kd6 Kg6 68.Rg4+ Kh7
+69.Rdd4 Re2 70.Rde4 Rd2+ 71.Rd4 Rf2 72.Rc4 Rd8+
+73.Ke5 h5 74.Rh4 g6 75.g4 Rf7 76.Rc6 Re8+
+77.Re6 Rxe6+ 78.Kxe6 Rf4 79.Ke5 Rc4 80.Ke6 Kg7
+81.Kd5 Rb4 82.Ke5 Kf7 83.Kd5 Ke7 84.Ke5 Ra4
+85.Kd5 Rf4 86.Ke5 Rb4 87.Kd5 Ra4 88.Kc5 Rf4
+89.Rxh5 gxh5 90.g5 Ke6 91.g6 Kf6 92.Kd5 Kxg6
+93.h4 Kf5 94.Kd6 Rxh4 95.Kc7 Rg4 96.Kb8 h4
+97.Kb7 Rg6 98.Kc7 h3 99.Kd7 h2 100.Kc8 h1=Q
+101.Kb8 Qh7 102.Ka8 Rg8# 0-1
+
+[Event ""]
+[GID "73"]
+[PlyCount "265"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.O-O d6 8.c3 O-O
+9.Nbd2 h6 10.h3 a5 11.a4 b4 12.Re1 Rb8
+13.Nf1 Bb6 14.Ng3 Ba6 15.d4 bxc3 16.bxc3 exd4
+17.cxd4 Nxd4 18.Nxd4 Bxd4 19.Bxf7+ Rxf7 20.Qxd4 Rb4
+21.Qd1 Qe8 22.Bd2 Rd4 23.Qc1 Rc4 24.Qb1 Qe5
+25.Qb8+ Kh7 26.Qa7 Rc2 27.Rad1 Qb2 28.Be3 Qb7
+29.Qxb7 Bxb7 30.f3 Bc6 31.Ra1 Be8 32.Rec1 Rxc1+
+33.Bxc1 Nd7 34.Bd2 Nc5 35.Ra3 Nxa4 36.Bxa5 Nc5
+37.Bd2 Rd7 38.Be3 Ne6 39.f4 Re7 40.Rb3 Bc6
+41.Rb4 Kg8 42.Kf2 Nd8 43.Rc4 Bb5 44.Rb4 Bc6
+45.f5 Kf7 46.Kf3 Bd7 47.Rc4 Bb5 48.Rb4 Bd7
+49.Rc4 Bb5 50.Rc1 Nc6 51.Bf4 Re8 52.Ra1 g5
+53.fxg6+ Kxg6 54.Ke3 h5 55.h4 Nb4 56.Ra5 Nd5+
+57.Kf3 Nc3 58.Ke3 Nd5+ 59.Kf3 Nc3 60.Bd2 Rf8+
+61.Ke3 Nd1+ 62.Kd4 Rf2 63.Be1 Rb2 64.Ra1 c5+
+65.Kd5 Ne3+ 66.Kxd6 Nxg2 67.Bc3 Rc2 68.Rg1 Bd3
+69.Be5 Ne3 70.Bf4 Ng4 71.e5 Ra2 72.Re1 Ra6+
+73.Kd5 Ra4 74.Bc1 Nf2 75.Kd6 Rxh4 76.e6 Ne4+
+77.Nxe4 Rxe4 78.Rxe4 Bxe4 79.e7 Kf7 80.Kd7 Bc6+
+81.Kxc6 Kxe7 82.Kxc5 Kf6 83.Kd4 h4 84.Bf4 Kf5
+85.Bb8 h3 86.Bh2 Ke6 87.Kc5 Kd7 88.Kd5 Kc8
+89.Kc6 Kd8 90.Kd6 Kc8 91.Kc6 Kd8 92.Kc5 Kd7
+93.Kd5 Kc8 94.Kd4 Kb7 95.Ke4 Kb6 96.Kf3 Kc5
+97.Kg3 Kb4 98.Bg1 Kb5 99.Bh2 Kb4 100.Bg1 Kb5
+101.Kf2 Kc5 102.Bh2 Kc4 103.Kg1 Kd3 104.Bb8 Kc3
+105.Bh2 Kd3 106.Bg3 Kc4 107.Bb8 Kc3 108.Bg3 Kc4
+109.Kh1 Kb3 110.Bb8 Ka4 111.Kh2 Ka5 112.Kg1 Kb5
+113.Kh1 Ka4 114.Kg1 Kb5 115.Bh2 Kc4 116.Bg3 Kb3
+117.Kh1 Ka4 118.Kh2 Kb4 119.Bb8 Ka5 120.Kg3 Kb5
+121.Bd6 Kc6 122.Bb8 Kb5 123.Bd6 Kc6 124.Ba3 Kd5
+125.Kh2 Kc6 126.Bf8 Kb5 127.Bd6 Kb6 128.Bg3 Kc6
+129.Kh1 Kb5 130.Bh2 Kb4 131.Bc7 h2 132.Bd6+ Kb5
+133.Bxh2 1/2-1/2
+
+[Event ""]
+[GID "80"]
+[PlyCount "149"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nxc6 Qf6 6.Qf3 dxc6 7.Nc3 Be6 8.Be3 Qxf3
+9.gxf3 Bxe3 10.fxe3 Nf6 11.h4 Nd7 12.f4 f6
+13.Ke2 Bf7 14.Kf3 a5 15.h5 Nc5 16.Bd3 O-O-O
+17.Rag1 g6 18.Ne2 Rhg8 19.hxg6 hxg6 20.Rh7 Rgf8
+21.Nc1 b5 22.Ke2 Kb7 23.Nb3 Na4 24.e5 fxe5
+25.fxe5 Kb6 26.Nd4 Nxb2 27.e6 Bg8 28.Rd7 Rxd7
+29.exd7 Nc4 30.Bxg6 Rb8 31.Be8 Bd5 32.e4 Bxe4
+33.Ne6 Nd6 34.c4 Nb7 35.Ke3 Bf5 36.c5+ Ka6
+37.Nd4 Bxd7 38.Bxd7 Nxc5 39.Bxc6 b4 40.Rg5 Kb6
+41.Ba4 Ra8 42.Rg6+ Ka7 43.Nc6+ Kb7 44.Bd1 Re8+
+45.Kd2 Ne4+ 46.Kc2 Nd6 47.Nxa5+ Kb6 48.Nc4+ Kb5
+49.Nxd6+ cxd6 50.Rxd6 Kc5 51.Rd3 Kc4 52.Rd2 Kb5
+53.Rd5+ Kc6 54.Rf5 Kb6 55.Kb3 Ra8 56.Rf2 Kc5
+57.Rc2+ Kd6 58.Be2 Rb8 59.Ka4 Rb7 60.Bb5 Rc7
+61.Rxc7 Kxc7 62.Kxb4 Kb6 63.a4 Ka7 64.Kc5 Kb8
+65.Kb6 Kc8 66.a5 Kd8 67.a6 Ke7 68.a7 Kf6
+69.a8=Q Ke5 70.Qf3 Kd4 71.Kc6 Ke5 72.Kc5 Ke6
+73.Qf4 Ke7 74.Qf5 Kd8 75.Qd7# 1-0
+
+[Event ""]
+[GID "78"]
+[PlyCount "170"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.Nc3 O-O 8.Nd5 h6
+9.O-O Rb8 10.c3 d6 11.h3 Nxd5 12.Bxd5 Ne7
+13.Bb3 Bb6 14.a4 Ng6 15.axb5 axb5 16.Be3 Qf6
+17.Bd5 Be6 18.Bxe6 Qxe6 19.Bxb6 Rxb6 20.Ra7 c5
+21.h4 Nf4 22.g3 Qg6 23.Kh2 Ne6 24.Qe2 f5
+25.exf5 Qxf5 26.Ne1 d5 27.Ng2 d4 28.Re7 Kh8
+29.h5 c4 30.Nh4 cxd3 31.Qd1 Qg5 32.Ng6+ Kg8
+33.Rxe6 Rxe6 34.Nxf8 Kxf8 35.Qf3+ Ke7 36.Qxd3 dxc3
+37.Qxc3 Qxh5+ 38.Kg2 Kf6 39.Rc1 Qg4 40.Qc8 e4
+41.Rc6 e3 42.Qf8+ Kg6 43.Qe8+ Kf6 44.Qf8+ Kg6
+45.f3 Qf5 46.Qe8+ Kf6 47.Qf8+ Kg6 48.Qe8+ Kf6
+49.Qf8+ Kg6 50.Qe8+ Kf6 51.Qd8+ Kg6 52.Qe8+ Kf6
+53.Qd8+ Kg6 54.g4 Qf6 55.Qd3+ Kf7 56.Rc7+ Re7
+57.Rxe7+ Qxe7 58.Qxb5 e2 59.Qc4+ Kf8 60.Qc8+ Kf7
+61.Qc4+ Kf8 62.Qc8+ Kf7 63.Qc4+ Ke8 64.Qg8+ Kd7
+65.Qd5+ Ke8 66.Qa8+ Kf7 67.Qd5+ Ke8 68.Qa8+ Kf7
+69.Qa2+ Kf6 70.Qa6+ Kf7 71.Qa2+ Kf6 72.Qa6+ Kf7
+73.Qc4+ Ke8 74.Qc6+ Kf8 75.Qa8+ Kf7 76.Qd5+ Kf8
+77.Qa8+ Kf7 78.Qd5+ Ke8 79.Qb5+ Kf7 80.Qb3+ Kf8
+81.Qb8+ Kf7 82.Qb3+ Kg6 83.Qd3+ Kf7 84.Qd5+ Kf8
+85.Qa8+ Kf7 1/2-1/2
+
+[Event ""]
+[GID "82"]
+[PlyCount "129"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6
+5.Nxc6 bxc6 6.Bd3 d5 7.exd5 cxd5 8.O-O Be7
+9.b3 Bg4 10.Bb5+ Bd7 11.Bxd7+ Qxd7 12.Qd3 O-O
+13.Bb2 a5 14.Nc3 Rad8 15.Rad1 c6 16.Na4 Ne4
+17.c4 Qe6 18.f3 Ng5 19.Qc3 Qh6 20.cxd5 Rxd5
+21.Rxd5 cxd5 22.Qxa5 Bd6 23.f4 Bxf4 24.Rxf4 Nh3+
+25.gxh3 Qxf4 26.Qc3 f6 27.Qd3 Re8 28.Bd4 Qg5+
+29.Kf1 Qc1+ 30.Kg2 Qg5+ 31.Qg3 Qd2+ 32.Bf2 Qxa2
+33.Nc5 h6 34.Qd3 Re5 35.h4 Kh8 36.Kf3 Qa8
+37.Kg3 Qa2 38.Qf3 Re2 39.Nd3 Re4 40.Nf4 Rb4
+41.Ng6+ Kh7 42.Nf8+ Kh8 43.Ng6+ Kh7 44.Nf8+ Kh8
+45.Ng6+ Kh7 46.Nf8+ Kh8 47.Ng6+ Kh7 48.Nf8+ Kg8
+49.Qxd5+ Kh8 50.Ng6+ Kh7 51.Be3 Qb1 52.Nf8+ Kh8
+53.Ne6 Qxb3 54.Qd8+ Kh7 55.Nf8+ Kh8 56.Ng6+ Kh7
+57.Nf8+ Kh8 58.Ne6+ Kh7 59.Nf8+ Kh8 60.Nd7+ Qg8
+61.Nf8 Qb3 62.Ng6+ Kh7 63.Nf8+ Kg8 64.Ne6+ Kh7
+65.Nf8+ 1/2-1/2
+
+[Event ""]
+[GID "81"]
+[PlyCount "217"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.c3 d6 8.O-O h6
+9.a4 b4 10.d4 exd4 11.cxd4 Ba7 12.a5 O-O
+13.Be3 Bg4 14.Re1 Kh8 15.Kh1 Rb8 16.Qd3 Bxf3
+17.gxf3 Nh5 18.Nd2 Qf6 19.Qxa6 Nxd4 20.e5 dxe5
+21.Qxf6 Nxf6 22.Rac1 Rbc8 23.Bc4 Rcd8 24.a6 Nd5
+25.Bxd5 Rxd5 26.Rxc7 Bb8 27.Rcc1 Ba7 28.Nc4 Kh7
+29.Kg2 Rc8 30.Nxe5 Rxc1 31.Bxc1 Rd6 32.f4 Rxa6
+33.Bd2 Nc2 34.Re2 Bd4 35.Nxf7 Bxb2 36.Bxb4 Nxb4
+37.Rxb2 Nd3 38.Rd2 Nxf4+ 39.Kg3 Nh5+ 40.Kg2 Rg6+
+41.Kf1 Rf6 42.Ne5 Rf5 43.Nd3 Rf3 44.Ne5 Rf4
+45.Ra2 Rf5 46.Nd3 Rd5 47.Ne1 Rd7 48.f3 Rd4
+49.Ng2 Rd1+ 50.Ne1 Nf4 51.Kf2 Ng6 52.Ng2 Ne7
+53.Ne3 Rd3 54.f4 Rd4 55.Kf3 Ng6 56.Ng2 Rd7
+57.Ne3 Ne7 58.f5 Kg8 59.Ke4 Rb7 60.Ra4 Kf7
+61.Nc4 Rb1 62.Ne5+ Kg8 63.Nf3 Rb7 64.Ra8+ Kh7
+65.Nd4 Rb1 66.Rf8 Ng8 67.Ne6 Nf6+ 68.Kd3 Rd1+
+69.Kc2 Rf1 70.Rf7 Rf2+ 71.Kc3 Nh5 72.h4 Ra2
+73.Rf8 Ra5 74.Kd4 Ng3 75.f6 gxf6 76.Rxf6 Nf5+
+77.Ke4 Nxh4 78.Nf4 Ra7 79.Ke3 Re7+ 80.Kf2 Re5
+81.Rf7+ Kg8 82.Ra7 Rg5 83.Ra8+ Kf7 84.Ra4 h5
+85.Ra6 Ke7 86.Re6+ Kf8 87.Rf6+ Ke7 88.Re6+ Kd7
+89.Rh6 Rg7 90.Rxh5 Ng6 91.Nxg6 Rxg6 92.Rh7+ Kc8
+93.Rh1 Rd6 94.Rb1 Kd7 95.Ke2 Re6+ 96.Kd2 Ke7
+97.Ra1 Rd6+ 98.Ke2 Rh6 99.Ra7+ Ke8 100.Ra8+ Kf7
+101.Ra1 Ke7 102.Kd2 Kd7 103.Ra7+ Ke8 104.Ra8+ Kf7
+105.Ra1 Kf8 106.Re1 Rd6+ 107.Kc2 Kf7 108.Rd1 Rxd1
+109.Kxd1 1/2-1/2
+
+[Event ""]
+[GID "84"]
+[PlyCount "173"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C83"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 b5 7.Bb3 d5 8.dxe5 Be6
+9.c3 Be7 10.h3 O-O 11.Bc2 Bc5 12.Nbd2 Bf5
+13.Nb3 Bb6 14.a4 Re8 15.Nfd4 Nxd4 16.Nxd4 Bd7
+17.Nf3 Bf5 18.Nd4 Bd7 19.Nf3 Bf5 20.Bf4 Bg6
+21.Nd4 c5 22.Nc6 Qd7 23.axb5 Nxc3 24.bxc3 Bxc2
+25.e6 Qxc6 26.bxc6 Bxd1 27.exf7+ Kxf7 28.Rfxd1 Rec8
+29.Rxd5 Rxc6 30.Rd7+ Kf6 31.g4 Ra7 32.Rxa7 Bxa7
+33.Kg2 c4 34.Kf3 Ke6 35.Bg3 Kd5 36.Rd1+ Ke6
+37.Ke4 Ke7 38.Bh4+ Ke6 39.f4 Rd6 40.Rb1 Rb6
+41.f5+ Kd7 42.Ra1 Rc6 43.Bg3 g6 44.Be5 gxf5+
+45.gxf5 Bc5 46.Rd1+ Ke8 47.Kd5 Kd7 48.f6 Bf8
+49.Bd4 Rd6+ 50.Kxc4 Ke6 51.Re1+ Kf7 52.Rb1 Ke6
+53.Re1+ Kf7 54.Rb1 Ke6 55.Kd3 Rc6 56.Ra1 Kf7
+57.Ra5 Ke6 58.c4 h6 59.Re5+ Kf7 60.Ra5 Ke6
+61.Rh5 Kf7 62.h4 Ke6 63.Re5+ Kf7 64.Rh5 Ke6
+65.c5 a5 66.Kc4 Rc7 67.Kb5 a4 68.Kxa4 Bxc5
+69.Bxc5 Kxf6 70.Rxh6+ Kg7 71.Be3 Re7 72.Bg5 Rb7
+73.Ka5 Kg8 74.Rb6 Rxb6 75.Kxb6 Kh7 76.h5 Kh8
+77.h6 Kh7 78.Kc6 Kg8 79.Kd5 Kf7 80.Bd2 Kf6
+81.Be3 Kg6 82.Ke6 Kh5 83.h7 Kg6 84.h8=R Kg7
+85.Rh6 Kg8 86.Bd4 Kf8 87.Rh8# 1-0
+
+[Event ""]
+[GID "86"]
+[PlyCount "111"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.Nc3 Bc5 6.Bxc6 dxc6 7.Nxe5 Bd4 8.Nd3 O-O
+9.Qf3 Re8 10.O-O Bxc3 11.dxc3 Bg4 12.Qg3 Be2
+13.f3 Nh5 14.Qf2 Bxf1 15.Kxf1 b6 16.c4 Nf6
+17.Bf4 Nd7 18.Qg3 Rc8 19.h4 Nf8 20.h5 Ne6
+21.h6 g6 22.Be3 Nd4 23.Qf2 c5 24.Re1 f5
+25.e5 Ne6 26.Qg3 Qe7 27.b3 Rcd8 28.Nf4 Nxf4
+29.Bxf4 Qe6 30.a4 Rd4 31.Be3 f4 32.Bxf4 Qf5
+33.Bg5 Qxc2 34.e6 Rd6 35.Qe5 Qd3+ 36.Kf2 Qd4+
+37.Qxd4 cxd4 38.e7 Kf7 39.Re4 b5 40.axb5 axb5
+41.Rf4+ Kg8 42.Re4 Kf7 43.Rf4+ Kg8 44.Re4 Kf7
+45.Rf4+ Kg8 46.Re4 bxc4 47.bxc4 c5 48.Ke2 Kf7
+49.Rf4+ Kg8 50.Re4 Kf7 51.Rf4+ Kg8 52.Re4 Kf7
+53.Rf4+ Kg8 54.Re4 Kf7 55.Rf4+ Kg8 56.Re4 1/2-1/2
+
+[Event ""]
+[GID "85"]
+[PlyCount "190"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nb3 Bb4+ 6.Bd2 Qe7 7.f3 f5 8.Bxb4 Nxb4
+9.Be2 fxe4 10.O-O e3 11.a3 Nc6 12.Re1 Nf6
+13.Bc4 Kd8 14.N1d2 Qe5 15.Ne4 Nxe4 16.Rxe3 Qxb2
+17.Rxe4 Qf6 18.Rb1 Re8 19.Rxe8+ Kxe8 20.Qd5 Ne7
+21.Qh5+ Qg6 22.Qh4 h6 23.Nc5 Qf5 24.Nxb7 Bxb7
+25.Rxb7 Qxc2 26.Qd4 Qc1+ 27.Kf2 Kf8 28.Rxc7 Qc2+
+29.Ke1 Qc1+ 30.Kf2 Qc2+ 31.Ke1 Qc1+ 32.Kf2 Qc2+
+33.Kf1 Qb1+ 34.Kf2 Qc2+ 35.Kf1 Qb1+ 36.Ke2 Rb8
+37.Qxd7 Rb2+ 38.Ke3 Qg1+ 39.Kf4 g5+ 40.Ke4 Qe1+
+41.Kd4 Qg1+ 42.Kc3 Qc1+ 43.Kd4 Qd2+ 44.Bd3 Qf4+
+45.Kc3 Qe5+ 46.Kc4 Rb6 47.Qd8+ Kf7 48.Rd7 Qf4+
+49.Be4 Qc1+ 50.Kd4 Qd2+ 51.Kc4 Qe2+ 52.Bd3 Qa2+
+53.Kd4 Qa1+ 54.Ke3 Qg1+ 55.Kd2 Qxg2+ 56.Kc1 Qg1+
+57.Kc2 Qxh2+ 58.Kd1 Qg1+ 59.Kd2 Qf2+ 60.Kd1 Qxf3+
+61.Kc2 Qg2+ 62.Kc1 Qh1+ 63.Kd2 Rb2+ 64.Kc3 Qc1+
+65.Kd4 Qf4+ 66.Kc3 Qe5+ 67.Rd4 Rb6 68.Bc4+ Kg7
+69.Kc2 Qc5 70.Re4 Re6 71.Rd4 Re3 72.a4 Re5
+73.Qd7 h5 74.Kd2 h4 75.Bd3 h3 76.Re4 h2
+77.Rxe5 Qxe5 78.Qb7 g4 79.Be4 Kf6 80.Qb4 Nf5
+81.Ba8 Kg5 82.Qf8 Kf4 83.Qf7 Kg3 84.Bh1 Qe3+
+85.Kd1 Qd3+ 86.Kc1 Qf1+ 87.Kd2 Qxh1 88.Qc7+ Kh3
+89.Qh7+ Nh4 90.Qc7 Qg2+ 91.Kc3 h1=Q 92.Qh7 Qa1+
+93.Kc4 Qc6+ 94.Kd3 Qd1+ 95.Ke3 Qcf3# 0-1
+
+[Event ""]
+[GID "87"]
+[PlyCount "333"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Nd6 15.Qe3 c6 16.h3 Bf5
+17.Nb3 h6 18.Re1 Bg6 19.Nc5 Ne4 20.Nd3 Qb6
+21.Qc1 Bh4 22.g3 Bg5 23.a3 Bxf4 24.Nxf4 Bh7
+25.Kg2 Re8 26.Bd3 Qd8 27.Bxe4 dxe4 28.Kh2 Bf5
+29.Ng2 Bc8 30.Qf4 g5 31.Qe3 Bd7 32.g4 Qb6
+33.Qd2 Qd8 34.Qe3 Qb6 35.b4 Qb5 36.Qg3 Qc4
+37.Re3 Qa2 38.Qc7 Be6 39.Qxb7 Bd5 40.Qxa7 Qxf2
+41.Qa6 Kg7 42.Qe2 Qxe2 43.Rxe2 Ra8 44.Ne3 Rxa3
+45.c4 Be6 46.d5 cxd5 47.Nxd5 Rd3 48.Rxe4 Bxd5
+49.cxd5 Rxd5 50.Re2 Rb5 51.Rb2 h5 52.Kg2 Kg6
+53.Kf3 f5 54.gxf5+ Kxf5 55.Kg3 Kg6 56.Kf2 Kf6
+57.Kg3 Kf5 58.Kf3 Ke5 59.Kg3 Ke6 60.Re2+ Kf7
+61.Rb2 Kg6 62.Kf2 Kg7 63.Ke3 Kf7 64.Kf2 Ke6
+65.Kg3 Kd6 66.Ra2 Rd5 67.Ra6+ Ke7 68.Rh6 Rd3+
+69.Kg2 h4 70.b5 Rg3+ 71.Kh2 Rb3 72.b6 Kf7
+73.Kg2 Rg3+ 74.Kh2 Rb3 75.Kg2 Kg7 76.Rc6 Kh7
+77.Rc7+ Kg6 78.b7 Rb2+ 79.Kf3 Rb3+ 80.Kf2 Rb2+
+81.Ke3 g4 82.Rc6+ Kf5 83.Rc5+ Kf6 84.Rc6+ Kg5
+85.Rc5+ Kg6 86.Rc6+ Kg5 87.Rc8 Rxb7 88.Rg8+ Kh5
+89.Rxg4 Rb2 90.Rf4 Rh2 91.Rf8 Rxh3+ 92.Kf4 Rb3
+93.Rh8+ Kg6 94.Rg8+ Kf6 95.Ra8 h3 96.Ra6+ Kg7
+97.Ra7+ Kg6 98.Ra6+ Kf7 99.Rh6 Kg7 100.Rh5 Kg6
+101.Rh8 Kf6 102.Rh5 Ke7 103.Rh8 h2 104.Kg4 Rb1
+105.Rxh2 Rf1 106.Ra2 Kd6 107.Re2 Rf8 108.Re1 Rf7
+109.Re2 Rf6 110.Rd2+ Kc5 111.Re2 Kc4 112.Re4+ Kc3
+113.Kh5 Rf8 114.Kg5 Kd3 115.Ra4 Rf1 116.Rg4 Kc3
+117.Rh4 Rf7 118.Rh1 Kd4 119.Kg6 Rf2 120.Re1 Kd5
+121.Kg7 Rf4 122.Rh1 Rd4 123.Kg6 Rb4 124.Rd1+ Ke6
+125.Re1+ Kd6 126.Kh5 Rf4 127.Re8 Ra4 128.Kg5 Kd5
+129.Re2 Rd4 130.Kh5 Rf4 131.Re1 Rf7 132.Rd1+ Ke5
+133.Re1+ Kd5 134.Kh6 Kc6 135.Rd1 Rf5 136.Kg7 Ra5
+137.Rh1 Kd7 138.Re1 Ra6 139.Kf8 Kd6 140.Kf7 Ra2
+141.Re6+ Kd5 142.Re1 Ra8 143.Kg6 Ra4 144.Kh5 Kd6
+145.Rd1+ Ke7 146.Re1+ Kf8 147.Rf1+ Ke8 148.Re1+ Kf8
+149.Kg5 Ra7 150.Kg4 Rf7 151.Kg3 Ra7 152.Rf1+ Kg8
+153.Kg2 Rf7 154.Re1 Rg7+ 155.Kh2 Rh7+ 156.Kg3 Ra7
+157.Re2 Ra2 158.Rxa2 Kf7 159.Re2 Kg6 160.Kg4 Kf6
+161.Re1 Kg6 162.Rf1 Kh7 163.Kg5 Kg7 164.Rf2 Kh7
+165.Kf6 Kg8 166.Rh2 Kf8 167.Rh8# 1-0
+
+[Event ""]
+[GID "74"]
+[PlyCount "669"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Be7 7.c3 d5 8.exd5 Nxd5
+9.O-O O-O 10.Re1 Bf6 11.Bc2 b4 12.Ba4 Bb7
+13.a3 a5 14.Bxc6 Bxc6 15.Nxe5 Bxe5 16.Rxe5 Qf6
+17.d4 Rae8 18.cxb4 axb4 19.axb4 Nxb4 20.h3 Rxe5
+21.dxe5 Qxe5 22.Nc3 h5 23.Ra3 Re8 24.Rb3 Nd5
+25.Nxd5 Qe1+ 26.Qxe1 Rxe1+ 27.Kh2 Bxd5 28.Bd2 Rf1
+29.Rd3 c6 30.f3 f6 31.Bc3 Kf7 32.Rd2 h4
+33.Rd4 g5 34.Rd2 Ra1 35.Bb4 Ra7 36.Rd1 Rb7
+37.Bc3 Rb8 38.Rf1 Kg6 39.Ra1 Rd8 40.Kg1 Rd7
+41.Re1 Bf7 42.Kh1 Bc4 43.Kh2 Rd6 44.Bb4 Rd3
+45.Re4 Bf7 46.Bc3 Rd7 47.Rd4 Bd5 48.Rd1 Ra7
+49.Rf1 Ra4 50.Re1 Kf7 51.Rd1 Ra8 52.Rf1 Kg6
+53.Re1 Rd8 54.Re7 Rd6 55.Bb4 Rd8 56.Bc3 Rd6
+57.Bb4 Rd8 58.Ba5 Rb8 59.Bc3 Rd8 60.Bb4 Kf5
+61.Ba5 Ra8 62.Bc3 Rd8 63.Re1 Bc4 64.Kg1 Kg6
+65.Kh2 Bd5 66.Re2 Kf7 67.Kg1 Ra8 68.Kh2 Ra7
+69.Rd2 Ra1 70.Rf2 Rd1 71.Re2 Rc1 72.Re1 Rc2
+73.Kg1 f5 74.Rf1 Re2 75.Re1 Rc2 76.Rf1 Re2
+77.Re1 Rc2 78.Re5 Kg6 79.Re7 Kh6 80.Bg7+ Kh5
+81.Be5 Rc1+ 82.Kh2 Kh6 83.Bg7+ Kh7 84.Bc3+ Kg6
+85.Re2 Rf1 86.Be1 Kh6 87.Re8 Kg6 88.Re5 Bc4
+89.Re3 Kf7 90.Bc3 Rc1 91.Re1 Rc2 92.Rd1 Bd5
+93.Rd3 Re2 94.Kg1 g4 95.Rd2 Rxd2 96.Bxd2 gxf3
+97.gxf3 Bxf3 98.Be1 Ke6 99.Kf2 Be4 100.Ke3 Bg2
+101.Kf4 Bxh3 102.Bxh4 c5 103.Kg3 Bf1 104.Kf3 Ke5
+105.Bg3+ Kd5 106.Bf2 Bd3 107.Kf4 Kc4 108.Be1 Kb3
+109.Bc3 Bc2 110.Bf6 Be4 111.Bg7 Kb4 112.Bf8 Bd3
+113.Be7 Bc2 114.Bf6 Kb3 115.Bg7 Bb1 116.Bh8 Kc4
+117.Bc3 Kb5 118.Be5 Ka4 119.Bc3 Be4 120.Bf6 Kb5
+121.Bg7 Kc6 122.Bc3 Bc2 123.Be5 Kb5 124.Bg7 Ka4
+125.Bc3 Bd3 126.Bg7 Ka5 127.Bf6 Bb1 128.Bc3+ Ka6
+129.Bf6 Kb7 130.Be7 Kc6 131.Bf6 Kd5 132.Be5 Bd3
+133.Bc3 Kd6 134.Be1 Be4 135.Bd2 Kc7 136.Bc3 Bb1
+137.Be5+ Kb7 138.Bc3 Bd3 139.Bg7 Kc6 140.Bc3 Be4
+141.Bg7 Kd5 142.Bc3 Ke6 143.Bg7 Bd3 144.Bf8 Kd5
+145.Bg7 Kc4 146.Be5 Kb4 147.Bf6 c4 148.Bc3+ Kb5
+149.Kf3 Bb1 150.Kf4 Be4 151.Kg3 Ka4 152.Kf4 Kb3
+153.Kg3 Bb1 154.Kf3 Ka4 155.Kf4 Kb5 156.Ke5 Be4
+157.Kf4 Kc5 158.Kg5 Bd3 159.Kf4 Kb5 160.Ke5 Ka4
+161.Kf4 Kb3 162.Ke3 Be4 163.Kf4 Bc2 164.Kg3 Ka4
+165.Kf2 Kb5 166.Kg3 Kc6 167.Kf2 Be4 168.Kg3 Kb7
+169.Kf4 Bc2 170.Ke3 Bb1 171.Kf3 Kc6 172.Kf4 Bd3
+173.Bd4 Bc2 174.Bh8 Kb5 175.Bc3 Bb1 176.Kg3 Kb6
+177.Kf4 Bd3 178.Bd4+ Ka6 179.Bg7 Kb7 180.Bc3 Be4
+181.Ke5 Ka6 182.Kf4 Bb1 183.Be5 Kb7 184.Bg7 Be4
+185.Bc3 Kb6 186.Ke5 Kc6 187.Kf4 Kd5 188.Ke3 Kc5
+189.Kf4 Bc2 190.Kf3 Kb6 191.Bf6 Ka7 192.Kf4 Be4
+193.Bd4+ Kb8 194.Bg1 Bc2 195.Bd4 Kb7 196.Bf2 Kc6
+197.Bg3 Bd1 198.Bh4 Kd6 199.Kxf5 Kc6 200.Bf6 Bc2+
+201.Kf4 Kb6 202.Bc3 Kb7 203.Kf3 Bb1 204.Kf4 Bc2
+205.Kg3 Be4 206.Kh3 Kb6 207.Bd4+ Kc6 208.Bc3 Kb6
+209.Kh2 Kb7 210.Kg3 Bd3 211.Kf3 Bb1 212.Ke2 Bd3+
+213.Ke3 Bh7 214.Ke2 Bd3+ 215.Ke1 Bc2 216.Kd2 Bh7
+217.Ke1 Bc2 218.Kf2 Kb6 219.Kf3 Bd3 220.Kg3 Bh7
+221.Kh4 Bc2 222.Bh8 Kb7 223.Kg3 Bb1 224.Kf4 Bh7
+225.Kg5 Be4 226.Kf4 Bh7 227.Kg5 Be4 228.Bc3 Bc2
+229.Kh6 Ka7 230.Kh5 Bh7 231.Kh4 Kb8 232.Kg3 Kb7
+233.Kh3 Bd3 234.Kg3 Kc6 235.Kg2 Be4+ 236.Kg3 Kb7
+237.Bd4 Bf5 238.Kf4 Bh7 239.Kg5 Bd3 240.Bc3 Bc2
+241.Kh5 Bb1 242.Ba5 Be4 243.Bc3 Bb1 244.Kh4 Be4
+245.Kg3 Bb1 246.Kh3 Bd3 247.Kg4 Kc6 248.Kg3 Kb7
+249.Kf2 Ka6 250.b4 Kb7 251.Ke3 Bh7 252.Kd2 Bb1
+253.Kc1 Bf5 254.Kd2 Bh7 255.Kc1 Bd3 256.Kd1 Kb6
+257.Kc1 Bh7 258.Kb2 Kb5 259.Kc1 Bd3 260.Kb2 Be4
+261.Ka2 Bh7 262.Ka1 Bf5 263.Kb2 Bh7 264.Kc1 Be4
+265.Kd2 Bb1 266.Kc1 Bh7 267.Kd1 Kc6 268.b5+ Kb7
+269.b6 Bf5 270.Kd2 Be4 271.Kd1 Bf3+ 272.Ke1 Bh1
+273.Kd1 Bf3+ 274.Kc1 Bd5 275.Kd2 Be6 276.Ke3 Bg4
+277.Kf4 Be2 278.Ke3 Bd3 279.Kd2 Bf1 280.Kc1 Bh3
+281.Kd1 Bf5 282.Kd2 Bg4 283.Kc1 Be6 284.Kb2 Bh3
+285.Kc1 Bg4 286.Kd2 Bd7 287.Kc1 Bc6 288.Kd2 Bd7
+289.Kc1 Bb5 290.Kd1 Ba4+ 291.Kc1 Bb5 292.Kb2 Be8
+293.Kc2 Bg6+ 294.Kd2 Be4 295.Ke3 Bc2 296.Kf4 Bg6
+297.Kf3 Bh5+ 298.Kg2 Bf7 299.Kg3 Bd5 300.Kf4 Bc6
+301.Ke3 Bd7 302.Kf3 Bh3 303.Ke3 Bf5 304.Kd4 Bd7
+305.Ke3 Bh3 306.Kf4 Bc8 307.Kg5 Be6 308.Kf4 Bd5
+309.Ke3 Bf7 310.Kd2 Bg6 311.Kc1 Bh5 312.Kb2 Bd1
+313.Kb1 Be2 314.Kc2 Bh5 315.Kd2 Bg6 316.Ke1 Be4
+317.Kf2 Bf5 318.Ke3 Bg4 319.Kf4 Bf5 320.Kxf5 Kxb6
+321.Kg5 Kb5 322.Kf5 Kb6 323.Kg4 Ka6 324.Kf4 Kb5
+325.Kf3 Kc5 326.Kg4 Kc6 327.Bb4 Kb5 328.Bd2 Ka4
+329.Kh3 Kb3 330.Kg2 c3 331.Bc1 Kc2 332.Bf4 Kb2
+333.Kh3 c2 334.Bh6 c1=Q 335.Bxc1+ 1/2-1/2
+
+[Event ""]
+[GID "88"]
+[PlyCount "403"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 exd4 7.Re1 f5 8.Nxd4 Qh4
+9.g3 Qf6 10.Nxc6 bxc6 11.Nc3 Be7 12.Nxe4 fxe4
+13.Rxe4 O-O 14.Rf4 Qe6 15.Rxf8+ Bxf8 16.Bf4 d5
+17.Bxc7 Bd7 18.Bb6 Rb8 19.Bd4 Qe4 20.a3 Bg4
+21.Qd3 Qxd3 22.cxd3 c5 23.Be5 Rb6 24.f4 Kf7
+25.Kf2 Bf5 26.Rd1 Be7 27.b3 g5 28.Ke3 d4+
+29.Kf2 h5 30.Rd2 h4 31.Rd1 gxf4 32.Bxf4 h3
+33.Ke1 Bg4 34.Rd2 Be6 35.Rf2 Kg8 36.Rb2 Kf7
+37.Kd2 c4 38.dxc4 Bxa3 39.Ra2 Bc5 40.Bc7 Rb7
+41.Ba5 Bf5 42.Ra1 Bf8 43.Rf1 Ke6 44.Re1+ Kf6
+45.Re8 Bh6+ 46.Ke1 Kf7 47.Bd2 Bg7 48.Bg5 Bc2
+49.Ra8 d3 50.Be8+ Ke6 51.Rxa6+ Kf5 52.Ra5+ Ke6
+53.Rb5 Ra7 54.Kd2 Ra2 55.Rb6+ Kf5 56.Bf4 Bd4
+57.Rd6 Bb1+ 58.Kc1 Bh8 59.c5 Kg4 60.Bg6 Ra1
+61.Bh5+ Kxh5 62.Rh6+ Kg4 63.Rxh8 Bc2+ 64.Kd2 Ra2
+65.Rh4+ Kf3 66.Rxh3 Bb1+ 67.Kc3 Rc2+ 68.Kb4 d2
+69.Bxd2 Rxd2 70.c6 Bf5 71.Rh5 Be6 72.Rh6 Bd5
+73.Kc3 Rd1 74.Kc2 Ke2 75.Kb2 Rd2+ 76.Kc3 Rd3+
+77.Kb4 Rxb3+ 78.Kc5 Bf3 79.Rg6 Rc3+ 80.Kb6 Be4
+81.Rf6 Bf3 82.Rg6 Be4 83.Rf6 Bf3 84.c7 Rb3+
+85.Ka5 Rc3 86.Rf7 Bg4 87.Kb6 Bh3 88.Rh7 Bc8
+89.Rh8 Bd7 90.Rd8 Bh3 91.Rf8 Rb3+ 92.Kc6 Rc3+
+93.Kd6 Rd3+ 94.Ke5 Rc3 95.Rf7 Re3+ 96.Kd4 Rd3+
+97.Kc4 Rd2 98.Kc5 Rc2+ 99.Kd6 Rd2+ 100.Ke5 Rc2
+101.Rh7 Bc8 102.Kd6 Rd2+ 103.Ke5 Rc2 104.Rf7 Bh3
+105.Kd6 Rd2+ 106.Kc5 Rc2+ 107.Kb6 Rc3 108.Rf6 Rb3+
+109.Ka7 Ke3 110.Rh6 Bc8 111.Rb6 Rc3 112.Kb8 Bh3
+113.Rb4 Kf3 114.Kb7 Rc2 115.Rf4+ Ke3 116.Rb4 Kf3
+117.Rf4+ Ke3 118.Rh4 Bd7 119.Rh7 Rb2+ 120.Ka7 Bc8
+121.Re7+ Kd4 122.Re8 Rb7+ 123.Ka8 Rxc7 124.Kb8 Rc2
+125.Rxc8 Rxh2 126.Rg8 Ke5 127.Kb7 Rc2 128.Rc8 Rg2
+129.Rg8 Ke6 130.Kc6 Rc2+ 131.Kb5 Kf6 132.Kb4 Kf5
+133.Re8 Rc6 134.Rf8+ Kg6 135.Rg8+ Kf5 136.Rf8+ Kg4
+137.Rf4+ Kxg3 138.Rf8 Kg4 139.Rh8 Rc1 140.Kb5 Kf5
+141.Rh6 Ke5 142.Kb4 Rc7 143.Rh1 Rc8 144.Rh6 Rc1
+145.Kb5 Kd5 146.Kb4 Ke5 147.Kb5 Kd4 148.Rd6+ Ke4
+149.Rh6 Kd5 150.Rb6 Ra1 151.Kb4 Rb1+ 152.Ka5 Rf1
+153.Kb5 Ra1 154.Rh6 Rb1+ 155.Ka6 Kc5 156.Rh5+ Kd6
+157.Rh6+ Ke7 158.Rh7+ Kd8 159.Rh8+ Kc7 160.Rh7+ Kc6
+161.Rh6+ Kd7 162.Rh7+ Kc8 163.Rh8+ Kd7 164.Rh7+ Ke6
+165.Rh8 Rg1 166.Kb6 Rg4 167.Rh6+ Kd7 168.Rh7+ Kd6
+169.Rh1 Rb4+ 170.Ka7 Kc6 171.Rh6+ Kd7 172.Rh1 Rb3
+173.Ka6 Rb8 174.Rc1 Rh8 175.Ka7 Kd6 176.Kb6 Rh5
+177.Rc6+ Kd7 178.Rc7+ Kd8 179.Rc1 Re5 180.Rd1+ Ke8
+181.Rc1 Rg5 182.Rc8+ Kd7 183.Rc7+ Ke6 184.Rc1 Rg8
+185.Rc6+ Ke5 186.Rh6 Kd5 187.Rh4 Rh8 188.Rxh8 Kd4
+189.Kc6 Ke4 190.Rh4+ Kf3 191.Kd6 Kg3 192.Re4 Kf2
+193.Ke5 Kg3 194.Rf4 Kh3 195.Ke4 Kg2 196.Rf3 Kh2
+197.Kf5 Kg1 198.Kg4 Kh2 199.Rf2+ Kh1 200.Kg3 Kg1
+201.Rf4 Kh1 202.Rf1# 1-0
+
+[Event ""]
+[GID "89"]
+[PlyCount "260"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Bb7 10.d4 Re8 11.Nbd2 Bf8 12.a4 exd4
+13.cxd4 h6 14.Bc2 Nb4 15.Bb1 g6 16.Ra3 c5
+17.d5 Bg7 18.Nf1 Nh7 19.axb5 axb5 20.Rxa8 Bxa8
+21.Bd2 Na6 22.Qc1 h5 23.Bc3 Nf6 24.b3 Bb7
+25.Bb2 Qa5 26.N1d2 Nb4 27.Bc3 Qa8 28.Qb2 Qd8
+29.Nf1 Qe7 30.Ne3 Qd8 31.Qa1 Qa8 32.Qb2 Qd8
+33.Nf1 Qe7 34.N1d2 Qd8 35.Re3 Ba8 36.Nf1 Bb7
+37.N3h2 Rf8 38.Rf3 Ne8 39.Bxg7 Nxg7 40.Qd2 Qe7
+41.Rc3 Ra8 42.Nf3 Ne8 43.Rc1 Ra3 44.Qb2 Ra8
+45.Ng3 Qf6 46.Qe2 Nc7 47.Qe3 Kg7 48.Ne2 Qb2
+49.Nc3 Ra3 50.Qf4 Bc8 51.Kh2 Bd7 52.Qg5 Rxb3
+53.e5 Ncxd5 54.Nxd5 Rxf3 55.Nf6 Rxf2 56.Nxd7 Rxg2+
+57.Qxg2 Qxc1 58.exd6 Qxb1 59.Nxc5 Qa1 60.d7 Qd4
+61.d8=Q Qxd8 62.Qb2+ Qf6 63.Qxb4 Qf2+ 64.Kh1 Qg3
+65.Qxb5 Qxh3+ 66.Kg1 Qg3+ 67.Kf1 Qf4+ 68.Kg2 Kh6
+69.Qc6 Qd2+ 70.Kh1 f5 71.Ne6 h4 72.Qe8 g5
+73.Qh8+ Kg6 74.Qe8+ Kf6 75.Nd4 Qc1+ 76.Kg2 Qb2+
+77.Kf1 Qa1+ 78.Kg2 Qa2+ 79.Kg1 g4 80.Qf8+ Ke5
+81.Qxf5+ Kxd4 82.Qxg4+ Kc5 83.Qc8+ Kb6 84.Qd8+ Kc6
+85.Qe8+ Kc7 86.Qe7+ Kb8 87.Qd8+ Kb7 88.Qd7+ Ka6
+89.Qd3+ Kb7 90.Qe4+ Kb6 91.Qxh4 Qb1+ 92.Kf2 Qb2+
+93.Ke3 Qc3+ 94.Ke2 Qe5+ 95.Kf3 Ka5 96.Qh6 Qd5+
+97.Kf2 Qa2+ 98.Ke3 Qb3+ 99.Kd4 Qb2+ 100.Kd3 Qb5+
+101.Kd2 Qd5+ 102.Ke1 Qe4+ 103.Kf2 Qf5+ 104.Ke3 Qc5+
+105.Ke2 Qc4+ 106.Ke1 Qe4+ 107.Kd2 Qd5+ 108.Ke2 Qc4+
+109.Kf2 Qa2+ 110.Ke1 Qa1+ 111.Kd2 Qd4+ 112.Kc2 Qa4+
+113.Kc3 Qb4+ 114.Kc2 Qa4+ 115.Kd3 Qa3+ 116.Ke4 Qa2
+117.Qg5+ Ka6 118.Qf6+ Kb7 119.Qg7+ Kc6 120.Qh6+ Kb5
+121.Kd3 Qd5+ 122.Ke2 Qg2+ 123.Ke1 Qg3+ 124.Kf1 Qf3+
+125.Kg1 Qe2 126.Qg5+ Kb4 127.Qf6 Qd1+ 128.Kf2 Qc2+
+129.Kg3 Qc3+ 130.Qxc3+ Kxc3 1/2-1/2
+
+[Event ""]
+[GID "92"]
+[PlyCount "141"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6
+5.c3 a6 6.Ba4 g6 7.O-O Bg7 8.h3 O-O
+9.Be3 b5 10.Bc2 Re8 11.Nbd2 a5 12.Rc1 Bb7
+13.a4 b4 14.Bb3 h6 15.Bc4 Re7 16.Qb3 Qf8
+17.Rfe1 Rb8 18.Bb5 bxc3 19.bxc3 Kh7 20.Rb1 Nd8
+21.Qc2 Rc8 22.Bc4 Qe8 23.Rb2 Qd7 24.Reb1 Bc6
+25.Bb5 d5 26.Rc1 dxe4 27.dxe4 Ne8 28.Nc4 Nb7
+29.Nfd2 Rd8 30.Bxc6 Qxc6 31.Rb5 Ra8 32.Rcb1 Ned6
+33.Nxd6 Nxd6 34.Rd5 h5 35.c4 Bh6 36.Rc5 Qd7
+37.Nf1 Bf4 38.Bd2 Bxd2 39.Nxd2 Qe8 40.Kh2 f6
+41.Nf1 c6 42.Rb6 Rc7 43.g4 Nc8 44.Rbb5 hxg4
+45.Rxa5 Nd6 46.Ne3 Rxa5 47.Rxa5 gxh3 48.Ng4 Qe6
+49.Qe2 Kg7 50.Ra8 Nf7 51.a5 Ng5 52.Qd1 Nf7
+53.a6 Qxc4 54.Qf3 Qe6 55.a7 Ng5 56.Qa3 Qe7
+57.Rg8+ Kxg8 58.a8=Q+ Kg7 59.Qb3 Ne6 60.Qxh3 Nf8
+61.Qh6+ Kf7 62.Qh8 g5 63.Kg3 Ra7 64.Qc8 Ra3+
+65.Kg2 Rh3 66.Kxh3 Qa3+ 67.Kg2 Qe7 68.Nh6+ Kg6
+69.Qf5+ Kh5 70.Nf7+ Nh7 71.Qhxh7# 1-0
+
+[Event ""]
+[GID "91"]
+[PlyCount "150"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.a4 Bf5 15.a5 c6 16.Nd2 h6
+17.Qe3 Nd6 18.h3 Be7 19.a6 b6 20.Qg3 Bh4
+21.Qf3 Bg6 22.Bd3 Bxd3 23.Qxd3 Bg5 24.Bxd6 Qxd6
+25.Re1 g6 26.g3 Bf6 27.Nf3 Kg7 28.Kg2 Rb8
+29.b4 Rd8 30.Re2 h5 31.Qe3 Rd7 32.Qd2 Kf8
+33.Qh6+ Bg7 34.Qg5 Bf6 35.Qh6+ Bg7 36.Qd2 Bf6
+37.Ne5 Re7 38.Qf4 Bxe5 39.dxe5 Qe6 40.g4 hxg4
+41.hxg4 c5 42.Kg3 cxb4 43.cxb4 b5 44.Re1 Kg8
+45.Qd4 Qxa6 46.Qxd5 Kg7 47.Qf3 Qe6 48.Qf6+ Kg8
+49.Qxe6 Rxe6 50.Kf4 a5 51.bxa5 Ra6 52.e6 fxe6
+53.Kg5 Kf7 54.Rc1 Rxa5 55.Rc7+ Ke8 56.Kxg6 Ra2
+57.Rf7 b4 58.Rf3 e5 59.g5 Ke7 60.Kh7 Ra3
+61.Rf5 Rh3+ 62.Kg8 Kd6 63.Rf6+ Kc5 64.g6 b3
+65.Rf8 e4 66.g7 Rh2 67.f4 exf3 68.Rxf3 b2
+69.Rf1 Rg2 70.Kf7 Kc4 71.g8=Q Rxg8 72.Kxg8 Kb3
+73.Rg1 Ka2 74.Kf7 b1=Q 75.Rxb1 Kxb1 1/2-1/2
+
+[Event ""]
+[GID "79"]
+[PlyCount "481"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 exd4 7.Re1 d5 8.Nxd4 Bd6
+9.Nxc6 Bxh2+ 10.Kh1 Qh4 11.Rxe4+ dxe4 12.Qd8+ Qxd8
+13.Nxd8+ Kxd8 14.Kxh2 Be6 15.Nc3 f5 16.Bf4 c6
+17.g4 g6 18.g5 Rf8 19.Kg3 Rf7 20.Be3 Kc7
+21.Bf4+ Kd8 22.Be3 Kc7 23.Ne2 Bc4 24.Nf4 Rd7
+25.a3 a5 26.Rc1 Rad8 27.Bb3 Bxb3 28.cxb3 Re8
+29.b4 axb4 30.axb4 Re5 31.Ne2 Red5 32.Nc3 Rd3
+33.b5 Kd6 34.bxc6 bxc6 35.Kg2 Rb7 36.Na4 Rxe3
+37.fxe3 Rb4 38.Ra1 Ke5 39.Kg3 Rb3 40.Ra3 f4+
+41.Kf2 fxe3+ 42.Ke2 Rb8 43.Kxe3 Kf5 44.b3 Kxg5
+45.Nc5 h5 46.Nxe4+ Kg4 47.Kf2 g5 48.Ra4 Kf5
+49.Nd2 g4 50.Rc4 Rd8 51.Nf1 Rd3 52.b4 Rf3+
+53.Ke2 Rb3 54.Nd2 Rb2 55.Rc5+ Kf4 56.Rxh5 Rxb4
+57.Rh8 Ra4 58.Nf1 Ra2+ 59.Ke1 Ra3 60.Rf8+ Ke5
+61.Rg8 Kf4 62.Rf8+ Ke5 63.Nd2 Ra4 64.Rg8 Kf4
+65.Kf2 Ra2 66.Rf8+ Ke5 67.Ke3 Ra3+ 68.Ke2 Ra2
+69.Kd3 Ra3+ 70.Kc2 Ra2+ 71.Kc3 Ra3+ 72.Kb2 Ra4
+73.Kc3 Ra3+ 74.Kc2 Ra2+ 75.Kd3 Ra3+ 76.Ke2 Ra2
+77.Rd8 Kf4 78.Kd3 Ra3+ 79.Ke2 Ra2 80.Kf1 g3
+81.Nc4 c5 82.Rf8+ Ke4 83.Kg1 Ra1+ 84.Kg2 Ra4
+85.Re8+ Kf4 86.Rf8+ Ke4 87.Nd2+ Kd3 88.Nf3 Ra2+
+89.Kxg3 Ra6 90.Ne5+ Kd4 91.Ng4 Kc3 92.Kf3 Rd6
+93.Nf2 Re6 94.Ne4+ Kd4 95.Rd8+ Kc4 96.Kf4 Re7
+97.Nd6+ Kc3 98.Ne4+ Kc4 99.Nf6 Re1 100.Ng4 Kb3
+101.Ne3 Re2 102.Rd3+ Kb4 103.Rd8 Kb3 104.Kf3 Rh2
+105.Nf5 Kc3 106.Ng3 Rh3 107.Kg4 Rh7 108.Kf4 Kc4
+109.Nf5 Kc3 110.Kg3 Kb4 111.Rb8+ Kc3 112.Rd8 Kb4
+113.Ne3 Rf7 114.Kg4 Kb3 115.Rc8 Kb4 116.Nd5+ Kc4
+117.Nf4 Re7 118.Kf3 Rf7 119.Re8 Rd7 120.Ke4 Rd1
+121.Rc8 Re1+ 122.Kf5 Rd1 123.Ke4 Re1+ 124.Kf3 Re5
+125.Ng2 Kd4 126.Rh8 Kd3 127.Rd8+ Kc3 128.Nf4 Re1
+129.Nd5+ Kc2 130.Ne3+ Kc3 131.Nd5+ Kc2 132.Ne3+ Kc3
+133.Ng4 Kc4 134.Nf2 Re7 135.Ng4 Kb3 136.Rc8 Rf7+
+137.Ke2 Rf5 138.Ne3 Rh5 139.Kd3 Rh3 140.Rxc5 Kb4
+141.Rc1 Rh2 142.Nf5 Rh3+ 143.Ke2 Rh2+ 144.Kf3 Rh3+
+145.Ke2 Rh2+ 146.Kd3 Rh3+ 147.Kd4 Rb3 148.Nd6 Rh3
+149.Rb1+ Rb3 150.Rh1 Rg3 151.Rb1+ Rb3 152.Rh1 Rg3
+153.Ne4 Rf3 154.Rh8 Rf5 155.Rh1 Rf3 156.Rh6 Rf4
+157.Rb6+ Ka4 158.Kd3 Rh4 159.Rb8 Ka3 160.Nc5 Rh1
+161.Rb3+ Ka2 162.Rb8 Ka3 163.Ne6 Ka2 164.Nd4 Rh3+
+165.Kc4 Rh2 166.Nf3 Rb2 167.Ra8+ Kb1 168.Rh8 Rb7
+169.Rh2 Kc1 170.Nd4 Rb8 171.Kc3 Rc8+ 172.Kd3 Rb8
+173.Rc2+ Kb1 174.Rh2 Kc1 175.Rd2 Rd8 176.Ra2 Rc8
+177.Ne2+ Kb1 178.Ra7 Rd8+ 179.Nd4 Rh8 180.Rb7+ Ka2
+181.Ra7+ Kb1 182.Rb7+ Ka2 183.Rb6 Rh3+ 184.Kc4 Rh4
+185.Kd3 Rh3+ 186.Kc4 Rh4 187.Ra6+ Kb2 188.Kd3 Rh3+
+189.Ke2 Kb1 190.Ra1+ Kxa1 191.Nf3 Rh1 192.Ke3 Kb2
+193.Ke4 Rd1 194.Nh4 Kb3 195.Nf3 Kb4 196.Kf4 Kc4
+197.Ke5 Ra1 198.Kf4 Kd5 199.Ke3 Ra4 200.Nd2 Ke6
+201.Ne4 Ke5 202.Nc3 Rd4 203.Nb1 Rh4 204.Kd3 Rh3+
+205.Kc4 Rh2 206.Nc3 Rh1 207.Kc5 Rf1 208.Na2 Ke4
+209.Kc4 Ke3 210.Nb4 Rf4+ 211.Kc5 Ke4 212.Na2 Rf8
+213.Nc3+ Ke3 214.Nb5 Rf1 215.Kc4 Rc1+ 216.Kd5 Kf4
+217.Nd4 Rd1 218.Kc4 Ke4 219.Nb3 Ke5 220.Kc5 Rh1
+221.Kc4 Rh2 222.Na5 Ke4 223.Nc6 Rc2+ 224.Kb5 Rc1
+225.Nb4 Kd4 226.Nc6+ Kd5 227.Nb4+ Kd6 228.Na6 Rc6
+229.Ka5 Rc4 230.Kb5 Rc1 231.Nb4 Rc5+ 232.Kb6 Rg5
+233.Nc2 Kd5 234.Kb5 Rg3 235.Nb4+ Kd4 236.Nc6+ Ke4
+237.Nb4 Rc3 238.Ka6 Rc5 239.Ka7 Ke3 240.Kb6 Kf3
+241.Kxc5 1/2-1/2
+
+[Event ""]
+[GID "93"]
+[PlyCount "175"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Be7
+5.O-O Nf6 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 h6 10.d4 Bb7 11.Nbd2 exd4 12.cxd4 Nb4
+13.Qe2 Re8 14.a3 Nc6 15.Ba2 Bf8 16.Qd3 Qd7
+17.Nf1 Ne7 18.Ng3 Ng6 19.Bb1 c5 20.d5 Qd8
+21.b3 Nd7 22.Qf1 Nh4 23.Nxh4 Qxh4 24.Nf5 Qf6
+25.Ra2 g6 26.Bb2 Qd8 27.Ne3 Nf6 28.f3 Bc8
+29.b4 c4 30.a4 Rb8 31.Qf2 Bg7 32.Ba1 Bd7
+33.Bc2 Nh5 34.Bxg7 Kxg7 35.Kh2 Qf6 36.axb5 axb5
+37.Ra7 Re7 38.g3 Bc8 39.Rxe7 Qxe7 40.f4 Ra8
+41.e5 dxe5 42.fxe5 Ra2 43.Re2 Ra3 44.Nf1 Qg5
+45.Ne3 Bd7 46.Re1 Kg8 47.e6 Be8 48.d6 fxe6
+49.Ng4 Rxg3 50.Rxe6 Rxh3+ 51.Kxh3 Nf4+ 52.Qxf4 Qxf4
+53.Rxe8+ Kf7 54.Re7+ Kf8 55.Bxg6 c3 56.Ne5 c2
+57.Bxc2 Qe3+ 58.Kg4 Qe2+ 59.Kf5 Qxc2+ 60.Ke6 Qa2+
+61.Kd7 Qa7+ 62.Kc6 Qa6+ 63.Kc5 Qa1 64.Nc6 Qf6
+65.Rb7 Qf2+ 66.Kxb5 Qf1+ 67.Kb6 Qf2+ 68.Kc7 h5
+69.d7 Qf4+ 70.Kc8 Qg4 71.Kb8 Qf4+ 72.Rc7 Kg7
+73.d8=Q+ Kh6 74.b5 h4 75.b6 h3 76.Qh8+ Kg5
+77.Qxh3 Kg6 78.Qe6+ Kg5 79.Qe5+ Qxe5 80.Nxe5 Kf5
+81.Nc6 Ke6 82.b7 Kd5 83.Ka8 Ke4 84.b8=Q Kf4
+85.Re7+ Kg4 86.Qf8 Kh3 87.Rg7 Kh4 88.Qh8# 1-0
+
+[Event ""]
+[GID "32"]
+[PlyCount "429"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.Nc3 Bc5 6.Bxc6 dxc6 7.Nxe5 Bxf2+ 8.Kxf2 Qd4+
+9.Ke1 Qxe5 10.d3 O-O 11.Qd2 Nd5 12.Kf2 Qf6+
+13.Kg1 Qd4+ 14.Kf1 Nxc3 15.Qxc3 Qd6 16.b3 c5
+17.Bb2 f6 18.h3 b5 19.Kf2 b4 20.Qd2 a5
+21.Rhf1 a4 22.Rae1 Be6 23.Re2 Qh2 24.Qe3 a3
+25.Ba1 f5 26.Qg5 Rf7 27.Ke1 h6 28.Qf4 Qxf4
+29.Rxf4 g5 30.Rf1 f4 31.h4 Re8 32.Ref2 Bg4
+33.hxg5 hxg5 34.g3 f3 35.Rh1 Rh7 36.Rxh7 Kxh7
+37.Rh2+ Kg6 38.Rh8 Rxh8 39.Bxh8 Kf7 40.Kf2 Bh5
+41.Be5 g4 42.Bxc7 Ke7 43.Bf4 Bf7 44.Ke1 Ke6
+45.Kd2 Kd7 46.Be3 Kd6 47.Bf2 Bg8 48.Ke1 Kc6
+49.Kd2 Kd6 50.Ke1 Kc6 51.Kd1 Bf7 52.Kd2 Kd6
+53.Ke3 Ke5 54.Kd2 Kd6 55.Be3 Kc6 56.Ke1 Be6
+57.Kf2 Bg8 58.Ke1 Be6 59.Kf2 Bg8 60.Bd2 Be6
+61.Be1 Kd6 62.Ke3 Ke5 63.Bf2 Bf7 64.Bg1 Bg8
+65.Kd2 Kd6 66.Ke1 Be6 67.Bf2 Bg8 68.Be3 Kc6
+69.Kd1 Kd6 70.Bg1 Bf7 71.Bf2 Kc6 72.Be3 Bg6
+73.Ke1 Bf7 74.Bg1 Kd6 75.Be3 Kc6 76.Kf1 Bg8
+77.Kf2 Be6 78.Bd2 Bg8 79.Be1 Kd6 80.Ke3 Ke5
+81.c4 Bf7 82.Bf2 Bg6 83.Kd2 Kd6 84.Bg1 Bh7
+85.Ke1 Bg6 86.Be3 Bh5 87.Kd2 Bg6 88.Bf2 Bh7
+89.Bg1 Bg6 90.Bf2 Bh7 91.Kc2 Bg6 92.Kc1 Kc6
+93.Kd2 Kd6 94.Ke3 Ke5 95.Bg1 Bh7 96.Kd2 Kd6
+97.Kc2 Bg6 98.Be3 Kc6 99.Kc1 Bh7 100.Bf2 Bg6
+101.Kd1 Bh7 102.Be3 Bg6 103.Bf2 Bh7 104.Be3 Bg6
+105.Kd2 Kd6 106.Ke1 Bh5 107.Bh6 Kc6 108.Bf8 Bg6
+109.Bh6 Bh5 110.Bf8 Bg6 111.Kf2 Bf7 112.Be7 Bh5
+113.Bg5 Be8 114.Bd2 Bf7 115.Be3 Bg6 116.Ke1 Bf7
+117.Kf2 Bg6 118.Ke1 Bf7 119.Bf4 Bh5 120.Kf2 Bg6
+121.Be3 Kd6 122.Kg1 Bf7 123.Kf1 Kc6 124.Bf4 Be8
+125.Kf2 Bg6 126.Be3 Kd6 127.Kg1 Bf7 128.Kf1 Kc6
+129.Ke1 Bg6 130.Kd1 Kd6 131.Kd2 Kc6 132.e5 Bf7
+133.Bf2 Be6 134.Ke3 Bf5 135.Bg1 Kc7 136.Kd2 Kc6
+137.Bf2 Be6 138.Ke3 Bf5 139.Be1 Kb6 140.Kd2 Be6
+141.Ke3 Bf5 142.Kd2 Be6 143.Bf2 Kc6 144.Kc2 Bd7
+145.Kd1 Bf5 146.Kc2 Bd7 147.Be3 Kb6 148.Kd2 Bc8
+149.Bh6 Bf5 150.Ke3 Kc6 151.Bf8 Bd7 152.Bd6 Bc8
+153.Bf8 Be6 154.Bd6 Bd7 155.Bf8 Be6 156.Bh6 Kb6
+157.Kf2 Kc6 158.Ke3 Bf5 159.Bg7 Be6 160.Bf8 Bf5
+161.Be7 Bg6 162.Bf8 Bf5 163.Bg7 Be6 164.Kd2 Bd7
+165.Bf8 Bf5 166.Ke3 Kb6 167.Bg7 Be6 168.Bh6 Bd7
+169.Bf8 Be6 170.Be7 Bf5 171.Bd6 Kc6 172.Be7 Bg6
+173.Bf8 Bf5 174.Bh6 Be6 175.Kd2 Bc8 176.Be3 Be6
+177.Bf2 Bf5 178.Bg1 Be6 179.Bf2 Bf5 180.Bg1 Be6
+181.Be3 Bf7 182.Bf2 Kd7 183.Bxc5 Bg6 184.Ke3 Ke6
+185.Bxb4 Kxe5 186.Bxa3 f2 187.Kxf2 Kd4 188.Ke2 Kc3
+189.d4 Kxd4 190.Kd2 Be4 191.Bb2+ Kc5 192.Kc3 Kb6
+193.b4 Bg2 194.b5 Ka5 195.Kb3 Kb6 196.Kb4 Kb7
+197.a4 Kc7 198.c5 Be4 199.a5 Kd7 200.a6 Ke6
+201.c6 Kd6 202.Ka5 Bxc6 203.bxc6 Kxc6 204.Bd4 Kd5
+205.Be3 Ke4 206.Bf4 Kf3 207.a7 Kg2 208.a8=Q+ Kg1
+209.Qc8 Kh1 210.Qxg4 Kg2 211.Qe2+ Kh3 212.Qf3 Kh2
+213.g4+ Kg1 214.Qe2 Kh1 215.Qf1# 1-0
+
+[Event ""]
+[GID "94"]
+[PlyCount "129"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.d4 exd4 7.Re1 d5 8.Nxd4 Bc5
+9.Bxc6+ bxc6 10.f3 Qh4 11.g3 Qh5 12.fxe4 Qxd1
+13.Rxd1 Bg4 14.Rd2 dxe4 15.c3 O-O-O 16.Rf2 Rxd4
+17.cxd4 Bxd4 18.Kg2 e3 19.Rf4 e2 20.Bd2 Bxb2
+21.Rxg4 Bxa1 22.Kf2 Re8 23.Rc4 Be5 24.Nc3 c5
+25.Nxe2 Bd6 26.Be3 Re5 27.Ng1 Rh5 28.Nf3 Kb7
+29.Rg4 g6 30.Rg5 f6 31.Rxh5 gxh5 32.Bd2 Kc6
+33.Bc3 Be7 34.Nh4 Kb5 35.Ke2 Ka4 36.Nf5 Bd6
+37.Bxf6 Ka3 38.Kd3 Kxa2 39.Kc2 Ka3 40.Kc3 a5
+41.Nxd6 cxd6 42.Be7 Ka4 43.Kc4 d5+ 44.Kxc5 Kb3
+45.Kxd5 a4 46.Ke4 a3 47.Bxa3 Kxa3 48.Kf4 Kb3
+49.Kg5 Kc2 50.Kxh5 Kd3 51.Kh6 Ke2 52.Kxh7 Kf3
+53.Kg6 Kg4 54.h4 Kxg3 55.h5 Kf4 56.h6 Ke5
+57.h7 Kd6 58.h8=Q Kc6 59.Qe5 Kb6 60.Kf5 Ka6
+61.Ke6 Kb7 62.Qb5+ Kc7 63.Ke7 Kc8 64.Kd6 Kd8
+65.Qb8# 1-0
+
+[Event ""]
+[GID "99"]
+[PlyCount "60"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Bf1 f6 7.b4 a6 8.d4 Be7
+9.dxe5 fxe5 10.Nxe5 Nxe5 11.Rxe5 O-O 12.c3 c6
+13.Bd3 Ne8 14.Nd2 d5 15.Qc2 Bd6 16.Bxh7+ Kh8
+17.Nf3 Rxf3 18.Rh5 Nf6 19.Bg5 Qc7 20.Qg6 Rf4
+21.Bxf6 Rxf6 22.Qe8+ Bf8 23.Bg6+ Kg8 24.Bh7+ Kh8
+25.Bg6+ Kg8 26.Bh7+ Kh8 27.Bg6+ Kg8 28.Bh7+ Kh8
+29.Bf5+ Kg8 30.Bh7+ Kh8 1/2-1/2
+
+[Event ""]
+[GID "97"]
+[PlyCount "107"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.O-O O-O 8.c3 d5
+9.exd5 Nxd5 10.Re1 Bb7 11.Nbd2 Bb6 12.Nxe5 Nf4
+13.Nxf7 Qh4 14.Ne4 Nxg2 15.Kxg2 h6 16.Qf3 Na5
+17.Nxh6+ Kh7 18.Nf5 Nxb3 19.axb3 Qxf2+ 20.Qxf2 Bxf2
+21.Kxf2 Rxf5+ 22.Ke2 Re8 23.Kd1 Bxe4 24.Rxe4 Rxe4
+25.dxe4 Rf2 26.Rxa6 Rxh2 27.Bd2 g5 28.Bxg5 Rxb2
+29.Rc6 Rxb3 30.Rxc7+ Kg6 31.Kc2 Ra3 32.Bd2 Kf6
+33.Rc5 Ra5 34.Kd3 Ke7 35.Rd5 Kf7 36.Be3 Ke6
+37.Bd4 Ke7 38.Bb6 Ra1 39.Rxb5 Ra6 40.Kd4 Kd6
+41.Bc5+ Kc6 42.Rb6+ Rxb6 43.Bxb6 Kd6 44.c4 Kc6
+45.c5 Kb5 46.e5 Ka4 47.e6 Kb3 48.e7 Kb2
+49.e8=Q Kb3 50.c6 Kc2 51.c7 Kb1 52.c8=Q Kb2
+53.Qb5+ Ka2 54.Qa8# 1-0
+
+[Event ""]
+[GID "96"]
+[PlyCount "141"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.c3 O-O 8.O-O d6
+9.Nbd2 a5 10.a4 b4 11.Re1 Rb8 12.h3 h6
+13.Nf1 Ba6 14.d4 Ba7 15.Ng3 bxc3 16.bxc3 exd4
+17.cxd4 Nxd4 18.Nxd4 Bxd4 19.Bxf7+ Rxf7 20.Qxd4 Nd7
+21.Bd2 Nc5 22.Qc3 Qf8 23.Qxa5 Bd3 24.Ra3 Rb2
+25.f3 Rxf3 26.Nf5 Rxf5 27.exf5 Qxf5 28.Qc3 Rc2
+29.Qb4 Rc4 30.Qb8+ Kh7 31.Re8 Re4 32.Rh8+ Kg6
+33.Qg8 Qf1+ 34.Kh2 Rh4 35.Qe8+ Qf7 36.Qe3 Rh5
+37.Rxd3 Nxd3 38.Qxd3+ Qf5 39.Qg3+ Kf7 40.a5 Qf1
+41.a6 Qxa6 42.Qf3+ Ke6 43.Qxh5 Qd3 44.Rf8 g6
+45.Qxh6 Kd7 46.Rf7+ Kc6 47.Qf4 Qd5 48.Be3 Kb7
+49.Rg7 Qe6 50.Qg3 Qf6 51.Rxg6 Qf1 52.Rg7 Kc6
+53.Qf3+ Qxf3 54.gxf3 Kd5 55.Kg3 c5 56.Rc7 Kc4
+57.Bxc5 dxc5 58.h4 Kd4 59.Rxc5 Kxc5 60.h5 Kd6
+61.h6 Kc5 62.h7 Kc4 63.h8=Q Kc5 64.Qc3+ Kd6
+65.Kf4 Kd5 66.Kf5 Kd6 67.Qc4 Kd7 68.Qc5 Ke8
+69.Qc7 Kf8 70.Kf6 Ke8 71.Qe7# 1-0
+
+[Event ""]
+[GID "95"]
+[PlyCount "364"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Bb7 10.d4 h6 11.Nbd2 exd4 12.cxd4 Nb4
+13.Qe2 c5 14.a3 Nc6 15.dxc5 Re8 16.a4 Na5
+17.cxd6 Bxd6 18.Bc2 Rc8 19.Qd3 Nc4 20.axb5 axb5
+21.Ra7 Ba8 22.Qb3 Bc5 23.Rxa8 Rxa8 24.Qxb5 Nxd2
+25.Bxd2 Rc8 26.Bc3 Qd7 27.Qe2 Qa7 28.Rd1 Rcd8
+29.Rxd8 Rxd8 30.g3 Qb6 31.e5 Nd7 32.Bd3 Nf8
+33.Bc4 Ne6 34.b3 Bb4 35.Bxb4 Qxb4 36.Qe4 Qb8
+37.h4 Qa8 38.Qe2 Qb7 39.Kh2 Kf8 40.Qe3 Qc6
+41.Qe2 Qb7 42.Qe3 Rd1 43.Qe2 Ra1 44.Kg2 Nd4
+45.Qd3 Qxf3+ 46.Qxf3 Nxf3 47.Kxf3 Re1 48.Kf4 g6
+49.Bd3 Ke7 50.Bc4 Rc1 51.Ke4 Rc2 52.Ke3 Rb2
+53.Bd5 f6 54.exf6+ Kxf6 55.Bg8 Rc2 56.Bd5 Rc1
+57.Bc4 Rb1 58.Kf4 Rb2 59.Ke3 Ke7 60.Kf3 Rc2
+61.Ke3 Kf6 62.Bd5 Kg7 63.Bc4 Rb2 64.Bd5 Ra2
+65.Bc4 Rc2 66.Be6 Rb2 67.Bd5 Kf6 68.Bc4 Ke7
+69.Kf3 Kf6 70.Ke3 Ke5 71.Kf3 Rc2 72.Bf7 Kf5
+73.Ke3 Rc3+ 74.Ke2 g5 75.hxg5 hxg5 76.Bh5 Ke6
+77.b4 Ke7 78.b5 Rb3 79.Bg4 Rb4 80.Kf3 Rxb5
+81.Bc8 Rb4 82.Bh3 Rc4 83.Bf5 Kd6 84.Bh3 Rb4
+85.Bf5 Rd4 86.Ke3 Ke5 87.Bh3 Rb4 88.Kf3 Rc4
+89.Bd7 Kf6 90.Be8 Rd4 91.Bb5 Rd5 92.Bc6 Rf5+
+93.Kg2 Ke5 94.Bb7 Rf6 95.f3 Rf7 96.Ba6 Kd4
+97.Kf2 Ra7 98.Bf1 Ra2+ 99.Be2 Ra3 100.f4 gxf4
+101.gxf4 Ke4 102.f5 Kxf5 103.Bh5 Kf4 104.Ke2 Rc3
+105.Kd2 Rh3 106.Bg6 Ke5 107.Bf7 Rf3 108.Bh5 Rg3
+109.Bf7 Rg7 110.Bh5 Rh7 111.Bg6 Rh6 112.Bb1 Rh3
+113.Kc2 Ra3 114.Kd2 Kd6 115.Be4 Kc5 116.Bb1 Kc4
+117.Bf5 Rc3 118.Bg6 Kd4 119.Bb1 Rc6 120.Ke2 Rb6
+121.Bf5 Rb5 122.Bd7 Rb7 123.Ba4 Ra7 124.Bb5 Ra3
+125.Bc6 Rb3 126.Kf2 Rc3 127.Ba4 Ke5 128.Ke2 Ke4
+129.Kd2 Kd4 130.Bd7 Rc7 131.Be6 Rc5 132.Ba2 Ra5
+133.Bb1 Ra3 134.Kc2 Kc4 135.Kd2 Rg3 136.Ba2+ Kd4
+137.Kc2 Rf3 138.Be6 Ke5 139.Bd7 Ra3 140.Bg4 Re3
+141.Bd7 Kd4 142.Bf5 Rc3+ 143.Kb2 Kc4 144.Bc8 Kb4
+145.Ba6 Rc7 146.Be2 Rc5 147.Ba6 Rh5 148.Kc2 Rh3
+149.Kd2 Kc5 150.Bb7 Kb5 151.Be4 Kb6 152.Ba8 Rh8
+153.Be4 Ka7 154.Bd3 Kb8 155.Bf5 Ka8 156.Be6 Kb8
+157.Bf5 Ka8 158.Be6 Kb8 159.Bd7 Ka8 160.Bb5 Kb8
+161.Bc4 Ka7 162.Bd5 Rh6 163.Bg8 Rf6 164.Bc4 Kb8
+165.Bd5 Rg6 166.Bg2 Rxg2+ 167.Ke3 Kc7 168.Ke4 Kd6
+169.Kf3 Rb2 170.Ke4 Kc5 171.Kf3 Kd4 172.Kf4 Rf2+
+173.Kg4 Ke3 174.Kg5 Ke4 175.Kg6 Ke5 176.Kg5 Rg2+
+177.Kh4 Kf4 178.Kh5 Rg1 179.Kh6 Kf5 180.Kh7 Kf6
+181.Kh8 Kf7 182.Kh7 Rh1# 0-1
+
+[Event ""]
+[GID "50"]
+[PlyCount "212"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Bf1 f6 7.b4 a6 8.d4 Be7
+9.dxe5 Nxe5 10.Nxe5 fxe5 11.Rxe5 O-O 12.c3 c6
+13.Nd2 Nf7 14.Re1 d5 15.Nb3 Bd6 16.Qd4 Qc7
+17.h3 Ne5 18.a4 Bf5 19.Nc5 Rae8 20.Bd2 Nd7
+21.Rxe8 Rxe8 22.Nxd7 Qxd7 23.Be3 Qf7 24.b5 axb5
+25.axb5 c5 26.Qd2 Be4 27.Bd3 Bxd3 28.Qxd3 Rd8
+29.b6 Be7 30.Ra7 d4 31.cxd4 cxd4 32.Bd2 Bc5
+33.Ra5 Bxb6 34.Rb5 Bc7 35.g3 b6 36.Rb4 Qd5
+37.h4 h6 38.Rb1 Kh8 39.Re1 Rf8 40.Rb1 Rf3
+41.Qg6 Rf6 42.Qd3 Re6 43.Rc1 Qd7 44.Ra1 Bb8
+45.Ra8 Qb7 46.Ra1 Qd5 47.Rc1 Qd7 48.Ra1 Re8
+49.Ra6 Qb7 50.Qg6 Rf8 51.Qxb6 Qf7 52.f4 Qd5
+53.Qg6 Rg8 54.Qd3 Re8 55.Ra5 Qc6 56.Ra1 Bd6
+57.Kh2 Qd5 58.Ra5 Qe6 59.Ra6 Qe2+ 60.Qxe2 Rxe2+
+61.Kh3 Be7 62.Ba5 Ra2 63.Re6 Rxa5 64.Rxe7 Rd5
+65.Re2 g6 66.Kg2 Kg7 67.Kf3 Rd6 68.Ke4 Kf6
+69.g4 Re6+ 70.Kd3 Rxe2 71.Kxe2 h5 72.g5+ Ke6
+73.Kd2 Kd6 74.Kc2 Ke6 75.Kd2 Kd6 76.Ke2 Ke6
+77.Kd3 Kd5 78.f5 gxf5 79.g6 Ke6 80.Kc4 Ke7
+81.Kd3 Kf6 82.Kxd4 Kxg6 83.Ke5 f4 84.Kxf4 Kf6
+85.Ke4 Ke6 86.Kf4 Kf6 87.Ke4 Ke6 88.Kf4 Kf7
+89.Kf5 Kg7 90.Kg5 Kh8 91.Kxh5 Kg7 92.Kg4 Kg6
+93.Kf4 Kh6 94.Kg4 Kh7 95.Kg5 Kg8 96.Kh6 Kh8
+97.h5 Kg8 98.Kg6 Kf8 99.h6 Kg8 100.Kf6 Kh7
+101.Kg5 Kh8 102.Kg6 Kg8 103.Kf5 Kh7 104.Kg5 Kh8
+105.Kf5 Kh7 106.Ke5 Kxh6 1/2-1/2
+
+[Event ""]
+[GID "102"]
+[PlyCount "120"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6
+5.Nxc6 bxc6 6.e5 Qe7 7.Qe2 Nd5 8.h4 f6
+9.c4 Ba6 10.exf6 Nxf6 11.Nc3 Qxe2+ 12.Bxe2 Bc5
+13.Rh3 d5 14.cxd5 Bxe2 15.Kxe2 cxd5 16.Na4 Bd6
+17.Be3 O-O 18.Rd1 Rae8 19.Nc3 c6 20.Rf3 Rf7
+21.Kf1 Rb7 22.Rd2 Bb4 23.Bg5 Bxc3 24.Rxc3 Ne4
+25.Re2 Rxb2 26.Rxb2 Nxc3 27.Rb7 d4 28.Bd2 c5
+29.Bxc3 dxc3 30.Rb3 Re4 31.Rxc3 Rxh4 32.Ra3 Rb4
+33.Rxa7 c4 34.Ke2 h5 35.Ke3 Kh7 36.g3 c3
+37.Rc7 Ra4 38.Rxc3 Rxa2 39.f4 g5 40.Rc7+ Kg6
+41.Rc6+ Kg7 42.fxg5 Ra4 43.Rh6 Rg4 44.Kf3 Rxg5
+45.Rc6 Rb5 46.Kg2 Rb2+ 47.Kf1 Ra2 48.Rc4 Kh6
+49.Rh4 Ra5 50.Rh2 Ra1+ 51.Kg2 Rc1 52.Kf2 Rc2+
+53.Kg1 Rxh2 54.Kxh2 Kg6 55.Kg2 Kf5 56.Kh2 Kg6
+57.Kg2 Kf5 58.Kg1 Kg4 59.Kf2 h4 60.gxh4 Kxh4
+ 1/2-1/2
+
+[Event ""]
+[GID "101"]
+[PlyCount "244"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Bd7 10.b3 b6 11.Ng5 Ke8 12.Rd1 Rd8
+13.Nf3 Be7 14.Bg5 Bxg5 15.Nxg5 Ke7 16.Rd3 Bc8
+17.Rad1 Rxd3 18.Rxd3 h6 19.Nf3 Ba6 20.Rd2 Ke6
+21.g4 Ne7 22.Kg2 c5 23.Kg3 Rc8 24.Ne1 g5
+25.f4 gxf4+ 26.Kxf4 Ng6+ 27.Kg3 Nxe5 28.Ng2 f5
+29.gxf5+ Kxf5 30.Rf2+ Ke6 31.Nf4+ Kd7 32.Kh4 Rf8
+33.Kh5 Rf5+ 34.Kxh6 Ng4+ 35.Kg6 Rf6+ 36.Kg5 Nxf2
+37.Kxf6 Ng4+ 38.Kf5 Nxh2 39.Ng6 Nf3 40.Ne5+ Nxe5
+41.Kxe5 Kc6 42.Ke4 Kd6 43.Ke3 Ke5 44.Nd1 Bc8
+45.c4 Bf5 46.Nc3 Bd7 47.Nd5 Kd6 48.Nc3 Bc6
+49.Kd3 Be8 50.Kd2 Ke5 51.Nd5 c6 52.Nc3 Bg6
+53.a4 a6 54.Ne2 Bh5 55.Nc1 Kd4 56.Na2 Bg4
+57.Nc1 b5 58.cxb5 cxb5 59.axb5 axb5 60.Kc2 b4
+61.Kd2 Bf5 62.Ne2+ Ke5 63.Nc1 Bh7 64.Ne2 Ke4
+65.Nc1 Kd4 66.Na2 Bf5 67.Nc1 Be4 68.Ne2+ Ke5
+69.Nc1 Bd5 70.Kd3 Kf4 71.Kd2 Ke4 72.Nd3 Kd4
+73.Nc1 Bg8 74.Ne2+ Ke4 75.Nc1 Be6 76.Nd3 Kd4
+77.Nc1 Bf7 78.Ne2+ Ke4 79.Nc1 Kd5 80.Kc2 Kd4
+81.Kd2 Be6 82.Ne2+ Ke4 83.Nc1 Bg8 84.Nd3 Kd4
+85.Nc1 Bd5 86.Ne2+ Ke5 87.Nc1 Be6 88.Kc2 Bf7
+89.Nd3+ Kd4 90.Nb2 Bg6+ 91.Kd2 Be4 92.Kc1 Kd5
+93.Kd2 Kc6 94.Kc1 Bd5 95.Kc2 Bf3 96.Kd3 Kb5
+97.Kd2 Bd5 98.Kc2 Be6 99.Nd1 Bf5+ 100.Kd2 Kc6
+101.Ne3 Be6 102.Kc2 Bd7 103.Kd3 Kd6 104.Kc2 Be6
+105.Nd1 Ke5 106.Nb2 Bf5+ 107.Kd2 Kd4 108.Nd1 Be4
+109.Nf2 Bd5 110.Kc2 c4 111.bxc4 Bxc4 112.Kd2 Bb5
+113.Nd1 Bd3 114.Ne3 b3 115.Nd1 Be4 116.Nb2 Bc2
+117.Na4 Kc4 118.Kc1 Kb4 119.Nb6 Ka3 120.Nc4+ Ka2
+121.Nd2 Bg6 122.Nxb3 Kxb3 1/2-1/2
+
+[Event ""]
+[GID "103"]
+[PlyCount "119"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Be7
+5.O-O Nf6 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Bb7 10.d4 Re8 11.Ng5 Rf8 12.Nf3 Re8
+13.Nbd2 Bf8 14.a4 h6 15.Bc2 exd4 16.cxd4 Nb4
+17.Bb1 g6 18.Ra3 Qd7 19.Rb3 a5 20.axb5 Qxb5
+21.Rbe3 c5 22.d5 a4 23.Nf1 Nh5 24.Ra3 Bg7
+25.Ne3 Nf4 26.Nh4 Ba6 27.Nef5 Ne2+ 28.Kh2 Nxc1
+29.Qxc1 Qc4 30.Rc3 Be5+ 31.g3 Qb5 32.Nxh6+ Kg7
+33.Qg5 Bxc3 34.N6f5+ Kg8 35.Nxg6 fxg6 36.Qxg6+ Kf8
+37.bxc3 Qd7 38.cxb4 Re5 39.bxc5 a3 40.Re3 Rxf5
+41.exf5 Bf1 42.c6 Qa7 43.Qxd6+ Kg8 44.Qe6+ Qf7
+45.c7 Qxe6 46.fxe6 Kg7 47.Rxa3 Rh8 48.Bd3 Bxh3
+49.c8=Q Rxc8 50.Kxh3 Rc7 51.d6 Rc5 52.e7 Re5
+53.Ra8 Rh5+ 54.Kg4 Re5 55.e8=Q Rxe8 56.Rxe8 Kf6
+57.d7 Kf7 58.d8=Q Kg7 59.Qe7+ Kh6 60.Rh8# 1-0
+
+[Event ""]
+[GID "98"]
+[PlyCount "317"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Bf1 Be7 7.Nxe5 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Nd6 15.h3 Bf5 16.Qd1 c6
+17.a4 a5 18.Nf3 h6 19.Qb3 Be4 20.Ne5 Be7
+21.Re1 Bg5 22.Bh2 Bd2 23.Ra1 Bg5 24.Nd3 Rb8
+25.Rd1 Bf5 26.Ne5 Bh4 27.Nf3 Be7 28.Re1 Bf8
+29.c4 dxc4 30.Bxc4 Qc7 31.Qc3 Qb6 32.g4 Bh7
+33.Bxd6 Bxd6 34.Ne5 Bxe5 35.dxe5 Qb4 36.Qxb4 axb4
+37.Rd1 Kf8 38.Rd7 Bg8 39.Kg2 b5 40.axb5 cxb5
+41.Bd5 g5 42.f4 gxf4 43.Kf3 Rc8 44.Kxf4 Rc2
+45.b3 Rd2 46.Ke3 Rd1 47.Kf4 Rd2 48.Rd8+ Ke7
+49.Ke3 Rd1 50.Ke2 Rd4 51.Ke3 Rd1 52.Rxg8 Rxd5
+53.Rb8 Rc5 54.Rb7+ Kf8 55.Rd7 Rxe5+ 56.Kf4 Rc5
+57.Rd4 Kg7 58.h4 h5 59.g5 Kg6 60.Rd6+ Kh7
+61.Rd4 Kg6 62.Rxb4 f6 63.gxf6 Kxf6 64.Rd4 Rc3
+65.Rb4 Rc5 66.Ke3 Kf5 67.Kd4 Re5 68.Kd3 Rd5+
+69.Ke3 Re5+ 70.Kd3 Ke6 71.Re4 Kf5 72.Rd4 Rc5
+73.Rb4 Ke5 74.Re4+ Kd6 75.Rf4 Ke6 76.Rd4 Rd5
+77.Ke4 Rxd4+ 78.Kxd4 Kf5 79.b4 Kg4 80.Kc5 Kxh4
+81.Kxb5 Kg4 82.Kc5 h4 83.b5 h3 84.b6 h2
+85.b7 h1=Q 86.b8=Q Qg1+ 87.Kd5 Qg2+ 88.Ke6 Qa2+
+89.Kf6 Qf2+ 90.Kg6 Qf5+ 91.Kg7 Qg5+ 92.Kf7 Qh5+
+93.Kg7 Qg5+ 94.Kf7 Qd5+ 95.Kf8 Qd4 96.Qb3 Qc5+
+97.Kf7 Qf5+ 98.Kg7 Qg5+ 99.Kf8 Qc5+ 100.Kf7 Qf5+
+101.Kg8 Qg6+ 102.Kh8 Qh5+ 103.Kg8 Qg6+ 104.Kf8 Qf6+
+105.Ke8 Qc6+ 106.Kd8 Qc5 107.Ke8 Kg5 108.Kf7 Qc7+
+109.Ke6 Qc6+ 110.Kf7 Qf6+ 111.Kg8 Qd8+ 112.Kg7 Qd4+
+113.Kg8 Qd8+ 114.Kg7 Qd4+ 115.Kh7 Qe4+ 116.Kg8 Qg6+
+117.Kh8 Qh5+ 118.Kg7 Qg4 119.Qd5+ Kh4+ 120.Kh8 Qc8+
+121.Kh7 Qc7+ 122.Kh8 Qc3+ 123.Kh7 Qc7+ 124.Kg8 Qf4
+125.Qb3 Qg5+ 126.Kf8 Qc5+ 127.Kg7 Qe5+ 128.Kh7 Qe4+
+129.Kg7 Qe7+ 130.Kg8 Qe8+ 131.Kh7 Qe4+ 132.Kg7 Qe7+
+133.Kg8 Qd8+ 134.Kf7 Qc7+ 135.Ke6 Kg4 136.Kf6 Qf4+
+137.Kg7 Kf5 138.Qd3+ Ke6 139.Qc3 Kd6 140.Qc8 Qf3
+141.Kh8 Ke5 142.Kh7 Kf4 143.Kg6 Qg3+ 144.Kf6 Qg2
+145.Ke6 Kg5 146.Ke5 Qf3 147.Qe8 Kg4 148.Qe7 Kh3
+149.Qe6+ Kg2 150.Qd6 Kh2 151.Qc5 Kg2 152.Qd4 Kh2
+153.Qd2+ Kh3 154.Qh6+ Qh5+ 155.Qxh5+ Kg3 156.Qe2 Kh4
+157.Kf4 Kh3 158.Qd2 Kh4 159.Qh2# 1-0
+
+[Event ""]
+[GID "100"]
+[PlyCount "271"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 d6 7.Ng5 d5 8.exd5 Nd4
+9.O-O h6 10.Nf3 Bg4 11.Nbd2 Bd6 12.h3 Bh5
+13.g4 Nxb3 14.axb3 Nxg4 15.hxg4 Bxg4 16.Kh1 f5
+17.Rg1 O-O 18.Qe1 h5 19.Rg2 e4 20.dxe4 fxe4
+21.Qxe4 Rf4 22.Qe3 Rf7 23.Nh2 Qh4 24.f3 Re7
+25.Ne4 Bxh2 26.Rxh2 Bxf3+ 27.Qxf3 Qe1+ 28.Kg2 Rxe4
+29.Rh1 Qb4 30.Rxh5 Rf8 31.Rf5 Rxf5 32.Qxf5 Re2+
+33.Kf3 Qe1 34.Bf4 Rf2+ 35.Kg3 Rxf4+ 36.Kxf4 Qxa1
+37.Qe6+ Kh7 38.Qf5+ Kg8 39.Qe6+ Kh7 40.Qc6 Qf1+
+41.Ke4 Qf2 42.c4 Qh2 43.cxb5 axb5 44.Qxb5 Qxb2
+45.b4 Kg6 46.Qe8+ Kh7 47.Qh5+ Kg8 48.Qe8+ Kh7
+49.Qf8 Kh6 50.Kd3 Qe5 51.Kc4 Kh5 52.Qf7+ g6
+53.Kb5 Qd6 54.Qe6 g5 55.Qxd6 cxd6 56.Ka6 g4
+57.b5 g3 58.b6 g2 59.b7 g1=Q 60.b8=Q Qa1+
+61.Kb7 Qb1+ 62.Kc7 Qh7+ 63.Kxd6 Qh6+ 64.Kd7 Qg7+
+65.Kc8 Qh8+ 66.Kb7 Qb2+ 67.Kc7 Qc3+ 68.Kd8 Qh8+
+69.Kc7 Qg7+ 70.Kc6 Qc3+ 71.Kb7 Qb2+ 72.Kc7 Qc3+
+73.Kd7 Qg7+ 74.Kc6 Qc3+ 75.Kb6 Qb3+ 76.Ka7 Qxd5
+77.Qe8+ Kh6 78.Qe3+ Kg6 79.Qe7 Qc4 80.Kb8 Qb3+
+81.Ka7 Qa4+ 82.Kb8 Qb5+ 83.Ka7 Qa5+ 84.Kb8 Qb5+
+85.Kc7 Qf5 86.Qe8+ Kg5 87.Kb7 Qh7+ 88.Kc8 Qf5+
+89.Kc7 Kf4 90.Qe7 Qa5+ 91.Kc8 Qd5 92.Kb8 Kf5
+93.Ka7 Kg4 94.Qe3 Qd6 95.Ka8 Kh5 96.Kb7 Qd7+
+97.Ka8 Qd6 98.Kb7 Qd5+ 99.Kc7 Qf5 100.Qe8+ Kg4
+101.Qe7 Qa5+ 102.Kb8 Qb6+ 103.Ka8 Qc6+ 104.Ka7 Qd5
+105.Qh7 Kg3 106.Kb6 Qe6+ 107.Kb7 Qe5 108.Ka7 Kf3
+109.Qb7+ Kf2 110.Qh7 Qa5+ 111.Kb8 Qd8+ 112.Kb7 Qd5+
+113.Kb8 Qd8+ 114.Kb7 Qd4 115.Qh2+ Ke1 116.Qh1+ Ke2
+117.Qg2+ Kd3 118.Qc6 Qb4+ 119.Ka8 Qa5+ 120.Kb7 Qe5
+121.Ka7 Kd2 122.Qg2+ Kc3 123.Qc6+ Kb4 124.Kb7 Qg7+
+125.Ka6 Qa1+ 126.Kb6 Ka3 127.Qd7 Qb1+ 128.Ka6 Qf1+
+129.Kb7 Qd1 130.Qxd1 Ka2 131.Kb6 Kb2 132.Kc5 Kc3
+133.Kb5 Kb2 134.Kc4 Ka2 135.Kc3 Ka3 136.Qb3# 1-0
+
+[Event ""]
+[GID "107"]
+[PlyCount "118"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Nf6
+5.Nxc6 bxc6 6.Bd3 d5 7.exd5 cxd5 8.O-O Be7
+9.Nc3 O-O 10.Bf4 c6 11.h3 Be6 12.b3 Re8
+13.Ne2 Qb6 14.Ng3 a5 15.Rb1 a4 16.c3 axb3
+17.axb3 Ra3 18.Re1 d4 19.Rxe6 fxe6 20.cxd4 Qd8
+21.Be5 Bd6 22.Bxf6 gxf6 23.Nh5 Kh8 24.Qc1 Rf8
+25.Qh6 Rf7 26.Qe3 e5 27.Qf3 f5 28.dxe5 Bxe5
+29.Qxc6 Rf8 30.Qf3 Qa8 31.Qe3 Qd5 32.Re1 Rxb3
+33.Qxe5+ Qxe5 34.Rxe5 Rxd3 35.g3 Rdd8 36.Kg2 Rde8
+37.Ra5 Ra8 38.Rb5 Rab8 39.Rd5 Rbd8 40.Rb5 Rb8
+41.Re5 Rbe8 42.Ra5 Ra8 43.Rc5 Rac8 44.Rd5 Rcd8
+45.Re5 Rb8 46.h4 Rbe8 47.Ra5 Ra8 48.Rd5 Rad8
+49.Rc5 Rc8 50.Rd5 Rcd8 51.Rc5 Rc8 52.Re5 Rce8
+53.Ra5 Ra8 54.Rb5 Rab8 55.Ra5 Ra8 56.Rd5 Rad8
+57.Ra5 Ra8 58.Rc5 Rac8 59.Ra5 Ra8 1/2-1/2
+
+[Event ""]
+[GID "104"]
+[PlyCount "421"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Nd6 15.h3 c6 16.a4 a5
+17.Nf3 Bf5 18.Qd1 h5 19.Qb3 g6 20.Re1 Kg7
+21.Ne5 Rc8 22.Bd3 Bxd3 23.Nxd3 Rb8 24.g3 Bg5
+25.Be5+ Bf6 26.Bf4 Bg5 27.Be5+ Bf6 28.h4 Bxe5
+29.dxe5 Ne4 30.Qc2 Qb6 31.e6 fxe6 32.Kg2 Re8
+33.f3 Nd6 34.Nf4 Nf5 35.Nxe6+ Kf6 36.Qe2 Ne3+
+37.Qxe3 Qxe3 38.Rxe3 Rxe6 39.Kf2 Rxe3 40.Kxe3 Ke5
+41.Kd3 c5 42.Kd2 Kf5 43.Ke3 g5 44.hxg5 Kxg5
+45.Ke2 Kf5 46.Ke3 Kg5 47.Ke2 Kg6 48.Kd2 Kf6
+49.Kd3 Kg7 50.Ke3 Kf7 51.Kf2 Kg6 52.Kg2 Kg5
+53.Kf2 Kf6 54.Ke2 Kg5 55.Kd3 h4 56.gxh4+ Kxh4
+57.Ke2 Kg5 58.Ke3 Kf5 59.Kd3 Kf6 60.Kd2 Ke7
+61.Kd3 Kd7 62.Ke3 Ke6 63.Kd3 Ke5 64.Kd2 Kd6
+65.Ke2 Ke6 66.Kd3 Kf5 67.Ke3 Ke5 68.Kf2 Kf6
+69.Ke3 Kg5 70.Ke2 Kf4 71.Kf2 Ke5 72.Ke3 Kf5
+73.Ke2 Kg5 74.b3 Kf6 75.Ke3 Ke5 76.Kd3 Kf4
+77.Ke2 Kf5 78.Kd3 b6 79.Ke3 Kf6 80.Kd3 Ke6
+81.Kd2 Kd6 82.Ke3 Kd7 83.Kd2 Kc7 84.Kc2 Kd6
+85.Kd3 Kc6 86.Ke3 Kd6 87.Kd3 Ke5 88.Ke3 Kf5
+89.Ke2 Kg6 90.Kd3 Kf6 91.Kd2 Ke7 92.Ke3 Kf7
+93.Kd3 Kf6 94.Kd2 Ke7 95.Kc2 Kf6 96.Kd3 Ke5
+97.Ke2 Kf4 98.Kf2 Kg5 99.Ke3 Kg6 100.Ke2 Kh7
+101.Ke3 Kg7 102.Kd2 Kf8 103.Kd3 Ke8 104.Ke3 Ke7
+105.Kf4 Kd7 106.Ke3 Ke6 107.Ke2 Kf5 108.Ke1 Kg5
+109.Kf2 Kf4 110.Ke2 Kf5 111.Ke3 Kf6 112.Kd2 Kg5
+113.Kd3 Kf6 114.Ke3 Kg6 115.Kd2 Kg5 116.Ke1 Kf6
+117.Ke2 Kg6 118.Ke1 Kf7 119.Kf1 Kf6 120.Ke1 Kf7
+121.Kf1 Kf6 122.Kf2 Ke6 123.f4 Kf5 124.Kf3 d4
+125.c4 Kf6 126.Kg4 Kg6 127.f5+ Kf6 128.Kf4 Ke7
+129.Kg3 Ke8 130.Kg4 Kf8 131.Kf4 Kg7 132.Kg4 Kf7
+133.Kg3 Kg7 134.Kg4 Kg8 135.Kf4 Kh8 136.Kf3 Kh7
+137.Kg3 Kh6 138.Kf3 d3 139.Kf2 Kg5 140.Ke3 Kxf5
+141.Kxd3 Ke5 142.Ke3 Kd6 143.Kf4 Ke6 144.Ke4 Kd6
+145.Kf4 Ke6 146.Ke4 Kd6 147.Kd3 Ke6 148.Kd2 Ke5
+149.Ke3 Kd6 150.Kf3 Ke7 151.Kf2 Ke6 152.Ke2 Ke5
+153.Kd1 Kf4 154.Kd2 Ke5 155.Kd3 Kf4 156.Kd2 Ke5
+157.Ke1 Kd4 158.Kd2 Ke4 159.Ke2 Ke5 160.Kd3 Kd6
+161.Ke4 Ke6 162.Kf4 Kf6 163.Ke4 Ke6 164.Kf4 Kf6
+165.Ke4 Ke6 166.Kd3 Kf5 167.Ke3 Kf6 168.Kd3 Kf7
+169.Ke3 Ke7 170.Kf3 Kd7 171.Ke3 Ke7 172.Kd3 Ke6
+173.Ke4 Kd6 174.Kf5 Kd7 175.Ke5 Ke7 176.Kd5 Kd7
+177.Ke5 Kc7 178.Ke6 Kc6 179.Ke5 Kc7 180.Ke6 Kc6
+181.Ke7 Kc7 182.Ke8 Kc8 183.Ke7 Kc7 184.Ke8 Kc8
+185.Kf7 Kd7 186.Kf8 Kd8 187.Kf7 Kd7 188.Kf8 Ke6
+189.Ke8 Kd6 190.Kd8 Kc6 191.Kc8 Kd6 192.Kb8 Ke7
+193.Kb7 Kd8 194.Kxb6 Kc8 195.Kxa5 Kc7 196.Kb5 Kd6
+197.Kb6 Kd7 198.Kxc5 Kc7 199.Kb5 Kd7 200.Kb6 Ke6
+201.a5 Ke5 202.a6 Kd4 203.a7 Kc3 204.a8=Q Kd2
+205.c5 Kd3 206.c6 Kd4 207.c7 Ke3 208.c8=Q Kf4
+209.Qg2 Ke5 210.Qgg4 Kf6 211.Qce6# 1-0
+
+[Event ""]
+[GID "106"]
+[PlyCount "282"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Nb3 Bb6 6.Nc3 Nf6 7.Bg5 h6 8.Bh4 O-O
+9.Qe2 a5 10.a4 Nd4 11.Qd3 Nxb3 12.cxb3 c6
+13.O-O-O d5 14.exd5 cxd5 15.Nxd5 g5 16.Bg3 Be6
+17.Nxb6 Qxb6 18.Qb5 Rfc8+ 19.Kb1 Qxb5 20.Bxb5 Bxb3
+21.Rd4 Ne4 22.Bd7 Rc5 23.Bg4 Re8 24.Bd1 Bd5
+25.f3 Nxg3 26.hxg3 Kg7 27.g4 Rec8 28.Be2 Bb3
+29.Bd3 Re8 30.Be4 Re6 31.Rf1 Ree5 32.Rh1 Re7
+33.Rd6 Re6 34.Rd4 b6 35.g3 b5 36.axb5 Rxb5
+37.Rc1 Ree5 38.Rc3 Rb8 39.Kc1 Reb5 40.Bd3 R5b6
+41.Bf5 Ba2 42.Rc2 Rb5 43.Bd3 Rd5 44.Rxd5 Bxd5
+45.f4 Rb3 46.Be2 gxf4 47.gxf4 Bf3 48.Kd2 Be4
+49.Rc5 Rxb2+ 50.Ke3 a4 51.Kxe4 Rxe2+ 52.Kf5 a3
+53.Ra5 a2 54.Ra6 Rh2 55.Ke4 Rg2 56.Ke5 Rf2
+57.Ke4 Rh2 58.Kf3 Rd2 59.Ke4 Rb2 60.Kf5 Re2
+61.Ra7 Rf2 62.Ra6 Kf8 63.Ra4 Ke7 64.Ke5 Re2+
+65.Kf5 Rg2 66.Ke5 f6+ 67.Kf5 Rf2 68.Ra7+ Kd6
+69.Kg6 Rxf4 70.Rxa2 Rxg4+ 71.Kxf6 Rb4 72.Kf5 h5
+73.Ra6+ Kd7 74.Rh6 h4 75.Kg5 Ke7 76.Kf5 Kf8
+77.Rf6+ Kg7 78.Rg6+ Kf7 79.Rf6+ Ke8 80.Rh6 Ke7
+81.Rh7+ Kd6 82.Rh8 Kc5 83.Rc8+ Kd4 84.Kg4 Kd3+
+85.Kh3 Rb2 86.Kxh4 Kd4 87.Kg5 Rf2 88.Rd8+ Ke5
+89.Ra8 Rg2+ 90.Kh6 Rg3 91.Ra5+ Ke6 92.Ra6+ Kd7
+93.Ra1 Rg8 94.Re1 Kd6 95.Kh7 Rg4 96.Kh8 Kd7
+97.Kh7 Rg2 98.Kh8 Rg3 99.Kh7 Rg2 100.Ra1 Ke6
+101.Kh6 Ke7 102.Re1+ Kd6 103.Kh5 Rg8 104.Kh6 Rg4
+105.Kh7 Rg2 106.Kh8 Rg3 107.Kh7 Kd7 108.Kh6 Kd8
+109.Kh7 Rg2 110.Ra1 Ke7 111.Ra6 Rg1 112.Kh6 Kf7
+113.Ra7+ Ke6 114.Ra6+ Kd7 115.Ra7+ Kd6 116.Ra8 Rc1
+117.Kg6 Rf1 118.Ra5 Rh1 119.Ra8 Rf1 120.Ra6+ Ke7
+121.Ra7+ Ke6 122.Ra6+ Kd7 123.Ra7+ Ke6 124.Ra6+ Ke7
+125.Ra5 Rg1+ 126.Kf5 Rb1 127.Ra7+ Kd6 128.Kg6 Ke6
+129.Ra6+ Kd7 130.Ra8 Rb6+ 131.Kf7 Kd6 132.Ra1 Rb4
+133.Rd1+ Ke5 134.Re1+ Kd5 135.Rd1+ Kc4 136.Ke8 Rb8+
+137.Kd7 Kb5 138.Rd4 Kc5 139.Ra4 Rb7+ 140.Kc8 Kb5
+141.Kxb7 Kxa4 1/2-1/2
+
+[Event ""]
+[GID "110"]
+[PlyCount "126"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C68"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6
+5.c3 Qd3 6.Qe2 Qxe2+ 7.Kxe2 f6 8.d3 h5
+9.Be3 Ne7 10.Nbd2 a5 11.a4 g5 12.d4 exd4
+13.Nxd4 Ng6 14.g3 Bh3 15.f4 c5 16.N4b3 b6
+17.fxg5 Be7 18.gxf6 Bxf6 19.Nf3 O-O-O 20.Bf4 Rh7
+21.Nbd2 Rhd7 22.Rad1 Bg4 23.Rhe1 Ne5 24.h3 Rxd2+
+25.Rxd2 Bxf3+ 26.Kf2 Rxd2+ 27.Bxd2 c4 28.Rf1 Be7
+29.Bf4 Bc5+ 30.Be3 Bxe4 31.Bxc5 Nd3+ 32.Ke3 Nxc5
+33.g4 hxg4 34.hxg4 Kd8 35.Kd4 Bc2 36.Rf2 Bd3
+37.Rf6 Kd7 38.Ke5 Kc8 39.Kd4 Kb7 40.Rh6 Nxa4
+41.g5 Nc5 42.g6 Ne6+ 43.Ke5 Ng7 44.Kf6 Ne8+
+45.Ke6 b5 46.Kd7 Ng7 47.Rh7 Nf5 48.g7 Nxg7
+49.Rxg7 b4 50.Ke6 Kb6 51.Kd5 c6+ 52.Kd6 bxc3
+53.bxc3 Kb5 54.Ra7 Ka4 55.Kxc6 Kb3 56.Rxa5 Kxc3
+57.Kd5 Be2 58.Ke4 Bd3+ 59.Kd5 Bf1 60.Kc5 Kb2
+61.Kd4 c3 62.Rc5 c2 63.Rxc2+ Kxc2 1/2-1/2
+
+[Event ""]
+[GID "83"]
+[PlyCount "740"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Nf5
+13.Bf4 d6 14.Nd2 g5 15.Be3 Qe7 16.Bd3 Nxe3
+17.fxe3 Bg7 18.Qf2 Bg4 19.Nf1 Bh5 20.Ng3 Bg6
+21.Bc4 Re8 22.e4 c6 23.Rf1 Qc7 24.Bb3 c5
+25.Kh1 cxd4 26.cxd4 h6 27.Bd5 Rf8 28.h3 Qb6
+29.Rd1 Be5 30.Ne2 Bg7 31.b3 Bh5 32.Rf1 Bxe2
+33.Qxe2 Kh8 34.g3 Qxd4 35.Bxb7 a5 36.Kg2 Be5
+37.Bd5 Kg7 38.Rf3 f6 39.Rd3 Qa1 40.Rd1 Qc3
+41.Rd3 Qa1 42.h4 Rc8 43.Bc4 a4 44.Rf3 Qc1
+45.h5 axb3 46.axb3 Rc7 47.Rf1 Qa3 48.Qf3 Qa8
+49.Rf2 Qc8 50.Ra2 Qd7 51.Ra6 Rc5 52.Ra4 Rc7
+53.Qe2 Rc8 54.Qf2 Rc5 55.Ra8 Qg4 56.Ra7+ Kh8
+57.Qf3 f5 58.Qxg4 fxg4 59.Ra8+ Kh7 60.Ra7+ Kh8
+61.Ra8+ Kh7 62.Kf2 Rc7 63.Rf8 Kg7 64.Rg8+ Kh7
+65.Rf8 Kg7 66.Rg8+ Kh7 67.Ra8 Kg7 68.Kg2 Kh7
+69.Bg8+ Kg7 70.Bc4 Kh7 71.Kh2 Kg7 72.Rg8+ Kh7
+73.Rf8 Kg7 74.Rg8+ Kh7 75.Rg6 Rg7 76.Be6 Rxg6
+77.Bf5 Kg7 78.Bxg6 Bc3 79.Kh1 Kf6 80.Kg2 Ke5
+81.Kf2 Ba5 82.Ke2 Bb4 83.Bh7 Kd4 84.Bf5 Bc3
+85.Kf2 Ba5 86.Ke2 Bb4 87.Bg6 Ba5 88.Bf5 Bc3
+89.Bh7 Bb4 90.Kf2 Bc5 91.Kg2 Ke3 92.Bf5 Bb4
+93.Bh7 Ba3 94.Bg6 Bb4 95.Bh7 Be1 96.Bf5 Bb4
+97.Bg6 Bc3 98.Bh7 Kd4 99.Bf5 Be1 100.Bh7 Ke3
+101.Bg6 Bb4 102.Bf5 Kd4 103.Kf2 Ba5 104.Bh7 Bc7
+105.b4 Bb6 106.b5 Kc4+ 107.Ke2 Kxb5 108.Bf5 Kc4
+109.e5 d5 110.Bxg4 Bd8 111.Bf5 Bc7 112.g4 Kd4
+113.Kd2 Bb8 114.e6 Bf4+ 115.Kc2 Bd6 116.e7 Bxe7
+117.Kd2 Bc5 118.Ke2 Kc3 119.Be6 Kc4 120.Bf5 Kd4
+121.Be6 Bd6 122.Bf7 Bh2 123.Be6 Kc4 124.Bf5 Bc7
+125.Bd3+ Kc3 126.Bh7 Bg3 127.Bg6 Kd4 128.Bh7 Bf4
+129.Bg8 Bb8 130.Bh7 Kc4 131.Bd3+ Kc3 132.Bf5 Bf4
+133.Be6 Kc4 134.Bc8 Bg3 135.Bf5 Be5 136.Bg6 Bd6
+137.Bf5 Be7 138.Bd7 Bd8 139.Be6 Bc7 140.Bf5 Bb6
+141.Be6 Kd4 142.Kd2 Bd8 143.Bf5 Be7 144.Bg6 Bd6
+145.Bh7 Bf4+ 146.Ke2 Bc1 147.Bg8 Ba3 148.Bf7 Bb4
+149.Bg6 Kc4 150.Bf5 Bc3 151.Bd3+ Kd4 152.Bg6 Ba5
+153.Bf7 Kc4 154.Be6 Bd8 155.Bf5 Bf6 156.Kd2 Be5
+157.Bd3+ Kd4 158.Bg6 Bf4+ 159.Ke2 Kc3 160.Bf7 d4
+161.Bg6 Bb8 162.Bd3 Bc7 163.Bg6 Bb6 164.Bh7 Bc5
+165.Bd3 Bf8 166.Bh7 Bg7 167.Bb1 Be5 168.Bh7 Bh2
+169.Bd3 Bd6 170.Bb1 Be7 171.Bg6 Bb4 172.Bf5 Bf8
+173.Bh7 Be7 174.Bb1 Ba3 175.Bf5 Bb4 176.Bh7 Ba3
+177.Bd3 Bc1 178.Bh7 Ba3 179.Bd3 Bf8 180.Bg6 d3+
+181.Bxd3 Kd4 182.Bf5 Ke5 183.Kd3 Bc5 184.Kc4 Bg1
+185.Kb5 Kd5 186.Bg6 Ke6 187.Kc6 Bd4 188.Bb1 Ke7
+189.Kd5 Bh8 190.Ke4 Ba1 191.Ba2 Kf6 192.Bb3 Bc3
+193.Bc4 Bb2 194.Bd3 Kg7 195.Bb1 Kf7 196.Ba2+ Kf8
+197.Bb1 Kf7 198.Ba2+ Kf8 199.Kd3 Ba1 200.Bb1 Kf7
+201.Ke3 Ke6 202.Ke4 Ke7 203.Kd5 Kf8 204.Ba2 Kg7
+205.Kc6 Bb2 206.Kb5 Kf8 207.Bb1 Ke7 208.Kc5 Bh8
+209.Kd5 Kf8 210.Ke4 Bc3 211.Ke3 Kg7 212.Ba2 Bb2
+213.Kd3 Kf6 214.Kc4 Ba1 215.Kb5 Ke7 216.Kc6 Bc3
+217.Kc5 Kf8 218.Kd5 Ba1 219.Bb1 Bh8 220.Ke4 Bb2
+221.Ke3 Kf7 222.Ba2+ Kf6 223.Ke4 Bc3 224.Bb1 Bd2
+225.Kd5 Kf7 226.Ba2 Bf4 227.Bc4 Ke7 228.Ba2 Bd2
+229.Kd4 Bf4 230.Ke4 Bc7 231.Kd5 Kf7 232.Bb3 Kf6
+233.Kd4 Ba5 234.Ba2 Bb4 235.Kd3 Kg7 236.Be6 Kf8
+237.Ke4 Ba3 238.Kf5 Ke8 239.Kg6 Bb4 240.Kxh6 Kf8
+241.Kxg5 Kg7 242.h6+ Kh7 243.Bf5+ Kg8 244.Kg6 Ba3
+245.Be6+ Kh8 246.Bf5 Kg8 247.Be6+ Kh8 248.Bd7 Bc1
+249.Bf5 Kg8 250.Be6+ Kh8 251.Bd7 Bd2 252.Bf5 Bc1
+253.Be4 Be3 254.Kh5 Bc1 255.Bc2 Be3 256.Bd3 Kg8
+257.Kg6 Kh8 258.Be4 Bd2 259.Bf5 Bc1 260.Kh5 Be3
+261.Be4 Bc1 262.Bb1 Be3 263.Kg6 Bd2 264.Bd3 Be3
+265.Be4 Bd2 266.Bc6 Bc1 267.Ba4 Kg8 268.Bb3+ Kh8
+269.Bc2 Kg8 270.Bb1 Kf8 271.Ba2 Bd2 272.g5 Bc1
+273.Be6 Be3 274.Bc4 Bc1 275.Be6 Be3 276.Kf5 Bd2
+277.Kf6 Be3 278.Bd5 Bc1 279.Be6 Be3 280.Kf5 Bd2
+281.Kg4 Be3 282.Kh4 Bd2 283.Kg4 Be3 284.Bb3 Bd2
+285.Bd5 Be3 286.Bb3 Bd2 287.Bd5 Be3 288.Kf5 Bd2
+289.Be6 Bc1 290.Bd5 Bd2 291.Kg6 Bf4 292.Kh5 Bc1
+293.Kg6 Bf4 294.Kh5 Bc1 295.Kh4 Be3 296.Kg4 Bc1
+297.Bc4 Ke7 298.Kh5 Kf8 299.Kg6 Bd2 300.Ba2 Bc1
+301.Kh5 Bd2 302.Kh4 Bc1 303.Bd5 Be3 304.Kg4 Bc1
+305.Kh5 Bd2 306.Bb3 Be3 307.Kh4 Bc1 308.Kh5 Be3
+309.Bc4 Bc1 310.Kg4 Ke7 311.Bg8 Kf8 312.Ba2 Be3
+313.Bc4 Bd2 314.Kh4 Bc3 315.Kg4 Bd2 316.Ba2 Be3
+317.Kh5 Bd2 318.Be6 Be3 319.g6 Bd4 320.Kg4 Bb2
+321.Bb3 Bh8 322.Bd5 Bd4 323.Kh3 Bc3 324.Kg2 Bd4
+325.Kf1 Bc3 326.Be6 Bd4 327.Ke1 Bb2 328.Kd1 Bf6
+329.Ba2 Ba1 330.Ke1 Bd4 331.Ke2 Ba1 332.Kf1 Bf6
+333.Kf2 Ba1 334.Kg2 Bf6 335.Be6 Ba1 336.Bd5 Bd4
+337.Kf3 Bf6 338.Be6 Bd4 339.Bf7 Ba1 340.Bd5 Bf6
+341.Kg4 Bd4 342.Kh3 Bc3 343.Be6 Bf6 344.Kg2 Ba1
+345.Bf7 Be5 346.Bb3 Ba1 347.Be6 Bd4 348.Kf1 Bf6
+349.Kf2 Ba1 350.Ke1 Bb2 351.Kd1 Bf6 352.Ba2 Ba1
+353.Bd5 Bf6 354.Ke1 Bh8 355.Bf7 Bc3+ 356.Ke2 Bh8
+357.Be6 Bb2 358.Ke1 Bc3+ 359.Ke2 Bb2 360.Bd5 Bc3
+361.Ba2 Ba1 362.Kf3 Bf6 363.Bb3 Be5 364.Ke4 Bf6
+365.Be6 Bb2 366.Bf5 Ba1 367.Bg4 Bh8 368.Ke3 Bb2
+369.g7+ Bxg7 370.hxg7+ Kxg7 1/2-1/2
+
+[Event ""]
+[GID "111"]
+[PlyCount "216"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O b5 6.Bb3 Nxe4 7.Re1 d5 8.Nc3 Nxc3
+9.dxc3 Be6 10.a4 b4 11.Nxe5 Nxe5 12.Rxe5 Bd6
+13.Bg5 Qd7 14.Qxd5 O-O 15.Rxe6 Qxe6 16.Qxe6 fxe6
+17.Bxe6+ Kh8 18.cxb4 Bxb4 19.Rf1 h6 20.Be3 Rfd8
+21.c3 Be7 22.Bc4 Bg5 23.f4 Bf6 24.Rc1 a5
+25.Kf2 g5 26.Kf3 gxf4 27.Bxf4 Rf8 28.Kg4 h5+
+29.Kxh5 Bxc3 30.Rxc3 Rxf4 31.b3 Re8 32.g4 Re5+
+33.Kh4 Kg7 34.Rd3 Kg6 35.Rd8 Rf3 36.Rg8+ Kh7
+37.Rc8 Kg6 38.Rg8+ Kh7 39.Ra8 Kg6 40.Ra6+ Rf6
+41.Ra7 Rf3 42.Ra6+ Rf6 43.Ra7 Rf3 44.Rxc7 Ree3
+45.Rc6+ Rf6 46.Rc8 Rf2 47.Rg8+ Kh6 48.g5+ Kh7
+49.Kh5 Rxh2+ 50.Kg4 Re4+ 51.Kg3 Rd2 52.g6+ Kh6
+53.Ra8 Rdd4 54.Rxa5 Rg4+ 55.Kf3 Rgf4+ 56.Kg3 Rg4+
+57.Kf3 Rgf4+ 58.Ke3 Rfe4+ 59.Kf2 Rf4+ 60.Ke3 Rfe4+
+61.Kf2 Rf4+ 62.Ke2 Rfe4+ 63.Kf1 Kxg6 64.Kf2 Kf6
+65.Ra8 Rf4+ 66.Ke3 Rfe4+ 67.Kf2 Rf4+ 68.Ke3 Rfe4+
+69.Kf3 Rf4+ 70.Kg3 Rg4+ 71.Kf3 Rgf4+ 72.Ke2 Rfe4+
+73.Kf1 Ke7 74.Bb5 Rf4+ 75.Kg2 Rd2+ 76.Kg3 Rdf2
+77.Be2 Rf5 78.Ra7+ Kd6 79.Ra6+ Kc7 80.Re6 Rf8
+81.Re7+ Kd6 82.Re4 R2f5 83.Bc4 R8f6 84.Kg4 Rf2
+85.Kh4 R2f3 86.a5 Rg6 87.Rg4 Rh6+ 88.Kg5 Rh8
+89.a6 Kc6 90.Re4 Rhf8 91.Kh4 Kc7 92.Re7+ Kc6
+93.Re6+ Kc7 94.Re7+ Kc6 95.Re6+ Kc7 96.Rg6 Re3
+97.Rg7+ Kb6 98.Rb7+ Kc6 99.Rg7 Kb6 100.Rg6+ Kc7
+101.Rg5 Rf4+ 102.Kh5 Rh3+ 103.Kg6 Kb6 104.Rb5+ Kxa6
+105.Rh5+ Rxc4 106.bxc4 Rb3 107.Rb5 Rxb5 108.cxb5+ Kxb5
+ 1/2-1/2
+
+[Event ""]
+[GID "59"]
+[PlyCount "187"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Nxe5 7.Rxe5+ Be7 8.Bf1 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Nd6 15.Qe3 c6 16.g4 Be6
+17.h3 Qd7 18.Re1 h6 19.Qf3 Re8 20.Bd3 Qd8
+21.Re2 Bg5 22.Bxg5 hxg5 23.Qg3 b6 24.Bc2 Nc4
+25.Nxc4 dxc4 26.Kf1 Kf8 27.Be4 Bd5 28.Bxd5 Rxe2
+29.Kxe2 Qxd5 30.Qe5 Qd8 31.Qe4 Qd5 32.Qe5 Qd8
+33.Qe4 Qd5 34.Qxd5 cxd5 35.Kf3 f6 36.Kg3 Kf7
+37.Kf3 Kf8 38.Kg3 Kf7 39.a4 Kf8 40.Kg2 Ke8
+41.Kh2 Ke7 42.Kg3 Kf7 43.Kf3 Ke7 44.Kg3 Kf7
+45.Kf3 Ke7 46.Kg3 Kf7 47.Kf3 Kg6 48.Kg3 Kh6
+49.f4 gxf4+ 50.Kxf4 g6 51.g5+ Kg7 52.h4 Kf7
+53.gxf6 Kxf6 54.Kg4 Kf7 55.Kg5 Kg7 56.h5 gxh5
+57.Kxh5 Kf6 58.Kg4 Kg6 59.Kf4 Kf6 60.a5 bxa5
+61.Kg4 Kg6 62.Kf4 Kf6 63.Kg4 a6 64.Kf4 a4
+65.Kg4 Kg6 66.Kf4 Kf6 67.Kg4 Kg6 68.Kf4 a3
+69.bxa3 Kf6 70.Kg4 a5 71.Kf4 a4 72.Kg4 Kg6
+73.Kf4 Kf6 74.Kg4 Kg6 75.Kf4 Kf6 76.Ke3 Kg5
+77.Kf3 Kf5 78.Ke3 Kg4 79.Ke2 Kg3 80.Ke3 Kg4
+81.Ke2 Kf4 82.Kf2 Ke4 83.Ke2 Kf5 84.Ke3 Kg4
+85.Ke2 Kh4 86.Kf2 Kg4 87.Kg2 Kf4 88.Kf2 Kg4
+89.Kg2 Kf4 90.Kf2 Ke4 91.Ke2 Kf4 92.Kf2 Ke4
+93.Ke2 Kf4 94.Kf2 1/2-1/2
+
+[Event ""]
+[GID "66"]
+[PlyCount "339"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.a4 a5 14.Bf4 d5 15.Nd2 Nd6 16.Nf3 c6
+17.h3 Bf5 18.Qd1 h5 19.Qb3 Be4 20.Nd2 Bf5
+21.Re1 g6 22.Bh2 Rc8 23.Nf3 Kg7 24.Ne5 Rc7
+25.Nd3 Rc8 26.Ne5 Rc7 27.Nd3 Rc8 28.Bf4 Bg5
+29.Be5+ Kg8 30.Bh2 Bh4 31.Ne5 Be4 32.c4 dxc4
+33.Nxc4 Nxc4 34.Bxc4 Qxd4 35.Bxf7+ Kg7 36.Bg3 Bxg3
+37.Qxg3 Rf8 38.Bb3 Qxb2 39.Rd1 Qf6 40.Rd7+ Kh6
+41.Rxb7 Qf4 42.Qxf4+ Rxf4 43.Ra7 Bf5 44.Rxa5 Rb4
+45.Bf7 Bc2 46.Re5 Rxa4 47.f3 Rf4 48.Rc5 Rxf7
+49.Rxc2 Rc7 50.Rc5 h4 51.Rc4 Kg5 52.Kf2 c5
+53.Ke3 Re7+ 54.Kd3 Rd7+ 55.Ke2 Rd5 56.Rg4+ Kh5
+57.Rc4 Rg5 58.Kf2 Rf5 59.Re4 g5 60.Re6 Rf4
+61.Rc6 Rc4 62.Ke3 Rc2 63.f4 gxf4+ 64.Kxf4 Rf2+
+65.Ke3 Rxg2 66.Rxc5+ Kg6 67.Kf3 Rb2 68.Rc4 Kh5
+69.Rg4 Ra2 70.Rg8 Kh6 71.Rh8+ Kg5 72.Ke4 Ra4+
+73.Kd3 Ra3+ 74.Ke2 Rxh3 75.Kf2 Rg3 76.Ra8 Kg4
+77.Rb8 Kh3 78.Rb4 Rg2+ 79.Kf3 Rg5 80.Kf2 Rg3
+81.Rf4 Rg2+ 82.Kf3 Rg5 83.Kf2 Rc5 84.Kg1 Kg3
+85.Rf1 Rc2 86.Rb1 Rg2+ 87.Kh1 Kh3 88.Rb3+ Rg3
+89.Rb2 Re3 90.Rh2+ Kg3 91.Rg2+ Kf3 92.Kh2 Re8
+93.Rg1 Rc8 94.Rb1 Ke2 95.Rb4 Kd2 96.Kh3 Rg8
+97.Kxh4 Kc3 98.Rf4 Kb2 99.Rf1 Ka2 100.Kh5 Kb3
+101.Ra1 Kb4 102.Ra6 Kc5 103.Rf6 Kd5 104.Rf1 Kd6
+105.Re1 Rg2 106.Rd1+ Ke6 107.Re1+ Kd7 108.Rd1+ Ke8
+109.Re1+ Kf7 110.Rf1+ Ke7 111.Re1+ Kf8 112.Rf1+ Ke7
+113.Re1+ Kf6 114.Ra1 Kf5 115.Rf1+ Ke5 116.Re1+ Kd6
+117.Rd1+ Kc7 118.Kh6 Kc6 119.Kh7 Rg3 120.Rd8 Rg1
+121.Kh6 Kc5 122.Kh5 Rg3 123.Rc8+ Kd6 124.Rd8+ Ke7
+125.Rd1 Kf6 126.Rf1+ Ke5 127.Re1+ Kd6 128.Rd1+ Ke6
+129.Re1+ Kd6 130.Rf1 Ke5 131.Rd1 Ke6 132.Kh6 Rg4
+133.Re1+ Kd6 134.Kh7 Rg5 135.Kh8 Kd7 136.Rf1 Ke6
+137.Re1+ Kf6 138.Rh1 Kg6 139.Rh6+ Kf7 140.Rh7+ Kg6
+141.Rg7+ Kf5 142.Rc7 Rg1 143.Rb7 Ke6 144.Ra7 Rh1+
+145.Kg7 Rg1+ 146.Kh6 Rh1+ 147.Kg7 Rg1+ 148.Kf8 Kd6
+149.Rh7 Rg2 150.Rh5 Rf2+ 151.Ke8 Rg2 152.Rh1 Rg5
+153.Re1 Rh5 154.Rf1 Ke5 155.Ra1 Kd6 156.Ra7 Rb5
+157.Rh7 Kd5 158.Rc7 Ke5 159.Rc6 Kd5 160.Rf6 Ke5
+161.Rg6 Kd5 162.Rg3 Kd4 163.Rf3 Kd5 164.Rg3 Kd4
+165.Rf3 Kd5 166.Rg3 Kd4 167.Rf3 Kd5 168.Rg3 Kd4
+169.Rf3 Kd5 170.Rg3 1/2-1/2
+
+[Event ""]
+[GID "116"]
+[PlyCount "91"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.Nc3 d6 8.Nd5 h6
+9.c3 O-O 10.O-O Rb8 11.d4 Ba7 12.dxe5 Nxe5
+13.Nxe5 dxe5 14.Qf3 Nxd5 15.Bxd5 Rb6 16.Be3 Rf6
+17.Qg3 Bxe3 18.Qxe3 Qe7 19.Rfd1 Rd8 20.a4 Rfd6
+21.axb5 axb5 22.Qf3 c6 23.Bb3 Rxd1+ 24.Rxd1 Rxd1+
+25.Qxd1 Kh7 26.Qf3 Be6 27.Bxe6 Qxe6 28.h4 Qa2
+29.Qf5+ Kg8 30.Qc8+ Kh7 31.Kh2 f6 32.Qf5+ Kg8
+33.h5 Qxb2 34.Qc8+ Kh7 35.Qf5+ Kg8 36.Qe6+ Kh7
+37.Qf7 Qd2 38.Qg6+ Kh8 39.Qe8+ Kh7 40.Qg6+ Kg8
+41.Qe8+ Kh7 42.Qg6+ Kh8 43.Qe8+ Kh7 44.Qg6+ Kh8
+45.Qe8+ Kh7 46.Qg6+ 1/2-1/2
+
+[Event ""]
+[GID "117"]
+[PlyCount "122"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Bf1 f6 7.b4 a6 8.d4 Be7
+9.dxe5 fxe5 10.Nxe5 Nxe5 11.Rxe5 O-O 12.c3 c6
+13.Bd3 Ne8 14.Qc2 h6 15.Re2 d5 16.Be3 Nd6
+17.Nd2 a5 18.bxa5 Qxa5 19.Nb3 Qc7 20.Rae1 Bg4
+21.Bb6 Qxb6 22.Rxe7 Rae8 23.Rxe8 Rxe8 24.Rxe8+ Nxe8
+25.a4 Nd6 26.a5 Qc7 27.Qc1 c5 28.Bf1 c4
+29.Nd4 Qc5 30.Qe3 Bc8 31.g3 Ne4 32.f3 Nf6
+33.Qe5 Kh7 34.Qb8 Bd7 35.Qxb7 Qxa5 36.Qb2 Qa7
+37.Qd2 Bf5 38.h4 Bg6 39.Bh3 Qb8 40.Ne2 Bd3
+41.Kg2 Nh5 42.Bg4 Bxe2 43.Bxh5 Bd3 44.Bf7 d4
+45.cxd4 Qb1 46.Bd5 Qa1 47.Qe3 Qf1+ 48.Kh2 c3
+49.Be4+ Bxe4 50.Qxe4+ Kh8 51.h5 Qc4 52.Qe8+ Kh7
+53.Qe4+ Kh8 54.Qe8+ Kh7 55.Qg6+ Kh8 56.Qe8+ Kh7
+57.Qe4+ Kh8 58.Qa8+ Kh7 59.Qe4+ Kh8 60.Qa8+ Kh7
+61.Qe4+ Kh8 1/2-1/2
+
+[Event ""]
+[GID "114"]
+[PlyCount "214"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.c3 O-O 8.O-O d6
+9.h3 h6 10.Nbd2 a5 11.a4 b4 12.Re1 Re8
+13.Nf1 Bb6 14.Ng3 Be6 15.Bxe6 Rxe6 16.Be3 d5
+17.Qc2 Qe7 18.Rad1 Bxe3 19.Rxe3 bxc3 20.bxc3 dxe4
+21.Nxe4 Nd5 22.Ree1 Rd8 23.Rd2 Nf4 24.Rb1 Rg6
+25.Ng3 Qf6 26.Qd1 e4 27.dxe4 Rxd2 28.Nxd2 h5
+29.e5 Qxe5 30.Rb5 Qd6 31.h4 Re6 32.Rb1 g6
+33.Nf3 Qxd1+ 34.Rxd1 Ne5 35.Rd4 Nxf3+ 36.gxf3 Rf6
+37.Ne4 Rc6 38.Rd8+ Kg7 39.Ra8 f5 40.Ng5 Rc5
+41.Ra6 c6 42.Kh2 Kf6 43.Nh7+ Ke6 44.Kg3 Ne2+
+45.Kg2 Rxc3 46.Rxa5 c5 47.Nf8+ Kf7 48.Nd7 Nf4+
+49.Kh2 Nd3 50.Ra7 Ke6 51.Nf8+ Kd5 52.Nxg6 c4
+53.Ra5+ Kd6 54.Ra6+ Kc5 55.Ra5+ Kb4 56.Rxf5 Kxa4
+57.Ne7 Nb4 58.Rxh5 Rxf3 59.Rc5 Kb3 60.Nf5 Rxf2+
+61.Kg3 Rd2 62.h5 Rd3+ 63.Kg4 c3 64.h6 c2
+65.h7 Rd8 66.Ne3 Rh8 67.Nxc2 Rxh7 68.Nd4+ Ka4
+69.Rc8 Na6 70.Rc1 Ka5 71.Nc2 Kb5 72.Kf3 Rf7+
+73.Kg4 Kc4 74.Rd1 Nc7 75.Ne3+ Kb4 76.Rc1 Na8
+77.Nf5 Rf6 78.Nd4 Nb6 79.Nc6+ Kb5 80.Nd4+ Ka4
+81.Ne2 Rf8 82.Rb1 Nd5 83.Kg3 Ka5 84.Rd1 Nc7
+85.Nd4 Rf6 86.Nf3 Na6 87.Rb1 Ka4 88.Nd4 Nc7
+89.Rb7 Na6 90.Rb1 Ka5 91.Kg4 Nb4 92.Kg3 Rd6
+93.Nf3 Ka4 94.Ne5 Na6 95.Kf3 Nc5 96.Rh1 Re6
+97.Kf4 Kb5 98.Kf5 Re8 99.Rb1+ Ka6 100.Nc4 Re7
+101.Nd6 Re2 102.Rd1 Kb6 103.Kf4 Re6 104.Kf3 Kc6
+105.Nf5 Rf6 106.Rd6+ Rxd6 107.Nxd6 Kxd6 1/2-1/2
+
+[Event ""]
+[GID "90"]
+[PlyCount "430"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C45"]
+
+1.e4 e5 2.Nf3 Nc6 3.d4 exd4 4.Nxd4 Bc5
+5.Be3 Qf6 6.c3 Nge7 7.Bc4 O-O 8.O-O b6
+9.Qd2 Qg6 10.b4 Bxd4 11.cxd4 d5 12.Bb3 dxe4
+13.f3 Ba6 14.Rf2 exf3 15.Rxf3 Rad8 16.Nc3 Nxb4
+17.Rd1 Nf5 18.d5 c5 19.Bf4 c4 20.Ba4 b5
+21.a3 Qb6+ 22.Kh1 Nd3 23.Bc2 Nh4 24.Rff1 Nxf4
+25.Rxf4 Ng6 26.Rd4 Bb7 27.Rb1 a6 28.Rxc4 Qa5
+29.Rd4 Qxa3 30.Ne4 Rfe8 31.d6 h6 32.h3 Bxe4
+33.Bxe4 Ne5 34.Rd1 Nc4 35.Qf4 Qe3 36.Qxe3 Nxe3
+37.Ra1 Nc4 38.Rxa6 Rxd6 39.Raxd6 Nxd6 40.Bc6 Re6
+41.Rb4 Re5 42.Rd4 Nf5 43.Rb4 g6 44.Bxb5 Kg7
+45.Kh2 Kf6 46.Bc4 Ne3 47.Bb3 Re7 48.Kg3 Nf5+
+49.Kh2 h5 50.Bc2 Ne3 51.Bd3 Ra7 52.Re4 Nf5
+53.Rb4 Nd6 54.h4 Ke5 55.Bb1 Ra3 56.g3 f5
+57.Rb6 Rc3 58.Kg2 Nc4 59.Rb4 Ne3+ 60.Kf2 Kf6
+61.Rb7 Ng4+ 62.Kg2 Ra3 63.Rb8 Ra6 64.Rb3 Kg7
+65.Kf3 Ra4 66.Bd3 Ra2 67.Be2 Nf6 68.Bc4 Kh6
+69.Rc3 Ra4 70.Bb5 Ra5 71.Bc6 Ra2 72.Re3 Ra6
+73.Bb5 Ra7 74.Be2 Ra1 75.Bb5 Ng4 76.Re2 Ra3+
+77.Kf4 Rb3 78.Be8 Rb6 79.Kf3 Nf6 80.Ba4 Nd5
+81.Rc2 Rb1 82.Rd2 Nf6 83.Kg2 Rb6 84.Ra2 Nd5
+85.Be8 Rd6 86.Ra3 Nf6 87.Bb5 Rd2+ 88.Kg1 Ng4
+89.Bc6 Ne5 90.Bf3 Nd3 91.Ra5 Nf2 92.Kf1 Nh3
+93.Ra3 f4 94.gxf4 Nxf4 95.Ra4 Nd3 96.Ba8 Nc5
+97.Rb4 Ne6 98.Ra4 Kg7 99.Be4 Nc5 100.Rc4 Nd7
+101.Rc7 Kh6 102.Rc6 Nf8 103.Rc4 Rb2 104.Ra4 Rb6
+105.Rc4 Re6 106.Kg2 Nd7 107.Bf3 Rb6 108.Re4 Rd6
+109.Kg3 Nf6 110.Re7 Ng8 111.Ra7 Rd4 112.Kh3 Nf6
+113.Re7 Nd7 114.Re4 Rd3 115.Kg2 Kg7 116.Rb4 Ne5
+117.Be4 Rd6 118.Ra4 Ng4 119.Ra7+ Kh6 120.Ra4 Re6
+121.Kg3 Rb6 122.Kf4 Rf6+ 123.Kg3 Ne5 124.Ra7 Rd6
+125.Ra4 Rb6 126.Kf2 Rf6+ 127.Kg3 Rd6 128.Bc2 Rb6
+129.Be4 Nd7 130.Rc4 Rb3+ 131.Kg2 Nf6 132.Bc2 Rb6
+133.Be4 Rd6 134.Kg3 Rd1 135.Bf3 Rd3 136.Kg2 Ne8
+137.Be4 Rd2+ 138.Kg3 Rd6 139.Rc6 Rxc6 140.Bxc6 Nd6
+141.Kh3 Kg7 142.Ba4 Kf7 143.Bc2 Nf5 144.Be4 Kg7
+145.Bc6 Ne7 146.Bd7 Kf7 147.Kg3 Nf5+ 148.Kh3 Ke7
+149.Bb5 Nd6 150.Ba4 Kf8 151.Bc2 Nf5 152.Be4 Ne7
+153.Kg3 Kg7 154.Kf4 Kf6 155.Kg3 Nf5+ 156.Kh3 Kf7
+157.Bc2 Kg7 158.Ba4 Kh6 159.Bc6 Kh7 160.Bd5 Nd4
+161.Kg3 Kg7 162.Kf4 Kf6 163.Kg3 Nf5+ 164.Kh3 Ne3
+165.Bc6 Kf5 166.Be8 Nd5 167.Bf7 Ke5 168.Be8 Kf6
+169.Bd7 Nf4+ 170.Kg3 Ne2+ 171.Kf3 Nd4+ 172.Ke4 Ke7
+173.Bh3 Nb5 174.Kf4 Kf6 175.Bd7 Nd6 176.Kg3 Ke5
+177.Ba4 Nf5+ 178.Kh3 Kf6 179.Bc6 Nd4 180.Bd5 Nb5
+181.Be4 Nc3 182.Bc6 Ke5 183.Be8 Nd5 184.Bc6 Ne7
+185.Be8 Kf6 186.Ba4 g5 187.hxg5+ Kxg5 188.Kg3 h4+
+189.Kg2 Nf5 190.Kh3 Nd4 191.Kh2 Kg4 192.Bd7+ Kf4
+193.Kh3 Kg5 194.Bc8 Ne2 195.Ba6 Nf4+ 196.Kh2 Kf6
+197.Bb5 Ke6 198.Be8 Kd6 199.Bb5 Ne6 200.Kh3 Nd4
+201.Be8 Ne2 202.Bb5 Nc3 203.Bd3 Ke5 204.Ba6 Kf4
+205.Kg2 Ne4 206.Bb7 Ng5 207.Bc8 Ke5 208.Kf2 Kd6
+209.Ke3 h3 210.Bb7 Ke5 211.Ba8 Kf5 212.Kf2 Kg4
+213.Bc6 Nf7 214.Bd7+ Kh4 215.Bxh3 Kxh3 1/2-1/2
+
+[Event ""]
+[GID "119"]
+[PlyCount "216"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6
+5.c3 a6 6.Ba4 g6 7.O-O Bg7 8.Re1 b5
+9.Bc2 O-O 10.Be3 h6 11.h3 d5 12.Nbd2 Re8
+13.Nb3 Kh7 14.Qd2 a5 15.a4 b4 16.Rad1 Rb8
+17.Qc1 Qe7 18.Rd2 bxc3 19.bxc3 Qe6 20.Rdd1 dxe4
+21.Nc5 Qe7 22.dxe4 Nd7 23.Nxd7 Bxd7 24.Rd5 Red8
+25.Rb5 Be6 26.Bd1 Rdc8 27.Qa1 Rd8 28.Qc1 Rdc8
+29.Rc5 Qe8 30.Be2 Bf8 31.Rb5 f6 32.Qb2 Ra8
+33.Nd2 Nd8 34.Bg4 Bxg4 35.hxg4 Qe6 36.f3 Nf7
+37.Qc2 Nd6 38.Rd5 c6 39.Rd3 Rcb8 40.c4 Rb4
+41.c5 Nb7 42.Rb3 Rxb3 43.Nxb3 Qd7 44.Rd1 Qc7
+45.Kf2 Qf7 46.Rd3 Qe6 47.Rd1 Qf7 48.Qc3 Qe6
+49.Ke2 Qf7 50.Kf2 Qe6 51.Rb1 Qd7 52.Qc2 Nd8
+53.Rd1 Qe8 54.Qc3 Nb7 55.Ke2 Qf7 56.Kf1 Rb8
+57.Kf2 Ra8 58.Qc2 Qe8 59.Kg1 Rd8 60.Rxd8 Qxd8
+61.Kf2 h5 62.gxh5 gxh5 63.Ke2 Qd7 64.Bf2 Bh6
+65.Be1 Bg5 66.Qc4 h4 67.Nxa5 Nxa5 68.Bxa5 h3
+69.gxh3 Qxh3 70.Bc3 Qg2+ 71.Kd1 Qxf3+ 72.Kc2 Qh1
+73.Qd3 Kg6 74.Kb3 Qg1 75.Kc4 Be3 76.a5 Qf2
+77.Kb3 Bxc5 78.a6 Qg1 79.Kc2 Qg2+ 80.Bd2 Bd4
+81.Kb3 Qg1 82.Bc3 Bc5 83.Kc2 Qg2+ 84.Bd2 Bd4
+85.Kb3 Qg1 86.Bb4 Ba7 87.Bf8 Kg5 88.Bb4 Kg6
+89.Bf8 Kg5 90.Bb4 Kg6 91.Ba3 Qb6+ 92.Kc3 Qa5+
+93.Kb3 Qb6+ 94.Kc3 Qa5+ 95.Kb2 Qb5+ 96.Qxb5 cxb5
+97.Kb3 f5 98.exf5+ Kxf5 99.Kb4 Ke4 100.Kxb5 Kd5
+101.Bb4 e4 102.Bd2 e3 103.Bxe3 Bxe3 104.Kb4 Bd4
+105.Kb3 Ba7 106.Kb4 Kc6 107.Kc4 Kb6 108.Kb4 Kxa6
+ 1/2-1/2
+
+[Event ""]
+[GID "112"]
+[PlyCount "167"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6
+5.d4 Bd7 6.d5 Ne7 7.Bxd7+ Qxd7 8.Qd3 c6
+9.dxc6 bxc6 10.Bg5 Ng6 11.Nc3 Be7 12.O-O-O Rd8
+13.g3 Ng4 14.Bxe7 Nxf2 15.Qxd6 Qxd6 16.Bxd6 Nxh1
+17.Bc5 Rxd1+ 18.Kxd1 a6 19.Ke2 h5 20.Kf1 f6
+21.Kg2 Nxg3 22.hxg3 Kf7 23.Bf2 Nf8 24.a4 Ne6
+25.Bb6 c5 26.Nd5 Ke8 27.a5 Kd7 28.Nh4 Ng5
+29.Nc3 Kc6 30.Nf5 Ne6 31.Kf2 Nd4 32.Na4 Ne6
+33.Ne7+ Kd7 34.Nf5 Kc6 35.c4 Re8 36.Nc3 Kd7
+37.Nd5 Rh8 38.Kg2 Rg8 39.b4 cxb4 40.Nxb4 Ng5
+41.Nxa6 Nxe4 42.Nb4 Rc8 43.a6 Rxc4 44.a7 Rc8
+45.Nxg7 Ra8 46.Nxh5 f5 47.Ng7 Nd6 48.Nd5 Nb5
+49.Be3 Kc6 50.Ne7+ Kd6 51.Nexf5+ Kd5 52.Ne7+ Kd6
+53.Bg5 Nxa7 54.Kf3 Nc6 55.Nxc6 Kxc6 56.Ke4 Ra4+
+57.Kf5 Ra3 58.g4 Kd5 59.Kg6 Rg3 60.Kf5 Ra3
+61.Kg6 Rg3 62.Nf5 Rg1 63.Kh5 Ke4 64.Bh4 Kf4
+65.Bg3+ Ke4 66.Bf2 Rd1 67.Nh4 Rd8 68.Ng6 Kf3
+69.Bb6 Re8 70.g5 e4 71.Nh4+ Kg3 72.Bc7+ Kh3
+73.Ng6 Kg2 74.Kg4 e3 75.Nh4+ Kf1 76.Nf5 e2
+77.Ng3+ Kf2 78.Bb6+ Ke1 79.Kf4 Kd1 80.Ba5 Rg8
+81.Ne4 e1=Q 82.Bxe1 Kxe1 83.Kf5 Rxg5+ 84.Nxg5 1/2-1/2
+
+[Event ""]
+[GID "113"]
+[PlyCount "279"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d6 14.Nd2 c6 15.a4 a5 16.h3 Bf5
+17.Qd1 Be6 18.Bd3 Bg5 19.Bh2 g6 20.Qc2 Ng7
+21.Re1 Qd7 22.Ne4 Be7 23.Bxd6 Bd5 24.Bf4 Re8
+25.Qd1 Qd8 26.Nd2 Bg5 27.Bxg5 Qxg5 28.Bf1 Qd8
+29.Rxe8+ Nxe8 30.Qe1 Nd6 31.c4 Be6 32.Qe5 Nf5
+33.Nf3 Ng7 34.Qf4 Bf5 35.d5 cxd5 36.cxd5 Ne8
+37.Qe5 Bc2 38.Bb5 Nd6 39.Nd4 Bb1 40.Bf1 Qc7
+41.Nb5 Nxb5 42.Qe8+ Kg7 43.axb5 Qd6 44.Qe1 Bf5
+45.Qxa5 Qxd5 46.Qc3+ Kg8 47.b3 Qd1 48.b6 h5
+49.b4 Be6 50.Qc7 Kh7 51.Qc3 Kg8 52.Qd3 Qe1
+53.Qd4 Kh7 54.g4 hxg4 55.hxg4 Bb3 56.Kg2 Ba4
+57.b5 Bb3 58.Bd3 Qd1 59.Qe4 Qd2 60.Kg3 Be6
+61.Qe3 Qd1 62.f3 Bd5 63.Kf2 Qa1 64.Be4 Bxe4
+65.Qxe4 Qa5 66.Qd5 Qxb6+ 67.Ke2 Qc7 68.Kd3 Qe7
+69.g5 Kg8 70.Kc4 Qc7+ 71.Kd4 Qe7 72.Qc5 Qd7+
+73.Kc4 Qe6+ 74.Kd4 Qd7+ 75.Kc4 Qe6+ 76.Qd5 Qe7
+77.Qe4 Qc7+ 78.Kb4 Qd6+ 79.Kb3 Qd1+ 80.Kc4 Qc1+
+81.Kb4 b6 82.Qe8+ Kg7 83.Qc6 Qb1+ 84.Kc3 Qe1+
+85.Kb2 Qe2+ 86.Kb3 Qf2 87.Kc4 Qe3 88.Qf6+ Kg8
+89.Qc6 Kh7 90.Qd6 Qe2+ 91.Qd3 Qa2+ 92.Kd4 Qa1+
+93.Kd5 Qa8+ 94.Ke5 Qe8+ 95.Kf4 Qe6 96.Qe4 Qc8
+97.Qe5 Qc1+ 98.Kg3 Qg1+ 99.Kh3 Qf1+ 100.Kg3 Qc1
+101.Qf6 Qg1+ 102.Kh4 Qf2+ 103.Kh3 Kg8 104.Qd8+ Kg7
+105.Qf6+ Kg8 106.Qd8+ Kh7 107.Qd5 Qf1+ 108.Kg4 Qg1+
+109.Kf4 Qc1+ 110.Kg4 Qg1+ 111.Kf4 Qc1+ 112.Ke4 Qe1+
+113.Kd3 Qd1+ 114.Kc4 Qc1+ 115.Kd3 Qb1+ 116.Kd2 Qb4+
+117.Kc2 Qa4+ 118.Qb3 Qf4 119.Qd5 Qa4+ 120.Kd3 Qd1+
+121.Kc4 Qc1+ 122.Kb3 Qb1+ 123.Kc3 Qc1+ 124.Kb3 Qe3+
+125.Kb4 Kg7 126.Kc4 Qc1+ 127.Kd3 Qd1+ 128.Kc4 Qc2+
+129.Kb4 Qb2+ 130.Ka4 Qa1+ 131.Kb3 Qb1+ 132.Kc3 Qc1+
+133.Kb4 Qc4+ 134.Kxc4 f5 135.Qd4+ Kg8 136.Qxb6 Kf7
+137.Qc7+ Ke6 138.Kd4 f4 139.b6 Kf5 140.Qe5# 1-0
+
+[Event ""]
+[GID "120"]
+[PlyCount "94"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.d3 d6
+5.O-O a6 6.Bxc6+ bxc6 7.Re1 c5 8.c3 Be7
+9.d4 cxd4 10.cxd4 O-O 11.dxe5 dxe5 12.Qc2 Bd6
+13.Nbd2 Re8 14.Nc4 h6 15.b3 Nh5 16.Bb2 f6
+17.Nh4 Qd7 18.Nf5 Bb4 19.Red1 Qf7 20.g3 a5
+21.Ba3 Kh7 22.Bxb4 axb4 23.Rac1 Be6 24.Nce3 g6
+25.Nh4 Ng7 26.Qxc7 Re7 27.Qc2 Rea7 28.Nd5 Rxa2
+29.Qc4 Rc8 30.Qxb4 Rxc1 31.Rxc1 Bxd5 32.exd5 Qxd5
+33.Qe7 Rxf2 34.Rc7 Qd1+ 35.Kxf2 Qd2+ 36.Kf1 Qd1+
+37.Kf2 Qd2+ 38.Kf3 Qd3+ 39.Kg2 Qe2+ 40.Kg1 Qe1+
+41.Kg2 Qe2+ 42.Kg1 Qe1+ 43.Kg2 Qe2+ 44.Kg1 Qe1+
+45.Kg2 Qe2+ 46.Kg1 Qe1+ 47.Kg2 Qe2+ 1/2-1/2
+
+[Event ""]
+[GID "121"]
+[PlyCount "109"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Be7 7.O-O d6 8.c3 O-O
+9.a4 b4 10.Re1 Rb8 11.Ba2 Na5 12.Nbd2 c5
+13.Nc4 Nc6 14.h3 h6 15.Ne3 Be6 16.Bd5 Na5
+17.Bxe6 fxe6 18.Ng4 Nxg4 19.hxg4 Bf6 20.Be3 Rf7
+21.Qe2 Rfb7 22.Rad1 Nc6 23.Rc1 Qe8 24.g5 hxg5
+25.Nxg5 Bxg5 26.Bxg5 Qg6 27.Qe3 bxc3 28.bxc3 Qh5
+29.Qg3 Kf7 30.Re3 Rb1 31.Rce1 R8b2 32.f3 Kg8
+33.R3e2 Rb6 34.Bd2 R1b2 35.Rf2 R6b3 36.Ref1 Ra2
+37.Bh6 Qxh6 38.Rxa2 Rxc3 39.Rd1 Nb4 40.Rad2 a5
+41.Qg4 Kf7 42.g3 Qe3+ 43.Kg2 Rxd3 44.Rxd3 Qe2+
+45.Kh3 Nxd3 46.Qh5+ Kf6 47.Qh4+ Kf7 48.Qh5+ Kf6
+49.Qh4+ Kf7 50.Qh5+ Kf6 51.Qh4+ Kf7 52.Qh5+ Kf6
+53.Qh4+ Kg6 54.Qg4+ Kf7 55.Qh5+ 1/2-1/2
+
+[Event ""]
+[GID "123"]
+[PlyCount "96"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Ne8 10.d5 Bc5 11.Be3 d6 12.Bxc5 dxc5
+13.Qf3 Nd6 14.Na3 Re8 15.Rxe8+ Qxe8 16.Qc3 b6
+17.Re1 Qd7 18.b4 cxb4 19.Qxb4 a5 20.Qb3 Ba6
+21.Bxa6 Rxa6 22.Nc4 Ra8 23.Nxd6 Qxd6 24.c4 Qb4
+25.Qe3 h6 26.Qe2 c6 27.h3 cxd5 28.cxd5 Rd8
+29.Rd1 Qc5 30.Qd3 Rd6 31.Qe4 b5 32.h4 Rd8
+33.d6 Rxd6 34.Rxd6 Qxd6 35.Qe8+ Kh7 36.Qxb5 Qd1+
+37.Kh2 a4 38.Qf5+ Kg8 39.h5 Qd6+ 40.g3 Qd2
+41.Qc8+ Kh7 42.Qf5+ Kg8 43.Qc8+ Kh7 44.Qf5+ Kg8
+45.Qc8+ Kh7 46.Qf5+ Kg8 47.Qc8+ Kh7 48.Qf5+ Kg8
+ 1/2-1/2
+
+[Event ""]
+[GID "126"]
+[PlyCount "93"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Bf1 f6 7.b4 Nxb4 8.d4 e4
+9.c4 f5 10.c5 Nf7 11.Qb3 a5 12.Nc3 Be7
+13.Bc4 Rf8 14.a3 Nc6 15.Qa4 Rh8 16.d5 exf3
+17.dxc6 bxc6 18.Ba2 Ba6 19.Bf4 h6 20.Rad1 fxg2
+21.h4 g5 22.Be5 Nxe5 23.Rxe5 Rh7 24.Qc2 d5
+25.cxd6 cxd6 26.Qxf5 Rg7 27.Qf6 dxe5 28.Qxc6+ Kf8
+29.Qf3+ Ke8 30.Qc6+ Kf8 31.Rxd8+ Rxd8 32.Qxh6 Ke8
+33.Qxg7 Rd3 34.Nd5 Rd1+ 35.Kxg2 Bf1+ 36.Kh2 Rxd5
+37.Qg8+ Kd7 38.Qxd5+ Kc7 39.hxg5 e4 40.g6 e3
+41.Qf7 exf2 42.Qxe7+ Kb6 43.Qf6+ Kb5 44.g7 Ka4
+45.g8=Q Bc4 46.Qxc4+ Kxa3 47.Qb3# 1-0
+
+[Event ""]
+[GID "124"]
+[PlyCount "182"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C88"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Be7 6.Re1 b5 7.Bb3 d6 8.c3 O-O
+9.h3 Re8 10.d4 h6 11.Nbd2 exd4 12.cxd4 Bf8
+13.Nf1 Na5 14.Bc2 c5 15.d5 Nc4 16.b3 Nb6
+17.a4 Rb8 18.axb5 axb5 19.Ng3 Nbd7 20.Be3 Qc7
+21.Kh2 Bb7 22.Nh4 Ra8 23.Nhf5 Rxa1 24.Qxa1 Bc8
+25.Qd1 b4 26.Bc1 Qa7 27.Be3 Qc7 28.Bb1 Qa7
+29.Re2 Qc7 30.Ra2 Ne5 31.f4 Ned7 32.Nh4 g6
+33.Bd2 Bb7 34.Bd3 Ra8 35.Rxa8 Bxa8 36.Nf1 Bb7
+37.Ne3 Bg7 38.Nf3 Nh5 39.g3 Nhf6 40.Qc2 Qd8
+41.Bc1 Qa8 42.Bb2 Nb6 43.Nd2 h5 44.f5 Qa2
+45.fxg6 fxg6 46.Nf3 Nfd7 47.Bxg7 Qxc2+ 48.Bxc2 Kxg7
+49.Bd3 Nf6 50.Kg2 Bc8 51.Nd1 Ng8 52.Nb2 Nh6
+53.h4 Kf6 54.Kf2 Ng4+ 55.Ke2 Nd7 56.Nc4 Ke7
+57.Kd2 Ba6 58.Na5 Bxd3 59.Nc6+ Kf6 60.Kxd3 Nf2+
+61.Ke3 Ng4+ 62.Kd2 Kf7 63.Kd3 Kf6 64.Kd2 Nde5
+65.Ncxe5 Nxe5 66.Nxe5 Kxe5 67.Kd3 Kf6 68.Kc4 Ke5
+69.Kd3 Kf6 70.Kc4 Ke5 71.Kd3 Kf6 72.Kd2 Ke5
+73.Ke3 Kf6 74.Kd3 Ke5 75.Ke3 Kf6 76.Kd2 Kf7
+77.Kd3 Ke7 78.Kc4 Kf6 79.Kd3 Kf7 80.Ke2 Ke8
+81.Kd3 Kf7 82.Ke3 Ke8 83.Kd3 Ke7 84.Kc4 Kf6
+85.Kd3 Kf7 86.Kc2 Kf8 87.Kd3 Kf7 88.Ke3 Ke7
+89.Kd3 Kf6 90.Ke3 Ke5 91.Kd3 Kf6 1/2-1/2
+
+[Event ""]
+[GID "128"]
+[PlyCount "89"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.d4 Nd6 6.Bxc6 dxc6 7.dxe5 Nf5 8.Qxd8+ Kxd8
+9.Nc3 Ke8 10.Ne2 b6 11.Nf4 Bb7 12.Rd1 h6
+13.g4 c5 14.Nd5 Bxd5 15.Rxd5 Ne7 16.Rd1 Nc6
+17.Bf4 Nd8 18.Be3 Nc6 19.Kg2 Ke7 20.h4 g6
+21.Nh2 Nxe5 22.Re1 Kd7 23.Rad1+ Kc6 24.Bxc5 Bxc5
+25.Rxe5 h5 26.g5 Rhe8 27.Nf3 Bd6 28.Nd4+ Kb7
+29.Re3 Rad8 30.Nb5 Bc5 31.Rxd8 Rxd8 32.Rf3 Rd7
+33.b3 Bf8 34.Nc3 a5 35.a4 Bd6 36.Rd3 Re7
+37.Rd4 Bc5 38.Rf4 Bd6 39.Rd4 Bc5 40.Rf4 Bd6
+41.Rd4 Bc5 42.Rf4 Bd6 43.Rd4 Bc5 44.Rf4 Bd6
+45.Rd4 1/2-1/2
+
+[Event ""]
+[GID "105"]
+[PlyCount "68"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C78"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 b5
+5.Bb3 Bb7 6.O-O Nf6 7.Re1 Bc5 8.a4 O-O
+9.c3 d6 10.d4 Bb6 11.Bg5 h6 12.Bh4 g5
+13.Bg3 Re8 14.h4 Na5 15.Bc2 Nh5 16.axb5 Nxg3
+17.bxa6 Nc6 18.fxg3 exd4 19.cxd4 g4 20.Nfd2 Nxd4
+21.Ba4 Rxa6 22.Kh2 h5 23.Nc4 c5 24.Nc3 Re6
+25.Qd3 Bc7 26.b3 d5 27.Ne5 Bxe5 28.exd5 Qxh4+
+29.Kg1 Bxg3 30.Qxg3 Qxg3 31.Red1 Ne2+ 32.Kf1 Qf4+
+33.Ke1 Nxc3+ 34.dxe6 Rxe6# 0-1
+
+[Event ""]
+[GID "108"]
+[PlyCount "139"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C70"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Bc5
+5.c3 Nf6 6.d4 exd4 7.e5 Ng4 8.cxd4 Nxd4
+9.Nxd4 Qh4 10.g3 Qh3 11.Be3 O-O 12.Nd2 d6
+13.Qe2 b5 14.Bc2 Bb7 15.Rg1 Rae8 16.O-O-O Rxe5
+17.N2f3 Nxe3 18.fxe3 Ree8 19.Ng5 Qh6 20.h4 g6
+21.Bb3 Re7 22.Nc2 Qg7 23.Rgf1 h6 24.Nf3 Rfe8
+25.Rde1 Be4 26.Qd2 d5 27.h5 gxh5 28.Ncd4 a5
+29.Qxa5 Bd3 30.Rf2 Rxe3 31.Rxe3 Rxe3 32.Qa8+ Qf8
+33.Qxd5 c6 34.Qxh5 Be4 35.Qe5 Bd6 36.Qf6 Bc7
+37.Ne6 Bd8 38.Qd4 Bxf3 39.Qxe3 fxe6 40.Rxf3 Bg5
+41.Qxg5+ hxg5 42.Bxe6+ Kg7 43.Rxf8 Kxf8 44.Bd7 b4
+45.Bxc6 Ke7 46.Kc2 Ke6 47.Kb3 Kd6 48.Bb5 Kc5
+49.Ba4 Kd4 50.Kxb4 Kd5 51.Ka5 Kd6 52.Kb6 Kd5
+53.Bb5 Ke4 54.a4 Kf3 55.a5 Kxg3 56.Bd7 Kf2
+57.a6 Ke2 58.b4 Kd3 59.a7 Kd4 60.a8=Q Ke5
+61.Qc6 Kf4 62.Qf6+ Ke3 63.Qxg5+ Ke2 64.b5 Kd3
+65.Kc5 Ke2 66.b6 Kd1 67.b7 Kc2 68.b8=Q Kd1
+69.Qh2 Ke1 70.Qc1# 1-0
+
+[Event ""]
+[GID "63"]
+[PlyCount "273"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Bf1 f6 7.b4 a6 8.d4 Be7
+9.dxe5 fxe5 10.Nxe5 Nxe5 11.Rxe5 O-O 12.c3 c6
+13.Bd3 g6 14.Bh6 Re8 15.Bf4 Nf7 16.Re3 d5
+17.Nd2 Bf6 18.Bc7 Qd7 19.Rxe8+ Qxe8 20.Qc2 Qf8
+21.Nb3 Qe7 22.Bb6 Be5 23.Bc5 Qh4 24.g3 Qf6
+25.Rc1 Bd6 26.c4 Bxc5 27.Nxc5 b6 28.Nb3 Bh3
+29.cxd5 cxd5 30.Qc3 Ne5 31.f4 Nf3+ 32.Kf2 Nxh2
+33.Qxf6 Ng4+ 34.Kf3 Nxf6 35.Rc6 Ng4 36.Ke2 b5
+37.a3 Nh2 38.Kd2 Nf1+ 39.Bxf1 Bxf1 40.Rb6 Re8
+41.Nd4 Kf7 42.Rxa6 Re4 43.Nf3 Re2+ 44.Kc1 Rg2
+45.Ne5+ Ke7 46.g4 Rf2 47.Ra7+ Ke6 48.Ra6+ Ke7
+49.Ra7+ Ke6 50.Ra6+ Ke7 51.Ra7+ Ke6 52.Ra6+ Ke7
+53.Ra7+ Kf6 54.Nd7+ Kf7 55.Nc5+ Ke8 56.Ne6 d4
+57.Rxh7 d3 58.Nc7+ Kd8 59.Ne6+ Ke8 60.Nc7+ Kd8
+61.Ne6+ Ke8 62.Nc7+ Kd8 63.Ne6+ Ke8 64.f5 d2+
+65.Kd1 Bc4 66.Nd4 gxf5 67.gxf5 Rf4 68.Nc6 Bd5
+69.Rh8+ Kd7 70.Nb8+ Kc7 71.Na6+ Kd6 72.Kxd2 Rf2+
+73.Ke1 Rxf5 74.Ke2 Rg5 75.Rh3 Be6 76.Rd3+ Ke5
+77.Re3+ Kd6 78.Kd3 Rg2 79.Nc5 Bc4+ 80.Ke4 Rg4+
+81.Kf5 Rg1 82.Ke4 Rg4+ 83.Kf3 Rg1 84.Kf4 Kd5
+85.Ne6 Rf1+ 86.Kg5 Rf7 87.Kg6 Rf1 88.Nc7+ Kd4
+89.Rg3 Bd3+ 90.Kg5 Bc4 91.Na6 Rf8 92.Nc5 Rg8+
+93.Kf4 Rf8+ 94.Kg4 Rg8+ 95.Kf4 Rf8+ 96.Kg4 Rc8
+97.Kf5 Rf8+ 98.Kg5 Rg8+ 99.Kh4 Rh8+ 100.Kg4 Rc8
+101.Na6 Ra8 102.Nc5 Rg8+ 103.Kh3 Rf8 104.Kh4 Rh8+
+105.Kg5 Rg8+ 106.Kh4 Ra8 107.Kh3 Rf8 108.Kg2 Rf5
+109.Kh2 Rf2+ 110.Rg2 Rf8 111.Rg4+ Kc3 112.Rg3+ Kd4
+113.Rg4+ Kc3 114.Rg3+ Kd4 115.Kg2 Rf5 116.Rg4+ Kc3
+117.Rg3+ Kd4 118.Rg6 Bd5+ 119.Kh3 Rf1 120.Kg4 Ra1
+121.Ra6 Rg1+ 122.Kf5 Kc3 123.Rg6 Bc6 124.Rxg1 Kd4
+125.Ne6+ Kc3 126.Rc1+ Kb2 127.Rxc6 Kxa3 128.Nd4 Kxb4
+129.Ke5 Ka3 130.Nxb5+ Kb2 131.Kd4 Kb3 132.Kd3 Kb4
+133.Nd4 Ka3 134.Rb6 Ka2 135.Kc3 Ka1 136.Kc2 Ka2
+137.Ra6# 1-0
+
+[Event ""]
+[GID "109"]
+[PlyCount "308"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C69"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Bxc6 dxc6
+5.O-O f6 6.d4 Bg4 7.c3 exd4 8.h3 Bxf3
+9.Qxf3 dxc3 10.bxc3 Ne7 11.Rd1 Qc8 12.Qe2 Ng6
+13.Qc4 Bd6 14.Ba3 Ke7 15.Bxd6+ cxd6 16.Qb4 c5
+17.Qb2 b5 18.a4 Qc6 19.Na3 Rhb8 20.Qd2 Ne5
+21.Nc2 Nc4 22.Qf4 bxa4 23.Na3 Ne5 24.Nc2 Kf8
+25.Ne3 Re8 26.Nf5 Rad8 27.Rd5 Nc4 28.Qg3 Rd7
+29.Qd3 Nb6 30.Rxd6 Rxd6 31.Nxd6 Re6 32.Nf5 g6
+33.Ng3 c4 34.Qe3 Kg7 35.f3 Qd6 36.Ne2 Re5
+37.Qd4 Qxd4+ 38.Nxd4 Kg8 39.Rb1 Nd7 40.Rb4 Nc5
+41.Nc2 Re7 42.Rxc4 Rc7 43.Kf1 Kf7 44.Ke2 Ke6
+45.Na3 Ke5 46.Ke3 f5 47.f4+ Kd6 48.e5+ Kc6
+49.Kd2 Rd7+ 50.Kc2 g5 51.fxg5 Re7 52.g4 fxg4
+53.Rxg4 Rxe5 54.Rg2 Re3 55.g6 hxg6 56.Rxg6+ Kc7
+57.Rg7+ Kb8 58.Rg8+ Kc7 59.Rg7+ Kc6 60.Rg6+ Kb7
+61.Rg7+ Kc8 62.Rg4 Rxh3 63.Kb2 Rh2+ 64.Kb1 Kc7
+65.Rg7+ Kd8 66.Rg8+ Ke7 67.Rg7+ Kf6 68.Rc7 Ne4
+69.Kc1 Rh3 70.Kb2 Ke6 71.Rc4 Ke5 72.Rxa4 Rh2+
+73.Nc2 Nc5 74.Rd4 a5 75.Rc4 Kd6 76.Rg4 Kc6
+77.Kb1 Kb7 78.Rd4 Kb6 79.Rg4 Kb7 80.Na3 Nb3
+81.Rg6 Nd2+ 82.Kb2 Ne4+ 83.Kb3 Nc5+ 84.Kc4 Rh5
+85.Kb5 Ne4+ 86.Kc4 Nd2+ 87.Kd3 Nb3 88.Kc2 Nc5
+89.Nc4 Rh2+ 90.Kb1 a4 91.Rg4 Re2 92.Na3 Ne4
+93.Kc1 Kc6 94.Rh4 Re1+ 95.Kb2 Re2+ 96.Kb1 Nxc3+
+97.Kc1 Re4 98.Rxe4 Nxe4 99.Kb2 Kc5 100.Nc2 Ng3
+101.Ne3 Kd4 102.Nc2+ Kd3 103.Nb4+ Kc4 104.Ka3 Nf5
+105.Nc2 Kd3 106.Kb2 Ne3 107.Nb4+ Kc4 108.Nc6 Kc5
+109.Ne7 Nc4+ 110.Ka2 Kd6 111.Ng6 Kd5 112.Nf4+ Kc5
+113.Ne2 Kb4 114.Nf4 Ne3 115.Nd3+ Kc3 116.Nc5 Kc4
+117.Nd7 Kb4 118.Nb8 Kb5 119.Nd7 Nc4 120.Nf6 Kc5
+121.Ne4+ Kd4 122.Ng5 Kd5 123.Nh3 Ke5 124.Nf2 Kd4
+125.Ng4 Kd5 126.Nf2 Kc6 127.Nd3 Kb5 128.Nf2 Nd6
+129.Nd1 Kb4 130.Nf2 Nb5 131.Nd3+ Kc3 132.Ne5 Kd4
+133.Nc6+ Ke4 134.Ne7 Ke5 135.Nc8 a3 136.Kb3 Kf6
+137.Nb6 Ke6 138.Ka2 Nd6 139.Na4 Nb5 140.Nb6 Nd6
+141.Na4 Nb5 142.Nc5+ Kd5 143.Nb3 Kc4 144.Na5+ Kb4
+145.Nc6+ Ka4 146.Ne5 Nc3+ 147.Ka1 Kb3 148.Nc6 Ne2
+149.Na5+ Kb4 150.Nb7 Nc1 151.Nd6 Kb3 152.Nb5 Ne2
+153.Kb1 Kb4 154.Nxa3 Kxa3 1/2-1/2
+
+[Event ""]
+[GID "130"]
+[PlyCount "113"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C77"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.d3 b5 6.Bb3 Bc5 7.Nc3 d6 8.Nd5 h6
+9.c3 O-O 10.O-O Rb8 11.d4 exd4 12.cxd4 Ba7
+13.Be3 Nxd5 14.Bxd5 Nb4 15.Bb3 c5 16.d5 Bg4
+17.a3 Bxf3 18.gxf3 Nd3 19.Rb1 Ne5 20.f4 Nd7
+21.Bc2 Bb6 22.Kh1 c4 23.Bd2 Qh4 24.Qf3 f5
+25.exf5 Nf6 26.Rbe1 Ng4 27.h3 Nxf2+ 28.Kh2 Nd3
+29.Bxd3 cxd3 30.Qxd3 Qf6 31.Bc3 Qxf5 32.Qxf5 Rxf5
+33.Re7 Rf7 34.Re6 Bc5 35.b4 Ba7 36.Rxd6 Rc8
+37.Be5 Bb8 38.Re6 Bxe5 39.Rxe5 Rc3 40.Rd1 Rxa3
+41.d6 Rd7 42.Rc5 Kf7 43.Rc7 Ke8 44.Rc8+ Kf7
+45.Rc7 Ke8 46.Rc8+ Kf7 47.Rd4 Ke6 48.Re8+ Kf6
+49.Rf8+ Ke6 50.Re8+ Kf6 51.Rf8+ Ke6 52.Re8+ Kf6
+53.Ra8 Ke6 54.Re8+ Kf6 55.Ra8 Kf5 56.Rc8 Ke6
+57.Re8+ 1/2-1/2
+
+[Event ""]
+[GID "118"]
+[PlyCount "148"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "0-1"]
+[ECO "C80"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Nf6
+5.O-O Nxe4 6.Re1 Nc5 7.Bxc6 dxc6 8.Nxe5 Be7
+9.d4 Ne6 10.Be3 O-O 11.Nc3 f6 12.Nd3 Re8
+13.Ne2 Qd7 14.c4 Bd6 15.Nc3 Qf7 16.h3 Qg6
+17.h4 h6 18.h5 Qf7 19.Qf3 Bd7 20.Ne4 Rad8
+21.Rac1 Be7 22.d5 Ng5 23.Nxg5 hxg5 24.Bc5 Bd6
+25.Bxd6 cxd6 26.Rxe8+ Rxe8 27.dxc6 Bxc6 28.Qd1 a5
+29.b4 Re4 30.b5 Be8 31.Nb2 Qe6 32.a3 Bf7
+33.Qd2 Qe5 34.Qc3 Qxc3 35.Rxc3 Re1+ 36.Kh2 Re2
+37.Nd3 b6 38.f3 Bxh5 39.Nc1 Rb2 40.Nb3 Bf7
+41.Nd4 Rd2 42.Nc6 Kf8 43.Kg1 f5 44.g3 f4
+45.g4 Rb2 46.Nd4 Bg6 47.Kf1 Rd2 48.Ne6+ Ke7
+49.Nc7 Kf6 50.Nd5+ Ke5 51.Ke1 Rh2 52.Nxb6 Kd4
+53.Rc1 Ke3 54.Nd5+ Kxf3 55.Nc3 Kxg4 56.Rd1 Rh3
+57.Rxd6 Rxc3 58.Rxg6 Rxc4 59.Rxg7 Rc1+ 60.Kf2 Rc2+
+61.Ke1 Rb2 62.a4 f3 63.Kf1 Kf4 64.Ke1 g4
+65.Kd1 f2 66.Rf7+ Kg3 67.b6 Rxb6 68.Kc2 Kg2
+69.Rf4 g3 70.Rd4 f1=Q 71.Rd8 Qc4+ 72.Kd1 Rb1+
+73.Kd2 Rb2+ 74.Ke1 Qf1# 0-1
+
+[Event ""]
+[GID "125"]
+[PlyCount "321"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1-0"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Nd6 15.h3 h6 16.a4 a5
+17.Nf3 Bf5 18.Qd1 c6 19.Qb3 Be4 20.Ne5 Bh4
+21.Re1 Bg5 22.Bh2 Bd2 23.Ra1 Bg5 24.Re1 Bd2
+25.Rd1 Bg5 26.Nd3 Rb8 27.Ne5 Ra8 28.Nd3 Rb8
+29.Qa3 Be7 30.Qa2 Bh4 31.Re1 Qf6 32.Be5 Qd8
+33.Bf4 Qf6 34.Be5 Qd8 35.Qb3 Be7 36.Nc5 Bf5
+37.Bh2 b6 38.Nd3 Bf8 39.Ne5 Qc7 40.g4 Be4
+41.c4 Qb7 42.Qc3 Bh7 43.cxd5 cxd5 44.Qc6 Qxc6
+45.Nxc6 Re8 46.Rxe8 Nxe8 47.Bg2 Bc2 48.Bxd5 Nf6
+49.Bg2 Bxa4 50.Bc7 Nd7 51.Na7 Bb4 52.Bd5 Nf6
+53.Bc4 Bd7 54.Bxb6 a4 55.Kf1 a3 56.bxa3 Bxa3
+57.d5 h5 58.f3 Kf8 59.Nc6 Ne8 60.Ke2 Nd6
+61.Bd3 hxg4 62.hxg4 f6 63.Ba5 Nf7 64.Kd2 Bd6
+65.Bc3 Bc5 66.Kc2 Bc8 67.Kb3 Ng5 68.Be2 Ke8
+69.Bb4 Bf2 70.Bb5 Bd7 71.Bd3 f5 72.Ne5 fxg4
+73.fxg4 Bg3 74.Bg6+ Kd8 75.Nxd7 Kxd7 76.Bf8 Be5
+77.Kc4 Nf3 78.Kc5 Kd8 79.Bf5 Bd4+ 80.Kc6 Ne5+
+81.Kb5 Nf7 82.Kc6 Ne5+ 83.Kb5 Nf7 84.Bg6 Nh8
+85.Bh7 Nf7 86.Bg6 Nh8 87.Bh7 Nf7 88.Bg8 Ng5
+89.Kc6 Nf3 90.Be6 Bf6 91.Kb7 g6 92.Bb4 Ng5
+93.Bc8 Nf7 94.Be6 Ng5 95.Bg8 Kd7 96.Kb6 Bd4+
+97.Kb5 Be3 98.Kc4 Bc1 99.Kd4 Bb2+ 100.Kd3 Bc1
+101.Bc5 Bf4 102.Ba3 Ke8 103.Bb4 Kd7 104.Ba3 Ke8
+105.Bb4 Kd7 106.Kc4 Bc1 107.Kd4 Bb2+ 108.Kd3 Bc1
+109.Bc5 Bf4 110.Kc4 Bc1 111.Kd4 Bb2+ 112.Kc4 Bc1
+113.Kd4 Bb2+ 114.Kd3 Bc1 115.Bd4 Ke7 116.Bc5+ Kd7
+117.Kc4 Bf4 118.Ba3 Ke8 119.Kb5 Kd7 120.Kb6 Bc7+
+121.Ka6 Bf4 122.Kb7 Be3 123.Bb4 Bf4 124.Kb6 Bc1
+125.Kc5 Bf4 126.Kb5 Be3 127.Bc3 Kd6 128.Kc4 Bf4
+129.Bb4+ Kd7 130.Bc3 Kd6 131.Bb4+ Kd7 132.Ba3 Ke8
+133.Kb5 Kd7 134.Kb6 Bc7+ 135.Kb7 Bf4 136.Bb2 Kd6
+137.Ba3+ Kd7 138.Bb4 Bd6 139.Be1 Bf4 140.Bh4 Nf3
+141.Bf6 Bb8 142.Kxb8 Nh2 143.Be5 Nf3 144.Be6+ Ke7
+145.Bf4 Nd4 146.Bc8 Kf6 147.d6 g5 148.Be3 Ke5
+149.Bxd4+ Kxd6 150.Bf6 Kd5 151.Bxg5 Ke4 152.Bh4 Kd3
+153.g5 Kc2 154.g6 Kd1 155.g7 Kd2 156.g8=Q Kc3
+157.Qg4 Kb3 158.Bf5 Kc3 159.Qa4 Kd2 160.Qd4+ Ke2
+161.Qd3# 1-0
+
+[Event ""]
+[GID "122"]
+[PlyCount "226"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C65"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Bc5
+5.c3 O-O 6.Re1 d6 7.d4 Bb6 8.a4 a5
+9.h3 exd4 10.cxd4 h6 11.Bxc6 bxc6 12.Nc3 Re8
+13.Bf4 Nh7 14.Rc1 Qf6 15.Qd2 Qg6 16.Bg3 Qh5
+17.Nh4 g5 18.Nf5 Bxf5 19.exf5 g4 20.h4 Qxf5
+21.d5 c5 22.Qxh6 c4 23.Qd2 Nf6 24.Kh2 Rxe1
+25.Rxe1 Re8 26.Rxe8+ Nxe8 27.Qg5+ Qxg5 28.hxg5 Kh7
+29.Nd1 Kg6 30.Bf4 f6 31.Be3 fxg5 32.Bxb6 cxb6
+33.Ne3 c3 34.bxc3 Nc7 35.c4 Na6 36.Nd1 Nc5
+37.Nc3 Kf6 38.Kg3 Kf5 39.f3 Ke5 40.Kxg4 Kd4
+41.Nb1 Kxc4 42.Kxg5 Nxa4 43.g4 b5 44.Kh6 Kxd5
+45.g5 Nc5 46.Nc3+ Ke5 47.g6 Ne6 48.Nxb5 a4
+49.Nc7 a3 50.Nxe6 a2 51.g7 a1=Q 52.g8=Q Qh1+
+53.Kg6 Qb1+ 54.Kh6 Qh1+ 55.Kg6 Qb1+ 56.Kf7 Qb7+
+57.Ke8 Qc6+ 58.Kf7 Qxf3+ 59.Ke7 Qb7+ 60.Ke8 Qb5+
+61.Ke7 Qb7+ 62.Ke8 Kf6 63.Qg5+ Kxe6 64.Qg6+ Ke5
+65.Qg3+ Kf5 66.Qxd6 Qe4+ 67.Kf8 Qf3 68.Qh6 Qa8+
+69.Kg7 Qb7+ 70.Kf8 Qc8+ 71.Kg7 Qd7+ 72.Kg8 Qd5+
+73.Kh7 Qf7+ 74.Kh8 Qe8+ 75.Kh7 Qf7+ 76.Qg7 Qh5+
+77.Kg8 Ke6 78.Qf8 Qg4+ 79.Kh8 Qh4+ 80.Kg7 Qg5+
+81.Kh7 Kd7 82.Qf7+ Kc6 83.Qe8+ Kc5 84.Qf8+ Kb5
+85.Qd6 Qh5+ 86.Kg8 Qg4+ 87.Kh7 Qh5+ 88.Kg8 Qg4+
+89.Kh8 Qf3 90.Qe5+ Kb6 91.Qe7 Qh5+ 92.Kg8 Qg6+
+93.Kf8 Qh6+ 94.Kg8 Qg6+ 95.Kf8 Qh6+ 96.Kf7 Qh7+
+97.Ke8 Qh5+ 98.Kd7 Qf5+ 99.Kd8 Qd5+ 100.Ke8 Qh5+
+101.Kd7 Qf5+ 102.Kd8 Kc6 103.Qc7+ Kb5 104.Qd6 Qg5+
+105.Kd7 Qg7+ 106.Ke8 Qg8+ 107.Kd7 Qg7+ 108.Kc8 Qg4+
+109.Kb7 Qe4+ 110.Kc7 Qc4+ 111.Kd8 Qc5 112.Qe6 Qb6+
+113.Qxb6+ Kxb6 1/2-1/2
+
+[Event ""]
+[GID "127"]
+[PlyCount "306"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Bf5 15.a4 a5 16.Qd1 Bg5
+17.Bg3 c6 18.Nf3 Be7 19.Qb3 Qc8 20.Re1 Bf8
+21.Ne5 h6 22.h3 Nf6 23.Bf4 Be4 24.Be2 Bf5
+25.Bf3 Bh7 26.Ng4 Ne4 27.Re2 Nd6 28.Ne3 Bd3
+29.Re1 Qd7 30.Bg4 Qd8 31.Bf3 Qd7 32.Bg4 Qd8
+33.Bh5 Qd7 34.Rd1 Ba6 35.Bf3 Re8 36.Qb6 Qd8
+37.Qxd8 Rxd8 38.h4 Ne8 39.Be5 Bd6 40.Bg4 f6
+41.Bxd6 Nxd6 42.h5 Kf8 43.b3 Re8 44.b4 axb4
+45.cxb4 Bc4 46.a5 Ba6 47.g3 Re4 48.Bf3 Re7
+49.g4 Bb5 50.Kg2 Ba4 51.Ra1 Bb5 52.Kg3 Bd3
+53.Ra3 Bb5 54.Ra1 Bd3 55.Rd1 Bh7 56.Kf4 Nb5
+57.Bg2 Nc3 58.Rd2 Kf7 59.Bf3 Nb5 60.Bg2 Kf8
+61.Rd1 Nc3 62.Rd2 Kf7 63.Bh1 Nb5 64.Bf3 Ke8
+65.Rd1 Kf8 66.Rd2 Ke8 67.Bg2 Kf8 68.Kg3 Nc3
+69.Rb2 Nb5 70.Rd2 Nc3 71.Bf3 Re6 72.Nd1 Nb5
+73.Ne3 Nc3 74.Kf4 Re7 75.Bh1 Ke8 76.Kg3 Nb5
+77.Bg2 Nc3 78.Bf3 Kf7 79.Kf4 Ke8 80.Rb2 Nb5
+81.Rd2 Nc3 82.Ng2 Nb5 83.Rd1 Bc2 84.Rd2 Bh7
+85.Rd1 Bc2 86.Rd2 Bh7 87.Ne3 Kf7 88.Kg3 Nd6
+89.Bg2 Nc4 90.Re2 Nd6 91.Ra2 Nb5 92.Rd2 Nc3
+93.Rb2 Nb5 94.Rd2 Nc3 95.Bf3 Nb5 96.Be2 Nd6
+97.Rd1 Ne4+ 98.Kg2 Nc3 99.Re1 Re6 100.Bf1 Re4
+101.g5 g6 102.a6 bxa6 103.Rc1 Na2 104.Rxc6 Nxb4
+105.Rxf6+ Kg7 106.Rb6 a5 107.Rb7+ Kh8 108.Rb8+ Kg7
+109.Rb7+ Kh8 110.hxg6 Bxg6 111.gxh6 Nc6 112.Kh3 Nxd4
+113.Bg2 Re5 114.Bxd5 Rh5+ 115.Kg4 Nf5 116.Bc6 Nxh6+
+117.Kf4 Ng8 118.Bd5 Nf6 119.Be6 Rh7 120.Rb8+ Kg7
+121.f3 Rh5 122.Rc8 Rb5 123.Rc7+ Kf8 124.Bc4 Nh5+
+125.Kg4 Re5 126.Nd5 Re1 127.Ra7 Rg1+ 128.Kh4 Rh1+
+129.Kg5 Rg1+ 130.Kh6 Be8 131.Ra6 a4 132.Nc7 Ng7
+133.Rf6+ Ke7 134.Nd5+ Kd8 135.Ra6 Nf5+ 136.Kh7 Rh1+
+137.Kg8 Ne7+ 138.Kf8 Nxd5 139.Bxd5 Rh8+ 140.Kg7 Rh5
+141.Ra8+ Kc7 142.Be4 Bb5 143.Bc2 Rh4 144.Bxa4 Bxa4
+145.Kf6 Bc6 146.Rg8 Rf4+ 147.Ke5 Rxf3 148.Rg7+ Bd7
+149.Rg5 Ra3 150.Rg1 Ra5+ 151.Kf6 Kd6 152.Rd1+ Rd5
+153.Rxd5+ Kxd5 1/2-1/2
+
+[Event ""]
+[GID "129"]
+[PlyCount "276"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C67"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 Nf6 4.O-O Nxe4
+5.Re1 Nd6 6.Nxe5 Be7 7.Bf1 Nxe5 8.Rxe5 O-O
+9.d4 Bf6 10.Re1 Re8 11.c3 Rxe1 12.Qxe1 Ne8
+13.Bf4 d5 14.Nd2 Bf5 15.a4 c6 16.a5 Nc7
+17.h3 Ne6 18.Be5 Be7 19.Bh2 Bd6 20.Nf3 Bxh2+
+21.Nxh2 Qd6 22.Qe3 h6 23.Nf3 Be4 24.h4 Re8
+25.g3 Re7 26.Bh3 Nc7 27.Bf1 Ne6 28.Rd1 Nc7
+29.Re1 Re6 30.Re2 Ne8 31.Ne5 Qc7 32.b4 Nd6
+33.h5 Bh7 34.Bh3 Re7 35.Qf3 Ne4 36.Bg4 a6
+37.Re3 Nf6 38.Kh2 Be4 39.Qe2 Bh7 40.f3 Kf8
+41.Kg2 Qd8 42.Qd2 Ne8 43.Kf2 Nd6 44.Re2 Kg8
+45.Bh3 f6 46.Nd3 Rxe2+ 47.Qxe2 Bxd3 48.Qxd3 Qe8
+49.Qe2 Qxe2+ 50.Kxe2 Kf7 51.Ke3 Nb5 52.Bc8 Nd6
+53.Bh3 Ke7 54.Bf1 Kd8 55.Kf4 Kd7 56.Ke3 Kd8
+57.Bd3 Ke8 58.Kf4 Ke7 59.Ke3 Ke8 60.Kf4 Ke7
+61.Be2 Ke6 62.Bf1 Kf7 63.Bh3 Ke7 64.Bf1 Kf7
+65.Ke3 Nf5+ 66.Kf2 Ke8 67.Bd3 Nd6 68.Bg6+ Ke7
+69.Bd3 Ke8 70.Ke3 Kd8 71.Ke2 Kc7 72.Ke3 Kd7
+73.Kd2 Ke6 74.Ke2 Nf5 75.Kf2 Nd6 76.Ke3 Nf5+
+77.Kf4 Nd6 78.Ke3 Kd7 79.Kd2 Ke6 80.Ke2 Nf5
+81.g4 Nd6 82.Kd2 Ke7 83.Be2 Kd7 84.Bd3 Ke6
+85.Ke2 Ke7 86.Kf2 Ke8 87.Kg3 Kd7 88.Kf2 Ke8
+89.Ke3 Kd8 90.Kd2 Kc7 91.Be2 Kb8 92.Bd3 Kc8
+93.Ke2 Kc7 94.Kf2 Kd7 95.Kg3 Ke8 96.Kf2 Kd7
+97.Kg3 Ke8 98.Kf4 Kf7 99.Ke3 Kf8 100.Kd2 Nb5
+101.Bxb5 cxb5 102.Ke2 Kf7 103.Kf2 g6 104.hxg6+ Kxg6
+105.Kg3 f5 106.Kh4 f4 107.Kh3 Kg5 108.Kh2 h5
+109.gxh5 Kxh5 110.Kg2 Kh4 111.Kh2 Kg5 112.Kh3 Kh5
+113.Kh2 Kg5 114.Kg1 Kf6 115.Kf2 Kg7 116.Kf1 Kf7
+117.Kg2 Kg6 118.Kg1 Kf6 119.Kf2 Kf5 120.Kg2 Kg6
+121.Kf1 Kh6 122.Kg1 Kg5 123.Kh2 Kf5 124.Kh1 Kg5
+125.Kh2 Kf6 126.Kh3 Kg5 127.Kg2 Kg6 128.Kf1 Kh6
+129.Kg1 Kg5 130.Kf2 Kf6 131.Kf1 Kg6 132.Kg2 Kh6
+133.Kh1 Kg7 134.Kh2 Kf6 135.Kh1 Kf7 136.Kg2 Kg6
+137.Kh1 Kf5 138.Kg2 Kg6 1/2-1/2
+
+[Event ""]
+[GID "115"]
+[PlyCount "253"]
+[White "Berserk 11"]
+[Black "Koivisto 9"]
+[Result "1/2-1/2"]
+[ECO "C99"]
+
+1.e4 e5 2.Nf3 Nc6 3.Bb5 a6 4.Ba4 Be7
+5.O-O Nf6 6.Re1 b5 7.Bb3 O-O 8.c3 d6
+9.h3 Bb7 10.d4 Re8 11.Ng5 Rf8 12.Nf3 Re8
+13.Nbd2 Bf8 14.a4 h6 15.Bc2 exd4 16.cxd4 Nb4
+17.Bb1 g6 18.axb5 axb5 19.Rxa8 Qxa8 20.e5 Nfd5
+21.Qe2 dxe5 22.dxe5 Nf4 23.Qxb5 Ba6 24.Qa4 Bd3
+25.Qxa8 Rxa8 26.Ne4 Ne2+ 27.Kh2 Nxc1 28.Rxc1 Ra1
+29.Nf6+ Kg7 30.Ne8+ Kh8 31.Nd2 c6 32.Nd6 Kg7
+33.f4 Bxb1 34.Ne8+ Kg8 35.Rxb1 Rxb1 36.Nf6+ Kg7
+37.Nxb1 Nd3 38.Kg3 g5 39.fxg5 hxg5 40.Nd7 Nxe5
+41.Nxe5 Bd6 42.Kg4 Bxe5 43.Kxg5 Bxb2 44.Kf5 Bc1
+45.Nc3 c5 46.Ke4 Kg6 47.Kd5 Kg5 48.Kxc5 Ba3+
+49.Kd4 Bb2 50.Kd3 f5 51.Nd1 Be5 52.Ne3 Kf4
+53.Nf1 Bb8 54.Kd4 Kg5 55.Kd5 Bf4 56.Ke6 Kg6
+57.Kd5 Kg5 58.Kd4 Bb8 59.Ke3 Kh4 60.Kf3 Bc7
+61.Ne3 Kg5 62.Nd5 Bd6 63.Ne3 Bc7 64.Ke2 Bd6
+65.Kf2 Bb8 66.Nd5 Bd6 67.Kf3 Bc5 68.Kg3 Bd6+
+69.Kf2 Bc5+ 70.Kg3 Bd6+ 71.Kf2 Bc5+ 72.Kf3 Bd6
+73.Nc3 Bc5 74.Ne2 Bb6 75.Nc1 Bc5 76.Kg3 Bb6
+77.Kf3 Bc5 78.Ne2 Bb6 79.Kg3 Bc5 80.Nc1 Bb6
+81.Nd3 Bc7+ 82.Kf2 Bd6 83.Kf3 Bc7 84.Nb2 Bb6
+85.Nc4 Bc7 86.Nd2 Bd8 87.Nf1 Bb6 88.Nd2 Bd8
+89.Nf1 Bb6 90.Ng3 Bd8 91.Kf2 Bb6+ 92.Kf3 Bd8
+93.Kf2 Bb6+ 94.Ke2 Bc7 95.Nf1 Kf4 96.g3+ Kg5
+97.Kf2 Bd6 98.Nd2 Kf6 99.Nf3 Bc5+ 100.Kg2 Be3
+101.Ne1 Ba7 102.Nd3 Bb8 103.Nf4 Bxf4 104.gxf4 Kg6
+105.Kg3 Kh5 106.h4 Kh6 107.Kh3 Kh5 108.Kg3 Kg6
+109.h5+ Kxh5 110.Kh3 Kg6 111.Kg3 Kf7 112.Kh4 Kg6
+113.Kg3 Kh5 114.Kh3 Kg6 115.Kg2 Kf7 116.Kg3 Kf6
+117.Kf2 Ke6 118.Ke3 Kd5 119.Kd3 Kc5 120.Kc3 Kd5
+121.Kd3 Kc5 122.Kc3 Kd5 123.Kd3 Kc5 124.Kc3 Kd5
+125.Kd3 Kc5 126.Kc3 Kd5 127.Kd3 1/2-1/2
+
