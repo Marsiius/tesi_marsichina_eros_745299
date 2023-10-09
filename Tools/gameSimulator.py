@@ -4,15 +4,17 @@ import chess.pgn
 import os
 
 folder = "pgn_gameSim/"
-path = os.path.join(folder, f"prova.pgn")
-timeMove = 0.1
+player_white = "Berserk"
+player_black = "Koivisto"
+timeMove = 1
+path = os.path.join(folder, f"{player_white}_{player_black}_{timeMove}.pgn")
 
 engine = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\OneDrive\Documenti\GitHub\tesi_745299\Engine\Modelli\stockfish-16\stockfish-windows-x86-64-modern.exe")
 engine1 = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\Downloads\Berserk-11.1_Windows_x64\Berserk-11.1_Windows_x86-64-avx2.exe")
 engine2 = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\Downloads\Koivisto-9.0_Windows_x64\Koivisto_9.0-windows-avx2-pgo.exe")
 
 #numero di partite che si vogliono simulare
-for num in range(1, 25):
+for num in range(1, 2):
     n = 1
     game = chess.pgn.Game()
     game.headers["Event"] = "*"
@@ -22,6 +24,7 @@ for num in range(1, 25):
     #game.headers["Round"] = "*"
     game.headers["White"] = "Berserk 11"
     game.headers["Black"] = "Koivisto 9"
+    game.headers["Time"] = str(timeMove)
 
     board = chess.Board()
     result = engine1.play(board, chess.engine.Limit(time=timeMove))
@@ -43,7 +46,7 @@ for num in range(1, 25):
         
         node = node.add_variation(chess.Move.from_uci(str(result.move)))
         print(str(n)+"------------")
-        print(board.unicode())
+        #print(board.unicode())
         info = engine.analyse(board, chess.engine.Limit(time=1, depth=5))
         #score = info["score"].relative.score()    
         #sistemare questo if che non funziona
