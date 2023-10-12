@@ -12,36 +12,35 @@
 - Engine
 - Tools
 
-### Dataset
+## Dataset
 - The dataset folder contains all the available research data: PGN files, CSV files, graphs and everything related to data and analysis.
 
-### Engine
+## Engine
 - The engine folder contains all the engines used to simulate matches against each other:
 The selected engines:
-- Berserk 11.1 [Resource Code](https://github.com/jhonnold/berserk)
-- Koivisto 9 [Resource Code](https://github.com/Luecx/Koivisto)
-- Leela Chess Zero [Resource Code](https://github.com/LeelaChessZero/lc0)
-- RubyChess [Resource Code](https://github.com/Matthies/RubiChess)
+  - Berserk 11.1 [Resource Code](https://github.com/jhonnold/berserk)
+  - Koivisto 9 [Resource Code](https://github.com/Luecx/Koivisto)
+  - Leela Chess Zero [Resource Code](https://github.com/LeelaChessZero/lc0)
+  - RubyChess [Resource Code](https://github.com/Matthies/RubiChess)
 
-### Tools
+## Tools
 The Tools folder contains all script useful to create, manage and analyze data.
 
-### GameSimulator
-GameSimulator can generate matches between 2 engines: 
+- ### GameSimulator
+    - GameSimulator can generate matches between 2 engines: 
 There's 2 features:
-- Create PGN of the match
-- Calculate the score of the moves
+      - Create PGN of the match
+      - Calculate the score of the moves
 Score is calculated with Stockfish 16
 
-### 
-is able to extract the score from each game of PGN, splitting up the score for each turn for black and white 
+- ### n
+    - is able to extract the score from each game of PGN, splitting up the score for each turn for black and white 
 
-### External Tools
-- Sim03 [Download here](https://komodochess.com/downloads.htm)
+- ### External Tools
+  - Sim03 [Download here](https://komodochess.com/downloads.htm)
+    - Sim03 estimate a loosely defined relation between (two) chess engines concerning their positional playing style, therefor mostly dependent on their       evaluation features and weights
 
-Sim03 estimate a loosely defined relation between (two) chess engines concerning their positional playing style, therefor mostly dependent on their evaluation features and weights
-
-Below, similarity results of the Selected engine :shipit:
+> Below, similarity results of the Selected engine :shipit:
 
 
 
