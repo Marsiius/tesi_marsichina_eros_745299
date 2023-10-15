@@ -6,7 +6,7 @@ import os
 folder = "pgn_gameSim/"
 player_white = "Berserk"
 player_black = "Koivisto"
-timeMove = 1
+timeMove = 0.1
 path = os.path.join(folder, f"{player_white}_{player_black}_{timeMove}.pgn")
 
 engine = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\OneDrive\Documenti\GitHub\tesi_745299\Engine\Modelli\stockfish-16\stockfish-windows-x86-64-modern.exe")
@@ -18,10 +18,6 @@ for num in range(1, 2):
     n = 1
     game = chess.pgn.Game()
     game.headers["Event"] = "*"
-    #game.headers["Site"] = "*"
-    #game.headers["Date"] = "*"
-    #game.headers["Time"] = "*"
-    #game.headers["Round"] = "*"
     game.headers["White"] = "Berserk 11"
     game.headers["Black"] = "Koivisto 9"
     game.headers["Time"] = str(timeMove)
@@ -48,30 +44,25 @@ for num in range(1, 2):
         print(str(n)+"------------")
         #print(board.unicode())
         info = engine.analyse(board, chess.engine.Limit(time=1, depth=5))
-        #score = info["score"].relative.score()    
+        #score = info["score"].relative.score()
         #sistemare questo if che non funziona
         #obiettivo: se lo score può essere convertito in float, allora mi stampa il numero/100.0
         #se invece non può essere un float(quindi è None), mi stampa il None senza dividere per 100.0
         #if float(info["score"].relative.score()):
         #    node.comment = str(float(score)/100.0)
         #else:
-        #    node.comment = str(score) 
+        #    node.comment = str(score)
         try:
             score = float(info["score"].relative.score()/100.0)
-        except:       
+        except:
             score = info["score"].relative.score()
-        node.comment = str(score) 
+        node.comment = str(score)
     #stampo il risultato finale della partita (1-0, 0-1, 1/2-1/2)
     print(board.result())
     
     print("finita la partita tra stockfish e berserk")
 
     game.headers["Result"] = str(board.result())
-    #game.headers["Termination"] = "*"
-    #game.headers["ECO"] = "*"
-    #game.headers["Opening"] = "*"
-    #game.headers["TimeControl"] = "*"
-    #game.headers["PlayCount"] = "*"
 
     with open(path, "a") as pgn:
         pgn.write(str(game)+"\n")

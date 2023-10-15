@@ -3,7 +3,7 @@ import chess.engine
 import chess.pgn
 import os
 
-folder = "pgn_gameSim_v2/"
+folder = "D:/GitHub/tesi_745299/Tools/pgn_gameSim_v2/" 
 player_white = "Berserk"
 player_black = "Koivisto"
 timeMove = 0.1
@@ -13,9 +13,9 @@ partite_crashate = 0
 partite_salvate = 0
 
 
-engine = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\OneDrive\Documenti\GitHub\tesi_745299\Engine\Modelli\stockfish-16\stockfish-windows-x86-64-modern.exe")
-engine1 = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\Downloads\Berserk-11.1_Windows_x64\Berserk-11.1_Windows_x86-64-avx2.exe")
-engine2 = chess.engine.SimpleEngine.popen_uci(r"C:\Users\eros6\Downloads\Koivisto-9.0_Windows_x64\Koivisto_9.0-windows-avx2-pgo.exe")
+engine = chess.engine.SimpleEngine.popen_uci(r"D:\GitHub\tesi_745299\Engine\Modelli\stockfish-16\stockfish-windows-x86-64-modern.exe")
+engine1 = chess.engine.SimpleEngine.popen_uci(r"D:\GitHub\tesi_745299\Engine\Modelli\4_engine\Berserk-11.1_Windows_x86-64.exe")
+engine2 = chess.engine.SimpleEngine.popen_uci(r"D:\GitHub\tesi_745299\Engine\Modelli\4_engine\Koivisto_9.0-windows-avx2-pgo.exe")
 
 #numero di partite che si vogliono simulare
 for num in range(1, 100):
