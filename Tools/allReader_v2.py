@@ -41,23 +41,20 @@ with open("pgn_gameSim/Berserk_vs_Koivisto_0.1.pgn") as pgn:
         node = game
         # Itera attraverso tutte le mosse della partita
         while node is not None:
-            # Fai qualcosa con il nodo, ad esempio stampa la mossa
             comment = node.comment
             if comment:
                 if n % 2 == 0:
                     #print(str(n)+ " - "+comment + " - Nero")
-                    player_nero += comment+";"
+                    player_nero += comment+","
                 else:
                     #print(str(n)+ " - "+comment + " - Bianco")  
-                    player_bianco += comment+";"
+                    player_bianco += comment+","
                 n += 1
                 #print(str(n)+ " - "+comment)
                 game = chess.pgn.read_game(pgn)
             # Passa al nodo successivo
             node = node.variations[0] if node.variations else None
-        with open("score/allScores.csv", "a") as file:
-            partita = "Game: "+str(partita_numero)
-            file.write(partita+"\n")
+        with open("score/allScores_v2.csv", "a") as file:
             file.write(player_bianco+"\n")
             file.write(player_nero+"\n")
         #print(player_bianco)
