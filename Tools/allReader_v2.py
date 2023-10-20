@@ -1,6 +1,7 @@
 import chess.pgn
 import io
 
+
 def _readPGN(pgn_path):
     """
     The function creates a list that contains all the games in the PGN file.
@@ -26,11 +27,11 @@ def _readPGN(pgn_path):
 
 partita_numero = 0
 # Apri il file PGN
-with open("pgn_gameSim/Berserk_vs_Koivisto_0.1.pgn") as pgn:
+with open("Tools\pgn_gameSim_v2\Berserk_Koivisto_0.1_fix.pgn") as pgn:
     # Leggi la partita dal file PGN
     game = chess.pgn.read_game(pgn)
     #cartella e
-    games = _readPGN("pgn_gameSim/Berserk_vs_Koivisto_0.1.pgn")
+    games = _readPGN("Tools\pgn_gameSim_v2\Berserk_Koivisto_0.1_fix.pgn")
     for game in games:
         player_bianco = ""
         player_nero = ""
@@ -47,14 +48,14 @@ with open("pgn_gameSim/Berserk_vs_Koivisto_0.1.pgn") as pgn:
                     #print(str(n)+ " - "+comment + " - Nero")
                     player_nero += comment+","
                 else:
-                    #print(str(n)+ " - "+comment + " - Bianco")  
+                    #print(str(n)+ " - "+comment + " - Bianco")
                     player_bianco += comment+","
                 n += 1
                 #print(str(n)+ " - "+comment)
                 game = chess.pgn.read_game(pgn)
             # Passa al nodo successivo
             node = node.variations[0] if node.variations else None
-        with open("score/allScores_v2.csv", "a") as file:
+        with open("Tools/score/allScores_v2_0.1_fix.csv", "a") as file:
             file.write(player_bianco+"\n")
             file.write(player_nero+"\n")
         #print(player_bianco)
