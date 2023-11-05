@@ -5,9 +5,9 @@ avg_score_player_1 = []
 avg_score_player_2 = []
 # Apre il file CSV in modalità di lettura
 
-for i in range (0,57):
+for i in range (0,27):
     
-    with open("Tools/score/AllScores_v2_0.1_fix.csv", "r") as f:
+    with open("Tools/score/new/AllScores_v2_5.csv", "r") as f:
         lines = csv.reader(f)
         
         avg_player_1_temp = 0

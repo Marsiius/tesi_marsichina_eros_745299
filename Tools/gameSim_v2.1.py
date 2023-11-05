@@ -3,11 +3,13 @@ import chess.engine
 import chess.pgn
 import os
 
-folder = "D:/GitHub/tesi_745299/Tools/pgn_gameSim_v2/"
+folder = "D:/GitHub/tesi_745299/Tools/data/"
+folder_space = "D:/GitHub/tesi_745299/Tools/data_space/"
 player_white = "Berserk"
-player_black = "Koivisto"
-timeMove = 0.1
-path = os.path.join(folder, f"{player_white}_{player_black}_{timeMove}_fix.pgn")
+player_black = "RubiChess"
+timeMove = 0.5
+path = os.path.join(folder, f"{player_white}_{player_black}_{timeMove}.pgn")
+path_space = os.path.join(folder_space, f"{player_white}_{player_black}_{timeMove}_space.pgn")
 n=0
 
 partite_crashate = 0
@@ -15,10 +17,15 @@ partite_salvate = 0
 
 engine = chess.engine.SimpleEngine.popen_uci(r"D:\GitHub\tesi_745299\Engine\Modelli\stockfish-16\stockfish-windows-x86-64-modern.exe")
 engine1 = chess.engine.SimpleEngine.popen_uci(r"D:\GitHub\tesi_745299\Engine\Modelli\4_engine\Berserk-11.1_Windows_x86-64.exe")
-engine2 = chess.engine.SimpleEngine.popen_uci(r"D:\GitHub\tesi_745299\Engine\Modelli\4_engine\Koivisto_9.0-windows-avx2-pgo.exe")
+engine2 = chess.engine.SimpleEngine.popen_uci(r"D:\Download\RubiChess-20230918\windows\RubiChess-20230918_x86-64-avx2.exe")
+'''
+D:\GitHub\tesi_745299\Engine\Modelli\4_engine\RubiChess-20230918_x86-64-avx2.exe
+D:\GitHub\tesi_745299\Engine\Modelli\4_engine\Koivisto_9.0-windows-avx2-pgo.exe
+D:\GitHub\tesi_745299\Engine/Modelli/4_engine/lc0-v0.30.0-windows-cpu-dnnl/lc0.exe
 
+'''
 #numero di partite che si vogliono simulare
-for num in range(1, 2):
+for num in range(1, 21):
     #inizio con il try per vedere se la mossa è legale
     try:
         play_count = 0
@@ -27,16 +34,16 @@ for num in range(1, 2):
         print(f"Partita {n} in corso:")
         game = chess.pgn.Game()
         game.headers["Event"] = "*"
-        game.headers["White"] = "Berserk 11"
-        game.headers["Black"] = "Koivisto 9"
-        game.headers["TimeControl"] = f"movetime: {str(timeMove)}"
-
+        game.headers["White"] = player_white
+        game.headers["Black"] = player_black
+        game.headers["TimeControl"] = str(timeMove)
+#f"movetime: {str(timeMove)}"
         board = chess.Board()
         result = engine1.play(board, chess.engine.Limit(time=timeMove))
 
         node = game.add_variation(chess.Move.from_uci(str(result.move)))
         
-        info = engine.analyse(board, chess.engine.Limit(time=timeMove, depth=15))
+        info = engine.analyse(board, chess.engine.Limit(time=1, depth=15))
         score = float(info["score"].relative.score())/100.0
         node.comment = str(score)
         print(f"bianco {score}")
@@ -55,7 +62,7 @@ for num in range(1, 2):
             node = node.add_variation(chess.Move.from_uci(str(result.move)))
             #print(str(m)+"------------")
             #print(board.unicode())
-            info = engine.analyse(board, chess.engine.Limit(time=1, depth=5))
+            info = engine.analyse(board, chess.engine.Limit(time=1000, depth=5))
             try:
                 score = float(info["score"].relative.score()/100.0)
             except:
@@ -73,6 +80,9 @@ for num in range(1, 2):
 
         with open(path, "a") as pgn:
             pgn.write(str(game)+"\n")
+            
+        with open(path_space, "a") as pgn:
+            pgn.write(str(game)+"\n\n")
 
         print(game)
         print(f"Partita {n}: Salvata")

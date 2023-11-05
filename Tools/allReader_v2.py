@@ -27,11 +27,11 @@ def _readPGN(pgn_path):
 
 partita_numero = 0
 # Apri il file PGN
-with open("Tools\pgn_gameSim_v2\Berserk_Koivisto_0.1_fix.pgn") as pgn:
+with open("Tools\data\Berserk_Koivisto_0.1.pgn") as pgn:
     # Leggi la partita dal file PGN
     game = chess.pgn.read_game(pgn)
     #cartella e
-    games = _readPGN("Tools\pgn_gameSim_v2\Berserk_Koivisto_0.1_fix.pgn")
+    games = _readPGN("Tools\data\Berserk_Koivisto_0.1.pgn")
     for game in games:
         player_bianco = ""
         player_nero = ""
@@ -55,7 +55,7 @@ with open("Tools\pgn_gameSim_v2\Berserk_Koivisto_0.1_fix.pgn") as pgn:
                 game = chess.pgn.read_game(pgn)
             # Passa al nodo successivo
             node = node.variations[0] if node.variations else None
-        with open("Tools/score/allScores_v2_0.1_fix.csv", "a") as file:
+        with open("Tools/score/new/prova.csv", "a") as file:
             file.write(player_bianco+"\n")
             file.write(player_nero+"\n")
         #print(player_bianco)
