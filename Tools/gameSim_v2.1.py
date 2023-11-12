@@ -3,11 +3,11 @@ import chess.engine
 import chess.pgn
 import os
 
-folder = "D:/GitHub/tesi_745299/Tools/data/"
-folder_space = "D:/GitHub/tesi_745299/Tools/data_space/"
+folder = "D:/GitHub/tesi_745299/Tools/pgn/"
+folder_space = "D:/GitHub/tesi_745299/Tools/pgn_space/"
 player_white = "Berserk"
 player_black = "RubiChess"
-timeMove = 0.5
+timeMove = 1
 path = os.path.join(folder, f"{player_white}_{player_black}_{timeMove}.pgn")
 path_space = os.path.join(folder_space, f"{player_white}_{player_black}_{timeMove}_space.pgn")
 n=0
@@ -22,10 +22,11 @@ engine2 = chess.engine.SimpleEngine.popen_uci(r"D:\Download\RubiChess-20230918\w
 D:\GitHub\tesi_745299\Engine\Modelli\4_engine\RubiChess-20230918_x86-64-avx2.exe
 D:\GitHub\tesi_745299\Engine\Modelli\4_engine\Koivisto_9.0-windows-avx2-pgo.exe
 D:\GitHub\tesi_745299\Engine/Modelli/4_engine/lc0-v0.30.0-windows-cpu-dnnl/lc0.exe
+D:\Download\RubiChess-20230918\windows\RubiChess-20230918_x86-64-avx2.exe
 
 '''
 #numero di partite che si vogliono simulare
-for num in range(1, 21):
+for num in range(1, 51):
     #inizio con il try per vedere se la mossa è legale
     try:
         play_count = 0

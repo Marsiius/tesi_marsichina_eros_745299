@@ -27,11 +27,11 @@ def _readPGN(pgn_path):
 
 partita_numero = 0
 # Apri il file PGN
-with open("Tools\data\Berserk_Koivisto_0.1.pgn") as pgn:
+with open("Tools\pgn\Berserk_RubiChess_1.pgn") as pgn:
     # Leggi la partita dal file PGN
     game = chess.pgn.read_game(pgn)
     #cartella e
-    games = _readPGN("Tools\data\Berserk_Koivisto_0.1.pgn")
+    games = _readPGN("Tools\pgn\Berserk_RubiChess_1.pgn")
     for game in games:
         player_bianco = ""
         player_nero = ""

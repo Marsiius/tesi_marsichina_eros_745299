@@ -6,10 +6,12 @@ import chess.pgn
 import os
 
 folder = "D:/GitHub/tesi_745299/Tools/data"
+folder_space = "D:/GitHub/tesi_745299/Tools/pgn_space/"
 player_white = "Berserk"
 player_black = "Koivisto"
-timeMove = 0.5
+timeMove = 1
 path = os.path.join(folder, f"{player_white}_{player_black}_{timeMove}.pgn")
+path_space = os.path.join(folder_space, f"{player_white}_{player_black}_{timeMove}.pgn")
 n = 0
 partite_crashate = 0
 partite_salvate = 0
@@ -80,6 +82,9 @@ def game_gen():
 
             with open(path, "a") as pgn:
                 pgn.write(str(game) + "\n")
+                
+            with open(path_space, "a") as pgn:
+                pgn.write(str(game) + "\n\n") 
 
             print(game)
             print(f"Partita {i}: Salvata")
@@ -90,16 +95,16 @@ def game_gen():
 
 if __name__ == '__main__':
     p = multiprocessing.Process(target=game_gen)
-    p1 = multiprocessing.Process(target=game_gen)
+'''    p1 = multiprocessing.Process(target=game_gen)
     p2 = multiprocessing.Process(target=game_gen)
-    p3 = multiprocessing.Process(target=game_gen)
+    p3 = multiprocessing.Process(target=game_gen)'''
     #p4 = multiprocessing.Process(target=game_gen)
     #p5 = multiprocessing.Process(target=game_gen)
 
-    p.start()
-    p1.start()
-    p2.start()
-    p3.start()
+p.start()
+''' p1.start()
+        p2.start()
+        p3.start()'''
     #p4.start()
     #p5.start()
     
